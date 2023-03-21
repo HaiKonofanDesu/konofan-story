@@ -1,0 +1,84 @@
+Iris - P4
+ナレーション: In the middle of her dance lessons, Iris couldn't help noticing the clamor rising up from the castle town below.
+iris: Rain, the town is rather lively today. Is it a special occasion, I wonder?
+rain: A famous cohort of dancers from Axel is scheduled to perform tonight. 
+rain: "Axel Hearts," I believe they're called?
+iris: Oh, the group Kazuma is producing! 
+iris: I'm sure they'll put on a fabulous show.
+clair: I'm sure I need not remind you, Princess—we're in the midst of practicing for the ball. Please concentrate.
+iris: Of course, Claire. 
+iris: Guests from around the kingdom will attend this ball. My performance must be memorable.
+iris: I would love to attend the show if I could...and see Kazuma and the Axel Hearts girls.
+kazuma: Construction team, let's pick up the slack! 
+kazuma: We need that stage lighting ready for the show tonight!
+iris_stealth: There he is! Greetings, Brother!
+kazuma: Huh?! 
+kazuma: Iris?! What brings you here?
+iris_stealth: Shhh! 
+iris_stealth: When I heard Axel Hearts was playing tonight, I had to sneak out. 
+iris_stealth: How could I miss the chance to see my brother?
+kazuma: You've got guts, kid. As your sworn brother, I'm proud. 
+kazuma: I can see Claire frothing at the mouth already, though...
+iris_stealth: How are the girls doing, incidentally? I'd love to greet them.
+kazuma: I arrived ahead of them to prepare the stage. 
+kazuma: You'll catch the show tonight, right?
+iris_stealth: Why yes, I'd love nothing more!
+kazuma: The girls' carriage should arrive anytime now. How about we mosey over to the castle gates to meet—
+Capital Resident: We've got a situation! A carriage is under attack by running hawk kites!
+kazuma: That might be the girls' carriage! 
+kazuma: I'd better get down there!
+iris_stealth: I'll come with you and help however I can!
+iris_stealth: Sacred Explosion!
+ナレーション: The flock of running hawk kites instantly scattered in the face of Iris's fearsome attack.
+iris_stealth: We did it, Brother!
+kazuma: Well, YOU did it more like, but everyone should be safe now... 
+kazuma: Man, this girl hits harder than a hundred strongmen...
+cielo: Did you just save our skins, Princess? That was amazing.
+lia: By the looks of it, you're a greater adventurer than we are now. 
+lia: We appreciate the assist, thank you.
+erica: Not only did you save us, 
+erica: you saved our costumes too! Thanks a million!
+iris_stealth: Think nothing of it. I'm just glad you're all safe.
+lia: Is there any way we can repay you? We'd love to have you come to the show as our guest.
+iris_stealth: Oh, you don't need to repay me.
+cielo: I beg to differ. Please, if there's anything at all we can do, 
+cielo: just say the word!
+iris_stealth: Well, there is one thing, perhaps... 
+iris_stealth: Could I engage your talents for a couple dance lessons?
+erica: Dance lessons?
+iris_stealth: The palace will host a ball soon, and I'll need to dance before the nobles of the realm. 
+iris_stealth: I have practiced diligently, but with scant improvement...
+lia: What an honor. We'd be delighted to teach you! 
+lia: Kazuma, there's time before the show, right?
+kazuma: Yep. Knock yourselves out.
+iris_stealth: Really? Wonderful!
+erica: It sure is! Because you're about to learn the meaning of cute, 
+erica: and from the master herself, no less!
+iris_stealth: I'm looking forward to it!
+cielo: Before we discuss technique, just remember... 
+cielo: Dancing is about having fun.
+iris_stealth: Having...fun?
+lia: Yes. The joy the audience feels is a reflection of the joy you bring to your dance.
+iris_stealth: I see... 
+iris_stealth: I'll take your words to heart.
+iris_stealth: I suppose it's only natural that Kazuma is producer to such a wonderful trio!
+kazuma: Aw, another compliment like that and I'll be redder than an apple in fall.
+lia: Hehe, it's good to see you two getting along so well.
+clair: Princess! Where in the realm were you last night?! 
+clair: I searched the entire castle! The whole palace was in an uproar!
+iris: Please forgive me, Claire. I've been trying to learn 
+iris: a new dance—in secret, actually.
+rain: A new dance, you say?
+iris: Yes. Rather than explain, let me show you. 
+iris: It starts 
+iris: like this. 
+iris: One spin 
+iris: then two, 
+iris: and three—
+iris: Ta-dah!
+clair: By the goddess. She's captivating! 
+clair: ...Argh, get a grip, Claire!
+rain: She's certainly a joy to watch. 
+rain: That dance is a bit more modern than the traditional royal dance. Who taught you?
+iris: Hehe, I'm sorry, but that's a secret!
+ナレーション: Not only did Iris have a "ball" in town, her dance went on to create an entirely new royal tradition. It was a day well spent, indeed.

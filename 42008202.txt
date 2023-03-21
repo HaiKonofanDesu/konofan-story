@@ -1,0 +1,39 @@
+The Princess's Desert Tour - P2
+ナレーション: The party fought off the sudden monster attack before making camp for the night. Now it was time for dinner...
+aqua: The fire's starting to go out. Can you add some 
+aqua: flames, Kazuma?
+kazuma: Sure thing. Tinder!
+megumin: Ahh... That's better. How'd it get so cold? We were just dying of heat. 
+megumin: The desert's so strange.
+iris_stealth: It is, isn't it? However, I do enjoy being able to eat under 
+iris_stealth: the stars with everyone like this.
+darkness: Let's all get some rest tonight. We'll set out again at first light.
+aqua: It sure is cold, Kazuma...
+aqua: I sure wish we had some bubbly. That'd warm us up for sure.
+kazuma: Stop your whining. Here, drink this.
+megumin: Hot cocoa?
+kazuma: I've got enough for everyone. 
+kazuma: Here you go, Iris.
+iris_stealth: Thank you, Kazuma.
+iris_stealth: I really appreciate you letting me accompany you on this 
+iris_stealth: trip. It's been a most wonderful experience.
+kazuma: Don't mention it. Though it did take some persuading before 
+kazuma: Claire and Rain would allow it.
+iris_stealth: The fact that Claire agreed in the end simply proves that deep down she approves of you. Wouldn't you agree?
+iris_stealth: I do hope that means this will not be the last time you take 
+iris_stealth: me along on one of your journeys.
+kazuma: I'll make sure of it!
+iris_stealth: I wonder what kind of amazing place I'll get to see next.
+iris_stealth: Maybe a frozen ice field, or the depths of a creepy canyon: 
+iris_stealth: I want to visit all kinds of places!
+kazuma: Sounds fun. Not as fun as sleeping in, though.
+iris_stealth: Kazuma! Don't say things like that... 
+iris_stealth: *Yawn* You'll ruin... 
+iris_stealth: my dreams...
+kazuma: What's wrong, Iris? You tired?
+iris_stealth: Zzz... Zzz... Zzzzzz...
+aqua: She fell asleep.
+darkness: Poor girl must be exhausted. We've been walking all day. I'll prepare her bed.
+kazuma: She may be a princess and a strong fighter to boot, 
+kazuma: but she's still a kid. Sure looks peaceful sleeping, too.
+ナレーション: Kazuma got the feeling that visiting new places wouldn't be so bad as long as Iris was along for the trip.

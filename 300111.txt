@@ -1,0 +1,72 @@
+A Second Death in This Freezing Season! - P1
+ナレーション: Kazuma opened his eyes to find himself sitting in a dark void...
+eris: Kazuma Satou, welcome to the afterlife.
+kazuma_jersey: Oh, crap. I died again.
+ナレーション: The story of how he got there began when his party was choosing a quest at their guild...
+kazuma: Hm... The rewards are decent, but the quests suck!
+aqua: I wouldn't underestimate them. Hunting monsters in winter is dangerous.
+darkness: Well... How about this pack of white wolves? It's for a million Eris!\n
+darkness: Imagine being completely surrounded by wild beasts...
+kazuma: No thanks. I'd rather not.
+megumin: Kazuma! Kazuma! What about this one? It's a murder bear kill quest! 
+megumin: I'll teach that bear who's stronger! Nothing can survive my explosion magic!
+kazuma: Are you kidding? No way! How do we know it wouldn't one-shot kill US?
+kazuma: I'd rather find something like these snow sprites. They sound nice, and they're worth 100,000 Eris apiece... 
+kazuma: What are snow sprites, anyway?
+megumin: They live on the snowy plains, and they're easy to fight. They say spring comes half a day sooner for every one you kill! You just have to watch out for—
+aqua: Sounds like the perfect quest for us! I'll go and get ready.
+darkness: Yes! Snow sprites! Heh, heh, heh...
+kazuma: The masochist crusader is laughing... That's very suspicious...
+kazuma: Eh, who cares! We can't afford to be choosy. We need all the money we can get.
+questStart: Kill Quest:
+Defeat snow sprites!
+Defeat snow sprites!
+darkness_winter: Gah! They're nimble little devils!
+aqua_winter: Gotcha! That makes four snow sprites! \n
+aqua_winter: Kazuma, look! I got a bunch!
+kazuma_winter: Ugh. Showoff. If she does better than me, I'll just take her kills for myself.
+megumin_winter: Kazuma! I know what to do! Topple this white world of ice and cold 
+megumin_winter: in a deluge of deep crimson!
+megumin_winter: Hehehe... I got eight of them. That's nine snow sprites total. I even went up a level.
+kazuma_winter: Yes! Hunting snow sprites is the best! But if it's this easy... 
+kazuma_winter: Why isn't everyone hunting them?
+darkness_winter: He's here!
+kazuma_winter: Huh? Who's here? What are you talking about?
+megumin_winter: Ungh...
+kazuma_winter: Is she playing dead?
+aqua_winter: Kazuma, there's a reason adventurers don't take on snow sprite hunting quests.
+aqua_winter: You used to live in Japan, so I'm pretty sure you've heard the name mentioned in your weather forecasts this time of year.
+aqua_winter: He is the lord of the snow sprites, the embodiment of a brutal winter. The Winter Shogun is here!
+Winter Shogun: Grraaah!
+darkness_winter: Oh! The Winter Shogun! He's one of the monsters the kingdom put a huge bounty on!
+darkness_winter: I bet he plans to use his political clout to force me into...\n
+darkness_winter: ...submission. I will resist, but ultimately fail miserably!
+kazuma_winter: This is stupid! Everything in this whole world is stupid! The people, the food, the monsters, all of it! Stupid!
+Winter Shogun: Grraaah!
+darkness_winter: Augh! M-My sword...
+ナレーション: The Winter Shogun drew his katana and sped across the snow in the blink of an eye, shattering Darkness' sword.
+aqua_winter: Sprites tap into the unconscious thoughts of the people they meet. That's how they choose their form.
+aqua_winter: You see, you're not the only one here who's from Japan. One day, another group armed with cheat codes was walking outside of town during winter, and—
+kazuma_winter: You're saying all it took to create the Winter Shogun was some idiot wandering around the woods with an overactive imagination?!
+kazuma_winter: If I ever find out who it was, I'll kill them!
+megumin_winter: Ungh...
+kazuma_winter: She'd better not still be lying there when this is all over...
+aqua_winter: Kazuma! The Winter Shogun is merciful! All we have to do is apologize, and I'm sure he'll forgive us!
+kazuma_winter: What are you doing sitting in the snow like that?!
+aqua_winter: Forgive us!
+aqua_winter: Now, get down on your knees and beg for forgiveness! Go on. Drop your weapon and BEG!
+ナレーション: His pride now cast aside, Kazuma knelt down and buried his head in the snow for a deep, perfect bow.
+kazuma_winter: Huh? Come on, Darkness!\n
+kazuma_winter: Hop to it! Bow your head!
+darkness_winter: Are you a fool? Even if no one is around to see it, a knight could never dare to bow before a beast!
+kazuma_winter: You're the fool! Pride doesn't mean jack here, so get to bowing!
+darkness_winter: S-Stop it! Stop...stuffing my face into the ground in this demeaning manner... 
+darkness_winter: Am I in Heaven?!
+aqua_winter: Kazuma! Your weapon! Drop your sword, and make it snappy!
+kazuma_winter: Crap! I—
+Winter Shogun: GRRAAAH! 
+Winter Shogun: Eeep!
+ナレーション: Kazuma sorted through his memories until he finally realized what had happened and where he was...
+kazuma: Oh... Okay. I was killed by the Winter Shogun.
+eris: Kazuma Satou... I am Eris, the goddess who will guide you to your next life.
+eris: Your life in this world...has ended.

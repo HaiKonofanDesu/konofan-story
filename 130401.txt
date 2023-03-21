@@ -1,0 +1,83 @@
+Some Ore for This Broken Magic Item! P1
+ナレーション: The day after the ruins collapsed, Kazuma and the others returned to try to unearth the buried magic items.
+iris_work: ...Ah, I found another one, Miss Shelly!
+shelly: Let me see... 
+shelly: Yes, this is one of the magic items my father was researching! 
+shelly: Thank you for finding so many today.
+iris_work: You are most welcome. 
+iris_work: I only hope we can find the one that will restore my memory...
+shelly: Well, we've found so many, I can't help but think we're at least a little closer to finding it.
+iris_work: In that case, I'll keep looking around here!
+megumin: Oh, Iris is working hard... 
+megumin: I can't fall behind! 
+megumin: Anyone need help with a rock? I wanna use my explosion magic!
+darkness: Megumin? I believe Kazuma told you to use that only as a last resort.
+kazuma_work: Exactly. Keep your mouth shut and hands moving, I don't want to hear a single spell. 
+kazuma_work: ...Hup! 
+kazuma_work: ...Ugh! Nothing here either...
+kazuma_work: 　
+aqua_work: I think you might be working a little too hard, Kazuma. 
+aqua_work: Here, drink some water.
+kazuma_work: *Gulp gulp* 
+kazuma_work: Thanks. I feel much better. 
+kazuma_work: But it'll be dark soon... 
+kazuma_work: We really need to pick up the pace.
+megumin: Are you sure? You look exhausted, Kazuma. 
+megumin: You can barely lift that pickaxe over your head.
+darkness: Unfortunately, I don't see any recourse. Lady Iris is of royal status, and Kazuma is a mere adventurer.
+aqua_work: That's right! He should be proud of how much effort he's put in! 
+aqua_work: Although it's not like Iris hasn't been pulling her own weight...
+kazuma_work: Grrrrrrngh!
+iris_work: B-Brother! Would you like to take a break? 
+iris_work: I made some onigiri for you. Here, try—
+kazuma_work: Iris. I'm grateful, but your big bro can't sit around while his little sister's working hard! 
+kazuma_work: Everybody, take a break. I'll keep clearing rubble over here
+kazuma_work: ... 
+kazuma_work: Tch! 
+kazuma_work: Why is this rock so hard?!
+kazuma_work: 　
+darkness: I know your heart is resolute, but the body can only be pushed so far.
+kazuma_work: N-No, it's not that. 
+kazuma_work: The rocks over here are like twice as hard as the other ones.
+iris_work: Please let me try! 
+iris_work: ...Brother is right. These are no ordinary rocks...
+shelly: This is a problem. It seems this entire layer of rubble is the same indestructible rock.
+shelly: We will never reach the magic items buried under here.
+iris_work: Does that include the item I need to restore my memory?
+kazuma_work: Hey, Shelly. We've searched this entire area, right?
+shelly: Yes, not a single movable rock has been left unturned.
+kazuma_work: Then it sounds like we need our backup plan... 
+kazuma_work: Megumin! You're up!
+megumin: All right! I've been waiting for this very moment! 
+megumin: I'll reduce this rubble to smithereens!
+iris_work: Miss Shelly! I found it!
+shelly: Could this be... 
+shelly: Yes! It's the memory-restoring magic item! 
+shelly: You found it, Lady Iris!
+iris_work: Hehehe... Thank you!
+kazuma_work: Is the item okay?
+shelly: ...No, I'm afraid not. It's broken.
+darkness: Oh no... Can it be fixed?
+shelly: I'll need my equipment to assess it properly, but I don't see any structural damage. 
+shelly: It should be simple to repair.
+kazuma_work: Phew. I was beginning to fear the worst.
+darkness: Indeed. And I believe we now have all the items stolen from your home, right Shelly?
+shelly: Yes, thanks to all your efforts. All that we need to do now is repair this artifact 
+shelly: and our mission will be complete.
+shelly: Thank you all for your patience...
+kazuma: Oh, hey Shelly. How were the repairs? Is the item ready?
+shelly: Well... 
+shelly: Forgive me, my friends! While I believe I know how to make the repairs, replacing the parts is another story...
+megumin: So you're missing something?
+shelly: Yes. Specifically, a rare metal that constitutes its core.
+darkness: A rare metal...? 
+darkness: You mean like the metals used for jewelry? That should be easy enough to procure, no?
+shelly: Unfortunately the metal in question is "malenium." The rarest of the rare metals, you might say.
+shelly: I've only ever seen it used in other ancient artifacts...it is an unusual element, to say the least.
+iris_adventurer: Brother... What should we do?
+kazuma: A rare metal, huh? 
+kazuma: Guess we'll have to go find some. We've come this far, right? 
+kazuma: I think I may know someone who can help.
+iris_adventurer: Y-You're right! We can't quit now! Let's go find this rare metal!
+kazuma: All right. Shelly, we'll be back as soon as we can. If you discover anything in the meantime, let us know.
+shelly: You can count on it! Good luck!

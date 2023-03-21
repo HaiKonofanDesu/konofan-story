@@ -1,0 +1,42 @@
+Beautiful Waitress
+ナレーション: Megumin arrived at the Order of Axis's cafe to help earn enough money to repair the church roof...
+megumin_waitress: Cecily, I'm finished changing. Would you check to make sure my bow in the back looks—
+cecily_waitress: S-S-S-So...!
+megumin_waitress: ...So?
+cecily_waitress: So cute! How can you be so cute?! 
+cecily_waitress: It's absolutely amazing! 
+cecily_waitress: Just what I'd expect from the Order of Axis's new mascot!
+megumin_waitress: I'd prefer not to be your mascot, thank you kindly. Actually, I'm not a member of the Order of Axis at all.
+cecily_waitress: Don't sweat the details! What's important is that you really look wonderful in that uniform!
+megumin_waitress: ...Thank you. Still, it's a bit strange to be wearing something so different from what I usually wear.
+cecily_waitress: If that's bothering you, I know the perfect way to get used to it. Want to hear? Lean in close!
+cecily_waitress: All you have to do is ditch that humdrum robe you usually wear and 
+cecily_waitress: put this on. Every...single...day!
+megumin_waitress: Ah! Why are you blowing in my ear?!
+cecily_waitress: Your reactions are the cutest! I could watch them all day long and never get tired.
+megumin_waitress: Do you really have to come on so strongly all the time?
+megumin_waitress: Besides, I can't get rid of my robes. 
+megumin_waitress: I'm the foremost spellcaster of the Crimson Demon Clan!
+cecily_waitress: The foremost spellcaster of the Crimson Demons, indeed! Ah, you're so cute I could just eat you up.
+megumin_waitress: You really are in your own little world, huh? Try to focus on your church, huh? Which will fall into ruin if we don't get the money to repair it?
+megumin_waitress: That's why I'm here, after all. Let's get to work already.
+cecily_waitress: Oh, Megumin... Why are you going to all this trouble...?
+cecily_waitress: Oh my! I get it! You've fallen for me, haven't you?!
+megumin_waitress: Absolutely not.
+cecily_waitress: This always happens! People around me are simply unable to resist my charm! 
+cecily_waitress: I promise, I don't do it on purpose!
+megumin_waitress: That's not what's happened. ...Cecily? Are you even listening to me?
+cecily_waitress: Oh, I'm such a sinful woman! Lady Aqua, why did you curse me with this otherworldly beauty?!
+megumin_waitress: Will you snap out of it already?
+megumin_waitress: I only wanted to help so I could repay what the Order did for me back in Arcanretia.
+cecily_waitress: Oh, that's right. It's very sweet of you to remember something from so long ago.
+cecily_waitress: Megumin, how would you like to get dinner after work today? We can wear our uniforms out together!
+megumin_waitress: No way. That would be way too embarrassing. Although...
+megumin_waitress: I'm not opposed to getting dinner.
+cecily_waitress: Great! And we can go back to my place after! I have some moisturizer that I think you'll love; your skin is always so dry after all those explosions. 
+cecily_waitress: I'll even spread it on for you!
+megumin_waitress: Hehe... You don't ever change, do you...?
+megumin_waitress: It's almost time to open. I'll flip the door sign.
+megumin_waitress: Welcome!
+cecily_waitress: Good morning! The Order of Axis is accepting any and all applicants! 
+cecily_waitress: How about it?!

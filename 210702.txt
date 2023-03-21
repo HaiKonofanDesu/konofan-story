@@ -1,0 +1,77 @@
+Iris - P2
+ナレーション: Enamored with the taste of pizza, Princess Iris snuck from the castle and made her way into town...
+iris: *Sniff sniff* I must be close. The delicious smell of pizza is only growing stronger!
+Shopkeeper: Welcome! Welcome! Care to try the capital's famous pizza?
+iris: Ah, this is the place!
+Shopkeeper: M'lady! You've come at the perfect time. I just took a fresh pizza straight from the oven.
+iris: Oh! You mean this is freshly-baked? I am lucky indeed! Praise be the heavens!
+Shopkeeper: Gahahaha! You're laying it on a bit thick, aren't you...? Ehh? P-P-Princess Iris?!
+iris: Hehe! No, but everyone says I look a lot like her.
+Shopkeeper: Y-yes, indeed... I suppose you must be right. The Princess would never be seen in a place like this.
+iris: No, I suppose not. Anyway... 
+iris: One pizza, please.
+Shopkeeper: Of course, coming right up! Ah, your total will be three million Eris, m'lady!
+iris: I guess pizza costs more when it's fresh out of the oven... 
+iris: Please wait a moment...
+Shopkeeper: Gahahaha! Playing along with my little joke, are you? You're certainly an odd young lady—
+iris: Forgive me, but I only have two million Eris at the moment. How much pizza could I get with this?
+Shopkeeper: Do wha?! What is someone like you doing with so much money? I...I can't take that!
+iris: Yes, you are right. I am a million Eris short, after all. But I am afraid that is all I have...
+Shopkeeper: N-no, I really was just joking...
+iris: Um, would this cover the rest?
+iris: This bracelet is old, but the diamonds are real. Perhaps it would be enough?
+Shopkeeper: Eeegh! A d-d-diamond bracelet? M'lady, who are you?
+iris: You will not accept it, then? I heard that pizza was cheap, so I did not think I would need so much money...
+Shopkeeper: N-nonsense! I'm more than happy to...hmmm... Are you sure you aren't Princess Ir—
+？？？: I've found you at last!
+clair: Here, mister, allow me to pay. I'll take three boxes, please. You may keep the change.
+iris: R-Rain! Claire! What are you doing here?
+rain: What sort of question is that, your Highness? We have been out here looking for you, of course!
+rain: Why did you sneak out of the castle like that?
+iris: I...wanted some pizza.
+clair: Pizza?
+rain: I thought as much. Oh, this is all my fault...
+rain: Please, your Highness, if you want pizza, just come to me.
+rain: I'll come into town and pick it up for you.
+iris: You would really do that for me? Ahh, that makes me so happy! 
+iris: Thank you, Rain!
+rain: No, don't mention it, Princess Iris. If you want it so badly, I'd be happy to help.
+clair: What are you two going on about?
+rain: L-Lady Claire...
+clair: Let me guess... You're the reason that Princess Iris snuck out of the castle, Rain?
+rain: I... I, um...
+Shopkeeper: Hey, the two of you keep calling this girl "Princess Iris." Is this young lady really...
+clair: Mmph... There are too many people around here... We need to go someplace more quiet.
+iris: Ungh...
+clair: Now, I think an explanation is in order. What was her Highness doing outside of the castle?
+rain: Please forgive me, it's my fault. She was curious about life outside the castle...
+rain: I introduced her to a dish that is enjoyed by commoners. If anyone should be punished, it is I, 
+rain: not her.
+clair: Very well. I will consider our options once we return to the castle. Until then—
+iris: Claire, wait! This was all my doing. Rain should not be held responsible for my actions!
+clair: However, she did expose you to danger, your Highness... If we let such an action go unpunished, then she...
+iris: Oh, dear. She looks really angry this time. What should I do? 
+iris: ...Oh, I've got it!
+iris: Here you are, Claire.
+clair: Y-your Highness. What's this?
+iris: It is a food that commoners eat called "pizza."
+iris: Have you ever eaten something so wonderful? Even the royal feasts cannot match this.
+clair: Naturally, I have had humble meals such as this before, but they are not fit for—
+iris: Here you go, Claire. Open wide... ♪
+clair: Come now, Princess... It is unbecoming to...
+iris: Shh. Just try it.
+clair: A-ahh...
+clair: *Chomp*
+iris: So? Is this not the most delicious thing ever?
+clair: Mmm... Heavenly...
+clair: T-to receive such a delectable treat straight from 
+clair: P-P-Princess Iris's own hands... I'm...not worthy!
+iris: Oh, I am so happy that you enjoyed it, Claire! I knew you would understand.
+iris: Here, you can have another slice. In exchange, I ask that you forgive Rain...
+clair: Rain!
+rain: Yes, ma'am!
+clair: Do be more careful in the future.
+iris: Thank you so much, Claire! Now, ready for another slice? 
+iris: Open wide and say ahh... ♪
+clair: Ahh... I'm so happy! ♪
+ナレーション: And so Claire agreed to keep buying pizza for Princess Iris... As long as the princess shared.

@@ -1,0 +1,62 @@
+lia_stage: Now, please welcome our next team to the stage, 
+lia_stage: Chomukororin!
+megumin_kayoshow: The time has finally come for us to deliver our soon-to-be legendary performance to the people.
+kazuma_kayoshow: It has. Let's give them the show of their lives! 
+kazuma_kayoshow: It's time to reveal the product of our blood, sweat, and tears!
+megumin_kayoshow: My name is Megumin! Clad in crimson, my performance here shall live forever in legend!
+kazuma_kayoshow: And my name is Kazuma Satou! Listen as our song resonates with your very souls!
+ナレーション: One month earlier...
+megumin: Kazuma, how long are you going to loaf beneath the kotatsu? The weather's too nice to stay inside. Let's go on a quest.
+darkness: I agree, Kazuma. What do you say to slaying some giant toads? There's sure to be a nice breeze today.
+kazuma_jersey: I'm not going anywhere. 
+kazuma_jersey: Why bother going on a quest right now? We've got plenty of money saved up.
+megumin: That's not the point! Let's go! I want to find a monster strong enough to test my explosion magic!
+darkness: I'm with Megumin. It's been too long since I've endured a blow from a strong monster's vicious attack!
+kazuma_jersey: Why do I have to deal with these two?!
+lia: Good afternoon! Is Kazuma here?
+kazuma_jersey: Oh, hey Lia. What's up?
+lia: Well, I was hoping to speak with you as our producer.
+lia: I just received an invitation to the Axel Singing Contest. Do you mind if we enter?
+kazuma_jersey: The Axel Singing Contest?
+darkness: It's a competition the residents of Axel hold each year. Even the Dustiness estate contributes to it.
+megumin: This must mean they've finally chosen the date.
+kazuma_jersey: Is it really a big deal?
+banil: Mwahahaha! 
+banil: Oh you poor, incompetent, weakling of an adventurer. 
+banil: You learn nothing by lazing around all day.
+kazuma_jersey: Vanir?! How did you get in here?! 
+kazuma_jersey: Did you actually break Aqua's barrier? You look terrible.
+banil: Fret not, as that is of no importance. I am here to deliver a message from the Axel Singing Contest committee.
+kazuma_jersey: You're on the committee? You're up to something, aren't you?
+banil: Here me out first, boy. This competition is held in honor of the theater you frequently make use of.
+banil: You owe them quite a lot, meaning that as the producer of Axel Hearts, you have a duty to support them.
+kazuma_jersey: I see... 
+kazuma_jersey: So what happens at this event?
+banil: As the name implies, it's a contest. Singers are split into red and white teams and the audience votes for the winner.
+kazuma_jersey: Sounds like the New Year's singing competition in Japan...
+banil: Furthermore, monetary prizes are awarded to the winning team. A grand prize is also given to the best overall group.
+banil: The chairman thought Lia would really drum up attendance, so I have come to ask for her participation.
+kazuma_jersey: Well, thanks for coming all this way. 
+kazuma_jersey: We do owe the manager quite a lot, but the final decision is up to Lia.
+kazuma_jersey: Still, it's not like you to accept a job as troublesome as this, Vanir. What are you scheming this time, hmm?
+banil: How rude! I'll have you know I am quite famous among the residents of this town.
+banil: I take tea with the theater manager's wife quite often, and she merely asked if I would assist in sourcing performers.
+kazuma_jersey: Hmm... Still sounds fishy to me... 
+kazuma_jersey: But I guess it's none of my business. So what do you think, Lia?
+lia: I'd like to participate, but with everyone in Axel Hearts. I'm sure the chairman won't have any objections.
+banil: Very well, I shall let him know.
+lia: *Sigh* It's still quite a while before the competition, but I'm already feeling nervous.
+kazuma_jersey: It's not often you get nervous. 
+kazuma_jersey: You've got nothing to worry about. You made it through that dance contest, didn't you?
+lia: That's true. Thanks, Kazuma. 
+lia: I'll make sure to do my best to live up to my past self.
+megumin: Kazuma! Kazuma!
+kazuma_jersey: Hmm? What's up, Megumin?
+megumin: Well, I have an earnest request I would like to make of you.
+kazuma_jersey: Yeah, I'm sure. You can ask me as many times as you want, but I'm not going on a quest.
+megumin: No, this isn't about a quest!
+kazuma_jersey: Then what do you want? You want to drag me along on another one of your Explosion excursions?
+megumin: Well, that would be nice, but that's not it either. 
+megumin: I'd like you to enter the Axel Singing Contest with me!
+kazuma_jersey: Oh, is that all? In that case, I'd be— 
+kazuma_jersey: Wait, what?!

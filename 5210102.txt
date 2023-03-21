@@ -1,0 +1,30 @@
+Winter Wonderland! Snowfall
+ナレーション: One wintry day, Mitsurugi decided to visit the market and see what New Year's sales he could find...
+mitsurugi_winter: I came early to avoid the rush, but the lines are already really long. These holiday sales sure are popular.
+arue_winter: Well if it isn't Mitsurugi! Fancy meeting you here.
+mitsurugi_winter: Arue? 
+mitsurugi_winter: I almost didn't recognize you in those clothes.
+arue_winter: I'm not the only one wearing a different outfit than usual. What brings you here?
+mitsurugi_winter: I'm here for some limited-edition, premium bubbly. I am going to give it to Lady Aqua as a gift.
+arue_winter: You're going to step foot in that terrifying warzone? 
+arue_winter: I admire your courage.
+mitsurugi_winter: Terrifying warzone?
+arue_winter: Do you honestly not know what's about to happen here?
+arue_winter: ...I suppose that also requires a certain level of bravery. I'm sure you'll be able to overcome this dreadful tide.
+mitsurugi_winter: Hold on a minute, I don't follow you... 
+mitsurugi_winter: What exactly is about to happen here?
+Announcement: The New Year's bargain sale will begin momentarily. Please remember to be respectful of others and—
+arue_winter: Here we go! The hell has been unleashed!
+mitsurugi_winter: *Pant pant* That was dreadful...
+arue_winter: Did you manage to get what you were after?
+mitsurugi_winter: Just barely. But I don't think I'll ever look at the people here 
+mitsurugi_winter: the same way again. Now I see what you meant.
+arue_winter: People tend to change when they can get what they want 
+arue_winter: at a steep discount. This place reveals the beast within.
+mitsurugi_winter: You don't seem battered or out of breath, though...
+arue_winter: Heh. If you know the secret, these sales are a walk in the park.
+mitsurugi_winter: Really?! 
+mitsurugi_winter: Please, you must tell me!
+mitsurugi_winter: If it means being able to present my goddess with 
+mitsurugi_winter: more bubbly, I vow to master the art of these sales!
+mitsurugi_winter: Just you wait, Lady Aqua!

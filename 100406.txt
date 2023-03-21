@@ -1,0 +1,92 @@
+Selling Vegetables with These Two Beastmen! - P6
+kazuma: This is the end!
+charlie_troll: Ngh... To think an elite troll like me could be beaten by a mere human!
+charlie_troll: I'm leaving for now, but this doesn't mean you've won! I'll tell Lord Daniel about this!
+wiz: By Daniel...do you mean Daniel the Troll Lord?
+charlie_troll: Oh, you've heard of him? Indeed, the very Lord Daniel!\n
+charlie_troll: If Lord Daniel is angry, you're in for a world of hurt!
+miia: Hey, wait!
+Amy: He ran away. So agile for being so large.
+megumin: Never mind that. Wiz, do you know that troll?
+wiz: No, but the Daniel he mentioned is an old acquaintance of mine.
+aqua: You're unbelievable! Once again, you have hidden ties to another one of our enemies! 
+wiz: It's not like that, Aqua! I knew them long ago. We haven't talked in—
+aqua: Hmph! You don't know when to quit, you backstabbing lich! Get ready because today's the day you get purifi—
+kazuma: Hey! We're getting nowhere, so knock it off!
+aqua: Ow... Kazuma hit me...
+kazuma: So who is this Daniel guy, anyway? If he's that troll's boss, he can't be anything special.
+wiz: That's not true. Daniel was a big deal in the Devil King's army. I've heard he was quite powerful in those days.
+megumin: The Devil King's army?
+wiz: Yes. As powerful as he was, there was talk of making Daniel a general.
+kazuma: Skills on par with a general of the Devil King's army?\n
+kazuma: Hey, it's too dangerous to go up against someone like that!
+lia_stage: Why is someone like that after us? And Cielo in particular, it seems.
+cielo_stage: That's not true. Charlie said he was taking all three of us to the castle.
+erica_stage: It's fine! Even if that Daniel guy comes for us, we can drive him off together. 
+erica_stage: Right, Kazuma?
+kazuma: You guys do your best! See you later!
+erica_stage: Hey, where do you think you're going?
+kazuma: What are you talking about? I'm just an adventurer.\n
+kazuma: Even if our hearts are united, we walk different paths.
+miia: Kazuma, you're so heartless...
+Amy: But Daniel isn't in the Devil King's army now, right? If he's that skilled, then why...
+wiz: He is incredibly skilled. But Daniel's love of dancers is absolutely unmatched.
+kazuma: Huh?
+wiz: He was more interested in chasing dancers than following orders.
+wiz: He took it so far that in the end, he was expelled from the Devil King's army.
+kazuma: So he's just an idol otaku!
+lia_stage: Skill on par with a general of the Devil King's army, and a brutish subordinate. What a troublesome fan.
+erica_stage: This is all because of my cuteness! I'm so cute, I charmed a potential general of the Devil King's army!
+kazuma: Do you have a death wish? This is no time to celebrate.\n
+kazuma: Besides, you're adventurers. You can protect yourselves.
+cielo_stage: Huh? You won't protect us? But you're our producer, Kazuma...
+kazuma: That was my old job! Now I'm a vegetable wholesaler.\n
+kazuma: I'm busy selling vegetables! I don't have time for you!
+aqua: The second you're no longer working with them, you grow cold. That's the Kazutrash I know.
+kazuma: Don't call me trash. That hurts.
+kazuma_winter: We don't stand a chance against a potential Devil King army 
+kazuma_winter: general. For now, I'd better focus on the business at hand!
+Amy: Are you there, Mr. Mayor? We wanted to let you know we sold all the vegetables.
+Mayor: Oh, Amy and Mia. And Kazuma too, thank you for coming all this way.
+miia: We sold all the vegetables! And Kazuma paid us!
+kazuma_winter: I sold everything faster than expected. This was our first deal, so I threw in something extra.
+Mayor: Well now, I'm most grateful for your kind consideration.
+Mayor: When you first told me your plan, I had my doubts, but who would have thought they'd sell like this? And so soon, too! 
+kazuma_winter: Word spread that the beastman vegetables are super delicious. Everyone wants to know when we'll have more to sell.
+kazuma_winter: Not just in Axel, but Arcanretia and the capital, too...\n
+kazuma_winter: Let's expand our market and double our sales!
+miia: That's amazing, Kazuma! Money's everything in this world! If you got money, you can get anything!
+Amy: Oh, Mia. Don't be saying such awful things 
+Amy: to anyone, okay?
+kazuma_winter: Anyway, I'd like to pick up some more vegetables to sell.
+Mayor: I'd love to sell you some, but we don't have any left.
+kazuma_winter: Huh?
+kazuma_winter: What do you mean, you don't have any left?!
+Mayor: We've raised more, but we need most of it for food.
+kazuma_winter: All of it?
+Mayor: Unfortunately, yes. After all, we beastmen eat a lot.
+Amy: Beastmen live a self-sufficient lifestyle. We eat the vast majority of the vegetables we raise.
+kazuma_winter: Then what about the extra greenhouses? The ones I took on more debt for?
+Amy: Honestly, we don't have enough workers to cover that much space.
+kazuma_winter: I paid a ton for those things... 
+kazuma_winter: And now they're worthless?!
+kazuma_winter: This has all the makings of another big failure.\n
+kazuma_winter: Was I too ambitious? No, calm down, Kazuma.
+kazuma_winter: I've got it! It'll cost some money, but if I bring in outside laborers to work instead of the beastmen...
+miia: Even if ya do that, the veggies won't be as good.\n
+miia: It's the way we raise 'em that makes 'em super tasty!
+Mayor: She's right. I don't know why, but if a non-beastman tries, they taste worse. It can't be left to humans.
+kazuma_winter: Unbelievable! You should have told me this sooner!
+Amy: I'm sorry. If we get any extra vegetables this year, we'll be sure to give them to you.
+miia: Kazuma, forget the veggies, I wanna eat meat! Gimme meat!
+kazuma_winter: I don't have that kind of money anymore!
+questFail_2: Quest:
+Obtain northern veggies.
+Obtain northern veggies.
+kazuma_winter: I explained the situation to Vanir and got him to delay payment on the greenhouses. Ahh, so much for that business.
+aqua_winter: Now, now. The beastmen offered you extra vegetables. If you sell them, you'll turn a profit...someday.
+kazuma_winter: Someday? We're barely making ends meet now!
+kazuma_winter: The failed idol business, Melissa's tuition, the loan from Vanir for the greenhouses...
+kazuma_winter: All together, it's 820 million Eris! Seriously, how am\n
+kazuma_winter: I supposed to pay back all this debt?!
+ナレーション: Kazuma's bitter cry echoed across the northern lands...

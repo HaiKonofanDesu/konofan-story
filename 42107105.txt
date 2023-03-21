@@ -1,0 +1,87 @@
+Treasure Hunting on This Summer Vacation! - P5
+ナレーション: "On the night of the full moon shall appear the land where the treasure sleepeth."
+ナレーション: Kazuma and friends quickly swam the the mysterious treasure island that appeared offshore.
+arue_swimwear: And so, our heroes tread upon the mysterious isle...where 
+arue_swimwear: unknown terrors await! A classic premise, but a good one!
+darkness_swimwear: How can a map refer to a previously nonexistent island? It's rather surreal.
+kazuma_swimwear: While we have the luxury of the full moon's light, all I can see here are big grey boulders. 
+kazuma_swimwear: Where's the treasure?
+aqua_swimwear: Don't you have a treasure detection skill?
+kazuma_swimwear: Yes, and I've been using it. But it hasn't turned up 
+kazuma_swimwear: anything significant. 
+kazuma_swimwear: At least, I think.
+iris_swimwear: What do you mean?
+kazuma_swimwear: There's treasure somewhere around here, but I can't get a good directional reading.
+komekko_swimwear: True treasure can't be found with some skill! Step aside and I'll prove it!
+megumin_swimwear: Well said, Komekko! 
+megumin_swimwear: It is not skills that will lead us to the treasure, but our very souls!
+arue_swimwear: We shall soon claim this hidden fortune. I swear, upon my honor as a Crimson Demon!
+ナレーション: One hour later...
+kazuma_swimwear: Find anything yet?
+darkness_swimwear: Nothing remotely resembling treasure this way.
+megumin_swimwear: Same here!
+arue_swimwear: Not even my mighty eye of crimson, concealed behind this eyepatch, could detect the treasure's whereabouts...
+aqua_swimwear: Well, we've searched the entire island up and down. You think the map is wrong? 
+clair: Or perhaps some miscreant has already claimed the treasure. 
+iris_swimwear: That's a possibility. The map is rather old. 
+iris_swimwear: Having come all this way, I hoped we would find something... *sniff*
+arue_swimwear: But we have, Princess. And a magnificent treasure it is.
+iris_swimwear: Huh?
+arue_swimwear: The time we spent together— 
+arue_swimwear: that's the true treasure lying right under our noses all this time.
+iris_swimwear: Oh my!
+arue_swimwear: Heh. I see we are in agreement.
+kazuma_swimwear: D-
+kazuma_swimwear: Darn straight!
+kazuma_swimwear: A pretty nimble recovery. I wouldn't have expected a Crimson Demon to go that route. 
+kazuma_swimwear: Good thinking, Arue.
+megumin_swimwear: Shall we head back, then?
+iris_swimwear: Yes, let's. 
+iris_swimwear: Thank you all for humoring my whims with this—
+komekko_swimwear: Whazzat?!
+darkness_swimwear: What's what, Komekko?
+komekko_swimwear: Over there.
+megumin_swimwear: It looks like... 
+megumin_swimwear: something's shining?
+kazuma_swimwear: Yes, with a particularly golden gleam. 
+kazuma_swimwear: Do you think? Could it be?!
+aqua_swimwear: Yep, looks like gold to me! How many bottles of 
+aqua_swimwear: bubbly do you think this could buy?
+darkness_swimwear: While it is strange that it's growing 
+darkness_swimwear: out of the ground, I suppose it is gold. 
+komekko_swimwear: Oh yeah, we're loaded for life! Mom and Dad'll keel over when they find out we're filthy stinkin' rich!
+megumin_swimwear: F-Filthy stinking rich...? Komekko, that's not really an age-appropriate 
+megumin_swimwear: expression...
+kazuma_swimwear: She's calling it like it is. And personally, I like the idea 
+kazuma_swimwear: of being so rich it's filthy! Now to dig out this gold...
+clair: With what? We don't have a single shovel between us.
+kazuma_swimwear: Don't need one... 
+kazuma_swimwear: Not when you're the brains of this group! Bind!
+iris_swimwear: Ah, I see! To haul out the treasure, we need only pull on 
+iris_swimwear: the end of this rope!
+kazuma_swimwear: Exactly. 
+kazuma_swimwear: Everyone, grab on the rope and 
+kazuma_swimwear: one...two...PULL!
+Everyone: Mrrrmmmgh!
+kazuma_swimwear: And a pull! 
+kazuma_swimwear: And a pull! 
+kazuma_swimwear: ...Huh? Another 
+kazuma_swimwear: tremor?!
+？？？: Grrrgh... Mroooaaarrrgh!
+kazuma_swimwear: Aaagh! 
+kazuma_swimwear: The ground's tilting!
+darkness_swimwear: No! The entire island itself is moving!
+iris_swimwear: Quick! Swim back to the beach!
+Toothed Turtle: Gwoooaaarrrngh!
+arue_swimwear: The island...has a face.
+megumin_swimwear: Oh... The mysterious island was the back of a Toothed Turtle.
+kazuma_swimwear: The colossal monster you were talking about before, right? 
+kazuma_swimwear: It's super rare and has a massive overbite?
+aqua_swimwear: The very one. The mother lode of gold we found was actually 
+aqua_swimwear: just its tooth.
+Toothed Turtle: Gwoooaaarrrngh!
+kazuma_swimwear: So, we tried a dental extraction, and now the thing's mad as heck. 
+kazuma_swimwear: I'll never get used to this world...
+komekko_swimwear: Mmm... Turtle soup. *Drool*
+megumin_swimwear: That's the spirit, Komekko! Kazuma, this is no time to be 
+megumin_swimwear: dumbfounded. We have a turtle to topple!

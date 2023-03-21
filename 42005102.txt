@@ -1,0 +1,72 @@
+A Play for This Crimson Demon Author! - P2
+aqua: Kazuma! Arue! I've finished the costumes!
+arue: It hasn't even been a week yet. You're really done?
+kazuma: That's a bit too rushed. People are paying to see this, you know? If these aren't any good, you'll have to redo them.
+aqua: Fine. But if that's not the case, you'll have to get on your hands and knees and worship me like the goddess I am.
+kazuma_actor: LADY AQUA! PLEASE FORGIVE MY TRANSGRESSIONS!
+arue_actor: Amazing. We couldn't have bought something better.
+aqua_actor: Hehe, I think that sounds about right.
+kazuma_actor: This armor sure does look like the real thing. I can't believe it's made from milk cartons—
+kazuma_actor: Hm?
+kazuma_actor: Hey, Aqua. This armor looks kind of familiar.
+aqua_actor: Really? I didn't base it on anything. I just thought... 
+aqua_actor: What would suit a hero?
+kazuma_actor: Hmm... I can't help but think it looks like HIM. You know, the guy with the cursed sword Gram...
+kazuma_actor: Ah! His name is Ororogi!
+aqua_actor: I never heard of an Ororogi before...\n
+aqua_actor: No, magic sword guy's name is, uh... Marugari!
+arue_actor: If you two are talking about the hero who wields Gram, he's Mitsurugi.
+Kazuma ＆ Aqua: Oh yeah!
+aqua_actor: I suppose I must've had him in mind when I designed the costume. That's probably why it went so well.
+kazuma_actor: "You're a Crimson Demon, right? Still living in that remote village? You should join a sword master like me."
+arue_actor: Huh?
+kazuma_actor: "Ah, don't hold back just because I'm a hero.\n
+kazuma_actor: I'm not the kind of man who worries about things like that!"
+aqua_actor: You sound just like him! Pft! *Snicker*
+arue_actor: You're starting to get on my nerves. Want a taste of my advanced magic?
+kazuma_actor: Sorry, there's no need for that!\n
+kazuma_actor: I was just getting into my hero character.
+arue_actor: The hero of my play is a more serious type.
+kazuma_actor: I can't imagine him any more serious than he already is...
+aqua_actor: By the way, have you finished the script yet?
+arue_actor: Ah, the outline is done. The main story revolves around our noble hero rescuing a kidnapped princess.
+arue_actor: I had to cut some parts because we only have a few people to play them, 
+arue_actor: but we can't cut the princess or the Devil King.
+kazuma_actor: Hm, so someone will have to play two roles...
+aqua_actor: That's going to be tough. In addition to this play,\n
+aqua_actor: I also have to work on perfecting my party tricks...
+arue_actor: It would be great if we had someone who could help us.
+kazuma_actor: I don't think there's anyone like that around here—
+ynyn: Arue? Wait, is that Kazuma and Aqua, too?\n
+ynyn: What a surprise to run into you here!
+arue_actor: It looks like our wish has been granted.
+ynyn: I-is something the matter? Is it anything that I could\n
+ynyn: maybe help you with?
+aqua_actor: Well, we're putting on a play, but we don't have enough people.
+ynyn: Oh, really? 
+ynyn: A play, huh...
+kazuma_actor: Say, would you happen to be good at acting, Yunyun?
+ynyn: I wouldn't say good—especially in front of strangers. 
+ynyn: But...
+kazuma_actor: Yeah, you're actually pretty shy for a member of the Crimson Demon Clan.
+ynyn: Huh?
+aqua_actor: Hey, it's rude to ask people who aren't interested for help. 
+aqua_actor: Don't worry, Yunyun. We'll just find somebody else.
+ynyn: No, that's not it. I, well, I mean...
+arue_actor: It would be nice to find somebody to play the princess. Yunyun, do you know anybody who could help us?
+ynyn: The role of the princess... 
+ynyn: Sure, if I find anyone, I'll let you know! They just need to look the part, right? Like a princess?
+kazuma_actor: No, that's not quite—
+ynyn: I'll find somebody who's like a princess! Then maybe you can reconsider casting me, too!
+aqua_actor: Hey... Do you think she wanted to join us?
+arue_actor: I'm sure she does, but that should soon take care of itself.
+arue_actor: If my hunch is right, we won't need someone to play the princess. 
+arue_actor: This should be...interesting. Hehe.
+kazuma_actor: In that case, we can focus on the Devil King armor for now. 
+kazuma_actor: Can you make that from milk cartons too, Aqua?
+aqua_actor: I can if I have a reference.\n
+aqua_actor: But what does it look like?
+kazuma_actor: You know, I've never seen the Devil King myself. So what would his armor look like? Hm...
+kazuma_actor: I got it! I know who we can use as a reference!
+aqua_actor: I have a bad feeling about this...
+ナレーション: Aqua observed with suspicion as Arue cheerfully worked on the script...

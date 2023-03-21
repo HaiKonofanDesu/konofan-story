@@ -1,0 +1,56 @@
+ナレーション: Kazuma and company pay a visit to the forest outside Axel for one of Erika's photo shoots...
+erica_stage: Ah... The air is so clean out here. It'll do wonders 
+erica_stage: for my skin!
+aqua: And all the greenery will make these shots really stand out 
+aqua: from the ones you took in town.
+kazuma: Of all the things a dancer can sell, photos are always the favorite. 
+kazuma: And this is a great way to sell even more!
+kazuma: Our brand new "Escape the Hustle and Bustle" collection will pull at 
+kazuma: heart and purse strings alike!
+megumin: Nah. These trees are boring! You should use my explosion 
+megumin: magic for a backdrop. Your photos will fly off the shelf!
+kazuma: No way. We're shooting publicity photos, not an action flick. 
+kazuma: And this film is way too expensive to waste goofing off.
+kazuma: Now... Darkness, could you hold the reflector board?
+darkness: Sure... How's this?
+kazuma: That's perfect. And now it's time to take some photos. 
+kazuma: Let's see some of your best poses, Erika!
+erica_stage: Huh? Kazuma! We didn't come all this way just so I could do the same old poses again!
+kazuma: Uh, well... What did you have in mind, then?
+megumin: I knew it! You liked my idea, didn't you? Give me a sec to get my explosion magic ready, and—
+kazuma: No! I said no explosion magic!
+darkness: Oh! I have an idea. We can tie somebody up, and Erika can stand over them in a victory pose like she just won a big fight!
+darkness: With a shot like that, her fans will be fascinated. Everyone would wonder about the story behind it.
+darkness: I'd be happy to volunteer for the role! I even have a rope. 
+darkness: Just be sure you tie it extra tight, so it looks authentic!
+kazuma: Pass. That's not part of Axel Hearts' image.
+erica_stage: C'mon, Kazuma! I thought you wanted to be our producer. Get producing already!
+kazuma: Hm... Oh, I've got it! Aqua, can you make it look 
+kazuma: like it's raining?
+aqua: Something like this? 
+aqua: Create Water!
+kazuma: That's perfect! It's even making a rainbow. This is totally different from our other photos.
+erica_stage: Oh! What a great idea! 
+erica_stage: I'll be positively dripping with cuteness! 
+kazuma: Exactly! Now give me your best pose, and let's get shooting!
+erica_stage: How's this? I'll bet I look adorable! Do I look adorable?! Oh, these are going to be the best photos of me yet!
+kazuma: Yeah, these are great! Especially considering we're doing this all ourselves!
+erica_stage: What? That's not exactly a shining endorsement...
+kazuma: You look ridiculously cute! These are going to sell like— 
+kazuma: Hm?
+Great Wyvern A: Grrrrrrrrr...
+Great Wyvern B: Rrraaawwwrrr!!!
+kazuma: ...
+erica_stage: Kazuma, what's wrong? Why are you making that face? And why did you stop talking all of a sudden?
+aqua: E-Erika... Behind you...
+erica_stage: The rainbow? I know. It makes me look amazing, right? 
+erica_stage: I bet I'm practically glowing on film! 
+megumin: No, that's not it! Turn around!
+Great Wyvern A: Grrrrrrrrr...
+erica_stage: What? Why?
+erica_stage: Oh, an alluring over-the-shoulder pose... 
+erica_stage: That's a great idea!
+Great Wyvern B: Grrraaaaaarrr!!!
+erica_stage: Aaaaaahhhhhh!!! What is that?! 
+erica_stage: H-Help me! 
+kazuma: C'mon, everyone! We've got to save Erika!

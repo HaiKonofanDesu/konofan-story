@@ -1,0 +1,37 @@
+Winter Wonderland! Snowfall
+ナレーション: With Amy in tow, Cecily made her way to Samuidoh to recruit people to the Order of Axis.
+cecily_winter: Time to make Samuidoh the base of our Order of Axis mission efforts in the north! 
+cecily_winter: I'll do my best, Lady Aqua! 
+Amy_winter: I'm happy to see you so fired up, but please be careful up here. 
+Amy_winter: A cold wave has made it much chillier than usual.
+cecily_winter: That's what all this gear is so for, right? 
+cecily_winter: All these layers will keep us nice and cozy! 
+cecily_winter: And the fire of mission work is more than enough to warm me! 
+cecily_winter: If anything, I'm heating up! 
+Amy_winter: Hehe, your unending energy is wonderful to be around. 
+Amy_winter: Just be careful not to catch a cold.
+cecily_winter: Achoo! It's f-f-freezing out h-h-here! 
+cecily_winter: I underestimated this cold! 
+Amy_winter: Are you okay? I guess fiery passion can't compete with a cold wave, after all.
+cecily_winter: L-L-Lady Aqua, please grant me your blessing...and a hot bowl of soup! 
+cecily_winter: Achoo! 
+Amy_winter: Oh dear, you'll catch cold if we don't warm you up soon. 
+Amy_winter: If only we could build a fire... 
+cecily_winter: There hasn't been a single tree in this entire mountain. 
+cecily_winter: What should we do?
+Amy_winter: Do we not have anything we could burn? 
+cecily_winter: Well, I do have all these Order application forms... 
+cecily_winter: No, no, no! I mean, they're right here, but no! 
+cecily_winter: It would be sacrilege for me to burn these! 
+Amy_winter: Paper would've worked perfectly though... 
+Amy_winter: Maybe the Goddess of the Order of Axis would permit it to save a devout follower.
+cecily_winter: Even if Lady Aqua permitted it, I could never! 
+cecily_winter: I would rather die than burn them! 
+cecily_winter: Hm? Getting worked up warmed me up! Could this be...
+
+cecily_winter: Lady Aqua's blessing?!
+cecily_winter: I knew it! She's always watching over me! Lady Aqua, I won't let you down! 
+cecily_winter: Okay! Full speed ahead! 
+Amy_winter: Axis followers really are passionate and resolute. 
+Amy_winter: Cecily, wait for me! 
+ナレーション: Amy looked on with admiration as Cecily traversed the snowy fields, fueled by the fervor of her faith.

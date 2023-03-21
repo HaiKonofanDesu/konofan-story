@@ -1,0 +1,87 @@
+Negotiations with This Magic Item Researcher! P2 
+ナレーション: A few weeks had passed since the gang arrived at Shelly's estate...
+Boss: Lilsis, what is this?! This section of the wall is completely wrong! We've talked about this! 
+iris_work: S-Sorry, sir! I'll fit it right away! 
+Boss: Good! That's the attitude you need! The townspeople's safety is in our strong hands! 
+iris_work: I-I understand! I've been doing my best, but... 
+Boss: You ain't doing half bad for a newbie, don't get your spirits down. 
+Boss: What matters is you're working diligently! I'm only hard on you 'cause you've got the potential to go far! 
+iris_work: Yes, sir! Thank you very much!
+aqua_work: Hey, what gives?! The boss is never that nice when he's yelling at us!
+kazuma_work: Well, duh. Iris is hard-working, nice, and cute to boot. 
+megumin: Even though I'm seeing it with my own eyes, it's still hard to believe she's working. 
+kazuma_work: Oh, hey Megumin. Darkness. 
+darkness: Could you imagine Lady Claire's reaction if she were to find out? 
+darkness: This isn't something a princess should be doing. 
+kazuma_work: Well, she seems to be enjoying herself. 
+kazuma_work: It's gotta be at least a little more fun than being stuck in that stuffy castle. 
+megumin: That's great and all, but let's be realistic here. 
+megumin: You can't earn ten million Eris working part-time jobs. 
+kazuma_work: You think I haven't tried telling her that? 
+aqua_work: You really can't do anything once she's made up her mind. Even before she lost her memories. 
+iris_work: Boss! I've finished redoing this section. 
+iris_work: It's about time for me to be going, so I will see you tomorrow!
+Boss: Ah, you've got your next job. All right, off you go then. Just remember, cleaning up before leaving—
+iris_work: Is all part of a job well done! 
+mel: Hehe... Looks like you're plenty accustomed to the job already. I'd expect nothing less from my adorable protege!
+iris_work: Mel? I thought you had a day off today. 
+mel: Yeah but I wanted to swing by and check on you. 
+mel: You're getting used to the job, but that's when the real danger begins. 
+iris_work: Danger?
+mel: That's right. Confidence leads to carelessness. 
+mel: The boss got mad at me for my pranks more times than I can count. 
+iris_work: I see. 
+iris_work: I'll be sure to be careful! 
+mel: Hehe. I just want you to stay safe. 
+mel: Be sure not to overwork yourself, 'kay? You're still new to all this. 
+mel: On that note, you must be exhausted. Here, have this. 
+iris_work: Juice? 
+mel: Yep. Just a little reward for working so hard all day. 
+iris_work: You're so thoughtful, Mel! Thank you! 
+mel: Hehe! Don't even mention it. 
+mel: C'mon, drink it right now! You'll love it, trust! 
+iris_work: Thanks! I was getting pretty—
+kazuma_work: Stop right there! Even if you remember nothing, remember this! 
+kazuma_work: Never trust ANYTHING Mel gives you! 
+mel: Kazuma... 
+mel: You're always ruining my fun...
+kazuma_work: It's only fun 
+kazuma_work: for you! 
+kazuma_work: Iris, you're gonna be late for your next job. 
+kazuma_work: I'll come check on you later.
+iris_work: You're quite right, I need to get going! 
+iris_work: Thank you, Brother! I'll find you when I'm done! 
+iris_kemo: Hopping in with an order 
+iris_kemo: from table one!
+miia_maid: Got it! Iri— 
+miia_maid: I mean... 
+miia_maid: Lilsis, you sure are working hard! 
+Amy_maid: Weren't you at your construction job just before this as well? Are you taking care of yourself, dear?
+iris_kemo: You needn't worry! The boss is quite kind, and so is everyone I work with. 
+iris_kemo: I'm having a wonderful time!
+？？？: Shut your mouth and keep walking! Is this where Lady Iris is? 
+？？？: Yeooouch! Be gentle! You're gonna pull my arm off!
+Amy_maid: Oh, we have customers. Lilsis, would you bring some water? 
+iris_kemo: Welcome in! I'll be right with you! 
+iris_kemo: Hip hop! 
+clair: ...
+iris_kemo: Miss Claire? 
+kazuma: Sorry, Claire got word about you working and forced me to bring her here...
+clair: ...
+iris_kemo: Claire? You still haven't spoken... Are you upset with me? 
+iris_kemo: P-Please don't blame anyone but me. I insisted on working— 
+clair: *Ga
+clair: sp* 
+iris_kemo: Hm? 
+clair: O-Oh my Goddess!!! L-Lady Iris in b-b-bunny ears... It's too cute 
+clair: for my heart 
+clair: to take! 
+iris_kemo: Claire, are you all right?! Please, answer me! 
+kazuma: She's out cold. 
+iris_kemo: B-Brother, what's going on? 
+iris_kemo: Why did Claire faint like that? 
+kazuma: This is an important lesson, too, Iris. Cuteness can be a weapon in and of itself. 
+iris_kemo: I-Is that so? 
+iris_kemo: R-Right now we need to get Claire to a bed! 
+clair: H-Hrnnng... One Lady Iris in bunny ears... Two Lady Iris... 
+ナレーション: Claire regained consciousness a bit later, only to faint once again at the sight of Iris in bunny ears...

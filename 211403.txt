@@ -1,0 +1,83 @@
+Lia - P3
+ナレーション: During an Axel Hearts show, Lia and the others were working the crowd between songs...
+cielo_stage: Lia, has anything nice happened to you lately?
+lia_stage: Let's see... Oh! I received a handmade gift. Getting something like that really shows how much people care.
+erica_stage: Indeed! So, with gratitude in our hearts... 
+erica_stage: Here's our last song!
+？？？: ...
+erica: Hmm, these are presents for me. Lia, yours and Cielo's presents are in those boxes.
+darkness: You three always receive mountains of gifts.
+cielo: It's a sign of our growing fan base. It sure is nice.
+aqua: Oh! These snacks look tasty!
+megumin: Aqua, you shouldn't take things that don't belong to you.
+aqua: Hm? These cookies look homemade. 
+aqua: You've got some really passionate fans.
+lia: That pink envelope always comes with a kind note from a fan.\n
+lia: Today they brought cookies. I'm so grateful.
+aqua: Let me see... "I made these myself. Please enjoy them." 
+aqua: Hm? It doesn't say who it's from.
+megumin: Aqua, you shouldn't read letters that aren't addressed to you.
+lia: They never leave their name. I'd like to thank them if I ever see them at our meet-and-greets, but...
+darkness: Perhaps they're just very modest.
+aqua: Are you gonna keep all of those presents? Do you even have the space?
+lia: We can't throw them away! They represent the love of our fans!\n
+lia: Though, it is getting rather cluttered around here...
+megumin: That's all well and good, 
+megumin: but I think you should tidy up. Especially you, Lia.
+lia: Yeah... I'll get on that.
+kazuma: Another good show today. The crowd loved you!
+cielo_stage: Yeah! And I'm a teensy bit more comfortable with handshakes now, too.
+lia_stage: Hopefully this helps you get over your phobia.
+erica_stage: Let's check today's presents... 
+erica_stage: Ah! It's another pink envelope.
+cielo_stage: A hand-knit sweater... Is this because you said you 
+cielo_stage: thought you were catching a cold at the last show?
+lia_stage: How thoughtful! Though, I feel kind of bad because 
+lia_stage: it's kind of like I asked for it.
+erica_stage: Our pink envelope fan sent a handmade stuffed animal.
+lia_stage: The note says, "Talk to it like you would a friend."
+cielo_stage: Lia does like talking with stuffed animals... 
+cielo_stage: But how would they know that?
+erica_stage: It's a secret to even our biggest fans. 
+erica_stage: Wait, could it be...?
+kazuma: Hey. Got your presents? We should head—
+cielo_stage: Oh, Kazuma! Perfect timing. 
+cielo_stage: We'd like your opinion about something.
+kazuma: What's up? Is there a problem?
+megumin: Sounds like a stalker to me. It's gross that they know 
+megumin: so much about Lia's private life.
+lia: G-gross might be a bit of an overstatement, but... 
+lia: Well, it is concerning.
+darkness: It sounds like more than just an enthusiastic fan.
+aqua: What do we do, Kazuma?
+kazuma: It's anonymous, but still had to be delivered by hand to reception.\n
+kazuma: And we have these pink envelopes as a clue.
+kazuma: Let's keep watch during the next meet-and-greet.
+lia: I'm sorry to put you through all this trouble.
+kazuma: Don't sweat it. It's another sign of your success.
+kazuma: There'll be other obsessed fans like this in the future. Now is the time to learn how to handle them.
+ナレーション: A box for gifts sat at the edge of the stage, as Kazuma and the others watched from the shadows...
+lia_stage: Will they really come?
+erica_stage: Of course they will. That's why you kept saying how much you like presents during the last few shows.
+cielo_stage: Oh, look at that! The envelope in that person's hand...
+？？？: Hehehe, Lia is sure to like this.
+kazuma: It's the pink envelope! We've got 'em!
+ynyn: Eeek! K-Kazuma?! What are you doing?!
+kazuma: Wait, Yunyun?!
+erica_stage: Lia's stalker was Yunyun all along?
+ynyn: I-I'm not a stalker! I'm just giving Lia presents 
+ynyn: because she likes them!
+cielo_stage: What did you bring her this time?
+ynyn: This!
+lia_stage: It's a handmade pendant?
+ynyn: Axel Hearts songs always cheer me up when I'm feeling down. 
+ynyn: Lia really makes me feel so much better about life.
+ynyn: You're so calm and cool. I want to be just like you! 
+ynyn: I-I'll always cheer for you! Please take it!
+lia_stage: Th-thank you.
+ynyn: I'll be at your next show, too! I promise! See you!
+kazuma: That's right... Yunyun did ask me about Lia earlier. 
+kazuma: And now she's become a fan.
+lia_stage: I don't think I've ever met a fan who was so shy before. 
+lia_stage: I'm proud to be able to give someone courage like that.
+ナレーション: Lia gripped the pendant tightly, and promised herself to keep doing her best as a dancer...

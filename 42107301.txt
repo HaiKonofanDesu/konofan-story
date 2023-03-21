@@ -1,0 +1,74 @@
+kazuma_jersey: You want to go kraken hunting? With us?
+Amy: Yes, your assistance would be most appreciated. 
+Amy: It would be too difficult a feat by myself.
+kazuma_jersey: I see... 
+kazuma_jersey: Real sorry, but I'm gonna have to pass. Krakens are those super-strong sea creatures, right?
+aqua: At least hear her out before saying no. 
+aqua: Besides, grilled kraken goes great with some cold bubbly.
+darkness: A kraken's tentacles are perilous weapons. 
+darkness: On my knight's honor, I cannot let you go alone.
+megumin_lightcloth: Count me in too. After all, the bigger they are, the bigger the 
+megumin_lightcloth: explosion.
+kazuma_jersey: You're all just sooo selfless, aren't you...
+Amy: Please, Kazuma. I'm begging you. It's for Mia.
+darkness: Mia? How so? Come to think of it, she had a blast at 
+darkness: the beach, didn't she? 
+Amy: Yes, and she's come down with a fierce craving for grilled squid. I was hoping to make some for her, freshly caught.
+kazuma_jersey: But is it worth risking our lives?
+aqua: Fine, stay home. We'll get the job done ourselves. 
+aqua: And don't expect any squid for you!
+kazuma_jersey: Trust me, I won't. 
+kazuma_jersey: Having the mansion all to myself more than makes up for—
+Amy: Thanks, everyone. 
+Amy: Oh, and don't forget your swimsuits.
+kazuma_jersey: Say what?
+Amy: Since we're going to the beach, 
+Amy: we need beach-appropriate attire. 
+Amy: Kazuma? Why are you packing your things?
+kazuma: I'm going.
+Amy: Huh?
+Amy_swimwear: This beach looks pretty kraken-less.
+darkness_swimwear: Even so, stay vigilant. Should one rear its tentacles, 
+darkness_swimwear: leave me and run to safety.
+aqua_swimwear: Did you forget why we came? I'm not leaving 'til I've had 
+aqua_swimwear: my fill of tasty grilled goodness. And a cool drink, or ten.
+kazuma_swimwear: Guys, we're in the middle of a deadly quest. Can we focus for once, please? 
+megumin_swimwear: I could say the same to you, Kazuma. So explain, why the sudden urge to accompany us?
+kazuma_swimwear: My, someone's uppity. Does my straying gaze bother you? I'm simply scanning the surrounding area for vicious kraken.
+Amy_swimwear: R-Really? Because it seems like you're scanning one very specific area...
+kazuma_swimwear: I most certainly am not.
+megumin_swimwear: I don't buy it. That change of heart was way too abrupt.
+Amy_swimwear: You're right. Kazuma doesn't seem like himself. 
+Amy_swimwear: Do you think he felt pressured into coming?
+kazuma_swimwear: Not in the slightest. The ocean is an unfamiliar place to you, is it not? 
+kazuma_swimwear: I was worried for your safety. 
+Amy_swimwear: Oh, is that so? 
+Amy_swimwear: You're such a softie, Kazuma. Thanks.
+kazuma_swimwear: And they say chivalry is dead. Before the day is up, we'll have lots of freshly caught kraken for little Mia.
+aqua_swimwear: Subtlety isn't your forte, is it? I see through your lies.
+kazuma_swimwear: Lies?
+megumin_swimwear: Yes. And perverse motivations. Tell me it isn't the swimsuits you came for!
+kazuma_swimwear: You ARE wrong! I came here as an adventurer! To fight an evil monster!
+darkness_swimwear: Kazuma, if you can't control your urge to stare, 
+darkness_swimwear: p-please, I will endure your ogling for the group!
+kazuma_swimwear: Will everyone stop! Ugh, enough with 
+kazuma_swimwear: this inquisition! Let's get cracking on the kraken!
+kazuma_swimwear: Bring out the tentacles! I know you're here!
+darkness_swimwear: Kazuma, not so fast!
+megumin_swimwear: Maybe we were too hard on him.
+aqua_swimwear: Nah, he was ogling Amy like there was no tomorrow. You saw it too.
+kazuma_swimwear: I can hear you over there! Grr... 
+kazuma_swimwear: I AM a man, you know? 
+kazuma_swimwear: A healthy and functioning man! Let's do this already!
+Amy_swimwear: K-Kazuma, 
+Amy_swimwear: wait just a moment. 
+kazuma_swimwear: If you're trying to comfort me, it's far too late...
+Amy_swimwear: No, that's not it. 
+Amy_swimwear: There's a kraken—right behind you!
+kazuma_swimwear: Huh?
+Thunder Kraken: Rrrrrrrrrrrrgh!
+kazuma_swimwear: A-
+kazuma_swimwear: Aaaaaaaaagh!
+darkness_swimwear: Hmph! Kazuma you were just trying to get first dibs on the tentacles, weren't you?! 
+darkness_swimwear: You sly dog... 
+darkness_swimwear: It's my turn!

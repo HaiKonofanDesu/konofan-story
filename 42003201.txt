@@ -1,0 +1,44 @@
+ナレーション: One day, Kazuma took his party to a snow-capped mountain...
+megumin_winter: Kazuma, Kazuma! Look at that guy over there! He's doing flips in the air!
+Skier: Woohoo! This is such a rush!
+darkness_winter: He's got... boards strapped to his feet? And he's using them to slide down the mountain!
+aqua_winter: And that person is using a single board to jump and spin!
+kazuma_winter: Heheheh! Those are the skis and snowboards that I made. Looks like they're a real hit!
+Manager: Hey, Kazuma! It's great to see you here!
+kazuma_winter: Hey there, chief. Business is booming, I see.
+Manager: And it's all thanks to you! These "skis" and "snowboards" of yours are amazing.
+Manager: I was skeptical when you asked me to make 'em, but look! Everybody loves 'em!
+kazuma_winter: I'm glad to hear it. Seeing the smiles on all of the faces of 
+kazuma_winter: your customers really makes this all worth it.
+kazuma_winter: I'm making bank from my cut of the rental fees! And I'll make even more when I corner the market on ski gear and accessories!
+megumin_winter: He's got that look on his face again.
+aqua_winter: That expression on Kazuma's face... He's cooking up a scheme to make money. But it'll only make trouble for us.
+kazuma_winter: Hey! Stop trying to jinx us!
+darkness_winter: By the way, where is Erika? She accompanied us here, but I haven't seen her since we arrived.
+aqua_winter: Erika's over there.
+erica_winter: Ungh! I can't stand up!
+kazuma_winter: What are you doing, Erika?
+erica_winter: Isn't it obvious? I'm pretending I can't stand with my skis on because it's super cute.
+erica_winter: Just look at this: a pristine snowy landscape framing an adorable girl. 
+erica_winter: I try to stand up, slowly, carefully, but—
+erica_winter: Eek!
+erica_winter: I can't stand up! Oh, how will poor little old me ever learn to ski? 
+erica_winter: Tee-hee!
+erica_winter: PWAH! What was that? A snowball?!
+megumin_winter: Oh, did I throw a snowball at you? My mistake.\n
+megumin_winter: I was trying to knock the cute off your face.
+darkness: Waah! E-Erika, I'm not part of—
+erica_winter: I'll take you all on at once! Take this! And this! Get ready for my Adorable Snowball Assault!
+darkness: B-but why me? ...The icy chill... The sting of the snowball... I could get used to this.
+aqua_winter: That looks fun. Lemme try... Hyah!
+megumin_winter: Pathetic! Taste the power of a snowball thrown by a member of the Crimson Demon Clan!
+kazuma_winter: Hah... They're getting hyped up about playing in the snow. They're just a bunch of kids.
+Mysterious Howl: Grrrraaaaarr!
+kazuma_winter: Hm? Oh! There's a bunch of people skiing down from way up there! And they're not half bad.
+Troll Warrior: Raaaaargh!
+megumin_winter: That's a pack of trolls. And they're headed this way!
+aqua_winter: They're all riding sleds...
+erica_winter: Why're they getting all the attention? They're not even cute! Daniel must have put them up to this! Those jerks!
+darkness_winter: Such matters are of no consequence. We must protect the innocents up on the slopes!
+kazuma_winter: I've got a pretty sweet business going here. I'm not about to let these trolls wreck it up. 
+kazuma_winter: Everyone, protect the skiers!

@@ -1,0 +1,57 @@
+Collecting on This Summer Beach! - P5
+ナレーション: The next day, the party's quest was to hunt sharks at the beach.
+aqua_swimwear: Kazuma! One large, please!
+kazuma_jersey: One large yakisoba, comin' right up! That'll be 500 Eris.
+ナレーション: Kazuma sold yakisoba to the beachgoers who were drawn by its alluring aroma.
+megumin_swimwear: The line just keeps getting longer.
+lia_swimwear: They're drawn by the delicious smell. It tastes great, too! 
+lia_swimwear: And I bet a bunch came because of word of mouth.
+wiz_swimwear: Kazuma! We have another five orders of yakisoba!
+kazuma_jersey: Sure the yakisoba is tasty, but... I get the feeling that 
+kazuma_jersey: isn't the only reason we're so popular...
+aqua_swimwear: Nature's Beauty!
+Male Customer A: Keep it up, my blue-haired beauty! Do it again!
+wiz_swimwear: Sorry for the wait. Here's your yakisoba. Enjoy!
+Male Customer B: Thanks! This looks almost as good as you do!
+Male Customer C: Miss! Can we get some shaved ice over here?
+megumin_swimwear: Coming right up! With the Crimson Demon Clan's legendary crimson syrup on top, you're in for a real treat!
+Male Customer D: Um, pardon me... But you're Lia from Axel Hearts, aren't you? Could I have your autograph?
+lia_swimwear: Of course! I always love meeting fans.
+kazuma_jersey: If there's one thing these girls aren't lacking, it's looks! Just look at how many guys they're pulling in!
+kazuma_jersey: I'd only planned on selling yakisoba for a bit, but this has turned into something big. 
+kazuma_jersey: We might be on to something.
+aqua_swimwear: C'mon in! Don't be shy! Try our delicious yakisoba!
+kazuma_jersey: Phew. Things got a bit crazy there for a while, but it 
+kazuma_jersey: looks like the rush has finally died down.
+lia_swimwear: And we've used up all of our extra ingredients, too.
+kazuma_jersey: It's all thanks to your hard work. Good job, everyone.
+wiz_swimwear: Thank you, too. I was able to experience something that I normally can't as a shopkeeper in Axel.
+aqua_swimwear: It's a bit of a shame, but I guess it's time to close up shop for now.
+megumin_swimwear: Yeah, that sure was a lot of fun!
+kazuma_jersey: Sure was. And we even managed to score some extra cash. This'll be a great memory to—
+kazuma_jersey: Wait, this isn't right! We didn't come to the beach to play! We came here to do a quest!
+aqua_swimwear: Oh, you're right. It must have slipped my mind.
+megumin_swimwear: Of course we came here on a quest! Come on now, did you really think I'd forget about it?
+lia_swimwear: I didn't forget either! We were just, um...passing the time 
+lia_swimwear: while we waited for the sharks. Yeah... 
+kazuma_jersey: Then explain why you all look so guilty.
+kazuma_jersey: We haven't seen a single shark since we got here. Is this even the right beach? 
+kazuma_jersey: Maybe we should search the area.
+wiz_swimwear: Don't worry, Kazuma. The sharks will find us, you'll see.
+kazuma_jersey: What's that mean?
+Male Customer A: Here they come! The sharks are here!
+wiz_swimwear: Speak of the devil.
+Male Customer B: They're headed this way! And they're running even faster than the ones from last year!
+kazuma_jersey: Wait. Did he say running?
+aqua_swimwear: He sure did. The sharks in this region have legs.
+aqua_swimwear: When they sense enough prey on the beach, they all make a mad dash up onto land to go hunting!
+aqua_swimwear: These sharks can run faster than they can swim! That's why they're called running jaws!
+Running Jaws: Shaaaaaa!!
+kazuma_jersey: H-Human legs...?! That's messed up!
+lia_swimwear: Let's start this quest for real! Don't let a single one escape! 
+lia_swimwear: Get as many sharks as you can!
+megumin_swimwear: Bwahahaha! This looks like a job for my explosion magic! 
+megumin_swimwear: Who's in the mood for roasted shark steaks? 
+wiz_swimwear: That does sound delicious... I would love some!
+Running Jaws: Shaaaaaarrrk!!
+aqua_swimwear: I could totally go for some yummy shark steaks!

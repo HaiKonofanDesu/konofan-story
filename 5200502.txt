@@ -1,0 +1,42 @@
+Manic Mansion! Maid
+ナレーション: Once Darkness introduced them, Amy and Mia headed to her family's estate to fill in as maids...
+miia_maid: So this is a maid's outfit?! It's so cute!
+Amy_maid: You know, when you first said you wanted to be a maid, it sounded like way too much work.
+Amy_maid: But this outfit makes it totally worth it! You look so cute, Mia!
+Butler: Eh, hem! Do not expect special treatment for being friends with Lady Dustiness. Now quit jabbering and start cleaning.
+Amy_maid: Yes, sir. Come on, Mia. Let's get to work!
+miia_maid: Right!
+Amy_maid: The regular maid must be really good. There's not a speck of dust in here!
+miia_maid: I feel like I'd be more motivated if this room actually needed cleaning. As it is...
+miia_maid: Oh, whoops!
+Amy_maid: Oh, dear! I hope that vase wasn't expensive... And now there's water everywhere. 
+Amy_maid: But at least you weren't hurt, Mia.
+Amy_maid: I'll clean up the pieces, while you get some towels, okay?
+miia_maid: I'm on it!
+miia_maid: Towels! Towels! Toooweeels! 
+miia_maid: Whoops!
+Amy_maid: Okay, that pot was definitely expensive...
+Butler: Is everything all right in here? I thought I heard—AHHHH!!!
+Butler: The master's prized vase! What happened?!
+Amy_maid: Oh, don't worry. Mia wasn't hurt.
+Butler: But the vase! Ugh! I never should have left you two without proper supervision.
+Butler: You've done enough damage here. Go help prepare for the master's banquet before you break anything else.
+miia_maid: Ohhhh, a banquet! *Munch munch* 
+miia_maid: That's what all this yummy food was for.
+Butler: What do you think you're doing?!
+miia_maid: I'm having a snack, of course. Can't clean on an empty stomach.
+Butler: Yes, I can see you're eating!
+Amy_maid: Oh, dear. Mia! Have you been sneaking food?
+miia_maid: Well... It smelled so delicious, I couldn't help myself.\n
+miia_maid: I've got plenty. Would you or Mr. Butler like some?
+Amy_maid: Aw, how nice of you to share! Don't you think so, Mr. Butler?
+Butler: I need to have a word with you two...
+Amy: I can't believe we lost our jobs on the first day.
+miia: I'm sorry, Amy. It's all my fault.
+Amy: Don't worry about it, Mia. We all make mistakes sometimes. 
+Amy: Did you at least enjoy working as a maid?
+miia: Yeah! I got to wear a cute outfit all day AND eat delicious food!
+Amy: I'm glad. If nothing else, that was good life experience.
+miia: Mm hm! And I know what to do next. 
+miia: We should work at a place with lots of yummy food!
+ナレーション: They may have been fired on the first day, but the two girls spoke fondly of their experience the whole way home...

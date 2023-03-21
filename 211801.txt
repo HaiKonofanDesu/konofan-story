@@ -1,0 +1,77 @@
+Mia - P1
+miia: Ugh. I'm starvin'.
+Amy: Oh my... 
+Amy: That's quite a rumble from your tummy. 
+Amy: If only I could sell more vegetables, I could feed you better...
+miia: Is there anything that could tide me over? 
+miia: Huh?
+miia: Amy, I found just what we need! Let's take this quest!
+Amy: Are you sure? Won't questing make you hungrier?
+miia: Don't worry! We can eat tons of meat and fruit on this quest!
+kazuma: So, that's why you called us.
+Amy: Sorry, Kazuma. 
+Amy: I wasn't sure we could do it alone.
+aqua: Hey, don't apologize for asking for our help.\n
+aqua: Besides, picking fruit goes a lot faster with more people.
+miia: It's a quest, everybody! Grab as much of that red fruit on the trees as ya can!
+miia: They look tasty... But I'm not gonna eat 'em. *Drool*
+Amy: Holding back from chowing down? I'm proud of you, Mia! 
+Amy: You don't have to, though. I'm sure you can have just one...
+miia: I'm not gonna eat until we're done pickin'! If I work hard enough, there'll be plenty extra.
+Amy: Great idea, Mia! I'll try and pick some extra, too!
+kazuma: That's the spirit! Now, let's do our best!
+kazuma: We've picked a lot... 
+kazuma: This basket is almost full.
+aqua: You think we'll be done soon? We should pick a few more after we're done and eat 'em!
+Amy: Good plan... 
+Amy: Huh? Where's Mia?
+miia: Hey, Amy! Get over here and look at this! There's a big ol' fruit!
+miia: It looks so tasty... If I just reach a little more...
+Amy: M-Mia! What're you doing all the way up there?
+kazuma: If you fall from there, you'll get hurt! Get down!
+miia: I'm fine! I'm fi— Whoa!
+aqua: Look out!
+Amy: Mia!
+miia: Yaaaaaaugh!
+kazuma: No, I can't reach her in time...
+miia: Ta-dah!
+ナレーション: Mia performed two flips as she fell, righted herself, and made a perfect landing.
+kazuma: Huh?
+aqua: You can fall that far...and be fine?
+miia: Of course! That's nothin' for a beastman!
+aqua: But Amy was really worried about you!
+Amy: Of course I was! If she messed up her landing and skinned her knees, that'd be awful.
+kazuma: Amy was just being overprotective. I guess we were all just worried for nothing.
+miia: More importantly, look! Isn't it gorgeous? And I'll bet it'll count as ten of them!
+Amy: It sure would. You did a fine job, Mia.
+aqua: That fills the basket. Does that mean we're all done?
+kazuma: I suppose so, aside from that brief scare. 
+kazuma: Way to go, Mia.
+miia: All right!
+aqua: You picked such a giant fruit... What will the reward be? I wish all quests were this easy!
+kazuma: C'mon! You know saying that stuff triggers event flags!
+miia: That reminds me, we've only picked fruit so far... We haven't found any meat yet.
+kazuma: Meat?
+Amy: By the way, Mia...you said this is a quest where we can get plenty of both fruit and meat.
+miia: Yeah, that's what the quest form said.
+kazuma: Give me that form... 
+kazuma: Oh, no!
+kazuma: It says "meat fruit" right here!
+aqua: So that means all the fruit we gathered...
+Fruit Monster: Rrraaagh!
+ナレーション: The fruit in the basket split open, baring their sharp fangs...
+kazuma: They're all monsters! Run for your lives!
+aqua: EEEEEEEEEKKKKKK!
+Amy: Mia... 
+Amy: Meat fruits aren't a combination of fruit and meat. They're a fruit that eats meat.
+miia: Does that mean if you eat one, you're eatin' meat, too?
+Amy: Oh, you're right. You're one smart cookie, Mia!
+miia: Ehehehe! ♪
+kazuma: Smart cookies get eaten, too! Move those feet!\n
+kazuma: Let's get outta here before we get chomped!
+miia: Oh? Are we having a race now?
+aqua: We're being chased! Hurry, run!
+miia: You're on! Loser pays for a big meat dinner!
+kazuma: Argh, whatever! Just run!
+miia: I'm gonna win, and fill up on delicious meat!\n
+miia: Ready, set... Go!

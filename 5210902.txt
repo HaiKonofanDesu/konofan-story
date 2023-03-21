@@ -1,0 +1,41 @@
+Manic Mansion! Maid
+ナレーション: It was flu season and servants at the Dustiness estate had succumbed to sickness, spurring Kazuma and Lia to offer their services.
+lia_maid: There. The laundry is all hanged. 
+lia_maid: And with today's clear weather, it shouldn't take long to dry.
+kazuma_maid: Wow, you just washed and hanged ALL the dirty laundry in the mansion. 
+kazuma_maid: I didn't know you had such talents.
+lia_maid: Hey, I'm a little hurt. 
+lia_maid: I wash Cielo and Erika's costumes all the time. Even cook. All in a day's work, really.
+kazuma_maid: Now it's coming together. 
+kazuma_maid: So you can do everything BUT clean. Your room, specifically.
+lia_maid: H-Hey, that's not fair... 
+lia_maid: Not everyone can be good at everything, okay?
+darkness: Ah, so you were here in the courtyard. It's almost time for afternoon tea. Is everything prepared?
+lia_maid: Oh, Darkness— 
+lia_maid: Ahem. I mean, my how time flies, Lady Lalatina. 
+lia_maid: But of course.
+darkness: D-D-Don't call me that, please! I much prefer Darkness!
+lia_maid: Though only a temporary arrangement, as a servant of this estate, I cannot refer to its heir in such a casual manner.
+darkness: Ugh! How did you even find out?! Did someone put you up to this?
+kazuma_maid: Calm yourself. Such accusations are not befitting of you, 
+kazuma_maid: my sweet and noble Lady Lalatina.
+darkness: I knew it! Kazuma, you cur!
+lia_maid: Kazuma? Is this really how Darkness wants to be addressed? Her reaction suggests otherwise...
+kazuma_maid: Her joy is so strong, it's overflowing. Every noble wants to be reminded of their status from time to time. 
+kazuma_maid: Right, Lady Lalatina?
+darkness: Argh! Kazuma, 
+darkness: you sick, sadistic...!
+kazuma_maid: P-Please unhand me, Lady Lalatina! 
+kazuma_maid: Even in jest, it is not befitting someone of your stature to—
+Kazuma, Darkness: Aaahhh!
+lia_maid: H-Hey, are you two okay?!
+kazuma_maid: L-Lady Lalatina. You're not hurt, I hope?
+darkness: No, thanks to you. But please—do not utter that name again.
+kazuma_maid: M'lady. You would take advantage of me, your loyal servant? 
+kazuma_maid: And in broad daylight, no less? Very well. Shall we proceed, then?
+darkness: Wh-Wh-What are you babbling on about?!
+kazuma_maid: Though my master, you are still human, and have human urges. 
+kazuma_maid: Sate them, m'lady. Sate them!
+darkness: You twisted degenerate! Shut your mouth! Shut it, I say!
+lia_maid: *Sigh* Kazuma said he wanted to be there for Darkness in her time of need. 
+lia_maid: I see now that he only wanted to ridicule her.

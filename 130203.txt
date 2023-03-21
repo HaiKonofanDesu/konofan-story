@@ -1,0 +1,126 @@
+Negotiations with This Magic Item Researcher! P3 
+ナレーション: After discovering Iris was working part-time jobs, Claire sat Kazuma down to give him a severe tongue lashing...
+clair: The princess working a part-time job?! 
+clair: Can you imagine the scandal? How could you allow this, Kazuma?! 
+iris_adventurer: M-Miss Claire, don't be mad at him! This really is my fault! 
+iris_adventurer: I'm the one who insisted on— 
+clair: Lady Iris, as one of your retainers, 
+clair: it is Kazuma's duty to support and protect you, no matter what.
+kazuma: Wait, when did I become a retainer? 
+clair: Did you not vow to me you would hold Lady Iris's safety above your own life?! Did those words mean nothing to you? 
+kazuma: Well, no, but... 
+clair: In any case, I now understand that you are in need of funds. 
+clair: Why did you not come to me sooner, Lady Iris?
+iris_adventurer: Using the kingdom's money for myself seemed wrong. 
+clair: As usual, your honorable and upright nature inspires me. However, you are also a citizen of this kingdom. 
+clair: I can arrange for a payment of ten million Eris right away. If I leave now, it would take only a few days to—
+iris_adventurer: W-Wait a moment! 
+iris_adventurer: I don't wish to inconvenience anyone by—
+clair: It is no trouble. Restoring your memories is the kingdom's highest priority. I will make the arrangements and return immediately. 
+clair: I shall return within a few days. Kazuma, I trust this time you will not fail me in keeping the princess safe? 
+kazuma: Y-Yes, ma'am... 
+clair: And Lady Iris, you will refrain from working these part-time jobs again, understood? 
+clair: Now, I will be off.  
+iris_adventurer: Wait! Miss Claire! 
+kazuma: Whew, I thought I was a goner for sure this time. 
+kazuma: Sorry for getting you in trouble, Iris. I cost you your job, too.
+iris_adventurer: P-Please, don't apologize! 
+iris_adventurer: It wasn't your fault, Brother. 
+iris_adventurer: I'm the one who insisted on working. 
+iris_adventurer: And besides... I must confess. I haven't been entirely honest with you. 
+kazuma: How so? 
+iris_adventurer: I said I wanted to work because I didn't like the idea of using treasury funds, 
+iris_adventurer: but that wasn't the entire truth. 
+iris_adventurer: All the pent-up frustration from losing my memories made me determined to do my utmost to get them back. 
+kazuma: You already told me that, right? 
+kazuma: That's why you've been working so hard. 
+iris_adventurer: That is true. 
+iris_adventurer: But it began to grow on me. So much so, I enjoyed it more than my duties in the castle. 
+iris_adventurer: I thought I would make fun, new memories if I couldn't remember my previous ones. 
+iris_adventurer: But...after a while, I began to secretly wish I would never regain my memories. Then I could continue living this life. 
+kazuma: And that's why you were against requesting the funds? 
+iris_adventurer: That's right. I know... It's incredibly selfish of me. 
+iris_adventurer: And after everyone has been kind enough to offer their help. 
+iris_adventurer: Could someone like me, who's thought these terrible thoughts, even be accepted back into the royal family? 
+kazuma: I see why Amy and the boss have been asking me if you were okay. 
+iris_adventurer: What? They have?
+kazuma: Yeah. They were saying, even though you seemed cheerful on the outside, you've seemed troubled recently. 
+kazuma: I'd never have guessed you were worried over something so small, though. 
+iris_adventurer: This is no small matter! For a princess to wish, even for a moment, that she no longer wishes to fulfill her duties... 
+kazuma: Like I said, something small. Royal duties or not, it's all the same. 
+iris_adventurer: What do you mean?
+kazuma: You're determined and never give up, but you're always thinking about everyone else's well-being at the same time. 
+kazuma: You're still the princess we know and love. Nothing's wrong with being a little selfish sometimes. 
+iris_adventurer: ...
+kazuma: And if you enjoy it here that much, I'd be happy to sneak you back once in a while even after your memories return. 
+iris_adventurer: Brother... 
+iris_adventurer: Thank you!
+kazuma: On that note, I'm going to go negotiate with Shelly again. 
+iris_adventurer: Do you think that's possible? 
+kazuma: She was willing enough to take your situation into account when 100 million Eris was too much, wasn't she? 
+kazuma: I'll just have to figure out some other way to make up the difference. After all, I can't let my cute little sister down. 
+kazuma: Stay here with Aqua and the others while I'm gone, okay? I'll be back before you can miss me. 
+iris_adventurer: Brother...
+iris_adventurer: I will! And thank you once again for all your help. 
+iris_adventurer: Good luck in your negotiations.
+banil: Vanir's Raven Death Ray! 
+Raven: Caw! 
+banil: The pest got away from me... There is truly no end to them. 
+banil: Something needs to be done once and for—
+kazuma: Vanir, what are you doing? 
+banil: Oh, it's you. 
+banil: I'm exterminating the pests that got into the town's trash. 
+banil: I am Vanir the Raven Slayer, after all. 
+banil: And you... Ah, going to negotiate the price of an item for your dear little sister? 
+banil: Difficult, as she can readily afford it.
+kazuma: That's true, but Iris is against the idea of using the treasury. 
+kazuma: I'm hoping to convince Shelly to accept the money Iris has saved instead. 
+kazuma: Hey aren't negotiations right up your alley? I'm not all that savvy, you think you could—
+banil: No can do. 
+banil: The pitiful shopkeeper is due back, 
+banil: and I must inspect her purchases, resoundingly punish her, then return it all.
+kazuma: It's like you can see the future... 
+kazuma: Any advice you can give me, then? 
+banil: Always needing this or that. 
+banil: Fine, you do prove rather useful on occasion. I suppose I could spare a moment to—
+？？？: Ah! Kazuma Satou! 
+kazuma: Huh?! Wh-Who are you?! 
+carla: Don't you play dumb with me! 
+carla: Recognize this letter? How could you just bail on our plans? Unbelievable. 
+clair: There is no time to explain. I'll explain everything once we get to the castle.
+kazuma_jersey: Claire wouldn't come here and say Iris is in trouble for nothing. It must be serious. 
+kazuma_jersey: Sorry, Carla! Maybe next time!
+kazuma_jersey: I'll have to leave her a note...
+kazuma: Ah, this letter is... 
+kazuma: Wait, Carla?! Where are your horns?!
+carla: Shh! Can it, mister! Do you think I just walk around advertising that I'm a succubus? 
+carla: Wait! Don't go changing the subject on me. 
+carla: I trust you know the rules, but just in case, there are no refunds.
+kazuma: I know, I know. I promise something really important came up... 
+carla: I really hate guys who always make excuses. 
+carla: I take it you've got something to do with— 
+carla: Huh...? 
+banil: Ah, don't mind me. I was simply enjoying the sight of this pitiful youngster's embarrassment. I am unaffiliated. 
+carla: R-Right... But why do you look so familiar...? 
+carla: W-Wait, aren't you Lord Vanir, 
+carla: the Duke of Hell?!
+banil: Indeed, I am Vanir. What of it? 
+carla: N-No way! Like, the actual, real Lord Vanir? C-Can I shake your hand?!
+banil: I'm afraid I must decline. I'd rather not soil my gloves. 
+carla: Oh... Oh my gosh! 
+carla: That harsh and immediate refusal was amazing! Oh, I know! Here, take this special ticket to the shop!
+kazuma: Since when was Vanir so popular? 
+carla: Stop by anytime! Any service, on the house, Lord Vanir! 
+carla: Well, good luck with your work! 
+kazuma: ...
+banil: Don't look at me like that. Us demons have no gender. 
+banil: Though your jealousy is a delectable emotion. 
+kazuma: I-I am not jealous! 
+banil: Sure. In any case, I offer this quote as a thank you for the animosity: 
+banil: "Speaking frankly shall lead to rewards." 
+banil: Good luck in your endeavor. 
+banil: Mwahahaha! 
+kazuma: What gives? How is that supposed to be helpful advice? 
+kazuma: Speaking frankly shall lead to rewards? 
+kazuma: What's that even supposed to mean? 
+ナレーション: With Vanir's words echoing in his head, Kazuma made his way to Shelly's estate to try renegotiating the deal...

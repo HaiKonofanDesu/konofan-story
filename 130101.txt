@@ -1,0 +1,83 @@
+A Magic Item for This Amnesiac Princess! P1
+ナレーション: After dealing with Daniel and Charlie yet again, Kazuma decided the group should hang around in Axel.
+Adventurer A: You hear the news about Kazuma? He's really a hero around these parts now! 
+Adventurer B: He made short work of a guy lined up to be the next general in the Devil King's army! 
+Adventurer C: I heard the royal family helped him out, and it seemed like he's a close friend of Lady Iris. Some guys have all the luck. 
+kazuma: Hehehehe. 
+kazuma: Mwahahahaha! Hero...? 
+kazuma: I could get used to that!
+megumin: Hmm... 
+megumin: I can actually see his head getting bigger. 
+aqua: It's like a balloon. 
+aqua: But don't worry, I'm sure he'll mess things up for himself soon enough. 
+kazuma: Why do you guys have to ruin everything for me?! Just let me have this! 
+darkness: Why does public opinion even matter? 
+darkness: What's more important is finding our next quest. 
+kazuma: Pass. I'm happy right where I am, thank you. 
+kazuma: I'm finally going to have my dream life: lazy, quiet, and free of trouble! 
+dust: Oh hey, Kazuma! What a surprise. 
+dust: Just kidding. I see the rumor's got you intrigued too, huh?
+kazuma: What rumor?
+dust: Don't be coy. You wanted to check out the new girl at the Succubus Shop, right? 
+kazuma: A new girl?! 
+dust: Huh, you really didn't know. 
+dust: Everyone's been droolin' over her, a real exotic type. 
+kazuma: Exotic, you say...? 
+kazuma: That's something new. 
+dust: That's what I'm saying! So, let's get going! 
+darkness: Ahem. Mind sharing what you're whispering about? 
+kazuma: Us? N-Nothing. 
+kazuma: Well, uhhh. 
+kazuma: I totally forgot about some plans we made, so I'll catch you later. 'Kay bye! 
+kazuma: Run, Dust. 
+dust: Right behind you! 
+front_succubus: Welcome. 
+front_succubus: This is earlier than usual for you. 
+kazuma: Well, we heard there's a new girl here and 
+kazuma: we were hoping to drop by and say hi... 
+front_succubus: Oh, you're talking about Carla. Very well, right this way. 
+front_succubus: This is a special favor though, okay? Since you're our special regulars. 
+kazuma: Thank you very much! 
+dust: I can't wait. I bet her dreams will be the best. 
+kazuma: You're going to ask for her tonight? 
+kazuma: Do you even have the money? 
+dust: Hah! Me? Of course I've got the dough...that I borrowed earlier. 
+kazuma: How're you more chronically broke than me? 
+kazuma: Well, I guess you've always got Rin to bail you out, anyway. 
+front_succubus: Thank you for waiting. Let me introduce you to... 
+carla_succubus: I'm Carla. I'm enchanted to meet you both. 
+kazuma: Oh. My. Goddess. 
+dust: I-If that ain't a perfect body, I don't know what is. 
+carla_succubus: Kazuma, I take it. And Dust? 
+carla_succubus: Madame said you both are valued regulars. 
+kazuma: Madame...? 
+front_succubus: Yes, that would be me. I am overseeing Carla's training. She shows great promise for a newbie. 
+front_succubus: GREAT promise... 
+dust: *Gulp* Sh-Sh-She does?
+carla_succubus: Heehee. Let's just say I have a good teacher. 
+carla_succubus: Or maybe it's just because I'm l-u-c-k-y.
+kazuma: L-Lucky?! 
+front_succubus: Carla. I believe these gentlemen are sold on your services. 
+front_succubus: Would you like to fulfill their dreams? 
+carla_succubus: Oh, I'd be honored. 
+carla_succubus: Take my hand, and I'll show you an enthralling dream. 
+carla_succubus: One you won't forget anytime soon... 
+kazuma: Y-Yes please! I'm ready! 
+dust: Me too! Me too! 
+carla_succubus: O-Oh, I'm so sorry but I'm booked for today. 
+carla_succubus: I only have one time slot left. 
+carla_succubus: So... 
+Kazuma, Dust: Ungh... 
+Kazuma, Dust: Rock, paper, scissors!!! 
+dust: Curse your damn luck!
+kazuma: You fool. I never lose at rock paper scissors. 
+kazuma: P-Please take care of me, Carla. 
+carla_succubus: Very well. Follow me, Kazuma. 
+carla_succubus: I have to remind you that in order to make the most of your dream, you must— 
+kazuma: I know! Don't drink or eat too much, and be sure to get to bed early! 
+carla_succubus: Ah, I'm impressed. 
+carla_succubus: Join me over here and we can come up with a scenario together.
+kazuma: O-O
+kazuma: kay! 
+kazuma: *Snigger* Sorry, Dust. 
+kazuma: But I'm about to embark on a night I'll never forget!

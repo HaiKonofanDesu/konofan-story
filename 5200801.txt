@@ -1,0 +1,29 @@
+Exciting Swimsuit Adventure
+ナレーション: A selection of swimsuits lined the wall of the small clothing shop in Axel...
+aqua_swimwear: What do you think of this one?! I feel it really complements my holiness as a goddess!
+wiz_swimwear: It looks great on you, Aqua. 
+wiz_swimwear: As for me, I'm afraid mine feels a bit tight in the chest area... 
+megumin_swimwear: Here we go! How do I look?
+aqua_swimwear: You look great too, Megumin!
+megumin_swimwear: ...
+wiz_swimwear: Wh-What's the matter?
+megumin_swimwear: Don't you think you two look a bit too...flashy?
+aqua_swimwear: You think so? I was actually about to say mine might not be flashy enough, to be honest.
+wiz_swimwear: I don't think this is too much, though I'd prefer something that wasn't so tight.
+megumin_swimwear: Then I want something different too! 
+megumin_swimwear: Excuse me! This one's a bit too childish! Can I get something more adult?
+Staff: I'm afraid our children's line is the only design we carry that will fit someone of your...stature...
+megumin_swimwear: Are you saying...it doesn't fit right?
+wiz_swimwear: You wouldn't happen to have something that's a size—or perhaps two—bigger, would you? This is a little tight.
+Staff: I see. Something a bit larger would certainly fit your chest better, but it might be too loose in other areas.
+megumin_swimwear: Hey now! Hold it right there! Are you trying to make the rest of us feel bad, Wiz?! I won't forgive you for this!
+wiz_swimwear: Eek! 
+wiz_swimwear: Yeeeeeek! 
+wiz_swimwear: What are you doing, Megumin?! Please try to calm down! I didn't mean it like that!
+megumin_swimwear: These right here are the reason your top barely fits!
+wiz_swimwear: P-Please stop pulling! My top is going to come off!
+aqua_swimwear: Um, Wiz? Would you like me to lend you a hand?
+megumin_swimwear: You stay out of this, Aqua! 
+megumin_swimwear: I will not be defeated because of something like this! Oooooohhh!!!
+Staff: Miss, please! Not in the store!
+ナレーション: Megumin swore to herself she would get revenge in a brand new swimsuit once she's finished growing...

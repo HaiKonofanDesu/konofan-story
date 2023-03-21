@@ -1,0 +1,78 @@
+A Panty Treasure in This Right Hand! - P2
+Announcement: Emergency quest! Emergency quest! All adventurers, assemble at the front gate immediately!
+kazuma: Whoa, whoa! What's happening?
+darkness: I'll keep everyone safe. Stay close to me, Kazuma.
+kazuma: What's an emergency quest? Are monsters attacking?
+aqua: Didn't you hear? It's cabbages. Cabbages!
+kazuma: Say what?
+tough_guy: This year's gonna be rough.
+megumin: There's a storm brewing!
+Adventurers: It's harvest time!!!
+aqua: Don't forget the mayo!
+questStart: Public Quest:
+Harvest the incoming
+
+
+
+
+horde of cabbage.
+Harvest the incoming
+
+
+
+
+horde of cabbage.
+Cabbage Swarm: Cabba cabba cabba...
+kazuma: What the heck is this?!
+aqua: In this world, cabbage can fly!
+aqua: As their flavors peak during harvest season, they don't want to make it easy for people to eat them.
+aqua: It's said that they cross the plains, traverse the ocean, and finally, die alone in a secret land unknown to humans.
+aqua: That's why we try to catch as many as possible, so we can savor their wonderful flavor!
+luna: Attention, everyone! The cabbage harvest is upon us!
+luna: The cabbages this year are especially tasty! They'll fetch...\n
+luna: ...10,000 Eris per head! Grab as many as you can!
+kazuma: Can I just go home and go back to bed?
+darkness: Ah, this is perfect, Kazuma. Now you can see for yourself what I can do as a crusader.
+darkness: Hraaaaaah!
+darkness: Hmph! Hrah!
+ナレーション: Darkness swung her blade with all the vigor she could muster, and yet even then, she failed to land a hit on any of the cabbages...
+kazuma: This is one sorry record streak.
+Cabbage Swarm: Cabba cabba cabba...
+Adventurer A: Grrraaargh!
+Adventurer B: H-Help me!
+darkness: Look out!
+ナレーション: Darkness cast her sword aside and threw herself before the adventurers to shield them from the cabbages...
+darkness: Ungh... I'll handle this! Run, everyone, while you still can!
+kazuma: Stop, Darkness! If the cabbages keep hitting you like that...!
+Adventurer A: Those things'll kill you before long! We'll figure something out, so please, save yourself!
+darkness: Don't be ridiculous! I could never leave a fallen comrade... Ungh! 
+darkness: Never... Never ever!
+darkness: They're watching... These filthy men are watching me with bated breath!
+darkness: How degrading... How vulgar... Oh, how I love it!
+kazuma: ...Huh? Is she INTO this?!
+Adventurer B: Look at how willing she is to sacrifice herself in order to save others! I have much to learn from a knight as valiant as her!
+kazuma: Nooo, you don't! This is, like, her THING!
+megumin: Heh heh heh... No one can stand against the sheer power of my deadly explosion magic!
+kazuma: Why is everyone here a complete lunatic?!
+megumin: It's oh-so tempting to blast all these bouncing targets to smithereens... I can barely—no!—I CAN'T resist any longer!
+megumin: EXPLOOOSION!
+questComplete: Special Bonus:
+<size=100>Cabbage Bonanza</size>
+<size=100>Cabbage Bonanza</size>
+kazuma: I don't get it... How can a simple cabbage stir fry taste so good?
+aqua: You're quite a crusader! The cabbages tuckered themselves out by smashing against your impenetrable defense!
+darkness: Oh, not at all. I'm just a woman of solid build. The least I can do is use what I was born with to protect others.
+megumin: Your Nature's Beauty skill really made this meal pop, Aqua. I love how you used cold water to lock in the cabbage's freshness.
+darkness: I was quite literally blown away by your magic, Megumin. You took out the entire swarm with one shot!
+kazuma: This is the weirdest convention of kindred spirits I've ever seen...
+darkness: If I may introduce myself once more... I am Darkness, a crusader by trade.
+darkness: While I carry a two-handed sword, I am far too clumsy to land a strike, so I ask that you keep your expectations between low and non-existent.
+darkness: However, no one is a better human shield than me! Please, use me as bait without hesitation!
+aqua: Check us out! Our party lineup is really starting to fill out.
+megumin: Seriously. You don't find many with three out of four members holding advanced job classes.
+kazuma: I would've been cool with her joining even if she had a standard job class. She's gorgeous, you know? But...uhh...
+darkness: K-Kazuma! Should I come to be a burden, I beg that you put me in my place! Yell! Spit! Make me your sacrificial pawn!
+darkness: Ahhh...! Just thinking about it gives me the shivers! 
+darkness: Hnnngh!
+kazuma: Wonderful. A masochist.
+kazuma: This party might seem like the one to beat, but my gut says we're in for nothing but trouble...

@@ -1,0 +1,80 @@
+ナレーション: With the new year approaching, Iris had her hands and time full with entertaining palace guests... 
+Noble: I pledge myself and my dukedom in service to this grand kingdom. Please look upon us with benevolence, my lady. 
+iris: I recognize your pledge, and I, in turn, pledge to aid in your efforts to protect our people. 
+iris: Such is our eternal mission, dear noble. 
+Noble: Never have I heard more graceful words. My sincerest gratitude, Your Highness. 
+clair: Apologies for the intrusion, but there are others waiting. If you are finished, I would ask you to take your leave. 
+Noble: M-My apologies. It would seem the time has come to bid thee farewell, Princess. 
+iris: So it would. Farewell. 
+iris: Claire, there is no need to send our guests off in such haste. 
+clair: Your desire to receive each noble with both time and warmth is worthy of praise. 
+clair: But time is simply not a commodity we have in abundance. 
+clair: There are twenty five guests still waiting for an audience. 
+iris: It is as you say. Guests wait, time does not... 
+iris: I will endeavor to strive for expedience. 
+clair: The next party will take little striving at all. The man is barely a commoner. 
+clair: Number twenty-three—enter! 
+kazuma_newyear: What am I, a convict? 
+kazuma_newyear: And what do you mean, "barely a commoner"? I heard all that, y'know? 
+darkness_newyear: Thank you for making time for us, Princess. 
+darkness_newyear: We are well aware of how busy you are this time of year. 
+iris: Brother! And Lalatina too! 
+iris: Forgive my curiosity, but what are those peculiar outfits you have on? 
+darkness_newyear: This is traditional garb from Kazuma's homeland. "Kimono," it is called. Aqua made them herself. 
+kazuma_newyear: After all, New Year's is a time for looking sharp. 
+kazuma_newyear: But it's also a time to relax. They actually making you work today? 
+iris: It would not be right to refuse those who have come to greet me. 
+iris: Besides, seeing you has dispelled my fatigue entirely. 
+kazuma_newyear: Wow, it's nice being called useful. Thanks, Iris. 
+kazuma_newyear: On the topic of greetings... 
+kazuma_newyear: Happy New Year! 
+iris: Oh, but of course. Having been so busy, I had nearly forgotten your traditional New Year's greeting. 
+kazuma_newyear: Yeah, it's a great way to welcome the coming year. 
+kazuma_newyear: Go on then, your turn now. 
+iris: H-Happy New Year. 
+darkness_newyear: Hehe... So refreshing to hear such a cheerful greeting from a princess so dignified, Lady Iris. 
+iris: I'm amazed by all of the different greetings that exist. 
+iris: Please tell me about your homeland's New Year, Brother. 
+kazuma_newyear: Gladly. 
+kazuma_newyear: Back home, New Year's break lasts for several days. A wondrous, magical time...to spend lazing under the kotatsu. 
+iris: Lazing...under the kotatsu? 
+kazuma_newyear: It's a personal tradition. Some prefer to fly kites, play cards, or spin tops. All New Year's musts. There's also the game "battledore." 
+darkness_newyear: Oh, and you can't forgot about the mochi. It's made by pounding rice with a huge wooden hammer, and it is delicious. 
+iris: That all sounds delightful. 
+iris: I would love nothing more than to experience it myself. 
+kazuma_newyear: Once you're done greeting your subjects and all that fancy business, why not come to Axel and hang out? 
+kazuma_newyear: Kotatsu, mochi, kites—we got the entire New Year's package. 
+iris: Oh, may I? 
+iris: Claire, when will the royal greetings conclude? 
+clair: Tomorrow and the day after are fully booked. Any festivities will have to wait. 
+darkness_newyear: Your schedule is as packed as ever. Please don't push yourself too hard just to join us. 
+kazuma_newyear: We can have a bonus New Year's of our own when you're free. 
+iris: That sounds wonderful. Thank you, Brother. 
+iris_stealth: My, you have a kimono as well, Megumin? It looks absolutely stunning on you! 
+megumin_newyear: Oh ho ho ho. 
+megumin_newyear: Beauty and sophistication sublimely blended together to form the apex of arch wizard attire! 
+kazuma_newyear: I give it a seven. 
+megumin_newyear: We're barely into the new year and you dare insult me? 
+darkness_newyear: You arrived earlier than we expected. Is something wrong? 
+iris_stealth: Not at all. 
+iris_stealth: In truth, convincing Claire was the only real challenge. 
+aqua_newyear: We understand. We've met her, after all. 
+iris_stealth: I've been so excited for today, I hardly slept at all last night. 
+iris_stealth: Please, tell me all about New Year's! 
+megumin_newyear: Allow me to impart the wonder of New Year's. 
+megumin_newyear: If your first dream of the new year features an explosion, a hawk, or an eggplant, you can expect plenty of good luck. 
+kazuma_newyear: Don't try to change my culture's traditions to suit yourself! 
+kazuma_newyear: It's Mt. Fuji, a hawk, or an eggplant that are lucky. In that order. 
+iris_stealth: Oh... 
+darkness_newyear: Princess? Is something amiss? 
+iris_stealth: No, I was merely captivated by everyone's beautiful kimonos. 
+kazuma_newyear: Kimono, eh? 
+kazuma_newyear: It's decided! Aqua! 
+aqua_newyear: On it. We've got cloth to spare. I can have one ready in no time. 
+iris_stealth: Really?! Are you sure? 
+aqua_newyear: We're not going to hold back on you after you came all this way. 
+aqua_newyear: Plus, dressing for the occasion is part of the fun. 
+kazuma_newyear: Thanks, Aqua. I see extra bubbly and New Year's treats in your future. 
+megumin_newyear: We have to make mochi. Have to. Oh, and New Year's calligraphy! 
+iris_stealth: Thank you. Truly, thank you all! 
+iris_stealth: I can't wait to see what kind of New Year's awaits! 

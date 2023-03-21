@@ -1,0 +1,89 @@
+A Play for This Crimson Demon Author! - P5
+kazuma_actor: It's the big day! Well, we did all we could to prepare.\n
+kazuma_actor: Hey, are you girls ready?
+aqua_actor: Naturally! I've worked my fingers to the bone getting ready for today!
+arue_actor: I feel nervous, but in a good way... 
+arue_actor: My left eye is twitching.
+ynyn_actor: It's going to be fine. We've all worked so hard together... 
+ynyn_actor: Yeah! We came together and worked really hard!
+ynyn_actor: I should get in some last-minute practice...\n
+ynyn_actor: "Thank you, brave hero. I love you..."
+kazuma_actor: Her delivery is still really flat. Is this going to be okay?
+arue_actor: Our lines are important, but our acting is just as important. Don't forget that, okay?
+Theater Manager: The show has completely sold out. It's almost time to start.
+kazuma_actor: Yep, we'll be right there!
+ナレーション: The curtains finally rose as the play began...
+kazuma_actor: "I was born to be a hero? I had a faint idea... I always knew 
+kazuma_actor: that I was different from everyone else."
+kazuma_actor: "Okay, it's time. I must save the princess and the world! 
+kazuma_actor: That is the reason that I, Kazuma the Hero, was born!"
+arue_actor: "I will not forgive those who wrong our hero! Know the judgment of my lightning!"
+arue_actor: "Cursed Lightning!"
+Patron A: Wow, such power... Was that real magic?
+Patron B: Looks like it. I can't believe she's using advanced magic. I wasn't sure about a play at this venue, but it really worked out!
+aqua_actor: "It's the Devil King's castle! Now to save the princess—"\n
+aqua_actor: Wait, what's my line again?
+aqua_actor: In times like this, I, um... 
+aqua_actor: Nature's Beauty!
+Patron C: I don't entirely get it, but I like it! Good job, miss!
+kazuma_actor: Okay, she managed to get out of that mess!\n
+kazuma_actor: Time for the next scene!
+aqua_actor: "The Devil King's castle lies just ahead! 
+aqua_actor: But this strong wind is... Ugh!"
+ynyn_actor: Um, um... 
+ynyn_actor: "Tornado"!
+Patron D: That wind's amazing! I've never seen such a realistic play!
+kazuma_actor: Good, it looks like even Yunyun is trying her best. The crowd is really enjoying it, too.
+kazuma_actor: If we keep this up, we'll have fulfilled our obligation to the girls. 
+kazuma_actor: And then I can find a way to profit off this!
+ナレーション: The play continued to the big climax...
+kazuma_actor: "Out of my way, monster! Hraaah!"
+arue_actor: "Ugh, the Devil King's castle is as dangerous as I expected! The monsters here are so powerful!"
+kazuma_actor: "We don't know what kind of deadly traps lie around every corner... 
+kazuma_actor: Stay by my side!"
+aqua_actor: "Gotcha! 
+aqua_actor: But where could the Devil King be?"
+Dullahan Armor: I'm right here... 
+Dullahan Armor: Hahahaha!
+arue_actor: It's the Devil King at last... 
+arue_actor: Wait... This isn't when he's supposed to appear.
+kazuma_actor: Yunyun, it's not your cue yet! 
+kazuma_actor: Get off the stage!
+Dullahan Armor: Mwahahaha... 
+Dullahan Armor: Mwahahaha...!
+kazuma_actor: Hey, and stop that creepy voice— 
+kazuma_actor: Huh?
+ynyn_actor: Kazuma! That's not me! That's not me in there!
+kazuma_actor: Wait, Yunyun is on the side of the stage... So who's inside the armor?
+Dullahan Armor: This is no joke! 
+Dullahan Armor: Mwahahaha!
+aqua_actor: Kazuma, get back! Something's off about that suit of armor!
+arue_actor: Wait, could a ghost have possessed the armor?
+Ghost Armor: Mwahahaha... This armor is absolutely amazing!\n
+Ghost Armor: I never get to possess something so nice!
+aqua_actor: I refuse to let you possess the armor I made...\n
+aqua_actor: But there's no denying your taste!
+kazuma_actor: This is no time to be taking compliments from a ghost!\n
+kazuma_actor: Wait, is this all your doing again?!
+kazuma_actor: You're always attracting the undead, so did you draw in a ghost this time?!
+aqua_actor: Hey, this isn't my fault! 
+aqua_actor: Besides, I can't help it! I have no control over the holy aura I emanate!
+kazuma_actor: Damn you! You're always causing us problems!
+arue_actor: It looks like multiple ghosts are trying to possess the armor.
+Ghost Armor: Yep! And isn't this the armor of the Devil King's general Verdia? 
+Ghost Armor: I thought I felt more powerful than normal... 
+Ghost Armor: Mwahaha!
+kazuma_actor: Well, it's made out of milk cartons.
+Patron A: Hey, something isn't right here...
+Patron B: Isn't that the Devil King's general, the one that attacked Axel? Could he really have come back from the dead?
+kazuma_actor: Oh no! We're starting to lose the crowd...
+arue_actor: Stay calm. Even if it is a ghost, we just need to bust it!
+arue_actor: Yunyun! Get on stage!
+ynyn_actor: Huh? Ah, um... 
+ynyn_actor: Yes!
+arue_actor: "Princess! Let us defeat the Devil King together!"
+kazuma_actor: I get it. Arue is trying to make it look like part of the play to keep the crowd from panicking.
+arue_actor: "Okay! Let's go, my brave hero! Now is the time to show the power of the magic sword!"
+kazuma_actor: "This is for the princess! And the world!"
+kazuma_actor: Ah, enough already! I'll show you just how strong Kazuma the Hero truly is! Take this, Devil King!
+Ghost Armor: Mwahahaha!

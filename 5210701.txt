@@ -1,0 +1,36 @@
+Making Summer Memories
+arue_swimwear: "Ripples danced across the water..." 
+arue_swimwear: No, no, that's no good. You need more punch when starting a novel.
+iris_swimwear: Hi, Arue. What are you doing here by your lonesome?
+arue_swimwear: Just jotting down some ideas for my next novel.
+iris_swimwear: Novel? 
+iris_swimwear: Ah, yes. I heard from Megumin you were hard at work 
+iris_swimwear: writing your magnum opus—the "Crimson Chronicles."
+arue_swimwear: Whether it'll be my magnum opus will be decided by history. 
+arue_swimwear: I am merely here to see where my pen takes me.
+iris_swimwear: Might you be able to tell me some plot points?
+arue_swimwear: Having chanced upon a map, a girl and her friends embark on a grand adventure to find the treasure charted therein.
+iris_swimwear: You don't say! 
+iris_swimwear: I see some similarities to us!
+arue_swimwear: Braving a monster-ridden wasteland and roiling sea, the crew comes to a wall of rock, which opens to reveal a cave...
+arue_swimwear: They enter its sinister maw, where the treasure's guardian—a frost-breathing dragon—threatens to devour our heroes whole.
+iris_swimwear: It sounds like a perilous expedition indeed...
+arue_swimwear: The adventurer, wizard, crusader, and self-proclaimed goddess all fall before the scaly behemoth.
+arue_swimwear: But then, the young girl, our protagonist—awakens! Her holy blood stirs at last!
+iris_swimwear: Oh my! And then...?
+arue_swimwear: Her true power awakened, she fells the towering foe in one might blow! 
+arue_swimwear: Victorious, our heroes obtain the treasure.
+iris_swimwear: Excuse me, if I may be so bold... Is...the protagonist me, perhaps?
+arue_swimwear: Indeed. Characters are much more credible when based on reality. 
+arue_swimwear: I hope I didn't offend you.
+iris_swimwear: No, not at all! 
+iris_swimwear: On the contrary, it is a genuine honor to be the model for your protagonist.
+iris_swimwear: I would love nothing more than to read the finished product. 
+iris_swimwear: Please let me know when it's ready!
+arue_swimwear: Naturally. I hope you're looking forward to it.
+arue_swimwear: There is one thing... I'm still not sure what should be inside the treasure chest. 
+arue_swimwear: Do you have any ideas, Iris?
+iris_swimwear: You would ask me? 
+iris_swimwear: I'd be delighted to think on it!
+arue_swimwear: She's so animated. So full of emotion. There's no better person to base a protagonist on.
+ナレーション: Not long after suggesting a fabulous treasure, Iris received Arue's finished novel, which she read with gusto and kept the royal vault.

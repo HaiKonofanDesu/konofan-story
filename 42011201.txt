@@ -1,0 +1,50 @@
+dust: Hehehe... 
+dust: Shall we go inside, partner?
+kazuma: Absolutely! This free coupon expires tomorrow, and there's no way I'm letting it go to waste!
+dust: Our manly aspirations...
+dust: shall be fulfilled tonight! To the succubus shop!
+front_succubus: Welcome, gentlemen. If you would please follow me...
+kazuma: S-Sure thing!
+dust: Let's see... What kind of dream should I go with tonight?
+dust: A harem? Or maybe...a seraglio? 
+dust: Or perhaps...a legion of concubines?!
+kazuma: Those are all the same...
+dust: Well, it's every man's dream... 
+dust: All right, I've got it! The beach in summer, surrounded by older women in bikinis!
+Announcement: Emergency! Emergency! All adventurers, take up arms and assemble at the town gate immediately!
+kazuma: Ah, Dust. Sounds like there's an emergency.
+dust: Eh? Let somebody else handle it! We're busy! This is no 
+dust: time for questing!
+kazuma: If there was ever a time to leave the problem to someone else... 
+kazuma: This is it.
+dust: All right, Miss! We're ready! Here are our 
+dust: free coupons!
+Succubus: Excuse me, but aren't you adventurers? Did you hear the emergency broadcast just now?
+dust: The first rule of adventuring is managing your priorities! I'm not taking
+dust: any quests until we're through here!
+Succubus: B-But what if a dreadful monster gets into town! It could wreck our shop!
+dust: Don't worry, the other adventurers will take care it. Now, for my dream—
+Succubus: Please, you must go help! If you kill the monsters, we'll upgrade you to our exclusive, elite package service!
+dust: Kazuma, this is no time to stand around! 
+dust: Don't fear, Miss! I'll dispose of those foul beasts at once!
+kazuma: I think you mean "we'll" dispose of them. 
+kazuma: As adventurers, we have a duty to protect this town!
+aqua: Kazuma, over here! What took you so long?!
+megumin: Good, Dust is with you. It looks like a large pack of Blood Fangs is approaching the town.
+darkness: They were likely lured here by Squall's aura. I know you 
+darkness: and Dust probably don't want to deal with this, but...
+kazuma: What are you talking about? Defeating monsters is an adventurer's sacred duty!
+dust: That's right! Those fiends won't take a step past us!
+Kazuma, Dust: We'll defend Axel to the death!
+aqua: W-What's gotten into those two? They're always complaining about quests like this...
+megumin: You'd think it'd be reassuring, but it's just unsettling...
+Blood Fang: Rrraaaaaawwwrrr!!!
+kazuma: They're here!
+darkness: There are even more than the scouts reported!
+dust: Numbers don't matter! For the sake of our elite package 
+dust: service, we won't back down!
+Aqua, Megumin, Darkness: ...Elite package service?
+Blood Fang: Rrraaaaaawwwrrr!!!
+kazuma: Let's do this, Dust!
+dust: Right behind you, partner!
+Kazuma, Dust: Hrrraaaaaaaaaaaah!!!

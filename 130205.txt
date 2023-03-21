@@ -1,0 +1,61 @@
+Negotiations with This Magic Item Researcher! P5
+ナレーション: Kazuma and friends boarded a carriage, arriving at an area their prey was said to frequent.
+Driver: This your stop?
+iris_adventurer: It is! And thank you for risking life and limb to bring us all the way here.
+Driver: Don't mention it! Dangerous routes yield the most coin. I'll be resting up in Brake, so think of me on your way back.
+megumin: What a nice old gentleman.
+darkness: Indeed. Once we clear out these golems, people like him will be able to work in peace.
+aqua: On that note, are the golems close by, Kazuma?
+kazuma: Not according to my Enemy Detection skill... 
+kazuma: Let's scout the area and find some good terrain to fight on.
+iris_adventurer: That's a great idea. I'll practice my sword skills while we wait. 
+iris_adventurer: Ha! ...Hwa!
+iris_adventurer: How was that, Darkness? Any pointers?
+darkness: There is nothing I can teach you, Princess.
+iris_adventurer: Impossible, a knight's practical knowledge of the blade is worth a library of manuals. Please, enlighten me.
+kazuma: I wouldn't be so sure about that...
+megumin: At least not when it comes to offense.
+darkness: Y-You don't have to be so blunt! I'm fully aware of my shortcomings!
+ナレーション: With no golems in sight, Kazuma and company gathered to eat dinner around a campfire.
+iris_adventurer: *Sip* 
+iris_adventurer: Mmm! Delectable! 
+iris_adventurer: You make a fine stew, Brother. The finest, perhaps!
+kazuma: Always glad to see another satisfied customer. 
+kazuma: You must be exhausted from swinging that sword all day. Eat up!
+aqua: Wow, Kazuma, someone's being extra-nice today! 
+aqua: Then I think I'll help myself to another bowl too!
+megumin: Not so fast, Aqua! There may be plenty to go around, but we should divide it evenly. 
+megumin: It's only fair, hungry as we are.
+darkness: C'mon, you two. You already got seconds—BEFORE the princess—remember?
+iris_adventurer: Hehe...
+kazuma: Iris?
+iris_adventurer: Oh, I was simply basking in the joy of this moment, and the journey we've embarked on together. 
+iris_adventurer: I have an uncanny feeling that I've always wanted to do this. That I've envied your freedom.
+aqua: Being an adventurer's not all it's cracked up to be. 
+aqua: The lack of food... Aching after a night spent outdoors...
+kazuma: I'll have to agree there. From our perspective, the life of royalty seems far better.
+iris_adventurer: Does it really? 
+iris_adventurer: Ever since we made for Brake, I've been yearning for the life of an adventurer.
+darkness: That sounds like the Princess Iris we all know.
+iris_adventurer: Oh? 
+kazuma: Yep. Amnesia or not, you haven't lost your penchant for following your heart. 
+kazuma: Even if I hadn't promised you we would keep adventuring together, you're our partymate and friend. 
+aqua: Here, here! After all, you won't find many princesses sitting by a campfire, 
+aqua: raving about delicious stew. 
+kazuma: You're talking like this is our last adventure together. But I guarantee there'll be lots more to come.
+iris_adventurer: Oh my... 
+iris_adventurer: Thank you, all of you! I'll won't let you down! 
+kazuma: There's still plenty of stew. Everyone, fill those bowls— 
+Lady Golem: Graaaah! Masterrrrrr!
+darkness: We've got uninvited dinner guests. The stew will have to wait for now. 
+Lady Golems: Scanning for hostiles... Scanning for hostiles... 
+megumin: We'll be totally surrounded at this rate. Let's regroup. 
+iris_adventurer: Got it. Brother, hurry! 
+kazuma: I hear you. Be careful, Iris! 
+Lady Golem: Dirt confirmed. Proceeding to clean... Masterrrrrr!
+kazuma: Ack... What the heck? 
+kazuma: The golem chucked a broom at me! And called me dirt!
+Lady Golem: Housecleaning protocol engaged. Arming mega-bazooka...
+megumin: That is SO cool! Its arm turned into a cannon!
+kazuma: Who housecleans with a bazooka?! 
+kazuma: Battle positions everyone! It's go time!

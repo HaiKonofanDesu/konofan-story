@@ -1,0 +1,33 @@
+Setting Up for Santa
+ナレーション: Darkness, Wiz, and Iris were busy setting tables for the beautiful Christmas banquet...
+wiz_christmas: The chicken's our biggest dish. What say we put it on this table, hm? The cutlery can go here.
+iris_christmas: Yes. Will this work?
+darkness_christmas: Sorry to ask such menial labor of you, Princess.
+iris_christmas: Think nothing of it!
+iris_christmas: I've never set up a party before. The whole experience is quite delightful.
+wiz_christmas: Hehe, volunteering your assistance 
+wiz_christmas: this way is exactly the kind of behavior Santa would reward with a present.
+darkness_christmas: That's right. Kazuma mentioned a character like that. 
+darkness_christmas: He travels the world on Christmas to bring presents for well-behaved children while they sleep.
+darkness_christmas: An interesting tale from an interesting land.
+wiz_christmas: It's said only good children can receive presents. 
+wiz_christmas: That means Princess Iris will definitely get some.
+iris_christmas: Oh my, you're too kind. So, this wonderful man leaves 
+iris_christmas: presents, you say?
+darkness_christmas: He does indeed. Is there anything in particular you'd like Santa to bring you?
+iris_christmas: That's a tough question. In all honesty, I'd much rather 
+iris_christmas: give a present to him.
+iris_christmas: Santa brings happiness to so many children. His kindness 
+iris_christmas: deserves to be rewarded, I say.
+wiz_christmas: Hehe! A very "Iris" response, if I've ever heard one.
+wiz_christmas: I hope you'll be able to meet him one day.
+iris_christmas: Yes, as do I! In fact, I think I'll stay awake for as long 
+iris_christmas: as I can tonight. You never know!
+darkness_christmas: Oh, but they say Santa only visits while you're asleep.
+iris_christmas: Really? That's quite the conundrum.
+iris_christmas: He only brings presents when children are asleep? Hmm... 
+wiz_christmas: Oh, don't fret, dear. Remember, there's a party to be had!
+darkness_christmas: That's right. Enjoy the party first. We can think about Santa later.
+iris_christmas: You're right. This is a time for celebration with our dear friends.
+iris_christmas: I say we make the most of it.
+Everyone: Merry Christmas!

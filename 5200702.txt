@@ -1,0 +1,48 @@
+Sparkling Summer! Swimsuit
+ナレーション: Melissa woke up from her nap on the beach and reached over to lift a glass of tropical juice to her lips...
+melissa_swimwear: Blue skies, white clouds...
+melissa_swimwear: A girl couldn't ask for a more perfect vacation spot.
+lean_swimwear: Melissa, are you sure you want to waste your time napping?
+melissa_swimwear: I'm not wasting anything. I came to the beach to relax.
+lean_swimwear: You could at least go for a swim or—
+melissa_swimwear: No thanks. The salt water makes my skin feel gross.
+lean_swimwear: Oh come on. Let's go have fun in the water!
+lean_swimwear: ...Or could it be that you don't know how to swim?
+melissa_swimwear: Of course I do. You think a famous treasure hunter like myself doesn't know how to swim?
+melissa_swimwear: I would wade through fire and water alike without a shred of hesitation if there were riches to be had. 
+melissa_swimwear: But without treasure...
+lean_swimwear: Ugh... I invited Melissa to the beach so we could grow closer as friends... 
+lean_swimwear: But nothing is working...
+Ladies' Man A: Why hello there, ladies. You two seem a little bored. How'd you like to join us for some yakisoba?
+lean_swimwear: Sorry, is he hitting on us?
+Ladies' Man B: A couple of cuties like you should be out there having fun! How about some bubbly? Our treat!
+lean_swimwear: Well, um...
+Ladies' Man A: What's there to think about? It's summer! Lighten up a little!
+melissa_swimwear: ...
+melissa_swimwear: Are those flies I hear?
+Ladies' Man A: Hahaha! That's a bit harsh, though I can't say I dislike strong-willed women.
+melissa_swimwear: My mistake—a fly has more smarts than you do. Keep buzzing around, and I'll be forced to swat you.
+melissa_swimwear: I'm offended you think you're worthy enough to even speak to me. 
+melissa_swimwear: Now get out of my sight before I squash you!
+Ladies' Man B: O-Okay...
+Ladies' Man A: Sorry to bother you!!!
+lean_swimwear: Wow, look at them run. You sure are something, Melissa.\n
+lean_swimwear: I wish you would do that to Dust for me.
+melissa_swimwear: Chasing off men like that is nothing, really.
+lean_swimwear: Aaahhh! She's so cool! Maybe I should be more like her...
+lean_swimwear: I've been pampering Dust and the others way too much lately.
+lean_swimwear: ...
+lean_swimwear: Can you teach me how to be cool like—?!
+Puppy: Arf! Arf! Arf!
+melissa_swimwear: *Gasp*
+lean_swimwear: Huh, a puppy. I wonder where he—
+melissa_swimwear: Oh my GOSH! His little water-soaked ears look so cute! 
+melissa_swimwear: Where did you come from, little fella? Wanna play?
+lean_swimwear: Wh-What? You barely moved when I wanted to swim.
+melissa_swimwear: Oh, don't be offended. No woman could resist a fluffy little cutie like this. 
+melissa_swimwear: C'mon, little puppy! Let's go play!
+lean_swimwear: What a sudden change... She must really have a thing for fluffy animals.
+lean_swimwear: Wait, what am I doing?! This is no time for reflection!\n
+lean_swimwear: This is my chance! I've got to take it!
+lean_swimwear: Wait for me, Melissa! I wanna play too!
+ナレーション: Thanks to the sudden arrival of a puppy, Rin was able to enjoy a wonderful afternoon at the beach with Melissa...

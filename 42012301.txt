@@ -1,0 +1,82 @@
+luna: I'm sorry for asking you here so suddenly, 
+luna: but I have a quest I need your assistance with.
+luna: It's to dispose of a pack of lizard runners...
+kazuma: Sorry, not interested. Goodbye.
+luna: W-Wait, I haven't finished yet! The lizard runners that 
+luna: appear at this time of year are particularly aggressive.
+darkness: I've heard of this. They gather in large groups for one final sprint 
+darkness: before they enter hibernation.
+megumin: So it's like their way of celebrating the year's end?
+aqua: Oh? The reward for this quest is much higher than usual! 
+aqua: Kazuma, let's do it!
+kazuma: No way! The only thing dealing with lizard runners has given me 
+kazuma: is bad memories!
+megumin: Bad memories? 
+megumin: Oh, you mean that time you died while we were hunting the princess runner?
+kazuma: You got any idea how much it hurts to get your neck snapped? 
+kazuma: If I never see those things again, it'll be too soon.
+luna: I thought it'd be best to ask someone with experience, 
+luna: since you were technically successful last time, but... 
+？？？: In that case, why don't I take care of it for you?
+megumin: Wha—?! Melissa? You have your 
+megumin: eye on this quest too?
+melissa: Not exactly, but if that good-for-nothing is going to 
+melissa: turn it down, I trust there's no objections if I take it.
+megumin: I object! 
+megumin: We're accepting this job, right Kazuma?
+kazuma: Personally, I don't care a whit if she takes the job. Missing out on a reward sucks, but— 
+kazuma: Hmm...
+melissa: Shall I take your silence as consent to my plan?
+kazuma: Hold on, Melissa. I've got a proposal for you. How would you like to work together on this one?
+melissa: What in the world are you talking about? Why would I agree 
+melissa: to reduce my profits? I'd have to split the reward.
+kazuma: You say that, but taking on an entire group of lizard runners is a bit much to handle alone, even for you.
+kazuma: We'll split the reward evenly. That should be more than enough for everyone, since the rate is so high.
+melissa: I...suppose this would be easier with the party the guild 
+melissa: specifically chose for the quest. Fine, I accept your offer.
+kazuma: Excellent! This'll be a lot easier with your help! 
+kazuma: Now...to take my revenge on those lizard runners!
+questStart: Kill Quest
+Defeat Lizard Runners!
+Defeat Lizard Runners!
+kazuma: Our strategy is basically the same as last time. I'll start 
+kazuma: by using Snipe on 
+kazuma: the princess 
+kazuma: and king runners.
+darkness: If that fails, I'll jump in as a decoy while Kazuma Snipes them again.
+megumin: And if that doesn't work, it's my turn. I've got plenty of oomph today, 
+megumin: so you can count on me!
+melissa: So I just have to protect Kazuma from the lizard runners?
+kazuma: Yep. Aqua, you'll be providing backup like last time. Just focus on support and healing magic. 
+kazuma: ...Nothing more, okay?
+aqua: Yeah, yeah. I'm really sorry about last time, you know.
+kazuma: Good. 
+kazuma: All right then, let's do this!
+kazuma: Oh, that tree looks good. It's the perfect height for 
+kazuma: using 
+kazuma: my Snipe skill.
+kazuma: Just you wait, you filthy lizard runners! This time, I'll end this 
+kazuma: with a burst of 
+kazuma: well-placed Snipes and—
+melissa: Get out of the way!
+kazuma: Whoa! Wh-What are you doing, Melissa?! This tree 
+kazuma: is my 
+kazuma: sniping 
+kazuma: position!
+melissa: Shut up! Are you blind or something?!
+Cat: Meooow.
+kazuma: A cat?
+melissa: Oooh! You poor little kitty! Are you stuck in that terrible tree?!
+melissa: It's okay, little guy. Everything's going to be all right. ♪ Meow meow, meeeooow! ♪
+kazuma: This is no time to be worrying about some cat in a tree! Look at how close those lizard runners are!
+melissa: Don't be scared! ♪ Melissa will protect you! ♪ Come now, little one. Meow meow, meeeooow! ♪
+Princess Runner: Graaaaaah!
+aqua: Kazuma, they're here! Hurry up and shoot!
+kazuma: Melissa is in the way! I can't! 
+kazuma: Oh, forget about the plan! We'll just have to wing it! Everyone, time to fight!
+darkness: That's fine by me. I'll distract them!
+kazuma: Megumin, get ready to cast Explosion!
+megumin: Yes!
+melissa: Meow meow? ♪ Meow meow 
+melissa: meeeooow! ♪
+kazuma: Melissa, you can play with the cat after we take care of these lizard runners!

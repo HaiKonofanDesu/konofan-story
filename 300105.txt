@@ -1,0 +1,66 @@
+BgCamera: NoWait
+Explosion Magic for This Powerful Enemy! - P1
+kazuma: Here goes... Create Water!
+汎用魔法_水（青系）_小: 
+
+ナレーション: Right then, magical sigils appeared from Kazuma's outstretched hand, causing water to fill the cup till it overflowed.
+kazuma: That's what I'm talkin' about! I don't care if it's beginner's magic—it's still magic!
+megumin: Woohoo. 
+megumin: You would've been better off saving your skill points for explosive magic, though.
+aqua: So you've forsaken the use of a shield in favor of becoming a rune knight.
+darkness: Why don't we go and test it out?
+darkness: I-If possible, I would love to face monsters of a more...aggressive nature. 
+darkness: Haaah... Ones that make you tingle when they smack you around!
+kazuma: Huh? What is UP with today's quest board? There's almost nothing on it!
+luna: You'll have to bear with it for now. You see, one of the Devil King's generals has taken up residence nearby.
+luna: That may be why the weaker monsters have gone into hiding, creating a workflow shortage all around.
+Megumin ＆ Darkness: That sucks!
+kazuma: Guess we're screwed on decent quests until some skilled adventurer or the king's knights show up.
+kazuma: So much for thrilling adventures in the new world.
+#000000aa: NoWait
+kazuma: Hey, Megumin. I'm bored as sin without any quests to do, but it's not like we can't practice on our own, right?
+megumin: And just who's gonna carry me home? You? I'm toast after I cast my spell, remember?
+kazuma: Hang on! I have to carry you home EVERY DAY from now on?
+kazuma: Let's just do it somewhere nearby, then. We can find a field, we can do our thing, and then we can go home.
+megumin: That's not gonna fly. The guards will yell at me again if I do it near the town like last time.
+kazuma: "Again"? What, did someone put in a noise complaint?
+megumin: Mmgh...
+kazuma: *Sigh* Nice going...
+megumin: Is that an abandoned castle up there?
+kazuma: It creeps me out.
+megumin: You couldn't ask for a more perfect target, though! Like anyone'll complain if I blow THAT garbage to smithereens!
+megumin: Crimson black blaze, king of myriad worlds, spreader of nature's laws, and alias of destruction incarnate!
+megumin: May the hammer of eternity descend unto me! 
+megumin: EXPLOOOSION!
+ナレーション: A fireball erupted from the ruins with a deafening roar. Though she gazed in admiration of her own handiwork at first, seconds later, Megumin fell flat on her face.
+megumin: Ah... That was...awesome.
+ナレーション: Megumin was pleased. Very pleased indeed at finding a new place to practice her explosion magic every day.
+ナレーション: She practiced on icy evenings amidst the cold and bitter rain...
+megumin: EXPLOOOSION!
+ナレーション: She practiced on tranquil afternoons after a lovely picnic...
+megumin: EXPLOOOSION!
+ナレーション: She practiced after a brisk and refreshing morning walk...
+megumin: Boom, baby ♪ Boom, baby ♪ EXPLOOOSION!
+kazuma: Eh. Sixty points. The sound didn't have enough "oomph."
+ナレーション: Rain or shine—it did not matter. Megumin still visited the castle to perform her magic uninhibited.
+ナレーション: Her hard work was paying off, too; the more time passed, the more she gained a feel for the spell's quality before she even cast it.
+megumin: EXPLOOOSION!
+kazuma: Oh! That was a good one.
+kazuma: I felt it right down to my bones. Even the air from the shockwave just wooshed through me.
+kazuma: Nice explosion ♪
+megumin: Nice explosion ♪ Glad you're starting to see the beauty behind explosion magic. Maaaybe enough to learn it yourself?
+kazuma: Hmm... If I've got the points for it, maybe I will. Someday, anyway.
+megumin: Spell yeah.
+Kazuma ＆ Megumin: Ahahahahaha!
+Announcement: Emergency! Emergency! All adventurers, ready yourselves immediately and assemble for combat at the main gate!
+aqua: Hmm? Whatever for?
+ナレーション: Just outside the gate stood an eerie, headless suit of armor, its helm nestled in the crook of its elbow...
+tough_guy: Careful! That's no ordinary monster!
+？？？: I, one of the Devil King's generals, have recently taken up residence in a nearby castle. I have business with this town.
+kazuma: One of the Devil King's generals?!
+darkness: That's a dullahan: a powerful undead fiend.
+megumin: What business does he have here?
+Dullahan: And it's THIS: every single DAY without fail, some insane fool casts explosion magic on my castle!
+Dullahan: WHO IS IT?!
+megumin: Eeep!
+ナレーション: The Devil King's general was furious...

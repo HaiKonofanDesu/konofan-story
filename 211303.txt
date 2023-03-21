@@ -1,0 +1,79 @@
+Rin - P3
+ナレーション: With Kazuma in bed with a cold, Aqua and the others invited Rin out on a quest in his place...
+aqua: Sorry to make you tag along with us. 
+aqua: It's Kazuma's fault for hanging around in his pajamas after a bath.
+lean: Don't worry about it. Dust isn't interested in quests, 
+lean: and I didn't have any special plans today.
+megumin: It's nice to try new parties once in awhile, isn't it?
+darkness: I'll take the lead myself. Let me draw all the attacks. 
+darkness: It's the blessing of being a crusader.
+aqua: Well, there are no serious threats this time. Rin's magic will easily handle anything we run into.
+lean: Please don't expect too much of my magic. It's nothing compared to a member of the Crimson Demon Clan.
+megumin: That's a given. Just remember you're in the presence of one who wields the unrivaled power of explosion magic.
+lean: I hear people say it's gimmicky, but it gets the job done.
+megumin: You're a wizard, so you should know better than anyone.\n
+megumin: Explosion magic is the pinnacle of all magic!
+megumin: It's never too late. Start saving up your skill points, and you too can learn this majestic magic.
+lean: Hmm, I'm just not sure I could wield it properly. It's not good in a drawn-out battle, either...
+lean: Besides, explosion magic is too advanced for me. I need way more levels and skill points.
+aqua: You can use intermediate magic, right?
+lean: Yeah, it's about all I can manage at this point.
+lean: How many of the arch priest spells have you mastered, Aqua?
+aqua: Naturally, someone of my elevated status has learned every arch priest skill there is!
+lean: Seriously? Wow!
+aqua: Amazing, right? Tell me more about how great I am!
+lean: Why did you choose to become a crusader, Darkness?
+darkness: That's simple: to protect people. And for their sake, I'll take the most powerful 
+darkness: blows the enemy can muster!
+lean: Such self-sacrifice... 
+lean: Incredible. You have my respect.
+megumin: I think she may have other reasons as well...
+darkness: However, I'm no good on offense. 
+darkness: That's why I'm looking forward to seeing the spells you sling, Rin.
+lean: Hah, it's been a while since someone's expected so much from me. 
+lean: I feel the pressure, but I can handle it.
+ナレーション: Upon arriving at the dungeon, the party gave Megumin their gear and a torch as they began exploring...
+Undead: Heeheeheeheehee...
+lean: Why are the undead all over us?! 
+lean: Has this dungeon changed in some way?
+megumin: Let Aqua handle the undead. We'll take care of the rest.
+Monsters: Grrrrrrrrr!
+lean: Take this! Blade of Wind!
+darkness: Okay, let me do my thing!
+lean: Darkness! It's dangerous to get in my sights!
+darkness: Don't worry! I find your spell to be...quite stimulating! 
+darkness: Go on! Let me have it!
+lean: I'll try not to hit Darkness this time... 
+lean: Blade of Wind!
+darkness: Over here now, huh? Ugh... That was a good one!
+lean: D-Darkness, stop running into my attacks!
+aqua: Hey, I'm getting hungry. Let's stop and eat.
+lean: Are you crazy?! There are still undead around!
+lean: Blade of Wind! Blade of Wind!
+darkness: Eek! Oof! 
+darkness: More! Give me more!
+lean: At this rate, they'll have us surrounded!
+megumin: Let's fall back. If the monsters follow us out of the dungeon, I can hit 'em with my explosion magic.
+lean: We can't make it to the surface that easily.
+darkness: Don't worry, I have all of your backs. 
+darkness: These are the moments a crusader lives for!
+lean: O-okay, we're counting on you. 
+lean: To the exit! Hurry, everyone!
+aqua: There! That's light from outside!
+lean: Megumin! Get your explosion magic ready!
+megumin: I can't wait any longer! Here I go!
+lean: Wait! We're not—
+megumin: EXPLOSION!!
+lean: Eeeeeeeeek!
+kazuma_jersey: Oh, welcome back. How'd it go?
+lean: Have you gotten over your cold?
+kazuma_jersey: Yeah. I slept a lot, so I'm feeling much better. 
+kazuma_jersey: How about all of you?
+megumin: I fired off a heck of an explosion, so I'm great.
+darkness: I love retreating from a fight. The pressure of your entire party's safety falling on you as you take hits... 
+darkness: Sublime!
+aqua: We just managed to make our quota, so we should celebrate by blowing our reward on some bubbly!
+lean: *Sigh* That was way more exhausting than a quest with Dust.
+kazuma_jersey: S-sorry to hear that.
+lean: I'm impressed you can put up with this constantly, Kazuma.
+ナレーション: Rin felt perhaps the deepest respect of her life after learning just how difficult the trio was to work with...

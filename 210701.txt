@@ -1,0 +1,79 @@
+Iris - P1
+ナレーション: While strolling through the halls of Belzerg Castle, Iris came upon a delicious smell...
+iris: Mmm. That aroma is absolutely wonderful. 
+iris: Is it coming from this room here?
+iris: Ah! I must restrain myself. After all... 
+iris: Peeking into someone's room would be terrible manners...
+iris: Oh, but it smells so good... 
+iris: I cannot help myself!
+iris: Oh... Is that you, Rain?
+rain: Ah! Y-your Highness! Wh-what are you doing here?
+iris: Forgive me, but I was curious about something...
+iris: Um... Would you tell me what it is that you're eating? I cannot say I'm familiar with that dish.
+rain: Oh! This is dreadful! Ah, how embarrassing...
+iris: What's the matter? Why are you ashamed?
+rain: I... I, um...
+rain: When nobles tire of the usual delicacies, they turn to the foods of the common people...
+rain: Naturally, we would never openly admit to this to anyone. This here is an example of such fare.
+rain: I bought this out of curiosity. It's a cheap, common dish.
+iris: Food enjoyed by the commonfolk! So that's why I didn't recognize it!
+iris: It's so round, and covered in red sauce and cheese... What do they call this dish?
+rain: Um... It is called pizza, your Highness.
+iris: Pizza? Fascinating... My, such a fun word to say. 
+iris: It rolls off the tongue delightfully!
+iris: And the aroma it exudes does stimulate the appetite... 
+iris: In fact, I am starting to get a little hungry...
+iris: *Stare*
+rain: Your Highness? Ah, do you wish to...partake in this dish?
+iris: Yes, absolutely! Would you so indulge me?
+rain: I-I could never! Food such as this must never sully your royal palate, Princess Iris!
+iris: There is no need to be so formal. A single slice will do!
+rain: I must refuse.
+iris: I beseech you!
+rain: I cannot permit it.
+iris: Grr... You are so cruel, Rain.
+rain: I will not allow this, no matter how much you glare at me!
+rain: If Lady Claire found out that I had given you such food, she would give me the scolding of a lifetime.
+iris: ...
+iris: Oh... 
+iris: It's so nice to see you, Claire... We were just talking about you.
+rain: Eh? L-Lady Claire? It's not what you think! 
+rain: The truth is, we were just—
+iris: Thank you for sharing! *Chomp*
+rain: Noooooo!
+iris: Yum! What a delightful dish! The tomato sauce and cheese complement each other perfectly!
+iris: The crust is pleasantly crispy yet chewy at the same time... 
+iris: I have never tasted something so enchanting!
+rain: Lady Claire isn't here at all, is she? Princess Iris... 
+rain: How could you trick me like that?
+iris: Hehehe. Forgive me... But might I have another slice?
+rain: You just said that a single slice will do, Your Highness! No, you may not have another!
+iris: Oh, if it isn't Claire! Rain and I were just indulging in this delicious pizza.
+rain: Ah! Lady Claire, please forgive me! 
+rain: I take full responsibility for this—
+iris: *Chomp*
+rain: Y-your Highness! You tricked me again
+rain: ?!
+iris: *Munch munch* Mmm! This flavor is simply incredible!
+rain: Fine... Only for today, you hear? Otherwise, this farce will never end.
+rain: Oh, your Highness?
+iris: Hm? What is it?
+rain: Please hold still... There's a bit of sauce at the corner of your mouth.
+rain: There, all clean.
+iris: Thank you, Rain. And I must say... 
+iris: Pizza is absolutely amazing!
+rain: I am happy you like it so much.
+iris: I wonder if the chef would make it for me in the castle.
+rain: I'm sure he is capable, but...
+rain: I believe pizza should be made by an expert in the craft.
+rain: This pizza had cheese and bacon, but there are other types, like ones with seafood or mushrooms.
+iris: Wow! There are other varieties, too?
+rain: Indeed. But most importantly, pizza is always best when it is fresh out of the oven!
+iris: I see... Commoner food can be quite complex. 
+iris: Hey, Rain... Can we go into town and have pizza together sometime?
+rain: Of course. It would be my pleasure—
+rain: No, what am I saying? You know you are not allowed to venture outside of the castle!
+iris: Please, there is no need to worry. You can help me convince Claire.
+iris: *Sigh* The vast world beyond the castle is still completely unknown to me...
+iris: What might await me out there? I so look forward to finding out for myself.
+ナレーション: Princess Iris gazed from her window and imagined the wide and wonderful world that lay before her...

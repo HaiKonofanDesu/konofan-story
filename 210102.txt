@@ -1,0 +1,82 @@
+Aqua - P2
+aqua: Lalalalalala! ♪ Shop-ping! ♪
+kazuma: Our quest rewards just came in, too. Let's pig out toni— 
+kazuma: Huh?
+cecily: Hello, adventurers! You look like you wanna join the Order of Axis!
+Male Adventurer: I wasn't even looking at you... Sorry, no solicitors.
+cecily: I see. You don't want to join for free...so you can have the prettiest priestess of Axis compensate you instead?
+Male Adventurer: No, I—
+cecily: Well then, I shall accompany you to one meal. In exchange, 
+cecily: you'll fill out this form and treat me to pasta!
+Male Adventurer: There's nothing in it for me!
+kazuma: Hey, Aqua. Your follower's causing trouble in the streets there.
+aqua: Oh, it's Cecily! Passionate as ever, I see.
+kazuma: Why are Axis followers always up to no g—
+aqua: What are you talking about, Kazuma? They're such wonderful, devout followers. 
+aqua: The way they spread the good word is a sign of their faith in me.
+kazuma: Hmm... So the problem isn't so much them, but who they're putting their faith in.
+aqua: As a goddess, I have to support them. So you'll have to take care of dinner yourself tonight!
+kazuma: Hey! Quit trying to weasel out of your responsibilities!
+aqua: Cecily! Lady Aqua herself will assist in your good work!
+aqua: Hello, hello! Come one, come all! ♪
+aqua: The Axis Order is currently recruiting new believers! 
+aqua: Apply now, and you'll get a free pot and detergent!
+cecily: No way! 
+cecily: If you let this amazing chance pass you by, you'll never forgive yourself!
+aqua: "I was poor before joining the Order of Axis, but now I'm rolling in dough! Also, I'm twice as tall!"
+aqua: "The Order of Axis made me more popular! Of course, I didn't tell any of my friends about my secret method, lol."
+aqua: "I was a little skeptical at first, but after praying 30 minutes a day, my grades shot up! Long live the Order!"
+cecily: The rave reviews from our followers just keep coming! 
+cecily: Here's the application!
+aqua: You there! From the looks of it, you're a follower of Eris, right?
+Female Eris Follower: I am, but...how did you know?
+aqua: It's obvious! I mean, you're padding your chest, right? 
+aqua: I bet that gives you a complex among your peers.
+aqua: I worry that your fellow Eris believers will bully you for that washboard if you stay there.
+Female Eris Follower: N-no, they'd never—
+aqua: It's okay, you don't have to say it! 
+aqua: We both know there's only one way you can be saved!
+aqua: And that's to convert to the Order of Axis! One of our core teachings is "Thou shalt love flat chests"!
+aqua: We will warmly and wholeheartedly accept your under-developed bust into our arms!
+Female Eris Follower: S-stop calling me flat! How rude... And besides, I have no intention of converting!
+aqua: Oh, you're saying you'd feel bad for Eris? 
+aqua: It's all right. Eris is generous. She won't get mad.
+aqua: In fact, she'd cry tears of joy at being able to help her precious Aqua!
+Female Eris Follower: I already said—
+aqua: We have an application ready for you! All you have to do is sign right here. It's easy!
+cecily: Lady Aqua... How powerful! You are truly magnificent!
+aqua: Come on, hurry up. Did you forget your own name or something?
+aqua: Or perhaps you'd like something in return? 
+aqua: Okay, sure. Have some of our special detergent.
+aqua: Just between you and me... You can even drink it!
+Female Eris Follower: Are you even listening to—
+aqua: Hurry, hurry! If you don't act quickly, your fortune will leave you behind! So what now? Your choice!
+aqua: !
+Female Eris Follower: Sorry! No thank you!
+aqua: Yeesh, did she have to run off like that?\n
+cecily: For some strange reason, the Order of Axis isn't very popular in this town.
+cecily: So let's bring down the name of Eris instead! If we cannot push, then we must pull!
+aqua: "Do not submit yourself to heresy. If you do, then tomorrow you will all suffer stomachaches!"
+aqua: "To avoid this, follow the Order of Axis and bring an offering of snacks to the pretty blue-haired girl at the tavern!"
+aqua: Yes, not bad at all! Now to plaster these all over the Eris Church walls!
+cecily: Ah, please leave that to me! I have a talent for sticking things on walls and running!
+aqua: All right, then! Let's work together for the future of the Axis faith!
+cecily: Yes! For the future of the order!
+cecily: Rraaagh! I'll get you yet, Eris heretics!
+aqua: It feels so nice to do good deeds.
+kazuma: What part of that was good?!
+aqua: Oh, there you are, Kazuma.
+kazuma: Can you stop this already? If this turns out like another Arcanretia, how am I supposed to get any peace?
+aqua: That's it! Great idea, Kazuma! This place will be the second capital of the Axis faith!
+kazuma: Did you hear anything I just said? 
+kazuma: I am STRONGLY against this.
+aqua: Hmph. 
+aqua: Fine. But faithful followers naturally gather in one place, whether you like it or not!
+aqua: Especially...a place that a lovely water goddess calls her home!
+kazuma: I'm so lucky nobody actually believes in you.
+aqua: Hm? Did you say something?
+kazuma: Nah. Er, good luck.
+aqua: No need! Just watch; that padded goddess is gonna come crawling 
+aqua: back in tears like, 
+aqua: "You win, Aqua!"
+ナレーション: From that day on, the Order of Axis suffered a further drop in popularity thanks to Aqua's efforts...

@@ -1,0 +1,35 @@
+Fireworks at the Yukata Festival
+ナレーション: The Crimson Demon village was alive with a festival. Rin and Amy were in attendance, wearing yukata made by Aqua.
+Amy_yukata: Look, Rin! "Forbidden fruit in a saccharine shell." 
+Amy_yukata: Have you ever seen something so red and delicious?
+lean_yukata: Candy apples? Talk about overselling your case. 
+lean_yukata: Though, on second thought, we ARE among Crimson Demons.
+Amy_yukata: I think I'll buy some for Mia. You think a hundred will be enough for her?
+lean_yukata: More than enough—way more. 
+lean_yukata: Speaking of Mia, where did she scamper off to now?
+Amy_yukata: She mentioned grabbing a bite with Komekko before the dancing starts. 
+Amy_yukata: Let's hope she doesn't stain her yukata.
+lean_yukata: You never know, considering how wild those two are. 
+lean_yukata: Say, I've never worn a yukata before. 
+lean_yukata: Does it look good on me?
+Amy_yukata: Good? Try fantastic. Stunning.
+lean_yukata: People dance with these on, right? 
+lean_yukata: To be honest, I'd rather dance in adventurer's garb. It's less restricting.
+Amy_yukata: I figured as much. 
+Amy_yukata: Oh, do you smell that?
+Barker A: Corn straight from the eternal inferno! A village specialty that nobody can resist!
+Barker B: Green and grilled to sheer perfection! To thee I vow culinary delectation!
+lean_yukata: Ooh, grilled corn. And bacon-wrapped asparagus! 
+lean_yukata: Amy, do you mind if I get one of each?
+Amy_yukata: I wouldn't dream of denying you your beloved veggies. 
+Amy_yukata: They also have "tantalizing taters draped in diary."
+lean_yukata: What's that even mean? 
+lean_yukata: ...Ah, butter-grilled potatoes. 
+lean_yukata: Sounds good to me!
+lean_yukata: Hmm... I'm starting to understand Crimson Demon speak—how frightening.
+Amy_yukata: Why? 
+Amy_yukata: I think it's lovely you're expanding your cultural horizons.
+Amy_yukata: There's still time before the dance. I say we follow Mia's example and try a bit of everything.
+lean_yukata: Okay! 
+lean_yukata: For our first course... 
+lean_yukata: Sir, two cobs of your hellfire-roasted corn, please!

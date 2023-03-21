@@ -1,0 +1,36 @@
+Fortunes! New Year's Furisode
+ナレーション: New Year's in Axel. Three kimono-clad figures stood in front of the magic item shop.
+banil_newyear: To our pitiful shopkeeper and new employee, 
+banil_newyear: I wish you both a Happy New Year! 
+ynyn_newyear: H-Happy New Year! 
+wiz_newyear: V-Vanir? Perhaps we could stop calling me "pitiful" for the new year? 
+banil_newyear: We cannot! Look at all the useless products you've already bought! 
+banil_newyear: Thanks to you, we're starting the new year in the red!
+ynyn_newyear: Wh-Why did I take this job again? 
+banil_newyear: I'll hear none of your complaints, Crimson Demon girl. 
+banil_newyear: You accepted without hesitation when I offered. 
+banil_newyear: "When I see someone playing karuta all alone on New Year's, I feel the need to reach out, even if they're a demon."
+banil_newyear: Now, let us begin! We'll make New Year's mochi, sell it to the masses, and finally make up for the pitiful shopkeeper's failures!
+wiz_newyear: Yunyun, give it a go whenever you're ready! 
+ynyn_newyear: O-Okay, here I go! Hee!
+wiz_newyear: Hyah! 
+ynyn_newyear: Hee! 
+wiz_newyear: Hyah! 
+banil_newyear: Pick it up, Crimson Demon girl! 
+banil_newyear: Such feeble pounding will never produce mochi! 
+banil_newyear: Work your weak back and pound! 
+ynyn_newyear: Oomph! Oomph! Oomph!
+wiz_newyear: Hyah! Hyah! Hyah! 
+banil_newyear: Good, that's much better.
+wiz_newyear: Um, Vanir, how long do we have to do this? 
+ynyn_newyear: I-I'm a bit tired as well. 
+banil_newyear: Unlike the monks at the temples, we'll be selling our mochi. So we must prepare a large quantity! 
+banil_newyear: No more complaints! Pound, shopkeeper, pound! 
+banil_newyear: Think of our sales. Consider each piece of mochi a golden egg!
+wiz_newyear: Right, our sales! I'm sure we can sell the new magic items too! 
+wiz_newyear: Let's give it our best, Yunyun!
+banil_newyear: And Crimson Demon girl, you want more friends, right? You can keep some of the mochi to hand out. 
+banil_newyear: Make the mochi, hand it out, and then make lots of friends! 
+banil_newyear: A bright future awaits you! 
+ynyn_newyear: R-Really?! I'll work until my hands bleed! 
+ナレーション: Thanks to the mountain of mochi they made, Wiz's shop was much more profitable than usual.

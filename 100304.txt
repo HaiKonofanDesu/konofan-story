@@ -1,0 +1,95 @@
+A Break-In at This Impregnable Vault! - P4
+ナレーション: Known for its casino, Elroad was filled with people playing cards and other games of chance...
+aqua: This place is amazing! Look at all of the people!
+darkness: Indeed. That shouting must be coming from the casino.
+megumin: It's so far away, though... Just thinking about the 
+megumin: carriage ride home makes me tired.
+melissa: Don't worry. There's a teleporter just outside town, so the return trip will be instant. 
+kazuma: You sure know a lot about this place. Do you come here often?
+melissa: Of course. I hate to put a damper on things, but we've got a job to do.
+melissa: So listen up while I go over the plan!
+megumin: Oh, I can't wait to test my skills!
+aqua: Well, with my help, we've got this thing in the bag.\n
+aqua: I wonder how much treasure we'll score!
+kazuma: Hey, Aqua. You're gonna jinx us.
+melissa: We'll take this path here into the casino tonight. There are guards stationed in this area.
+darkness: You even know when the guards change shifts... Where did you obtain such information?
+melissa: Trade secret. Now, we'll start here, in this plaza...
+kazuma: I see... In that case, think you can do it, Aqua?
+aqua: Leave it to me! My art isn't meant for such trivial matters, but with such a big stage, I can put on a good show!
+megumin: Wait, I don't like where this is going! My explosion 
+megumin: magic is the best way to kick off this mission!
+kazuma: What, you want to blow up the whole casino?\n
+kazuma: We need you to do something at the end.
+megumin: Forget it! It's not fair that only Aqua gets to show off! Explosion magic! I want to use my explosion magic!!!
+kazuma: Stop being so selfish, you explosion addict!
+megumin: What'd you call me?!
+darkness: C-Calm down, you two. Let's hear the rest of the plan. Sorry about that, Melissa.
+melissa: Will those kids really be okay? I'm kinda worried.
+melissa: Moving on, the remaining party members will head for this room here...
+darkness: Wh-Wh-What?! Th-There's no way I could do something like that!
+melissa: Seriously? I thought I made myself clear—what I say goes. Or did you forget that little detail?
+darkness: I-I did not forget. Your words were clear, it's just...
+melissa: Know your place. You're inexperienced amateurs who can't do anything until I teach you how.
+melissa: Keep talking back like that, and I'll make it so you won't even THINK about defying me.
+darkness: Forcing your way upon us when we're helpless in an unfamiliar land... 
+darkness: I couldn't ask for more!
+kazuma: It's hopeless. Melissa is the perfect match for Darkness's quirks. She'll never be able to stand against her.
+melissa: And as for you, Kazuma...
+kazuma: You don't need to say it. You need me in the last\n
+kazuma: room before the vault, right?
+melissa: You're actually pretty sharp. 
+melissa: Tonight, we make our move! We'll go when the guards change shifts. Security is lightest then.
+questStart: Quest:
+Break into the vault
+
+
+
+
+
+and pilfer the treasure.
+Break into the vault
+
+
+
+
+
+and pilfer the treasure.
+ナレーション: Kazuma's group gathered in the casino, which was bustling with people playing cards and roulette...
+darkness: It's almost time. I'm getting a bit nervous.
+megumin: At times like these, it's important to stay motivated. Let's get going already!
+megumin: It is I, Megumin! Foremost spellcaster of the Crimson Demon Clan and master treasure—
+megumin: Owwwwww, that hurt!\n
+megumin: Why'd you hit me?! 
+kazuma: I'm the one who should be asking YOU why! Do you want to ruin the plan?!
+melissa: He's right. We need Aqua to create the distraction, not Megumin.
+kazuma: We're counting on you, Aqua. Your tricks should be more than enough to hold everyone's attention!
+aqua: Hehe, of course! While you're stealing the treasure, I'll steal the attention and hearts of the guests!
+aqua: All right, everybody! Gather 'round!
+aqua: Has this cruel casino got you down? Worry not, for a goddess has come to heal your wounded heart!
+Customer A: Huh? Who the—? Is "Goddess" her stage name or something?
+aqua: All right, let's get started... 
+aqua: Behold! Nature's Beauty!
+Customer B: Whoa! You're pretty good!
+aqua: We're just getting started. I'll show you something better.\n
+aqua: Okay! Get! Ready!
+Customer C: Just when I was getting depressed from losing everything... This is great! Keep going!
+darkness: Okay, Aqua has the crowd's attention! This is our chance! Let's head for the back door!
+kazuma: According to this map, if we turn right at the end of the hall, the room with the vault should be up ahead.
+melissa: That went smoother than expected, thanks to your Lurk skill. You're better than I expected. This may be your calling.
+kazuma: Getting the approval of a seasoned treasure hunter like Melissa... 
+kazuma: feels pretty good.
+megumin: By the way, Melissa, what made you want to become a treasure hunter in the first place?
+darkness: There are not many who would want to become a treasure hunter. I'm curious, as well.
+melissa: It's simple. Beautiful jewels should belong to one as beautiful as myself. 
+Kazuma, Megumin ＆ Darkness: Okay, sure...
+megumin: Hey, Kazuma! I see it up ahead! The room with the vault should be right through that door.
+kazuma: There's one guard... Okay, Darkness. You're up!\n
+kazuma: Hey, what are you squirming for?!
+darkness: D-Do I really have to do this, Kazuma? Don't you think we should try something else?
+kazuma: What are you talking about?! We can't back out now!
+darkness: B-But I have my pride! I am a noble! I could never do that in front of someone...
+melissa: Just do it already.
+darkness: O-Okay...
+kazuma: Were you waiting for Melissa to give you your orders?
+ナレーション: Blushing deeply, Darkness moved away from the group and appeared before the lone guard...

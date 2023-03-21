@@ -1,0 +1,100 @@
+God's Blessing on This Wonderful Work of Art! - P4
+Giant Golem: Grrraaaaaahhh...
+ナレーション: Megumin's explosion stopped the golem in its tracks, and the ground trembled as it fell...
+darkness: Ahh... It's been a while since I've been hit that hard. Today's quest was a real pleasure!
+megumin: Aqua, we're taking these golem parts home! It can be our house golem!
+aqua: How are we going to carry them all?!
+aqua: I'll make you a transforming Dendromaiden out of milk cartons when we get home, so just be patient.
+megumin: Milk cartons?
+kazuma: Fine... 
+kazuma: Huh?
+ナレーション: The eyes of the fallen golem flashed as an ominous beeping rang out, growing faster and faster...
+kazuma: Um, that doesn't sound good...
+aqua: I'm just amazed none of us got hurt by that thing. 
+aqua: We're done here, so let's go home and eat—
+kazuma: Argh! Do you ever stop with the foreshadowing?!
+Giant Golem: Grrrawwwrrr!
+ナレーション: The golem self-destructed, sending Kazuma and the rest of the party flying all over...
+kazuma: And so, when I realized Darkness couldn't handle it, I drew the golem's attention while Megumin finished it off.
+kazuma: Of course, Aqua did absolutely nothing. As usual.
+lan: Aaaaaah! You and your party really are amazing, Kazuma!
+kazuma: Darkness was actually quite pleased to be attacked. And Megumin wanted to keep the golem as a pet...
+kazuma: But that's pretty much what happened, so I think I can stretch the truth a bit for my biggest fan.
+？？？: Kazuma Satou! Is that you, Kazuma?!
+mitsurugi: Have you been drinking here all afternoon? Where is Lady Aqua? Why is she not with you?
+kazuma: Y-you...!
+kazuma: Let's see, your name is Yamamoto... No, Tanaka... Or was it Take—
+mitsurugi: You're not even close! It's Mitsurugi! Kyouya Mitsurugi. Do try to remember it this time!
+lan: Huh?! M-M-Mitsurugi?! You mean the great hero of the famed mystical blade?!
+kazuma: What's that about? She didn't act like that when she met me.
+lan: You're THE Mitsurugi? You're even famous in the capital for taking down that ancient dragon... Is it really you?!
+lan: M-m-my name is Ran! Would you mind if I shook your hand?
+mitsurugi: Of course it would. Here you—
+kazuma: NOW I REMEMBER!!
+kazuma: You're THAT Mitsurugi. Aren't you the one I beat easily? Sorry, I almost forgot since it was over so quickly.
+lan: Huh? Mitsurugi lost to you?
+kazuma: Yeah, that's right. You beat an ancient dragon... Amazing. Yup, truly amazing stuff.
+kazuma: Surely you've heard how I defeated three of the Devil King's generals...
+mitsurugi: I see you haven't changed one bit...
+kazuma: Hm? Is that your precious cursed sword, Gram? I guess you bought it back from the pawn shop.
+kazuma: Well, that's good to see. I'm glad you have such a dauntless attitude, Mitsurugi.
+？？？: Excuse me, Kazuma Satou?
+kazuma: Yeah, I'm Kazuma.
+luna: Since you defeated those three Devil King generals, 
+luna: I have a request for you. However...
+kazuma: If you're asking me to go on a quest, you can forget it.\n
+kazuma: That golem quest was way too intense!
+lan: Huh? Weren't you just saying how easy it was?
+kazuma: Huh?!
+aqua: So you took on another weird quest? You try to act all smart, but seriously, are you an idiot?!
+aqua: As you can clearly see, I'm busy making a Dendromaiden for Megumin. Go and cancel that quest right now.
+megumin: Exactly. I don't care about any quests until this is done. 
+megumin: Now let her finish my transforming Dendromaiden!
+kazuma: What exactly is a Dendromaiden? Regardless, I must say... That's quite an impressive model to build from milk cartons.
+kazuma: If she really is this creative, I think she could live a much more comfortable life doing something else.
+darkness: Well, shouldn't we hear what this quest is about first? 
+darkness: If it's a powerful enemy, I'd be more than happy to accept!
+aqua: Huh? Look, I really don't want to take any quests at the moment.
+kazuma: It'll be fine. We just have to explore those ruins from before.
+kazuma: Plus, as a reward for defeating the golem protecting them, we can keep whatever treasure we find there.
+aqua: Okay, you talked me into it!
+questStart: Guild Quest:,
+Search the ruins.
+
+
+
+<size=50>Difficulty: Unknown</size>,
+Search the ruins.
+
+
+
+<size=50>Difficulty: Unknown</size>
+aqua: Hey, can't you just dip in, take a quick look, and then be done with this thing?
+aqua: I mean, you're the one with the Lurk skill, Kazuma. You could do this by yourself...
+kazuma: I guess I could, but then all the treasure would be mine.
+aqua: Oh, yeah. Hooray for teamwork!
+megumin: I'm not even sure what these magic items are... What exactly are they used for?
+kazuma: That's no magic item... It's a board game.
+darkness: I detect a faint scent from this... Is it a perfume bottle?
+kazuma: That's a bathroom air freshener! 
+kazuma: This must be the lair of that Japanese guy.
+kazuma: Hm? Hey, my Enemy Detection skill is going off!
+aqua: Let me guess, we're going to encounter a smaller version of that golem we defeated last time?
+aqua: If so, we'll be fine as long as Darkness is here. While she's distracting it, Kazuma can finish it off!
+Golems: *Howl*
+aqua: Aaaaaah! 
+aqua: Aaaaaaaaah!
+ナレーション: A horde of small golems surrounded Aqua and clung tightly to her...
+aqua: Why?! 
+aqua: Why does it always have to be me?!\n
+aqua: Do they like me that much?!
+kazuma: Darkness, use your Decoy skill!
+darkness: I already am! Something's wrong... 
+darkness: Could it be...
+megumin: Aqua! Ghosts must be possessing those golems! They're undead— Your sworn enemy!
+aqua: God 
+aqua: Blow!
+Golems: Graaaaaah!
+aqua: God Requiem! Hyaaah!
+kazuma: Today sure is going well.
+ナレーション: Kazuma and the gang headed further into the ruins...

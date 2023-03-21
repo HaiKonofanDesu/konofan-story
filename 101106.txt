@@ -1,0 +1,100 @@
+Gratitude for This Wonderful Person! - P6
+kazuma: Curse it all. Axel Hearts abandoned me...
+aqua: You can't mope around like this forever, Kazuma.\n
+aqua: Let me sit here and enjoy my bubbly in peace.
+megumin: Kazuma! Hey, Kazuma! Pull yourself together already. 
+megumin: C'mon, let's go blow up that castle outside town.
+kazuma: That's what YOU do to feel better.
+darkness: Kazuma, if you want to work out some stress, 
+darkness: you can yell and berate me all you like!
+kazuma: You'd like that, wouldn't you?!
+luna: Excuse me. Is Kazuma in?
+kazuma: Ah, it's Luna from the guild. I didn't know you made house calls.\n
+kazuma: I'm afraid I'm not in the mood for a quest right now.
+luna: Actually, this isn't about a quest. Axel Hearts asked me to give you a message.
+luna: They need you to come to the guild as soon as possible. Apparently, it's urgent.
+kazuma: Urgent? 
+kazuma: They really are getting rid of me!
+luna: Hello, Lia. I brought Kazuma with me.
+kazuma: Grrraaah! If you're gonna fire me, just get it over with! But there's something I wanna say first! Axel Hearts—
+lia_stage: Kazuma, thank you for coming. Look over at the stage.
+kazuma: Huh? What's going on? What's that stage for? And why is everybody here?
+dust: Yo, Kazuma! How've you been? 
+dust: I gotta thank you. I get to see an Axel Hearts show for free because of you!
+lean: Dust, behave yourself, or I'll make sure you regret it later.
+miia: More food! More food! More food!\n
+miia: This smoke lizard is super tasty!
+Amy: Aww, Mia... You're always such a hungry little girl.\n
+Amy: Excuse me! Could we get some more meat for Mia?
+melissa: You cuties always move at your own pace, don't you?\n
+melissa: Kazuma is here, so now the show can begin.
+kazuma: I-is this...the final performance I'll see as producer? It is, huh... 
+kazuma: But no, I refuse to accept it!
+cielo_stage: Um, Kazuma, I don't get what you're so freaked out about.
+lia_stage: We just want to put on a special show for you, to express our gratitude.
+kazuma: Huh? Seriously?
+chris: I almost think that these girls are too good for you.
+mitsurugi: I honestly don't understand what they see in you, Kazuma Satou.\n
+mitsurugi: You should accept their gratitude.
+darkness: You were worried over nothing. That's a good thing, right?
+kazuma: For real? But Cecily made it sound like you girls were going to fire me.
+cecily: I never said that! I swear to Lady Aqua!
+aqua: That's right! My followers only live honest lives!\n
+aqua: You just misunderstood her!
+kazuma: She had no problems fanning the flames earlier...\n
+kazuma: But yeah, it looks like I was wrong.
+luna: Kazuma, the group has a present for you.
+lia_stage: Kazuma, we hope you like this.
+kazuma: What's this? A potion?
+cielo_stage: It's sap from a rare tree. If you use it on your weapon, 
+cielo_stage: it will erase the name from its hilt!
+lia_stage: The name Chunchunmaru has bothered you, and now you can change it.
+megumin: Wha?!
+kazuma: No way! 
+kazuma: Oh, man! This is the best present ever! Finally, I can get rid of that stupid name!
+erica_stage: Yunyun told us about this magical sap.
+ynyn: I-I'm really glad you like the present.
+megumin: Yunyun, you traitor!
+ynyn: Huh? Why are you mad at me, Megumin?!
+megumin: Why wouldn't I be?! That's a powerful Crimson Demon name!
+darkness: Well, Kazuma isn't a member of the Crimson Demon Clan.
+kazuma: What should the new name be? Muramasa? Kotetsu? Or maybe... 
+kazuma: Masamune?!
+kazuma: I know! I should name it after an Axel Hearts song, to really remember this moment! 
+kazuma: Sayonara, Chunchunmaru!
+ナレーション: Kazuma poured the sap on his weapon, which glowed faintly as the name disappeared from its hilt...
+kazuma: Looks like it's been reset. 
+kazuma: Okay, I've made up my mind! Henceforth, my blade will be known as—
+megumin: <size=50>Chunchunmaru!\n </size>
+kazuma: Noooooo!!
+ナレーション: The blade reacted to Megumin's voice as the name was inscribed into the hilt once again...
+kazuma: W-wait! That wasn't it! I want a do-over!
+darkness: It's no use. The name has already been inscribed.
+kazuma: Um, is there any more of the sap?
+cielo_stage: S-sorry, but it's pretty rare stuff...
+kazuma: What have you done, Megumin?!
+megumin: Bwahaha! Do you understand my powers now? As a member of the Crimson Demon Clan, 
+megumin: only I may name Chunchunmaru!
+arue: Heh... A bloodstained fate that can never be altered.
+lia_stage: Anyway, I know this isn't how you wanted it to turn out...\n
+lia_stage: But we appreciate all your support, Kazuma.
+erica_stage: We're very grateful. It's because of you that we were able to make it this far as a group.
+cielo_stage: I still haven't gotten over my fear of men, but thanks to you I'm getting better, bit by bit.
+Axel Hearts: We look forward to lots more work together, Producer!
+kazuma: Girls...
+dust: Okay, everyone! Let's give Kazuma a celebratory toss!
+mitsurugi: You were definitely the MVP when we fought Daniel.\n
+mitsurugi: It's a bit irritating, but I'll join in.
+lean: Here we go, gang! Ready...
+Mitsurugi, Dust ＆ Rin: Hip! Hip! Hooray!
+Aqua, Megumin ＆ Darkness: Hip! Hip! Hooray!
+kazuma: It's a bit embarrassing to be celebrated like this, 
+kazuma: but I don't mind.
+lia_stage: Thanks for everything, Kazuma.
+erica_stage: Keep calling me cute and cheering me on!
+cielo_stage: I appreciate your guidance and encouragement!
+kazuma: Thanks, and I want to thank you all, too!
+tough_guy: I knew it from the beginning. 
+tough_guy: Their bond is unbreakable!
+ナレーション: Afterward, Axel Hearts performed, and everyone celebrated until dawn...
+ナレーション: To be continued in Part 2...

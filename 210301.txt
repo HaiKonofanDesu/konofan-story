@@ -1,0 +1,68 @@
+Darkness - P1
+ナレーション: One day, Darkness and the others set out on a quest to slay a pack of monsters...
+questStart: Kill Quest:
+Defeat plant monsters!
+Defeat plant monsters!
+aqua: Gah! Come on, why won't these things sit still?
+megumin: They cling tightly to their victims, much like serpents. I can't use my explosion magic on them like that!
+kazuma: Vine tappers, eh? Rather a misleading name. 
+kazuma: They're way tougher than I thought!
+darkness: Right, leave them to me!
+kazuma: Wait, Darkness! Even you can't just jump into the pack!
+darkness: Nonsense! It's a small price to pay to win this battle! Never underestimate the spirit of a crusader!
+darkness: I will show them no mercy. Hraaah!
+megumin: Wow! When did Darkness become so cool?
+aqua: Um, Megumin... Look again.
+darkness: Hyah! 
+darkness: Take this! 
+darkness: And this!
+megumin: Oh... She's really swinging hard, but hasn't landed a single hit!
+darkness: Grr...
+kazuma: Darkness, you can't even hit regular enemies, let alone these nimble things!
+darkness: Ugh! Even if I can't hurt them, I can still use my body as a shield to protect my comrades!
+Vine Tapper: Rrraaaggghhh!
+darkness: I will never retreat or surrender! Go on, wrap me up! Do your worst, foul beast!
+kazuma: Darkness! Are you okay? I'm on my—
+darkness: Don't worry about me!
+kazuma: Huh?
+Vine Tapper: Rrraaaggghhh!
+darkness: Ahhh! Th-they're squeezing me so hard... I can hear my bones starting to crack!
+aqua: Hold on! I'll cast a healing spe—
+darkness: I'm fine!
+aqua: A-are you sure?
+megumin: She looks like she's doing fine.
+darkness: *Gasp* Hehe... Hehehehe!
+darkness: Come on! Is that all you've got? You've got to squeeze me...harder than that... 
+darkness: I want more!
+kazuma: She's really into this, huh?
+darkness: Hah... More! You must give me more! 
+darkness: Show me the depths of your beastly nature!
+Vine Tapper: Rrraaa...gggh?
+aqua: Looks like the monster is the one in trouble...
+megumin: I guess we should expect as much from a crusader?
+darkness: You foul monster... Do you plan to slowly crush me until I'm forced to shriek in pain?
+darkness: And with my armor broken and clothes torn, my friends'll see me in all of my shame... 
+darkness: Is that your scheme?!
+darkness: Haha! Not bad. No, quite clever actually!
+darkness: Now! Squeeze tighter so as to highlight the sensual lines of my writhing body!
+kazuma: Snipe!
+Vine Tapper: Rrraaaggghhh!
+ナレーション: Kazuma's shot pierced the plant monster's core, causing the vines to drop limply to the ground.
+darkness: What are you doing, Kazuma?! Why'd you have to go and ruin all my fun? 
+darkness: I mean, I had it right where I wanted it!
+kazuma: You don't even try to hide it, do you? 
+kazuma: Sorry, but I don't have time for your games!
+aqua: There are still some more of these monsters left...but I've got a plan.
+kazuma: They're keeping a safe distance because Darkness is, well, being Darkness. This is our chance! 
+kazuma: Do it now, Megumin!
+megumin: Got it, Kazuma!
+darkness: Wait! We could save a few and keep them as pets—
+megumin: Explosion!
+darkness: Nooo! My cute little vines!
+ナレーション: Darkness's cries of anguish were swallowed up by the roar of Megumin's explosion magic.
+kazuma: Whew... Looks like that's taken care of.
+darkness: *Sob* Being tied up never hurt anyone...
+kazuma: I don't think that's what was going on here!
+questComplete: Kill Quest:
+<size=90>Defeat plant monsters!</size>
+<size=90>Defeat plant monsters!</size>

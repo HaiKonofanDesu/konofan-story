@@ -1,0 +1,111 @@
+An Adventure with This New Party! - P3
+ナレーション: While considering a high-difficulty quest, a trio of girls approached Kazuma and the others...
+aqua: Actually, we were thinking of recruiting a few more party members. And you are...?
+Black-Haired Girl: Oh right, we haven't introduced ourselves.
+Black-Haired Girl: We're a traveling dance troupe that goes around Axel and—
+Ponytailed Girl: Forget the details. Let's just introduce ourselves and get it over with!
+Tomboy: Uh- Umm... 
+Tomboy: I-Introduce myself, huh? W-Well, all right!
+cielo: Since you really want to know who I am...\n
+cielo: Say hello to Cielo!
+lia: M-My eyes may be cool, but my heart is on fire!\n
+lia: No need to fear, Lia is here!
+erica: All the cuteness in the world wrapped in a single package!\n
+erica: 1,000% pure cuteness? That's me, Erika!
+kazuma: Huh... As awkward as this all is, there's something familiar about it. 
+kazuma: It reminds me of something I saw in Japan...
+aqua: That's a pretty good introduction you've got there... Maybe we should give it a shot too?
+kazuma: Just normal introductions are fine. This isn't a contest. 
+kazuma: I'm Kazuma Satou. And this is Aqua.
+aqua: So you three are dancers. No wonder you're so cute.
+erica: ...Cute?\n
+erica: Hey...
+erica: did you just call me cute?!
+aqua: Huh? I did. What's the—
+erica: Hehe, tell me more! You should be grateful a cutie like me is joining your party!
+kazuma: What's with this girl...\n
+kazuma: She goes crazy at the word "cute". I'd better keep my distance.
+cielo: Hey, Erika. You shouldn't speak like that to people you just met...
+lia: So, can we? Join your party...?
+kazuma: Nope! We don't need any dancers, let alone three! What we need are advanced job classes with high attack power!
+lia: D-Dancing is just our profession... We all have experience as adventurers too! 
+lia: I'm a lancer. I can deal a decent amount of damage with my spear. And Erika here is—
+erica: I'm a ranger. Not only am I cute, but I've got tons of useful skills, too!
+cielo: I-I'm an arch priest. If you need someone to support you from the rear with recovery magic...
+aqua: Ah, too bad. Our party already has a brilliant and beautiful arch priestess: yours truly!
+kazuma: Yeah, she'd be totally useless if not for her stupidly high stats.\n
+kazuma: ...So go ask another party. Bye.
+lia: Ah...
+erica: What's with that guy? He's just a lowbie adventurer, right? To reject our offer to join their party...
+cielo: Wh-What should we do? None of the other parties are recruiting...
+lia: We can't give up. If we can show them our skills, they'll definitely want us to join their party. 
+lia: Hm...
+kazuma: I can't help but feel sorry for those dancers from earlier. 
+kazuma: But they'd be better off joining someone like Dust.
+aqua: Yeah. We need someone who has a few high-difficulty quests under their belt!
+？？？: Oh, what am I gonna do?! I've got no choice but to go on a high-difficulty quest!
+kazuma: Huh? What was that?
+erica: A high-difficulty quest is impossible for someone as cute as me!
+lia: I-In that case, I shall accompany you. My skill with a spear is such that I won first place in a tournament.
+cielo: I-I'll go with you too! I may be an arch priestess, but I know martial arts!
+erica: With such skilled fighters, we could take on a dragon!\n
+erica: Act now, and the cute Erika will accompany you, too!
+kazuma: Talk about cheap theatrics... 
+kazuma: Is this their way of trying to join our party?
+Lia, Cielo ＆ Erica: *Steely stare* Well? ...Well?
+aqua: Kazuma... They keep staring at us.
+kazuma: Don't look, Aqua! We should avoid eye contact and get out of here as quickly as we can!
+cielo: Oh... They left.
+lia: Why?! I thought we were acting perfectly naturally.
+erica: You call that natural?! You were stiff as a board!\n
+erica: I guess I have no choice but to take the lead!
+#000000aa: NoWait
+aqua: Kazuma, Kazuma! There's a package for you!
+kazuma: For me? Huh, there's no sender... I guess the only way to find out what's inside is to open it.
+kazuma: Th-They're...women's stockings?!\n
+kazuma: B-But why send them to ME?
+aqua: Wait, there's a letter inside too. Hmm...
+aqua: "Consider this an advance. I'll give you something even better once we join your party.\nFrom, the ever adorable Erika."
+kazuma: What the heck is that girl thinking?
+？？？: What is she thinking? I could ask you the same thing, Kazuma.
+darkness: Cheerfully gazing at a woman's stockings in the middle of our living room... 
+darkness: Whose stockings are they?! Did you steal them?!
+kazuma: N-No! They were sent to me!
+megumin: That's your excuse? I always knew you were a pervert, but this is low even for you!
+kazuma: Wait! Darkness, Megumin! Listen to me!
+darkness: Stay back, you pervert!
+megumin: Don't get a single step closer to me!
+kazuma: Those dancers are really damaging my reputation here... Dammit!
+kazuma: Come on, Aqua! I'm gonna go give those girls a piece of my mind!
+lia: Are you sure about this? I mean, sending something like that to him and his party...
+erica: You worry too much. Just watch, he'll come groveling and begging 
+erica: us to join his party. 
+erica: You'll see!
+kazuma: There you are! You stupid dancer!!!
+erica: Ow! You can't just hit someone in the head like that! You could've knocked my brains out!
+kazuma: You don't have any to begin with! Thanks to your little package, my whole party's treating me like some kind of pervert!
+aqua: That's right! I mean, we already knew he was a creep, but sending something like that just makes it worse.
+kazuma: You just had to throw that in there...
+cielo: I-I apologize for any trouble. But Erika was desperate... She wanted to join your party no matter what.
+aqua: Kazuma... These girls are obviously in some kind of trouble, so maybe that's why...
+kazuma: That's no excuse for their behavior! There's no way I'm letting anyone so senseless join our party!
+cielo: Well, you see... The cart carrying our stuff blew up...
+kazuma: Your stuff...blew up?
+lia: Yeah, it got hit by someone's magic in the cabbage attack... Our costumes, the stage props, it all burned up.
+megumin: Hehehe... Behold my limitless power!\n
+megumin: EXPLOSION!!
+kazuma: Hey! What are you doing?! You blew up the cart, too! Didn't I tell you not to hit it?!
+erica: We need money to pay for new costumes and rent a stage. That's why we need to take on a high-difficulty quest...
+cielo: But we can't handle one on our own. That's why we're looking for other people to help us!
+kazuma: Wait a sec... The cart that Megumin blew up... That was THEIR luggage?!
+aqua: Hey, do you think the cart they're talking about's the one that Megumin—
+kazuma: Aqua! I-It looks like you were right about these girls. We should help them take on a high-difficulty quest!
+lia: Huh? A-Are you sure?
+kazuma: Of course! I can't ignore girls in need of my help.
+lia: ...What a nice guy.
+kazuma: Ah, what have we done? It's our fault that their luggage was destroyed in the first place...
+aqua: But should we really be inviting them to our party without talking it over with Megumin and Darkness first?
+kazuma: Then how about we go on a quest with them as a trial run? That way, we can see what they can do.
+erica: Very well. This'll be a piece of cake. We'll prove that there's more to us than a pretty face!
+cielo: Th-Then... 
+cielo: We promise to do our best!

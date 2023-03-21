@@ -1,0 +1,39 @@
+Shall We Dance?
+ナレーション: After receiving an invitation to the royal ball from Iris, Kazuma was enjoying the fine food and drink...
+iris: Kazuma, would you like to try some ham and melon?
+kazuma_dance: Ah...
+iris: Don't forget this drink—it pairs quite nicely with it.
+kazuma_dance: Your, uh...recommendation is appreciated.
+kazuma_dance: Still, this is the life. As much fine food and bubbly as I could ever ask for. I sure wish I lived in the castle.
+iris: Do you really mean that, Kazuma? Life would be so much more fun if you lived here in the castle with me!
+iris: Though if we were going to live together, I wouldn't choose the castle. I'd rather spend our time going on adventures.
+kazuma_dance: Ha! The grass is always greener, huh? Personally, I'd choose the life of royalty over adventuring any day of the week.
+iris: I would love to freely be able to leave the castle.
+iris: I have no complaints about the luxurious foods here, but I am curious about what the common people eat.
+kazuma_dance: It's not that great, if you ask me. Lately, my diet consists mostly of deep-fried giant toad.
+iris: Giant toad? Is it truly so delicious you'd eat it so often?\n
+iris: I'd love to try some. I'll just ask the chef to—
+kazuma_dance: No no no, please don't do that! 
+kazuma_dance: Just think about how that would look. 
+kazuma_dance: The princess, asking to eat frogs? I'd get in all sorts of trouble!
+iris: I see... That's unfortunate. I was really hoping to try some.
+kazuma_dance: Commoners generally eat whatever they have on hand at the moment. You don't need fancy ingredients.
+kazuma_dance: If I'm not mistaken, one of these dishes used mayonnaise.\n
+kazuma_dance: All right, Iris! Prepare to try some commoner food!
+kazuma_dance: First we take some plain white rice, then we cover it in mayonnaise!
+iris: Th-That's so much mayonnaise!
+kazuma_dance: Don't worry. Now we add a little pepper and soy sauce...\n
+kazuma_dance: And boom! The taste of the common people! Mayonnaise rice!
+kazuma_dance: Go ahead and try it.
+iris: O-Okay... *Munch*
+iris: ...
+iris: ...
+iris: This is delicious, Kazuma! How did you turn regular rice into something so tasty?! 
+iris: Are you secretly an incredibly talented chef?
+kazuma_dance: Nah, you can make something like this even without any skills.\n
+kazuma_dance: But I'm glad to hear you like it.
+iris: It really is delicious. Why, I could eat this every day.
+iris: There's still so much about the world I don't know yet.\n
+iris: I hope you'll continue to teach me new things, Kazuma!
+kazuma_dance: You bet!
+ナレーション: Kazuma gave her a smile and a thumbs up, but was reprimanded by Claire shortly afterwards for his mayonnaise rice...

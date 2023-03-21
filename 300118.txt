@@ -1,0 +1,98 @@
+A Final Flame for This Ridiculous Fortress! - P2
+ナレーション: With Megumin exhausted from her spell, the others rushed into the Destroyer as the self-destruct alarm blared...
+questStartkinkyu: Emergency Quest:
+Stop the Mobile
+
+
+Fortress Destroyer
+
+
+
+
+from self-destructing!
+Stop the Mobile
+
+
+Fortress Destroyer
+
+
+
+
+from self-destructing!
+kazuma: *Pant pant* I found it! Here's the power source!
+wiz: Is this mummified man one of the crew...?\n
+wiz: I'm sure it was awful dying alone.
+darkness: I'd say it's been a while since he passed.\n
+darkness: See here—there's a notebook on this desk.
+aqua: It's a diary... "The country's bigwigs are making some absurd requests: a mobile weapon on this budget? Are they stupid?"
+Destroyer Developer: "And what do I know about power cores, anyway? I just told them to bring me some of the mythical coronatite. That'll keep 'em occupied."
+Destroyer Developer: "Crap. Is this a joke? They ACTUALLY found some coronatite? What am I going to do now...? If I can't get it moving now, I'm dead. Work! Work, damn you!"
+Destroyer Developer: "It's all over. This thing is running wild."
+Destroyer Developer: "The kingdom's done! Ruined! And yet...something about that brings me solace."
+Destroyer Developer: "I've decided to live out my days in this inescapable and unstoppable prison. Whoever made this thing sucks!"
+Destroyer Developer: "Oh. Wait. I guess I suck, then."
+aqua: That's all it says.
+kazuma: I don't believe this!
+wiz: Th-This is bad! The coronatite core is overloading!
+darkness: Is there nothing you can do, Wiz?
+wiz: I'm not certain if there's anything that will help at the moment... 
+wiz: Wait! What if we teleported the core somewhere else?
+kazuma: That's genius!
+wiz: However, WHERE it can be teleported is rather limited...
+wiz: I could move it somewhere random, of course, but what if it were sent to a city or a densely populated area?
+kazuma: It's a big world out there! I'm sure it'll be fine. And if it's not, you can just blame me! 
+kazuma: I'm lucky when it counts, you know?
+wiz: Understood! I'll cast it, then... Teleport!
+Announcement: Attention all crew members: prepare for immediate evacuation. 
+Announcement: The self-destruct system has been activated.
+ナレーション: The moment the coronatite core vanished, the light faded from the Destroyer, resulting in complete silence...
+aqua: Whew... Dodged a bullet.
+darkness: Not quite. I've a nose for sniffing out danger, and I smell a delectably dangerous aura.
+kazuma: Huh? So the coronatite core's gone now, but—
+kazuma: Huh?! Wh-What's going on?!
+darkness: The heat that built up inside this thing wants to escape. Any more, and it will engulf the town in a sea of flames!
+kazuma: Just what was the point in sending the core away?!\n
+kazuma: Wiz, try using Explosion again—
+wiz: Oh, no! I'm out of magic!
+kazuma: Hey, self-proclaimed whatever! I need to borrow some of your magic so Wiz can do her thing!
+aqua: H-Hold your horses! If you pour my divine magic into a lich, it'll cause her to completely disintegrate!
+wiz: She's right. I'd be purified into nothingness!
+darkness: Is this the end...?
+？？？: Heh heh heh... Make way for the cavalry, and bear witness to the pinnacle of explosion magic!
+kazuma: Megumin?! What are you doing here?!
+tough_guy: I carried her here. You better pull your weight, 
+tough_guy: kid.
+kazuma: Here goes! Aqua! Megumin! Stand right there!
+darkness: This is our only chance... I believe in you!
+kazuma: Here's the deal: I'm gonna send Aqua's magical energy to you, Megumin. Ready?\n
+kazuma: Drain Touch!
+aqua: Yaaaaaaugh!
+kazuma: Will you stop distracting me?!
+aqua: B-But...!
+megumin: I feel it! Oh, yes! This next explosion is going to be my grandest yet!
+aqua: Uh, Megumin? You good yet? I feel like I've been drained enough here.
+megumin: Just a bit more... Just a bit... Oh. This might be bad.
+kazuma: Whoa. Uh, hold up. You look like you're about to blow a gasket.
+megumin: I'm thinking with this much power, I might be able to unleash an explosion of unparalleled proportions... 
+megumin: Here goes!
+megumin: Blackness shrouded in light; frenzied blaze clad in night... 
+megumin: The ultimate destructive magic! EXPLOOOSION!
+ナレーション: The Destroyer was blown away without a trace...
+kazuma: Well, that wraps up the fight against the Destroyer.
+kazuma: These impossible days in a mad world far from the land of thrilling adventure I'd dreamed of...
+kazuma: Maybe they were a test to help me grow as a person.\n
+kazuma: Heh. That was one hell of a tutorial.
+aqua: Kazuma, we're in trouble! Knights from the capital are coming this way!
+kazuma: All right! They must be here to give us our reward in person. About time the real adventure began!
+sena: You have been charged with subversion against the state! You're coming with us!
+kazuma: Bwaaah?!
+sena: Do you realize the coronatite you teleported appeared in Governor Alderp's manor and blew it to pieces?
+kazuma: Whaaaaaat?!
+darkness: Well, this doesn't look good...
+kazuma: Every single one of my victories turns to total disaster.\n
+kazuma: This world really is insane...
+aqua: Kazuma! You're a criminal, Kazuma! I thought you were supposed to defeat the Devil King!
+megumin: Can you hear that? Adventure is calling me.
+kazuma: Hear me, my goddess... If I ever get the opportunity to journey to another strange world again...
+kazuma: Please, I ask that you make it one where I can be successful for a change...
+kazuma: I'm begging you! Please!!!

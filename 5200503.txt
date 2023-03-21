@@ -1,0 +1,50 @@
+Manic Mansion! Maid
+melissa_maid: Welcome home, Master. Hm? What's this? 
+melissa_maid: I didn't realize you were bringing home a guest...
+Noble: Oh, this is not a guest, Alisa. This is Ris; she will be working here as a maid starting today.
+chris_maid: My name is Ris. It is a pleasure 
+chris_maid: to meet—
+Chris ＆ Melissa: Huh?!
+Noble: Oh? Do you two already know each other?
+melissa_maid: O-Of course not! But still... Somehow, it almost feels like we're old friends. 
+melissa_maid: Ehehehe!
+chris_maid: Wh-What a coincidence! I felt the same way! I look forward to learning all about this job from you! 
+chris_maid: Ahahaha!
+Noble: Haha! I think you two are going to get along fabulously. Make sure to show her the ropes, will you Alisa?
+melissa_maid: He's gone. What are you doing here? And using a fake name?
+chris_maid: I could ask you the same thing, "Alisa." Don't tell me 
+chris_maid: you're here to steal from this place too.
+melissa_maid: You could say that. It's common knowledge the master here hides an evil side. I just want to teach him a lesson.
+chris_maid: Looks like we're here for the same reason, then.\n
+chris_maid: So, how do you think we should handle this?
+melissa_maid: I'd rather not get into a fight with you right now.
+melissa_maid: It'll only cause problems if our cover is blown. How about 
+melissa_maid: we put our differences aside and work together on this one?
+chris_maid: Fine by me. Count me in.
+ナレーション: That night after the master was asleep, two shadows moved silently through the mansion...
+melissa_maid: This room reeks of treasure. Now where could...
+chris_maid: Here! I found a safe! Who would have thought it'd be 
+chris_maid: hidden behind a picture like this?
+melissa_maid: You think this is where he keeps the good stuff? I'll keep 
+melissa_maid: watch, so hurry up and get that thing open!
+chris_maid: Just give me a minute! It's a combination lock, so it should be easy enough. Four turns right, two left, and...
+chris_maid: There! Got it!
+melissa_maid: Wow, look at all of that... 
+melissa_maid: He's got a small fortune stashed in here. High quality stuff, too.
+melissa_maid: But I think I'll take these earrings. Look at the size of these sapphires—they're simply stunning!
+chris_maid: Hold on a sec, I was going to take those.
+melissa_maid: Finders keepers. Besides, such beautiful earrings would be wasted on you.
+chris_maid: You can't have them! Sure they look beautiful, but they also have strong magical properties! If you're not care—
+melissa_maid: Thanks for the warning. I'll keep that in mind.
+chris_maid: I'm telling you, they're dangerous! Don't be stupid!\n
+chris_maid: Fine, you leave me no choice! Steal!
+melissa_maid: What?! You little—
+chris_maid: All right! I'll be taking these!
+melissa_maid: Give those ba—!
+ナレーション: Before Melissa could take a step, Chris spun and leapt out the closest window...
+Noble: What was that?! It sounded like it came from downstairs! Alisa! Ris! Where are you?!
+melissa_maid: Looks like I should make myself scarce as well.
+melissa_maid: FINE, you win this round... 
+melissa_maid: Still, to think she'd just bolt like that...
+melissa_maid: I'll get you next time! I swear it on my pride as a treasure hunter!
+ナレーション: Melissa grabbed what she could and followed through the broken window, vowing revenge on Chris...

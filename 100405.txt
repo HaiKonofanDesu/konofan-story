@@ -1,0 +1,120 @@
+Selling Vegetables with These Two Beastmen! - P5
+Everyone: Cheers!
+ナレーション: After selling the vegetables at Wiz's shop, Kazuma's group was toasting at the guild tavern...
+kazuma: Hah! Nothing beats a cold one after a hard day's work!
+megumin: I didn't expect us to sell out in a single day!
+wiz: I sold a lot of potions along with the vegetables! You really helped out my shop!
+aqua: I didn't think they'd be so popular. The veggies Mia's village grows really are tastier!
+Amy: Thank you! Hehe, I hope the villagers will be happy too.
+miia: Not just our fellow villagers, but I wanted to see Darkness here and have her be happy too...
+aqua: You're right... By now, Darkness is likely...
+megumin: Ungh...
+wiz: Um, I'm not sure if it's okay for me to ask, but why isn't Darkness here?
+kazuma: Well, when we were harvesting the vegetables...
+Corn: Corn-corn-cooooorn!
+kazuma_winter: Whoa! What's with that corn? It's absolutely vicious!
+Amy: When you try to harvest corn, it starts going wild. It can hurt even the most experienced beastmen.
+miia: They don't say our corn's killer for nothin'!\n
+miia: They're super dangerous!
+aqua_winter: You should've told us that sooner! We can't sell them if we can't harvest them!
+megumin_winter: In that case, let's use my explosion magic!
+kazuma_winter: If you do that, it'll all turn into popcorn! They're our product, so handle them with care!
+darkness_winter: Use me as the bait!
+aqua_winter: Don't be reckless, Darkness! They're much stronger than the cabbages!
+darkness_winter: That's what I like to hear! Stronger than the cabbages...\n
+darkness_winter: Just imagining it gets me worked up!
+kazuma_winter: What is wrong with you?!
+darkness_winter: It is the duty of a noble and a crusader to serve others!\n
+darkness_winter: I'm off! 
+darkness_winter: Come to me... Decoy!
+Kazuma, Aqua ＆ Megumin: Darkness?!
+megumin: In the end, Darkness managed to protect us from the corn, 
+megumin: but that left her recovering in bed at home for a week.
+wiz: I see... Well, only needing a week to recover after being\n
+wiz: mobbed by corn still speaks highly of crusaders.
+kazuma: Yeah, it was quite an ordeal.
+miia: Hey, Kazuma! Can I eat now?
+kazuma: Oh, you've been waiting? Of course you can eat.\n
+kazuma: The profits are rolling in, so it's on me today!
+miia: Then I want meat buns! And fried giant toad, and a smoke lizard burger! And...
+Amy: You really love meat, don't you Mia?
+miia: I love meat! And I love you too, Amy!
+Amy: Mia, you're adorable! Eat up so you can grow big and strong!
+kazuma: You need to make her eat her vegetables, too. You're too soft on Mia.
+aqua: Definitely. She's like an overprotective older sister.
+Amy: Of course I'm overprotective. Mia is like Darkness... She acts recklessly if you leave her on her own.
+megumin: Huh? Did something happen?
+Amy: It was a long time ago. When we were little, I suffered from a serious illness...
+Amy: It's a small village, so we had to call an outside doctor. A blizzard hit us that day, and I had quite a fever.
+Amy: After seeing me like that, Mia went to the nearest village alone... Alone in a raging blizzard that even adults wouldn't brave.
+Amy: Two days after she left the village, Mia returned with medicine. But she was covered in scrapes and scratches...
+miia: Amy, this medicine will make you all better... And then...we can play together again...
+Amy: How can you be so reckless? You're all banged up... You should have just let me be!
+miia: I don't wanna see you hurt. I love you, Amy...
+Amy: Thank you, Mia. But please, don't do anything like this again.
+Amy: That's when I decided... 
+Amy: From that point on, I would always protect Mia.
+aqua: I had no idea. It does sound like what happened to Darkness.
+kazuma: In what way? I do think I understand 
+kazuma: why you're so soft on Mia now, though.
+miia: *Nom nom nom* It's super tasty!\n
+miia: This burger and steak are great!
+Amy: Oh, you're such a little rascal, Mia.
+miia: Hey, Kazuma. If we stay with you, can we eat yummy stuff like this forever?
+kazuma: Hm, I dunno... If our plan continues to work, I'll make sure you're well-fed.
+miia: Ooohhh! I'mma help you from now on, Kazuma! You're a nice fella!
+Amy: Oh Mia, you've gotten so attached to Kazuma.
+kazuma: They really are like sisters. 
+kazuma: But I can understand why she's a little overprotective, after something like that.
+Axel Resident: Bad news! Some weirdo named Charlie is causing trouble at the theater! The dancers are...
+aqua: Could it be a pervert? Lia's group is in danger!
+wiz: Let's get going!
+miia: Go on ahead! I'mma finish my burger first!
+Amy: Oh, my. If you say so, Mia, then I guess we have no—
+kazuma: Forget it! I want backup, so you're coming with us!
+questStartkinkyu: Emergency Quest:
+Charlie is after
+
+
+the girls,
+
+
+
+
+so send that villain
+
+
+packing.
+Charlie is after
+
+
+the girls,
+
+
+
+
+so send that villain
+
+
+packing.
+cielo_stage: D-don't come any closer, or I'll blast you! Stay away from me, you troll!
+charlie: Don't call me a troll! My name is Charlie!\n
+charlie: Call me Charlie, my dear little Cielo!
+erica_stage: Why do you show up every time?! Is it because I'm too cute?\n
+erica_stage: Oh God, is it my fault for being too cute?
+kazuma: Lia, Cielo, Erika! Are you okay?
+lia_stage: Kazuma! You all came for us!
+megumin: Looks like we made it in time. I'm glad you're safe.
+kazuma: Is that the troll we fought at the capital?!
+aqua: Oh, is he a friend of yours?
+kazuma: You totally ruined my business plan for the dancers!\n
+kazuma: Now I'm even deeper in debt!
+kazuma: I demand satisfaction! Get ready, because I'm gonna make you pay!
+charlie: You're the one who needs to get ready. I'm taking 
+charlie: these dancers. Lord Daniel's orders are absolute!
+charlie_troll: Rrraaagh!
+ナレーション: Charlie roared as his skin turned green and his body swelled...
+wiz: Wait, Daniel? Did you just say Daniel?\n
+wiz: Could it be...
+kazuma: Stop spacing out, Wiz! He's coming!
+charlie_troll: Rrraaawwwrrr!! 

@@ -1,0 +1,91 @@
+A Little Luck for This New Year! - P4 
+ナレーション: The gang entered the woodland east of Axel, hoping to capture the fortune-bringing feline... 
+ynyn_newyear: Let's see... Eyewitness accounts point to this area. 
+darkness_newyear: I wonder if Vanir and Wiz are already here. 
+megumin_newyear: They got a head start on us. Maybe they already caught the thing. 
+aqua_newyear: Then shouldn't you all be trying a bit harder? 
+aqua_newyear: As a goddess, I refuse to lose to a demonic pariah and an unholy lich! 
+kazuma_newyear: Easier said than done. Those two are pretty capable fighters. 
+kazuma_newyear: I wouldn't be surprised if they already— 
+Money Cat: Meowneeey... 
+banil_newyear: There! Now's our chance, pitiful shopkeeper, trap it! 
+wiz_newyear: Ugh! It's too fast, I can't conjure anything in time! 
+iris_newyear: I can hear them. They don't seem to be having much success. 
+darkness_newyear: H-Hey, Kazuma, look! Over there! 
+Money Cat: Meowney? 
+kazuma_newyear: What exactly is that golden monstrosity with whiskers attached? 
+iris_newyear: That's it! The golden fur, the graceful cry... 
+iris_newyear: Everything about it matches what I've seen in the royal archives! 
+iris_newyear: It rarely reveals itself to humans, yet it came bounding our way. 
+iris_newyear: Brother, your Luck stat is formidable indeed! 
+Money Cat: Meowneeey! 
+darkness_newyear: Hey, wait! 
+darkness_newyear: Curses. It's so fast! 
+wiz_newyear: Yes, I'm certain. 
+wiz_newyear: It should be here... 
+wiz_newyear: Huh? 
+banil_newyear: Hehe... I knew we'd run into you sad lot moping around. 
+banil_newyear: From the looks of it, the animal is running circles around you. 
+aqua_newyear: You sure you have time to talk, you masked moron? How much time have you two spent failing by now? 
+banil_newyear: A minor miscalculation. I wasn't expecting such nimbleness. 
+aqua_newyear: Hehe! Pathetic! 
+aqua_newyear: Watch as I capture that cat before you two even realize what happened! 
+megumin_newyear: That critter has speed like I've never seen... 
+megumin_newyear: Perhaps this problem warrants a fiery solution. 
+megumin_newyear: Behold my magnificence! Explo— 
+kazuma_newyear: Are you crazy?! We're trying to catch the cat, not destroy the forest! 
+kazuma_newyear: Embers won't make us rich! 
+iris_newyear: Brother's right. We must hold firm to our goal. 
+aqua_newyear: Just you wait! I'm a hide-and-seek master! 
+aqua_newyear: No mooooore! The stupid cat's so fast and my feet hurt and I'm tiiired! 
+kazuma_newyear: I guess we'll keep waiting, Ms. hide-and-seek master... 
+megumin_newyear: It seems night fell while we chased the cat. 
+darkness_newyear: Apologies, Lady Iris. Someone of your stature should not be forced to sleep in the wilderness. 
+iris_newyear: Don't worry about me. 
+iris_newyear: On the contrary, I'm rather excited. It's a rare opportunity for me to camp out in the woods. 
+ynyn_newyear: A-As am I. It's like we're on a camping trip! 
+kazuma_newyear: Okay, the mochi soup's ready, guys. Dig in! 
+darkness_newyear: It looks delicious! 
+kazuma_newyear: Thank Yunyun. She's the one who brought the ingredients to make it. 
+megumin_newyear: You only come in handy in the strangest of circumstances. 
+ynyn_newyear: What do you mean "only"? A simple "Thanks" would've sufficed! 
+kazuma_newyear: Here you go, Iris. Careful, it's piping hot. 
+iris_newyear: Thank you so much, Brother. It looks delicious! 
+iris_newyear: *Munch munch* 
+iris_newyear: Mmm! Heavenly. I can feel it soothing my soul. 
+banil_newyear: Hmm... It's so savory, and the seasoning is exquisite. It is certainly a dish to remember. 
+wiz_newyear: I agree. Why, I could eat this every day! 
+aqua_newyear: Right, right... Why are you two here? 
+wiz_newyear: Sorry, I'm so very sorry! 
+kazuma_newyear: There's plenty to go around, even with two more. 
+banil_newyear: Mwahahaha! 
+banil_newyear: I hereby accept your most generous offer! 
+aqua_newyear: And I hereby retract it! 
+aqua_newyear: No amount of delicious food can mask the taste of dining with evil! 
+darkness_newyear: Come on, Aqua. You don't have to become best friends, but it's New Year's. Let's at least not figh— 
+aqua_newyear: Sacred Exorcism! 
+banil_newyear: Too easy! 
+banil_newyear: Evaded! All as I down more mochi! 
+kazuma_newyear: Listen to what Darkness is saying, you two. Or no soup for you! 
+aqua_newyear: Grrr... 
+aqua_newyear: Kazuma, ten more pieces of mochi, please! 
+kazuma_newyear: Look at the size of your bowl and ask that again. 
+wiz_newyear: Having a rest and a hot meal is all fine and well, but we do need to think about how we're going to catch that cat. 
+megumin_newyear: You're right. A repeat of today's blind chase will only produce the same results. 
+banil_newyear: Hmm... If only we could pinpoint the creature's weakness... 
+iris_newyear: Weakness? 
+iris_newyear: Now that you mention it... 
+kazuma_newyear: What? You know of one?! 
+iris_newyear: It's less a weakness and more a peculiarity of the species. 
+iris_newyear: It happens whenever people celebrate in large numbers. 
+iris_newyear: For some reason, the money cat is irresistibly drawn to them. 
+kazuma_newyear: Wait, wasn't the lion dancer the same? Why do we keep dealing with such festive monsters on New Year's? 
+aqua_newyear: So, you're telling me that all we need to do to lure it in...
+aqua_newyear: is party? 
+iris_newyear: More or less. I'm sorry for not remembering this sooner. 
+iris_newyear: I was but a child when I read that passage in the archives. 
+kazuma_newyear: Not at all, it's certainly an improvement over doing nothing at all. 
+kazuma_newyear: All we need to do is carefully formulate a strategic approach to maximize fun potential... 
+kazuma_newyear: Wait. What am I talking about? 
+kazuma_newyear: Hey, Aqua, what do you say we start downing bubbly from the get-go tomorrow? 
+aqua_newyear: Bottom's up! 

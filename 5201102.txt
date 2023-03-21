@@ -1,0 +1,31 @@
+Manic Mansion! Maid
+ナレーション: At a lavish estate in Axel, two people in decidedly unusual attire make an appearance...
+cielo_maid: Wow, Rin. You look amazing.
+lean_maid: Y-You think so? I don't wear skirts very often, so I feel 
+lean_maid: kinda weird about it.
+cielo_maid: Do you really think that working as a maid will help me stop punching men?
+lean_maid: Well, maids can't harm their clients, right? If you learn that, then maybe you'll get over your fear of men.
+Owner: Ahem! Can somebody help me with this?
+lean_maid: Guess that's us. Just remember, don't strike your master, 
+lean_maid: and focus on being a proper maid!
+cielo_maid: R-Right! I'll do my best!
+Owner: I want you to put this chest of drawers into storage.
+lean_maid: Th-This thing? It's really big. I don't think the two of us 
+lean_maid: can move it, even if we work together.
+cielo_maid: Hup.
+lean_maid: Wait, whaaat? You can carry that thing all by yourself?
+cielo_maid: Oh, I'm really good at this sort of thing!
+lean_maid: Strength like that sure could come in handy... 
+lean_maid: Still, maids mostly do stuff like pour tea and clean up, so...
+cielo_maid: I don't think I'd be very good at those things.
+lean_maid: I'll show you the ropes once we're done here.
+cielo_maid: Thank you... 
+cielo_maid: You're really kind to be training me like this.
+lean_maid: Well, I couldn't leave you all on your own. 
+lean_maid: But still... I'm also getting something out of this.
+lean_maid: I go out on quests all the time as an adventurer, so that hasn't left much time for housework.
+cielo_maid: I see... So you hope that working here will help you 
+cielo_maid: improve your housework skill.
+cielo_maid: You think I'll meet someone nice if I cure my fear of men?
+lean_maid: Haha, it's strange hearing you say such things while lugging around a giant piece of furniture.
+ナレーション: The two continued to work as maids, pondering what their futures could hold in store...

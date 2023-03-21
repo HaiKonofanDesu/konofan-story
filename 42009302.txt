@@ -1,0 +1,83 @@
+Instakill Bear - P2
+megumin_winter: EXPLOSION!
+Instakill Bear: Graaaaaahhh...
+aqua_winter: We did it!
+darkness_winter: The rumors were true! That was one powerful blow!
+Amy: Darkness, are you all right? You took quite a few hits.
+darkness_winter: A crusader must be the wall that protects her allies! I couldn't allow myself to dodge!
+kazuma_winter: In other words, you wanted to get hit. Whatever. 
+kazuma_winter: As long as you're not seriously hurt, you can do as you like.
+kazuma_winter: Hey, Amy. About that special surprise you mentioned earlier... 
+kazuma_winter: You didn't forget, did you?
+Amy: Hehe. Of course I haven't 
+Amy: forgotten, silly.
+Amy: Would you help me carry the instakill bear back to the village? 
+Amy: We'll make you all dinner in return.
+megumin_winter: The vegetables here are delicious. I can't wait.
+aqua_winter: They sure are. 
+aqua_winter: But why take the bear with us?
+Amy: Hehe, you'll have to wait until we get back to find out.
+darkness: I feel a little bad for being allowed to stay for free on top of getting a free meal.
+aqua: It's fine. We did take care of that bear, you know. 
+aqua: Besides, it's only one night. We'll head back to Axel tomorrow.
+megumin: That's a great idea! I can use my explosion magic to melt 
+megumin: all the snow on the mountain before we leave!
+kazuma: Um...
+darkness: What's wrong, Kazuma? 
+darkness: You seem distracted.
+kazuma: Um...
+Amy: I want to make sure you'll enjoy it as much as possible.
+kazuma: The anticipation is killing me! Mom! Dad! I want you to 
+kazuma: know that I'm doing great in this world!
+Amy: Sorry for the wait, everyone! Dinner is ready!
+aqua: *Sniff sniff* 
+aqua: Doesn't smell like anything I've had before.
+megumin: It's making my mouth water, though!
+Amy: Hehe! This is my special 
+Amy: bear hot pot!
+kazuma: Bear? 
+kazuma: As in, the instakill bear we just defeated?
+Amy: That's right. I asked some of the hunters in the village 
+Amy: to butcher it for me.
+aqua: That would explain why you had us bring it back here. 
+aqua: A fine idea!
+Amy: I prepared one more special dish as well. 
+Amy: Here you go...
+aqua: That doesn't look very appetizing. 
+aqua: Is it really edible?
+darkness: It smells almost as bad as it looks... 
+darkness: Ack?!
+Amy: This is the instakill bear's liver.
+megumin: Liver, huh? I didn't realize liver was so...dark... 
+megumin: So, uh, why does it look raw...?
+Amy: That's how you're supposed to eat it. It's rather bitter, 
+Amy: but it's full of nutrients. Quite good for you!
+Amy: I'd like for everyone to enjoy some, but there's only a little bit. 
+Amy: Do you mind if I give this to Kazuma?
+kazuma: What? Me?!
+Aqua, Megumin, Darkness: No objection here!
+Amy: Wonderful. Instakill bear liver is a rare delicacy, Kazuma.
+Amy: And it's really good for you, too. But for some reason, Mia always runs off when I make it for her.
+kazuma: It looks disgusting, and smells even worse. I know exactly how she feels...
+kazuma: Wait a second. 
+kazuma: This isn't the special surprise you were 
+kazuma: talking about this afternoon, is it?
+Amy: I noticed you were looking a bit down, so I thought 
+Amy: this would help restore your usual vitality.
+Amy: It's very nutritious. I'm sure you'll be back to your old vibrant self in no time.
+kazuma: I'm flattered you were worried, but just the thought is 
+kazuma: more than enough for me!
+Amy: Kazuma, I'll have to bop you on the head if you don't at least try some.
+Amy: I'm sure you'll like it. Now close your eyes and say ahhh.
+kazuma: Under normal circumstances, I'd be overjoyed to get fed 
+kazuma: like this, but I just can't do it!
+kazuma: I'm sorry!
+Amy: Kazuma, where are you going?! 
+Amy: What about your vitality?!
+kazuma: I've got plenty of vitality, thanks!
+Amy: If he has the energy to run like that, I suppose he's right. 
+Amy: In that case, why don't we share the liver?
+Aqua, Megumin, Darkness: Thanks, but no thanks.
+Amy: It's so nutritious, though. I don't want it to go to waste.\n
+Amy: I guess I'll just have to eat it myself.
+ナレーション: Since no one else dared touch the instakill bear liver, Amy happily ate the whole plate by herself.

@@ -1,0 +1,89 @@
+A Final Battle for This Newbie Town! - P1
+aqua: All right, anyone who's injured should line up, so I can cast a healing spell on you.
+ナレーション: The capital was left in disarray after Daniel's attack...
+kazuma: This is pretty bad. Even the stage for the dance contest was damaged.
+megumin: For such a fan of dancers, Daniel sure has a strange way of showing it.
+darkness: I'm just glad no one in town was seriously hurt.
+aqua: Kazuma, what's the big deal? Are you planning on making me heal everyone AND fix up the entire town by myself?
+kazuma: Oh, calm down. I know there's a lot to do. 
+kazuma: That's why I called in some backup to give us a hand.
+megumin: And where exactly is this backup?
+kazuma: That's odd... They should be here by now.
+Soldier A: Thank you. We're lucky someone who knows healing magic was here.
+cecily: Please, don't mention it. As a priest, it is my duty to ensure the safety of the public.
+miia: Make sure to eat your veggies for a speedy recovery! They're straight from Samuidoh, nice and fresh!
+Amy: The sight of Mia giving out vegetables to the weary is 
+Amy: like seeing an angel descend upon the battlefield!
+Soldier B: Excuse me! Could I get a heal over here?
+cecily: Of course! I'll be right there.
+Soldier B: That outfit... Are you from the Order of Axis? Everyone says they're full of crazies!
+cecily: I am indeed a sister of the church, though I am sad to hear 
+cecily: you think of us that way.
+Soldier B: Sorry. I didn't mean to offend.
+cecily: It's not your fault. We have something of a bad reputation due to the actions of a few extremists.
+cecily: Please don't think all of us are like that, though!
+Soldier B: How could I, when such a respectable sister is right here in front of me? Clearly I was wrong about you.
+cecily: I appreciate that. Say, you look like you could use something to eat. 
+cecily: Would you care for an Arcanretian cake?
+Soldier B: Thank you.
+cecily: All right, got one! Now that you've eaten the cake, 
+cecily: there's no way for you to return it!
+cecily: The only thing you can do is to sign this paper! Consider it my payment for all the healing!
+Soldier B: Wh-what?! Was that not done out of good will?
+cecily: What kind of religious leader would come all the way to the capital merely for charity?!
+cecily: I'm here as a missionary, not as a charity worker! 
+cecily: It is my duty to spread knowledge of the great Lady Aqua!
+cecily: No one could refuse to join after being treated so kindly! 
+cecily: Now, all you have to do is sign here!
+Soldier B: Somebody help me! The Axis followers really are all crazy!
+cecily: If you join the Order now, I'll even throw in some free 
+cecily: soap and detergent! There's no time to lose!
+kazuma: Knock it off! You're scaring the man!
+cecily: Ouch! Kazuma, be careful. What would you do if that blow to\n
+cecily: the head had caused lasting mental damage?
+kazuma: You don't need my help in that regard. You do realize it's your methods that are 
+kazuma: giving the Axis church a bad name, right?
+kazuma: Hurry up and get back to healing the injured already. 
+kazuma: I'm sure that's what your Lady Aqua would want.
+cecily: What?! 
+cecily: Well, I suppose you're probably right. 
+cecily: Still, I expect plenty of jelly slimes in exchange!
+kazuma: I can't believe a sister is demanding compensation for charity work. Is that another teaching of Aqua?
+kazuma: Oh well. I should see how Mia and Amy are doing.
+Amy: Make sure to eat up. The vegetables from up north are full\n
+Amy: of everything you need to grow strong. Now say "ahh."
+Injured Man: A-ahh...
+miia: Wow, you sure look eager. Are you really that hungry?\n
+miia: In that case, have a big bite!
+Injured Man: Ernnnph!
+miia: How does it taste?! Yummy, right?! The veggies from up north are simply the best!
+Injured Man: Ahnnngf!
+kazuma: Mia! You can't shove food down an injured person's throat!
+miia: Why not? I thought eating yummy food helped sick people get better faster.
+kazuma: Haven't you heard of too much of a good thing?!
+kazuma: These two are always like this. There's no end to the madness, no matter what I do.
+？？？: Ah, Kazuma Satou. I must say, you are a difficult person to find.
+kazuma: Oh, hello Sena. I haven't seen you in a while. 
+kazuma: Is there something you need from me?
+sena: Yes. I understand you were a witness to what happened here. Would you mind answering a few questions?
+: Is there something you need from me?
+ナレーション: Just as with the Destroyer incident, Kazuma was taken to a room with a magical lie detector for questioning...
+sena: You say an ancient weapon called Thor's Hammer is responsible for the damage to the capital and its people?
+sena: The one who attacked the town is a troll lord named Daniel. It is my understanding that he is an acquaintance of yours.
+kazuma: No way! I mean, it's true that we've met, but that's because we fight him off every time he attacks the town.
+sena: Is that so? I've heard rumors you are actually in collusion with this Daniel and in fact brought him to the capital.
+kazuma: Collusion?! I'm not working with him! 
+kazuma: Come on, do we really need to go through this again?!
+sena: Oh, I believe you, Mr. Satou. We're merely discussing these possibilities as a precaution.
+kazuma: Right...
+sena: My lack of skill is what caused you so much trouble last time,\n
+sena: but it did show me that you are not a bad person.
+sena: So the rumors that you were involved in Daniel obtaining Thor's Hammer must also be unfounded, then.
+kazuma: Of course they are.
+ナレーション: Kazuma's response caused the magical lie detector to ping.
+kazuma: That's right! An act of Aqua, and our party by extension, 
+kazuma: is responsible for restoring Thor's Hammer!
+sena: You are a liar and a criminal! You're under arrest!
+kazuma: Why is this happening again?! 
+kazuma: None of this is even my fault!
+ナレーション: As Lia announced her withdrawal from Axel Hearts, Kazuma marched off to prison once again...

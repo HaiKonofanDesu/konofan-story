@@ -1,0 +1,78 @@
+A Break-In at This Impregnable Vault! - P5
+ナレーション: Kazuma's group left Aqua behind, venturing into the casino. However, a guard blocked the path to the vault room...
+melissa: What's wrong, Darkness? You losing your nerve?\n
+melissa: Just follow the plan. Go on, take off your armor...
+darkness: Ugh...!
+melissa: I can't believe you, of all people, are getting embarrassed! If you're going to be a tease, you can just take it all off. 
+darkness: W-W-W-Wait! I-I'm not ready... Hey, what are you doing?!
+melissa: Go on, now. We don't have all day, you know.\n
+melissa: That body of yours is made for seducing men. Use it!
+darkness: S-S-S-Seducing men?! You're demanding that I remove my armor when I am in no position to refuse? 
+darkness: With pleasure!
+kazuma: Our crusader never breaks character, does she?
+megumin: Your nostrils are flaring, Kazuma. You're getting excited watching Darkness squirm, aren't you?
+kazuma: I-I-I-I'm not getting excited!
+darkness: Um, can I have a moment?
+Guard: Hm? Who're you? Sorry, but this area's off-lim— Huh?!
+darkness: I-I'm sorry. I know this place is off-limits, but... I think I'm lost.
+Guard: I see... That's awful. But why are you squirming so much? 
+darkness: I got hot walking around so much. Ah... My body feels like it's on fire.
+kazuma: Is this going to work? Her delivery's off. There's no way she'll be able to seduce—
+Guard: So THAT's why your face is all red and flushed.\nI find it...oddly alluring.
+kazuma: It's working?! Why isn't this guard more suspicious?! What kind of woman just wriggles around like that?!
+darkness: I-Is there someplace nearby I could rest for a bit?\nM-M-M-Maybe you could show me the way...
+Guard: Leave it to me. There's a comfortable, soundproof room we can relax in right over there!
+kazuma: The guard let his guard down... Now! 
+kazuma: Snipe!
+Guard: Relax, you're in safe hands. Now, this way!
+darkness: O-Oh my!
+kazuma: Ah, perfect. I've masterfully cut the cord holding 
+kazuma: the keys on the guard's belt with my Snipe skill!
+megumin: He didn't even notice the keys fall from his belt. Not much of a guard, is he?
+melissa: All men are like that.\nWe don't have much time. Don't let your guard down until it's over.
+megumin: So the jewel we're after is in this vault... It looks pretty\n
+megumin: sturdy. How do we break it open? How?!
+kazuma: Are you trying to get me to say explosion magic?\n
+kazuma: You know that's too dangerous to use inside!
+megumin: I know, but I can't stand that I'm the only one not doing anything!
+melissa: It's okay, I brought explosives with me. I researched beforehand and have just enough to destroy the door.
+melissa: Set these all around it.
+kazuma: Roger. I'm on it!
+megumin: Are you even listening to me?! Kazuma, use your sneaky tricks to think up a use for my explosion magic!
+melissa: Stop babbling about explosions already! Don't you know that this job is for Chommy?
+megumin: For Chomusuke? What do you mean?
+melissa: What do I mean?! Don't you want to make enough money to get rid of Chommy's wings and turn her back to normal?
+megumin: Back to normal? Chomusuke has always had wings.
+melissa: What?
+kazuma: Melissa! I finished setting the explosives!
+melissa: ...Let's talk about this later. Right now, we've got a job to focus on.
+melissa: Now, to light the explosives, I'll toss this magic potion...
+kazuma: Whoa! Nice job! Only the door was destroyed!
+melissa: Hurry! Grab the treasure before the guard returns!
+Golem: Grrraaaaaarrr!
+kazuma: A golem?! Where'd that come from?!
+melissa: Seems it was in the vault. It must've been set to attack if the door wasn't opened properly. We fell right into their trap.
+kazuma: We'll have to use brute force to get through! Let's finish it off and grab that treasure!
+questStartkinkyu: Emergency Quest:
+Defeat the golem
+
+
+
+
+
+guarding the vault.
+Defeat the golem
+
+
+
+
+
+guarding the vault.
+megumin: At the end of a grueling operation, we face a monster guarding the treasure! 
+megumin: What a thrilling development! 
+melissa: It sure is. If all I was after was money, I'd steal it from someplace safer. 
+melissa: The real joy of this job is the thrill.
+kazuma: Here he comes!
+Golem: Grrraaaaaarrr!
+melissa: My, what a loud voice you have. What a wild one.\n
+melissa: Mischievous kids like you deserve to be punished.

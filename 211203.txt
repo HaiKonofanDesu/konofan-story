@@ -1,0 +1,64 @@
+Dust - P3
+dust: Hrmmm...
+ナレーション: Dust was peering suspiciously at something from a shadowy street corner...
+aqua: Oh. Hey there, Dust. What're you doing? Stalking somebody?
+dust: Shhh! Rin will hear you!
+kazuma: Why are you following Rin?
+aqua: Wow, he really is a stalker.
+dust: Don't look at me like that! 
+dust: Rin's been acting strange lately. Something might be bothering her.
+dust: She seems distracted, and a little fatigued. 
+dust: I hope she's not caught up in anything bad...
+aqua: Why don't you just ask her about it?
+dust: Because she'd just brush it off with some excuse!
+kazuma: Well, at least you know she doesn't trust you.
+lean: La la lalalala ♪
+kazuma: Hey, she skipped into that alley pretty cheerfully. I don't remember anything being back there.
+aqua: C'mon, let's follow her.
+dust: Why are you two tagging along?
+aqua: We're already in this deep, so we might as well. And if it's hard for you to ask her, I can handle it.
+kazuma: Plus, if it turns out to be something bad, better to have more of us, right? 
+kazuma: Someone's gotta go call for help.
+dust: Okay. Let's go, then.
+ナレーション: As the group peered into the alleyway, they saw Rin speaking with an unfamiliar adventurer...
+dust: Who the hell is that guy?
+kazuma: Uh oh. Were we not supposed to see this?
+aqua: I see what's going on, Dust. You said she's acting strange,\n
+aqua: but you're just jealous, aren't you?
+dust: It's not like that! We're just partymates!
+kazuma: Keep it down. They'll hear us!
+Adventurer: Well? Have you given it some thought, Rin?
+lean: Yeah, about that...
+Adventurer: Our party needs a magic-user. And not just any magic-user, Rin. We could really use your valuable skills!
+lean: Well, I have friends that I've worked with for a long time.
+Adventurer: Adventuring parties switch members all the time. It's pretty normal, actually. I'm sure your friends will understand.
+Adventurer: And to be quite frank... I don't believe your current party aspires to much greater heights.
+dust: Switch members...? 
+dust: That bastard! How dare he say such things! Besides, I don't aspire to greater heights because I don't feel like it!
+Adventurer: We're not adventuring just to make a living. We're working to become heroes that children look up to.
+Adventurer: Rin, I know you have the potential to do just that. But not on your own. You need companions with similar goals.
+lean: Companions with similar goals...
+aqua: Wait, is he actually swaying her? Look at her expression.
+kazuma: Adventuring just to make a living... I suppose I'm guilty of that myself.
+dust: I make money to spend at the casino!
+kazuma: That's probably why Rin is considering his offer.
+Adventurer: And Rin, we at least have to talk about Dust. You shouldn't hang around guys like that.
+Adventurer: When punks like him call themselves adventurers, it gives all of us a bad name.
+Adventurer: He takes out loans and gambles the money away. He's not even a decent person, let alone an adven—
+ナレーション: Rin cut the man off with a slap across the face.
+lean: I don't work with people who disrespect my friends. 
+lean: Dust may be garbage, but he's not how you make him out to be.
+lean: Whew. That's a relief!
+lean: *Sigh* Maybe I was a little hasty.
+dust: Hasty about what?
+lean: Dust... 
+lean: This has nothing to do with you.
+dust: I see... Well, are you hungry? 
+dust: It's my treat today.
+lean: Your treat? 
+lean: Haven't heard that one before.
+dust: Hey, it's not that unusual. I can be nice every now and then.
+lean: Maybe.
+dust: Yeah! So, eat all you want! It's my way of saying thanks!
+dust: Bring us more food and drink! Keep it coming!
+ナレーション: Later, Rin laid into Dust after hearing him ask Kazuma for money to pay for all the food and drinks.

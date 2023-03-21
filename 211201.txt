@@ -1,0 +1,85 @@
+Dust - P1
+dust: Hm? What's that?
+kazuma: *Whistling*
+dust: That's a pretty pathetic attempt to hide what he's up to. Hehe... Let's see what this is about.
+dust: Yo, Kazuma!
+kazuma: Whoa! 
+kazuma: Oh, it's you, Dust. Don't scare me like that.
+dust: You're awfully jumpy today. I just said your name is all. Though, I know where you're going.
+kazuma: Wh-what do you mean?
+dust: Don't play dumb with me, you're guilty as sin. I saw you glancing at that alley.
+kazuma: I'm simply going to a shop and paying a fair price for an honest service. 
+kazuma: There's nothing to feel guilty about!
+dust: Wow, you're awfully testy!
+dust: Heh, I expected nothing less from you... 
+dust: Take a look at this!
+kazuma: Th-that's... That's a free coupon for the succubus shop!
+dust: I'll sell this to you for eighty percent of the usual cost. 
+dust: You get a discount, and I make a tidy profit. Deal?
+kazuma: Fifty percent.
+dust: Seventy!
+kazuma: Sixty! That's fair, isn't it?
+dust: Sixty-five! Final offer! 
+dust: I ran out of the money Rin loaned me, so I'm strapped for cash!
+kazuma: Borrowing money from your friends? What a lowlife... 
+kazuma: Not that I'm one to talk though...
+kazuma: Fine, I'll be nice. Let's call it an even seventy percent. 
+kazuma: I want a clear conscience while I have my fun.
+dust: You're a great friend, Kazuma! Now then, shall we get going?
+kazuma: Yeah, let's go! 
+kazuma: Untold pleasures await!
+front_succubus: Hehehe. Welcome to our humble little shop! Please fill out this form to select the dream you'd like!
+kazuma: O-Okay...
+dust: I'll never get tired of looking at them...
+tough_guy: Back again, are you? You're so reckless!
+tough_guy: You're simply putting off your worries for the sake of 
+tough_guy: a moment's pleasure. But hell awaits just ahead.
+dust: Hell? If by hell, you mean heaven, then you're right! 
+dust: Lemme at that form already!
+kazuma: Hmm... What kind of dream should I choose this time? 
+kazuma: Yes! I'm ready for my ticket to paradise!
+kazuma: Ah!
+dust: You look positively inspired, Kazuma!
+kazuma: Yeah... What do you think of this? A night of passion with 
+kazuma: the girl I first fell in love with, but never got to date!
+dust: Ooh, that sounds exciting... Girls from your past, eh? I hadn't thought of that.
+dust: I've been to this place many times, but I always get caught up in more immediate desires!
+dust: My first crush, huh?
+Dust ＆ Kazuma: Ah.
+dust: Hey, Kazuma. What's up? You look like you just saw a ghost.
+kazuma: You're one to talk, Dust. I can see your smile slowly fading from your face.
+front_succubus: Excuse me, gentlemen. Have the two of you 
+front_succubus: made your decisions yet?
+kazuma: Sorry, we need a little more time.
+front_succubus: I suggest you not overthink it too much.
+front_succubus: Forget about the constraints of reality. Just write whatever feels good to you.
+front_succubus: It's a dream. You don't have to hold back. Okay?
+dust: Oh... Ohhhhhh... Ohh! Hey, Kazuma!
+dust: I think we should forget about the troubles of our past!
+kazuma: That's funny, Dust. I was just thinking the same thing!
+dust: Heck yeah! Reality is crap anyway!
+kazuma: Let's put those hang-ups behind us! The present is what's important, not stupid memories!
+dust: Excuse me, Madame Succubus! I'll be using this coupon today!
+front_succubus: Ah, one of our coupons. Hehehe, thank you for your continued patronage.
+front_succubus: Oh dear... This coupon is only good for the one-hour course.
+kazuma: Does that mean there's some kind of problem?
+front_succubus: Not exactly, no... 
+front_succubus: But it's just that you can do so much more with the two-hour course...
+dust: S-such as?
+kazuma: Dust, wait! If you pay full price, the coupon won't—
+front_succubus: These are delights that all men should experience at least once in their lives...
+kazuma: *Gulp*
+dust: I... I don't have the money.
+front_succubus: Ah, such a shame... One of the best dreams of your life is ending before it even gets started. 
+front_succubus: So, what will it be?
+Dust ＆ Kazuma: We'll take the two-hour...no, the three-hour course!
+kazuma: We can just use our one-hour coupons next time.
+dust: Exactly! So, Kazuma... Do you think you can spot me 
+dust: this time? Put it on my tab!
+front_succubus: Hehehe... Thank you so much!
+dust: *Sigh* I'll never get out of debt at this rate...
+kazuma: Don't sweat it. You can always pay me back later. 
+kazuma: After all, we're friends, right?
+dust: Kazuma... 
+dust: Yeah, you're absolutely right! Now then... It's off to dreamland!
+ナレーション: And thus, the bond between Kazuma and Dust grew even stronger.

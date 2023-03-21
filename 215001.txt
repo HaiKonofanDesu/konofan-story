@@ -1,0 +1,30 @@
+Rem - P1
+ナレーション: Though new to this land, Subaru and friends found themselves at a comfortable Axel inn, all thanks to Kazuma.
+rem: It seems we're free to use the kitchen, so I'll fix dinner tonight. 
+rem: Anything in particular you want to eat?
+subaru: That's a tough question. Everything you make is delicious. 
+subaru: Which is why I think I'll let you decide the menu.
+rem: Hehe... Very well then. I'll be sure to whip up a bunch of your favorite dishes.
+rem: Oh, one more thing...
+rem: I have to do the laundry later. Leave your dirty clothes out for me, will you?
+subaru: You got it! You're a star, Rem.
+kazuma: It's just not fair...
+subaru: Whoa, Kazuma—what's up? You're looking lower than 
+subaru: a lost puppy in the rain.
+kazuma: Not only are you close to that silver-haired elven beauty, you've got a hot maid at your beck and call!
+rem: That is something of an exaggeration. I do all this simply 
+rem: because I want to.
+kazuma: Dammit, Subaru! You live like royalty! It's totally unfair! Why's your world gotta be so much better than mine?!
+subaru: C'mon, Kazuma. You're up to your ears in beautiful women. There's Aqua, Megumin, Darkness...
+kazuma: You only say that because you don't know them like I do. 
+kazuma: Sure, they're attractive enough.
+kazuma: But you try questing with them...I've lost count of how many times I've died. And the debt just keeps piling up...
+kazuma: It's hell, I tell you.
+subaru: I-It certainly doesn't sound easy.
+rem: In that case, please be our guest for dinner tonight.
+rem: Though I can't promise it will ease your woes, I can fix anything you like.
+subaru: That's a great idea. Today's all about you, Kazuma. Spill your guts; you'll feel better.
+kazuma: So this is what real human decency feels like! Thank you, kind souls!
+rem: Just tell me what you're in the mood for. I'll be sure to 
+rem: make it with extra care.
+ナレーション: Rem favored the boys with a kind smile, as they lost themselves in salivating visions of a delicious feast.

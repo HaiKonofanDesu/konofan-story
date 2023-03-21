@@ -1,0 +1,68 @@
+True Pals for This Prankster Spirit! - P2
+ナレーション: With all present awed by the Axel Hearts girls, the crowd was blissfully unaware that villains lurked amongst them.
+lia_stage: Thank you, everyone!
+Fans: YOU BET!!!
+erica_stage: You fans keep me at my cutest!
+cielo_stage: We don't intend to rest on our laurels. We'll keep practicing to bring you even 
+cielo_stage: bigger and better shows!
+daniel: LIAAAAAAAAAA!
+charlie: CIELOOOOOOOOO!
+daniel: *Pant pant* 
+daniel: I can bear this torture no longer. We simply MUST go to the meet and greet!
+charlie: My thoughts exa—
+charlie: Wait! Boss, no! We'll blow our cover!
+daniel: Curses! To be deprived of the simple freedom to express this love surging within me! 
+daniel: This is tragedy untold!
+charlie: Being hammer-less, we must seek another means of imposing our 
+charlie: will upon the world. Only then will the idols will be yours!
+daniel: Mel. She is our first order of business. 
+daniel: The spirit must be turned to our side.
+charlie: Indeed. With that literal force of nature in our arsenal, our revenge upon those insolent meddlers will be nigh!
+ynyn: Girls of Axel Hearts! I have u-urgent news!
+daniel: As I recall, this girl's with Kazuma Satou's vile crew.
+charlie: Boss, it would be prudent to 
+charlie: conceal ourselves.
+lia_stage: What's wrong, Yunyun? Why so flustered?
+erica_stage: I know! You were worried you'd miss the meet and greet. 
+erica_stage: Lucky for you, we haven't even started yet.
+ynyn: N-No, I'm actually looking for Mel.
+ynyn: Have you seen her around anywhere?
+cielo_stage: Nope. Not today at least.
+erica_stage: Last time we talked, she mentioned Kazuma and team had a quest lined up for today.
+ynyn: Oh, no... I have to find her, pronto!
+lia_stage: Something urgent? What happened?
+ynyn: Brace yourselves. You see, Squall...
+erica_stage: He's gonna seal Mel away?!
+ynyn: Yes. Apparently she played a prank on Dust, and now Squall's going to put her away for good.
+lia_stage: Mel's an avid prankster and has caused her fair share of 
+lia_stage: trouble, but nothing deserving of such a severe punishment.
+erica_stage: That's right. She was finally just released!
+erica_stage: She can't be locked away again so soon.
+cielo_stage: We'll help with the search! I still owe her for helping me 
+cielo_stage: sort through my family problems, after all.
+ynyn: Th-That would be swell! Thank you so much!
+lia_stage: Mel's out questing with Kazuma and party?
+erica_stage: Yep. And as I recall, their destination was close by. 
+erica_stage: They should be due back anytime now.
+cielo_stage: We'd best find Mel before Squall. Her freedom depends on it! 
+cielo_stage: C'mon, guys! Let's go!
+erica_stage: Whoa. Wait up, Cielo!
+daniel: I trust you heard that, Charlie?
+charlie: Sure did, Boss.
+daniel: Mel's imprisonment would forever deny us the opportunity to exploit her powers and thwart our plans of vengeance.
+charlie: Yes. We need to find this Squall character and put a stop to 
+charlie: him and his nefarious plans!
+ナレーション: Meanwhile...
+squall: Has my order arrived?
+wiz: Yes, the enchanted tool you specified is right here. I take it you have plans to modify a magic item?
+squall: Yes, a very specific item. One I haven't used in a while.
+squall: One that will put a permanent stop to Mel. I know that I am doing the right thing.
+mel: Everyone, I'm really sorry about what happened.
+mel: I can remember the agony of imprisonment... It isn't right that Cielo is facing the same torture.
+squall: ... 
+squall: Huh?
+wiz: Um, are you not satisfied with the product? Or is something else bothering you, perhaps?
+squall: No, my apologies. I'm quite all right. I must take my leave.
+wiz: Of course. Thanks for your business!
+squall: Is my decision truly just?
+squall: Perhaps it is not about justice. This is merely what's best for Mel as well.

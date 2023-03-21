@@ -1,0 +1,56 @@
+Amy: Um, I wanted to ask a favor of you...
+aqua: Oh, what is it? Are you here to make a confession?\n
+aqua: You're welcome here any time, you know.
+Amy: Actually, it's about my village, Samuidoh. A rather dangerous monster is causing trouble...
+darkness: Ah, so you'd like us to help get rid of it, is that it?
+darkness: What kind of monster is it, Amy?
+Amy: I hear it's capable of killing people in a single blow...
+darkness: A single blow...? 
+darkness: I'm in!
+kazuma: Hold it. 
+kazuma: Amy, are you talking about an instakill bear?
+Amy: You’re so well-informed, Kazuma! Though from what I hear, 
+Amy: this isn't even a normal instakill bear.
+Amy: This one seems to be imbued with lightning somehow. It shocks anyone who tries to stop it.
+kazuma: Yikes. 
+kazuma: A bear that can kill in one hit is bad enough. I'd rather not get involved with 
+kazuma: one that's even worse.
+darkness: D-Don't be that way, Kazuma. We should go help!\n
+darkness: Besides, it's not every day you can be shocked by a deadly blow!
+kazuma: I don't really look forward to that kind of experience.
+Amy: I'm sorry for asking you to come all the way out here.
+darkness_winter: Don't mention it. Besides, who could pass up the chance 
+darkness_winter: for such an amazing reward?
+kazuma_winter: Anybody who isn't a masochist, 
+kazuma_winter: that's who!
+megumin_winter: That's not true. 
+megumin_winter: If I get the opportunity to test out my explosion magic, I'll go to the ends of the world!
+megumin_winter: And getting a chance to do so in a field of snow is even better. Do it once, and you're hooked for life.
+aqua_winter: Can you at least wait to melt all the snow until after I finish my ice sculpture? 
+aqua_winter: Now, what should I make this time?
+kazuma_winter: We're here to exterminate a monster, not play in the snow!\n
+kazuma_winter: I've got a bad feeling about this...
+Amy: Thank you for coming, Kazuma. I have a special surprise to give you once 
+Amy: this is all over.
+kazuma_winter: Special surprise? What is it?
+Amy: Hehe. If I told you, it wouldn't be much of a surprise. 
+Amy: I want to make sure you'll enjoy it as much as possible.
+kazuma_winter: Enjoy myself?
+Amy: Something the people of Samuidoh do to restore vitality.
+kazuma_winter: Vitality?!
+kazuma_winter: What could it be? I must know! No messing around! 
+kazuma_winter: This quest must succeed no matter what!
+Instakill Bear: Graaaaaahhh!
+aqua_winter: It's the instakill bear!
+megumin_winter: Now, let us see which of us is more powerful!
+darkness_winter: And let's see if your lightning-charged attacks are all they're cracked up to be!
+kazuma_winter: You're up against Kazuma, the man who has taken down 
+kazuma_winter: one Devil King general after another!
+aqua_winter: Whoa, what's with the sudden enthusiasm, Kazuma? Weren't you just complaining about being here a minute ago?
+kazuma_winter: You must be mistaken. Even the strongest of blows cannot 
+kazuma_winter: destroy a man's dreams!
+Amy: It's nice to see you so passionate! 
+Amy: Such a good boy, Kazuma!
+kazuma_winter: That's me, a good boy.
+kazuma_winter: You ready, everyone? 
+kazuma_winter: Let's do this!

@@ -1,0 +1,88 @@
+A Duet with This Crimson Demon Girl! - P5
+ナレーション: After Aqua and Darkness's performance, the contest went into full swing. Kazuma and Megumin were finally up...
+lia_stage: Now, please welcome our next team to the stage, 
+lia_stage: Chomukororin!
+megumin_kayoshow: The time has finally come for us to deliver our soon-to-be legendary performance to the people.
+kazuma_kayoshow: It has. Let's give them the show of their lives! 
+kazuma_kayoshow: It's time to reveal the product of our blood, sweat, and tears!
+megumin_kayoshow: My name is Megumin! Clad in crimson, my performance here shall live forever in legend!
+kazuma_kayoshow: And my name is Kazuma Satou! Listen as our song resonates with your very souls!
+ナレーション: With the final performances of both the red and white teams complete, the audience cast their votes...
+lia_stage: Thank you to all of our performers for putting on such an amazing show tonight.
+lia_stage: Now, the moment you've all been waiting for! The results of 
+lia_stage: this year's Axel Singing Contest are in and...
+lia_stage: Team Red and Team White received the same number of votes, making this year's competition a tie!
+kazuma_kayoshow: A tie?! How does that even happen?!
+megumin_kayoshow: Actually, it happens quite often. In fact, it's the true charm of this competition.
+kazuma_kayoshow: Say what now?
+lia_stage: Now, for the group voted the best performers of the night... 
+lia_stage: It's Axel Hearts!
+Axel Hearts Fan A: Your performance tonight was quite possibly your best one yet!
+Axel Hearts Fan B: We promise to follow you forever and ever!
+cielo_stage: W-We won?
+erica_stage: Hehe! The fact that we won the Axel Singing Contest is just further proof of my overwhelming cuteness!
+lia_stage: As your emcee, it's a bit embarrassing to crown my own team as the winner...
+lia_stage: But to all of you who came out to watch the show tonight, and those who voted for us, 
+lia_stage: thank you very much!
+kazuma_kayoshow: I guess we can't compete with Axel Hearts. I'm thrilled as their producer, but... 
+kazuma_kayoshow: Oh well! I can still celebrate with Megumin!
+kazuma_kayoshow: Hey, Megumin. Now that the competition is over, what do you say we get to that reward?  
+kazuma_kayoshow: Later tonight, we can—
+megumin_kayoshow: Kazuma, this is no time to let your guard down! The real show is about to start!
+kazuma_kayoshow: Huh? The what now?
+erica_stage: I'm glad you guys are here, Kazuma. 
+erica_stage: Winning the grand prize is one thing, but I doubt the three of us would be enough on our own.
+White Team Member: I participate every year just so I can join the Axel Monster Battle. Let's do this!
+Male White Team Member: I had a new weapon made just for this! I'm way more pumped for this than you are!
+kazuma_kayoshow: Huh? Axel...Monster Battle?
+banil: Mwahahaha! 
+banil: Oh, you poor, shiny, weakling! Your overwhelming ignorance must have you quaking with fear!
+kazuma_kayoshow: Vanir! What the heck is going on?!
+banil: I, Vanir, the kind-hearted committee member, shall tell you! 
+banil: The competition's second round is about to begin!
+kazuma_kayoshow: W-What the heck does that mean?!
+banil: It happened over a decade ago. One year, the singing competition ended in a tie.
+banil: However, there can be no prize money without a victor. And so a contest was held to see who could eliminate the most arena monsters.
+banil: From what I understand, the audience absolutely loved it!
+banil: The event became custom. Each year now ends in a tie by default, and the team that defeats the most monsters wins.
+kazuma_kayoshow: Wait, so the singing competition is just a side act?! 
+kazuma_kayoshow: But I practiced so hard for it!
+banil: There's no need to be glum. After all, your main goal was the young Crimson Demon, was it not?
+kazuma_kayoshow: I-It just sounds creepy when you say it like that! 
+kazuma_kayoshow: And why didn't anyone tell me this sooner?!
+lia_stage: I'm sorry. Since Megumin invited you to participate, I assumed she'd explained everything to you.
+cielo_stage: You can complain later! Right now, we need to fight! These monsters are strong, so stay focused!
+kazuma_kayoshow: I finally understand why so many contestants are so muscular.
+erica_stage: The grand prize winners often get attacked by the other contestants during the battle out of spite, too!
+erica_stage: So can I count on you to protect my adorable self?
+kazuma_kayoshow: What sort of competition tries to beat up its own winners?! This entire event is nuts!
+kazuma_kayoshow: Wait... 
+kazuma_kayoshow: So the reason you wanted me to perform with you...
+megumin_kayoshow: Is so you can carry me home after I fire off my explosion magic, of course!
+megumin_kayoshow: How often do I get the chance to fire off a blast in front of such a huge audience?! Oh, I can't wait!
+kazuma_kayoshow: I should have known...
+banil: Your reaction to this unexpected turn of events is so very scrumptious. 
+banil: Well, good luck out there! 
+banil: Mwahahaha!
+kazuma_kayoshow: Why does this always happen...? 
+kazuma_kayoshow: Oh, wait. If I manage to survive, I still have 
+kazuma_kayoshow: Megumin's reward to look forward to.
+aqua: Hey, nobody told me about this fight! I only came here to show off my amazing techniques!
+darkness: Aqua, we've come this far. We have no choice but to fight. I'll provide the cover while you—
+aqua: No way! I'm only here for the performance! Why would I go out of my way to get hurt?!
+aqua: How dare you subject a goddess to this, you masked demon! You call yourself a committee member! I demand compensation!
+banil: Hmph! It was your own choice to join last minute! Then you go and get all the decorations wet with your little trick.
+banil: You're the one who should be compensating us, you property-damaging priestess!
+aqua: What did you just say?!
+kazuma_kayoshow: Hey, knock it off you two!
+lia_stage: That's right! This is no time to be arguing!
+luna: It would seem a small altercation 
+luna: has our host distracted, so I will be filling in. 
+luna: Now then, let the battle begin!
+aqua: As a goddess, I cannot ignore such a slight. 
+aqua: I won't rest until I've settled things with this scheming demon!
+banil: Scheming?! How dare you! What a coincidence, though. 
+banil: I too am unable to leave things unsettled between us.
+banil: And wouldn't you know, I find myself with more than enough time to entertain your delusions now. 
+banil: Mwahahaha!
+kazuma_kayoshow: Seriously, can't you two drop it for even a second?!

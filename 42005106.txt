@@ -1,0 +1,64 @@
+A Play for This Crimson Demon Author! - P6
+Arue ＆ Yunyun: Light of Saber!
+Ghost Armor: Grrrrrrrrr!
+kazuma_actor: It stopped moving. Now's our chance!
+aqua_actor: Leave it to me. Sacred Turn Undead!
+Ghost Armor: Aaarggghhhhhh!
+ナレーション: Aqua's magic sent the ghosts back to heaven in a pillar of intense light...
+kazuma_actor: Phew... It wasn't as tough as the real Verdia, but that was still a difficult fight.
+arue_actor: Fortunately for us, it was only made out of milk cartons.
+ynyn_actor: It's all busted up. Does that mean they're just regular milk cartons again?
+aqua_actor: *Sob* I worked so hard on that. It was my masterpiece...
+kazuma_actor: Well, if you hadn't drawn those ghosts here, 
+kazuma_actor: there wouldn't have been any need to destroy it.
+Patron A: That was an amazing performance. Were those monsters real?
+Patron B: No way, they'd never do something so dangerous just for a performance...
+kazuma_actor: Oh no! I hope they don't ask for a refund 
+kazuma_actor: because of what happened!
+Patron C: Bravo!
+kazuma_actor: Huh?
+Patron A: That was amazing! It looked like a real battle!
+Patron B: I was on the edge of my seat! I was so excited that I almost forgot to breathe!
+Patron C: I'd definitely come see this play again!
+kazuma_actor: A play? That was a real battle we fought! 
+kazuma_actor: And the story turned into an absolute mess.
+aqua_actor: Kazuma, this is a great opportunity for us! If we just gloss over what actually happened...
+arue_actor: Yes, we can use this positive reaction from the crowd to bring the play to a close.
+ynyn_actor: What?! Hold on, I didn't even get to say the line I spent so much time practicing!
+kazuma_actor: Thank you! Thank you all so very much!
+ynyn_actor: Hey, listen to me—
+aqua_actor: What a response! Here's a Nature's Beauty as a thank you!
+arue_actor: This script was written by the most buxom of the 
+arue_actor: Crimson Demon Clan, as well as an aspiring author, Arue!
+ynyn_actor: Ugh, seriously?! I practiced so hard!
+ナレーション: Despite all the troubles they faced, Kazuma and the group successfully concluded the play.
+kazuma: Hey, so the theater manager wanted a meeting with me. 
+kazuma: He said that he definitely wants an encore performance.
+kazuma: Apparently, he's been bombarded with questions about when the next performance will be.
+aqua: Amazing! It was obviously due to my charm!
+kazuma: It's not just your set design and acting. People really liked the story and wanted to see the ending.
+arue: Hehe, that's good news for me as the playwright.
+arue: Putting on a play was a lot of fun, wasn't it, Yunyun?
+ynyn: ...
+kazuma: Yunyun?
+ynyn: I practiced my line so much, and I couldn't wait to perform on stage with my friends...
+aqua: Hey, Kazuma. Does Yunyun seem upset about something?
+kazuma: Well, we had to end things rather abruptly. I suppose she's disappointed she didn't get to say her line.
+ynyn: Of course I am! 
+ynyn: I wanted to show all of you just how hard I worked, and see how happy you'd be with my performance!
+aqua: It's fine. People want to see us perform again.\n
+aqua: You can put your practice to use then, right?
+ynyn: Wait, really?
+arue: It might not be a bad idea to change up the cast next time.
+arue: In fact, why don't you play the hero, Yunyun?
+ynyn: Wait, me? Play the hero?!
+kazuma: Sounds good. And I can play the Devil King.
+aqua: I'll be the princess, of course.
+arue: I'll rework the script and play the Devil King's servant.
+ynyn: Oh, that sounds like it'll be really fun... 
+ynyn: Wait, what?
+ynyn: That means I'm the only member of the hero's party!
+arue: Hehe, that's enough joking around for now. I look forward to taking the stage together again.
+arue: Well, I should be heading back to the village soon.\n
+arue: Thanks to you, I've got the makings of a great novel.
+ナレーション: With thoughts of the group once again performing on stage, Arue began work on her latest book...

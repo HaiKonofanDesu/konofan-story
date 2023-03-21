@@ -1,0 +1,27 @@
+Ninja Transformation
+lia_ninja: Tread silently. Stealthily. Light as a feather.
+Monsters: Grrrrrrrrr...
+ナレーション: Dressed in ninja garb, Kazuma and Lia were attempting to make off with a trove of monster-guarded treasure...
+kazuma_ninja: Those dancing skills translate really well to ninja-ing. I can't hear a single step you make.
+lia_ninja: That's great and all, but I must know—what's the point of these clothes? 
+kazuma_ninja: Ask Aqua, she made them. She said she needed some needlework practice.
+kazuma_ninja: Hey, I'm not complaining. With these on, I feel like my Lurk skill's twice as effective!
+lia_ninja: I guess I can't deny the logic. It's just...surreal, you 
+lia_ninja: know? Being dressed like a ninja in this world. 
+kazuma_ninja: Which is why I've taken full advantage of the opportunity.
+kazuma_ninja:  Behold, my custom-made ninja gear!
+lia_ninja: Throwing stars, caltrops... Are those 
+lia_ninja: ninja throwing knives? ...Huh, and a scroll?
+kazuma_ninja: Hey, don't touch that! It's— 
+lia_ninja: Ack! That's bright!
+kazuma_ninja: I tried to warn you! It's an enchanted light scroll! It's meant to blind our foes!
+kazuma_ninja: I bet the monsters are on to us now. Bye-bye element of surprise!
+Monsters: Graaaaaah!
+lia_ninja: They found us! We'd better fall back for now!
+kazuma_ninja: Way ahead of you, Lia! Step on it! 
+lia_ninja: You're that far away? Already?!
+Monsters: Graaaaaah!
+kazuma_ninja: Eat caltrops, vile beasts!
+Monsters: G-Grrrmgh?!
+lia_ninja: Wow, Kazuma. You're like...well, a real ninja.
+ナレーション: Trailing in Kazuma's wake, Lia could not help but be impressed at her companion's swift getaway.

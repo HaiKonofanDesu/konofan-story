@@ -1,0 +1,107 @@
+An Adventure with This New Party! - P2
+An Adventure with This New Party! - P2: An Adventure with This New Party! - P2
+ナレーション: A few days earlier, Kazuma and the gang's peaceful, lazy lives came to an abrupt end...
+megumin: Hey, Kazuma! Let's go on a quest!
+kazuma_jersey: Not today.
+darkness: "Not today"? But you've been locked up in this mansion for days! When will you take on another quest?
+kazuma_jersey: I'm not about to put myself in harm's way for no reason. We're doing just fine, so there's no need to put ourselves in danger.
+megumin: You're so lazy! Aqua, say something to him!
+aqua: ...Well, he isn't wrong. 
+aqua: And we haaave been working pretty hard lately!
+aqua: We should spoil ourselves more! And what better way to do so than with a bottle of fancy bubbly?
+darkness: Mid-day bubbly...? Are you certain that's a good idea?
+ナレーション: As Darkness pondered the situation, the emergency alarm sounded through town...
+aqua: Huh? What was that?!
+Announcement: Emergency quest! Emergency quest! All adventurers, assemble at the front gate immediately!
+kazuma_jersey: It's been a while since I've heard that sound...
+megumin: This seems serious. 
+megumin: Come on, let's go!
+kazuma_jersey: Go on without me... I don't have the strength to lift anything heavier than chopsticks right now.
+megumin: Stop acting like a spoiled brat! Now, let's get a move on!
+megumin: !
+tough_guy: Hmph! They came early this year...
+Cabbage: Cabba Cabba Cabba Cabba...!
+kazuma: Cabbage... 
+kazuma: Cabbages...? Hey, aren't those supposed to come in autumn? It's still spring!
+Cabbage: Cabba Cabba Cabba Cabba...!
+aqua: These are SPRING cabbages, Kazuma. Don't you know the difference? You plant them in autumn and harvest them in the spring. They're pretty tasty!
+aqua: Plus, they sell for a high price and make great snacks. Now, let's get to harvesting!
+questStart: Public Quest:
+Harvest the incoming
+
+
+
+
+horde of spring cabbage.
+Harvest the incoming
+
+
+
+
+horde of spring cabbage.
+aqua: Help me, Kazumaaa! These cabbages are way more ferocious than the ones 
+aqua: from before!
+luna: Spring cabbages are always on the move and full of energy!\n
+luna: That's why they taste so great!
+megumin: Argh... If we could herd them to a single spot, I could blow them away with my explosion magic.
+Adventurer A: Bad news! The performance group's carriage was supposed to return today, but they're not here yet!
+Adventurer B: Maybe they were attacked by the spring cabbages? We could go help, but given the size of this cabbage horde...
+darkness: ...
+darkness: All right, let us search for the carriage. I shall shield you from the cabbages' attacks!
+kazuma: Does this situation...excite you?
+darkness: Not at all.
+Cabbage: Cabba Cabba Cabba Cabba...!
+darkness: *Pant pant* The cabbages' attacks are truly powerful! Their heavy, hard blows...
+darkness: are exhilarating! 
+megumin: ...Look, Kazuma! It's the cart!
+kazuma: Hey, are you all right?!
+Driver: I-I'm fine. Somehow. But my horse ran off...
+aqua: Were there any other passengers?
+Driver: A few dancers, but they managed to escape. I'm more worried about their luggage...
+kazuma: You'll be taken out with your cart if you stick around here! Come with us if you want to live!
+kazuma: Darkness! We'll take the old man somewhere safe. Draw the cabbages away!
+darkness: Y-You want me to shield you after already taking so much damage?! 
+darkness: Hehehe... I was hoping you'd say that!
+darkness: More... Give me more... 
+darkness: Let me be your human shield!
+aqua: Now! While Darkness lures the cabbages with her Decoy skill!
+kazuma: This way, old man! Get away from the cart!
+Driver: O-Okay. But the luggage—
+megumin: Kazuma! I'm ready to fire off my explosion magic! Just say the word!
+kazuma: The cabbages are all grouped together. Let's finish them off and secure an escape route!
+kazuma: Now, Megumin! 
+kazuma: But don't hit the cart!
+megumin: I am Megumin, foremost spellcaster of the Crimson Demon Clan and wielder of explosion magic!
+kazuma: Darkness, get out of there so you don't get hit!
+darkness: Ahhh... I can hold out for just a little longer!
+kazuma: ARE YOU CRAZY?! GET OVER HERE!!!
+Cabbage: Cabba Cabba Cabba Cabba...!
+megumin: Hehehe... Behold my limitless power!\n
+megumin: EXPLOSION!!
+ナレーション: Megumin's explosion magic not only blew the cabbages to bits, but the cart as well.
+kazuma: Hey! What are you doing?! You blew up the cart, too! Didn't I tell you not to hit it?!
+megumin: Crimson Demons don't know the meaning of the word restraint.\n
+megumin: Heh... Nice explosion!
+kazuma: That brat! Maybe we should just leave her lying here!
+Driver: Wh-Wh-What have you done...?!
+kazuma: S-Sorry... But at least nobody got hurt. That's good news, right?
+Driver: Don't be stupid! That cart was—
+kazuma: I don't believe this... They told us it was just the carriage of some performance group from Axel...
+aqua: Who could've known there was a noble's gift on that cart? 
+aqua: And why's a performance group acting as a courier?!
+kazuma: Now we need to cough up 450 million Eris to replace those precious metals... 
+kazuma: We'll never make enough to pay that off! It's impossible!
+aqua: We'll have to take on a difficult quest with a big reward. 
+aqua: Like slaying one of the Devil King's generals!
+kazuma: A high-difficulty quest... Is that really our only option? I'm not sure we can handle something like that on our own...
+kazuma: If we're going to accept a high-difficulty quest, we'll need to recruit more party members from the guild...
+Black-Haired Girl: Excuse me, do you have a moment?
+kazuma: Huh?
+Black-Haired Girl: I overheard your conversation just now. Are you planning to take on a high-difficulty quest?
+kazuma: Well, we haven't actually decided yet...
+Tomboy: Um, if you don't mind our asking...\n
+Tomboy: Would you let us join your party?
+Ponytailed Girl: More like we'll let you accept us into your party. I'm sure you're excited to go questing with us.
+kazuma: Three beautiful girls appeared out of nowhere acting pretty needy. I get the feeling this is going to trigger some kind of event.
+Black-Haired Girl: I don't think we'll slow you down... 
+Black-Haired Girl: What do you say?

@@ -1,0 +1,39 @@
+Glamorous Casino Bunny 
+banil_casino: We've arrived! Elroad, the land of casinos! 
+melissa_casino: You sure are worked up...
+melissa_casino: Well? Spit it out. What's your scheme this time? 
+banil_casino: Something an esteemed treasure hunter such as yourself is sure to pounce on: 
+banil_casino: a chance to make some serious coin.
+melissa_casino: You don't say?
+banil_casino: I do say. You see, circumstances prevent me from acting conspicuously in front of large crowds.
+banil_casino: Thus, I propose that you, in my stead—try your hand at winning big in this casino.
+melissa_casino: A casino play, eh? 
+melissa_casino: Sorry to burst your bubble, but the only games I play are ones where victory is certain.
+banil_casino: Fret not. I am not one to leave things to mere chance. 
+banil_casino: Our winnings shall be assured by a foolproof plan.
+banil_casino: Now let us be off! For there is much victory to be had and even more store losses to recoup!
+melissa_casino: And the winner is...me. Those chips have my name on them, thank you very much.
+Guest: WHOA! That lady won again! She's on a serious streak!
+banil_casino: Mwahahahaha! 
+banil_casino: Laughter this sweet cannot be suppressed!
+melissa_casino: Color me impressed. 
+melissa_casino: And a little suspicious. 
+melissa_casino: You know exactly what move to make, every time. 
+banil_casino: Yes, yes, but this plan's effectiveness also hinges on that deadpan poker face of yours. 
+banil_casino: You were the perfect co-conspirator. 
+melissa_casino: Not really sure if I take that as a compliment, but eh. 
+melissa_casino: You can say whatever you want if you keep this up. The fun's just beginning! 
+banil_casino: As much as I'd like to continue, it's also important to know how to quit while you're ahead. 
+melissa_casino: What's that supposed to mean? 
+Manager: Excuse me, madam. I am the manager of this establishment. 
+Manager: Pardon my bluntness, but... Leave, I beg you! You're running us into the ground!
+melissa_casino: You can't just force a customer to leave. 
+melissa_casino: And I'm feeling reaaaal lucky today. 
+banil_casino: Calm yourself. Dispute his request and we're bound to lose our hunting ground. 
+melissa_casino: Quit while we're ahead, eh? 
+melissa_casino: Fine. We pulled a fair bit of winnings for one day. 
+melissa_casino: Until next time? 
+banil_casino: But of course.
+melissa_casino: Very well then.  
+melissa_casino: This was fun, Mr. Manager. I'll even be willing to give you a second date. 
+ナレーション: As the two made for home, their pockets lined with coin, the manager looked on with a face frozen in dread...

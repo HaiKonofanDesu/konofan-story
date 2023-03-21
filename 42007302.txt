@@ -1,0 +1,47 @@
+Flame Kraken - P2
+ナレーション: Kazuma and his party were locked in a fierce battle against the kraken in its seaside cave...
+kazuma_jersey: Gah! How is this thing still kicking?
+darkness_swimwear: Urrrgggggghhh!
+ynyn_swimwear: Darkness?!
+miia_swimwear: Let her go! I'm gonna save you, Darkness!
+darkness_swimwear: I'm fine!
+miia_swimwear: Huh?
+darkness_swimwear: Ahh! 
+darkness_swimwear: Urrrggghhh!
+kazuma_jersey: Hang in there, Darkness! I just need to cut off its tentacle!
+darkness_swimwear: Don't worry about me! I'm in a good place!
+kazuma_jersey: Really?
+miia_swimwear: She said the same thing to me when I said I'd save her. 
+miia_swimwear: Why is that?
+ynyn_swimwear: Um, maybe you'll understand when you're an adult, Mia.
+kazuma_jersey: No, I don't think she should ever understand that!
+darkness_swimwear: Agh! Ungh! Ahhh! Even though it's dying, its grip 
+darkness_swimwear: keeps getting tighter!
+darkness_swimwear: If I let down my guard for an instant, it'll crush me to 
+darkness_swimwear: death! You're a splendid foe, Kraken!
+darkness_swimwear: Ahh! Th-This is amazing, Kazuma! I'm so glad I didn't 
+darkness_swimwear: bring my armooooooooor!
+miia_swimwear: Hm? Why does Darkness seem so happy? 
+miia_swimwear: I think I'll join her!
+kazuma_jersey: No, Mia! Stop! I don't want you picking up 
+kazuma_jersey: any of Darkness's habits!
+kazuma_jersey: It's time to end this. Now, Yunyun!
+ynyn_swimwear: O-okay, I'll do my best! 
+ynyn_swimwear: Light of Saber!
+Kraken: Rrraaa
+Kraken: wwwrrr!
+kazuma_jersey: Okay, it's ready. Now, for my special sauce! 
+kazuma_jersey: And we've got grilled squid!
+miia_swimwear: Let me try some first! 
+miia_swimwear: *Chomp chomp* *Nom nom*
+ynyn_swimwear: It's so good! I had no idea that sauce could be so tasty.
+darkness_swimwear: These tentacles were crushing me just moments ago... To think that I'm eating them now...
+miia_swimwear: It's so good! Surely it'd go great with some rice, too!
+kazuma_jersey: Squid rice bowls, huh? Yeah, that could be popular.
+ynyn_swimwear: We're eating seafood freshly caught at the beach!\n
+ynyn_swimwear: This is what f-friends do, right?!
+darkness_swimwear: Ah, I can still feel the sensation of being squeezed...\n
+darkness_swimwear: This quest was a tremendous success!
+miia_swimwear: More please, Kazuma!
+kazuma_jersey: Sure thing.
+ナレーション: And so, the party's summer night came to a satisfying end...

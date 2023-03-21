@@ -1,0 +1,73 @@
+ナレーション: The sounds of waves and young girls rang out under the summer sun...
+miia_swimwear: Ahahaha! Hah!
+ynyn_swimwear: Ahahaha! Hey, stop that, Mia! 
+ynyn_swimwear: Don't splash so much!
+miia_swimwear: Okay, then get ready for this!
+ynyn_swimwear: Ack?! M-Mia... 
+ynyn_swimwear: *Glub glub*
+darkness_swimwear: Hey, get off her shoulders. Yunyun might drown.
+miia_swimwear: Oh, sorry. 
+miia_swimwear: Are you okay? 
+ynyn_swimwear: Yeah, I think so. 
+ynyn_swimwear: This sure is fun.
+kazuma_jersey: Hey, how long are you girls going to play around? We have to get going soon.
+miia_swimwear: Perfect timing, Kazuma! Come play with us! 
+miia_swimwear: It's super fun!
+kazuma_jersey: The sweltering sun, beautiful girls in bikinis...
+darkness_swimwear: It's nice to enjoy the beach like this.
+ynyn_swimwear: Yeah, spending time with my friends here is 
+ynyn_swimwear: just... so nice!
+kazuma_jersey: How could any man turn these women down?
+miia_swimwear: Hey, Kazuma! Hurry up and put on your swimsuit.
+kazuma_jersey: No thanks. 
+kazuma_jersey: I'm the type of man who can resist such temptations. 
+miia_swimwear: You're no fun.
+kazuma_jersey: This isn't about having fun. We came to the beach for a quest, right?
+kazuma_jersey: Okay, playtime is over. I'm glad the three of you had fun, but did you forget why we came here?
+miia_swimwear: Hm? Oh, yeah... What was it again?
+kazuma_jersey: We're here to kill the kraken that terrorizes this region!\n
+kazuma_jersey: In fact, aren't you the one who brought it up?!
+miia_swimwear: Oh, that's right! The picture of the kraken at the guild 
+miia_swimwear: looked super tasty.
+kazuma_jersey: You're the only person who'd think of grilled squid after 
+kazuma_jersey: seeing that monster. Oh well, let's get going.
+miia_swimwear: Okay! Let's defeat that kraken and celebrate with some delicious squid!
+darkness_swimwear: T-Tentacles... 
+darkness_swimwear: Finally, I can enjoy the sensation of tentacles crushing me, just like in my dreams!
+ynyn_swimwear: I simply want to prove to everyone how useful I can be! 
+ynyn_swimwear: If I do, then maybe we can be friends...
+kazuma_jersey: Ugh! Why do they all have to be so annoying?! 
+kazuma_jersey: Although, I could make some money selling grilled squid...
+ナレーション: Armed with the info from the guild, the group entered a cave near the beach, each for their own reasons...
+miia_swimwear: *Drool* 
+miia_swimwear: Grilled squid! Grilled squid!
+ynyn_swimwear: W-We're all exploring this cave together. 
+ynyn_swimwear: It's like we're a real adventuring party!
+kazuma_jersey: By the way, you're all in bikinis. Are you gonna be okay? 
+kazuma_jersey: We're about to go into battle.
+darkness_swimwear: It's perfect. 
+darkness_swimwear: Wearing armor would prevent me from feeling the tentacles directly on my skin.
+miia_swimwear: I think it's easier to move wearing this.
+ynyn_swimwear: I just want to be like everyone else.
+kazuma_jersey: Okay, whatever. 
+kazuma_jersey: According to the guild, this should be the place...
+darkness_swimwear: Kazuma, look! There's something rising up out of the water!\n
+darkness_swimwear: Ah, it's a tentacle, how excellent! I'm going in!
+miia_swimwear: Hey, Darkness! No fair! I wanna go too! 
+miia_swimwear: Wait for me! Ahahahaha!
+kazuma_jersey: Hey, you two! We need a plan first!
+Flame Kraken: Rrraaawwwrrr!
+darkness_swimwear: Oh no! 
+darkness_swimwear: I'm caught up in its tentacles!
+kazuma_jersey: You just walked directly into them yourself.
+miia_swimwear: Hmm... This thing doesn't look very tasty at all. 
+miia_swimwear: I think I'll go home.
+ynyn_swimwear: You can't, Mia! Darkness is in trouble!
+darkness_swimwear: Ah! It's squeezing me so much tighter 
+darkness_swimwear: than I expected!
+kazuma_jersey: You all are free to do what you want. I'm done here.
+darkness_swimwear: Ugh, I can't take much more of this... 
+darkness_swimwear: Kazuma! I need help!
+kazuma_jersey: Yeah, I tried to warn you! Okay, Yunyun! Mia! 
+kazuma_jersey: Let's go save her!
+Flame Kraken: Rrraaawwwrrr!

@@ -1,0 +1,77 @@
+ナレーション: Even in Elroad, dazzling land of casinos, a performance from the ever-popular Axel Hearts always drew a large crowd...
+cielo_stage: Did you enjoy our brand-new song we wrote for you?!
+erica_stage: Whether you win or lose, we hope our songs will brighten your day!
+lia_stage: And if you have the opportunity, we'd love for you to visit us in Axel! Thank you all for coming today!
+Fan A: This is the famous Axel Hearts?! I feel like they've given me the courage to push through my recent losing streak!
+Fan B: Me too. I'm feeling lucky. Time to hit the casino!
+kazuma: Just as I thought... This is going to bring the casino a ton of business. 
+kazuma: They'll be asking us back again for—
+reuenthal: That was good enough to be a martial arts demonstration. I see you've not grown lax, Ciruelto. 
+reuenthal: Your father is proud!
+kazuma: Wait, isn't that...
+cielo_stage: Is something wrong, Kazuma? You look concerned. 
+erica_stage: I was super cute out there today! Wasn't I, Kazuma? 
+kazuma: Yep, you sure were. 
+kazuma: The crowd wasn't just your regular fans, but newcomers too. Nicely done.
+erica_stage: Right?! I love compliments! Tell me more! You too, Lia! Hey... 
+erica_stage: Why are you standing all the way over there?
+lia_stage: I messed up on the chorus...
+erica_stage: Oh, psh. Is that it? 
+erica_stage: Your attention to detail is always cute, though!
+cielo_stage: It's okay, something like that can be fixed with just a little bit of training!
+lia_stage: Oh, thanks you two!
+kazuma: Erika and Cielo are right. If it bothers you that much, just make up for it in the next performance.
+lia_stage: Thank you, everyone! I'll work even harder, I promise!
+erica_stage: All right, time for the after-party! Kazuma, didn't you say 
+erica_stage: the casino staff were preparing something for us? 
+kazuma: Yeah, there should be a tent nearby. With such nice weather, I figured we could have an outdoor barbecue.
+cielo_stage: That sounds nice. I'll go help them set—
+cielo_stage: Eek!
+kazuma: Whoa! Watch your step. A twisted ankle is deadly for a performer you know.
+cielo_stage: Aaaaaaaaah!
+kazuma: ARGH!
+cielo_stage: *Gasp* Oh, I'm sorry! 
+cielo_stage: I did it again!
+kazuma: Hrng... It's been so long that I forgot... I really wish you'd do something about that...
+Adventurer A: Emergency! If there are any adventurers nearby, we need your help! Everybody else, run for your lives!
+lia_stage: Hm? Did something happen?
+Adventurer A: A huge group of giant toads just appeared outside the city!
+erica_stage: What?! Here?!
+Adventurer A: It's the smell! Somebody is cooking some barbecue down the road. It's attracting the toads!
+kazuma: What...?
+lia_stage: Kazuma, does that mean this is our...
+kazuma: Don't say it.
+cielo_stage: But that's where our after—
+kazuma: I said shush!! If they find out it's ours, they might never let us come back!
+kazuma: I know 
+kazuma: you're probably tired 
+kazuma: from the show, but we've got one more thing to take care of 
+kazuma: before the after-party.
+Giant Toad: Crooooooaaak!
+Adventurer B: AAAAAAAH! It's going to swallow me whole!
+lia: Hraaah!
+Giant Toad: Croooak...
+cielo: Are you all right?! Here, let me heal you.
+Adventurer B: *Pant pant* Thank you... You saved me...
+erica: All right! Leave the rest to me!
+kazuma: Erika, don't let your guard down!
+erica: Don't worry about me. These guys will be a—
+Mega Giant Toad: Crooooooaaak!!!
+erica: Eeeeeek! There are more of them?! 
+erica: How disgusting! They're not the least bit cute!
+Mega Giant Toad: Crooooooaaak!!!
+erica: Slime isn't cute either!!!
+cielo: Hey! You stay away from Erika! 
+cielo: Hraaah!
+Mega Giant Toad: Croooak...?
+cielo: What?! M-My punch had no effect!
+kazuma: Giant toads are resistant to physical attacks! You can't just brute force your way through!
+cielo: Hi-yaaagh!
+kazuma: Give it up, Cielo! Physical attacks just aren't effective!
+cielo: My training will never let me down! 
+cielo: If my punches can't hurt them, 
+cielo: I'll bring disgrace upon on the Reuentahl name!
+Giant Toads: Croak! Croak! Crooooooaaak!
+Adventurer B: Waaaaaah! Even more are showing up!
+kazuma: For such a usually calm person, Cielo sure gets worked up in situations like this.
+kazuma: Lia! Erika! Let's go!

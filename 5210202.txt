@@ -1,0 +1,27 @@
+Dreamy Pajama Night
+miia_pajama: Cielo, your bed's softer than a sheep in springtime!
+cielo_pajama: M-Mia? Please don't jump on the bed!
+cielo_pajama: Amy's counting on me to look after Mia for a while. I can't let her down!
+cielo_pajama: It's time for bed, okay? You can play tomorrow.
+miia_pajama: But I'm not sleepy! Not one bit!
+cielo_pajama: Hm... Oh, here's an idea. I can sit here and keep you 
+cielo_pajama: company. We'll talk until you feel sleepy. Sound good?
+miia_pajama: Sounds great!
+miia_pajama: Ooh, let's talk about who we like! I did that with Erika last time and it was lots of fun!
+cielo_pajama: Wh-Who we like? Sorry to disappoint you, but I don't have 
+cielo_pajama: anyone like that—not yet at least.
+miia_pajama: That's all right. You can listen to me, then!
+cielo_pajama: S-Sounds swell.
+miia_pajama: The person I like works wonders in the kitchen. Just the 
+miia_pajama: other day, I got treated to the most delicious cake!
+miia_pajama: This person's sweeter than syrup, too. 'Specially if I fall 
+miia_pajama: and scrape my knee. A hug and a kiss and I'm back on my feet!
+cielo_pajama: Then, the person you like is...?
+miia_pajama: Amy, o' course! Ooh, ooh! She's also a whiz at sellin' our veggies! Why, just the other day... 
+cielo_pajama: So Mia was referring to Amy. A different kind of "like," I suppose, but affection all the same.
+cielo_pajama: Say, Mia, can I go now?
+miia_pajama: So you do have someone you like!
+cielo_pajama: I sure do! Erika and Lia.
+miia_pajama: Yup, yup. I know just how much you like those two! 
+miia_pajama: Isn't girl talk fun?
+ナレーション: Mia and Cielo's girl talk continued late into the night, the two of them swapping stories of the people that mattered most...

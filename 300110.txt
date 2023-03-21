@@ -1,0 +1,94 @@
+BgCamera: NoWait
+A Conclusion to This Worthless Fight! - P2
+ナレーション: Verdia attacked the town of Axel and gravely wounded Darkness...
+darkness: Ngh... Gwargh...
+megumin: Darkness!
+beldia: Fare thee well, my brave yet foolish crusader!
+kazuma: Crap! Darkness is in trouble... C'mon, man. Just calm down and think!
+kazuma: My level's too low to steal his weapon, and he dodged my Create Water like it was nothing.
+kazuma: Then again, why WOULD he dodge it? It's a beginner-level spell. It's not like it'd do much to him.
+kazuma: Ohhh! I get it now! The dullahan's weakness is water!
+kazuma: Surf's up, gang! At least it better be, because it's time to break out your water magic!\n
+kazuma: Create Water!
+ナレーション: Upon Kazuma's orders, the magic users in the area chanted their spells all at once...
+beldia: F-Foul knaves! S-Stop that... Knock that off, I say!
+kazuma: Create Water! Create Water! C'mon! We need to hit him good before we run out!
+aqua: Just what are you fooling around for, Kazuma? Having a brain fart or something?
+kazuma: Try to pay at least a LITTLE attention! He's doing all he can to dodge the water, right? Ergo, he's weak against water!
+kazuma: You have a brain, in theory at least. Please, I beg of you, use it to start casting water spells!
+aqua: Who do you think you're talking to, you blasphemer? Forget a little water—I could cause a flood if I wanted to!
+aqua: You better apologize! Say you're sorry for daring to question a goddess!
+kazuma: Yeah, yeah! I'm mad sorry! I'll even throw in a few bonus sorrys after this is over. Just cast your damn magic, you useless goddess!
+aqua: STOP BEING MEAN!\n
+aqua: You'll be truly sorry when you see the true power of a goddess!
+aqua: To all my kin who dwell in this world, the goddess of water summons you! Heed my call, and reveal your power unto all!
+aqua: Sacred Create Water!
+megumin: Aaaghh... *Glub glub*
+beldia: Th-The water...!
+kazuma: Ack! W-We're being washed awaaay!
+darkness: I've never experienced water torture on this scale before...
+darkness: I don't mind being soaked down to my panties... In fact, it's a thrill!
+kazuma: Don't ACTUALLY flood the place! You overdid it, Aquaaaaaa!
+darkness: Eeeeeek!
+ナレーション: The water conjured from Aqua's spell swallowed up not just Verdia, but all the other nearby adventurers in a damning deluge...
+megumin: That flood might've made things even worse.
+darkness: The outer wall is ruined... Aqua's magic is truly extraordinary.\n
+darkness: My, what an enriching experience that was.
+beldia: Ngh... Just what is the matter with all of you? 
+beldia: Are you fools?! Have you completely lost your minds?!
+aqua: He's still alive, huh? Well, now! This is our chance, Kazuma!
+kazuma: This time, your sword is mine!
+beldia: I may have been weakened, but a novice like you could never hope to take my blade. Now, allow me to finish you off all at once!
+kazuma: Steal!
+beldia: Umm... Uh...
+kazuma: Heh... Heh heh heh heh heh.
+ナレーション: Kazuma grinned wickedly, for in his hands was not Verdia's sword, but his head...
+kazuma: Hey, guys! Who's up for a game of soccer?!
+kazuma: The rules are simple. 
+kazuma: Here's a big one: you can't use your hands. You can only kick the ball. 
+kazuma: Like THIS!
+ナレーション: Kazuma drew his leg back and kicked Verdia's head high into the sky.
+beldia: Aaargh! 
+beldia: ...!
+Adventurer A: So we can only use our feet, huh? Like this?
+Adventurer B: Ooh! I wanna try!
+beldia: Owww! 
+beldia: H-H-Help...me! Aaaugh!
+darkness: That should've weakened him. Now let's finish him off for good this time.
+aqua: Allow me! Sacred Turn Undead!
+beldia: H-Hey, wait...! Rrraaaaaagh!
+questComplete: Emergency Quest:
+<size=85>Defeat the dullahan!
+
+
+
+
+
+Quest complete!</size>
+<size=85>Defeat the dullahan!
+
+
+
+
+
+Quest complete!</size>
+luna: Sorry to keep you waiting. There's a special reward for your party, Kazuma.
+aqua: Heehee. We were great—especially me. Seeing as my power's what led us to victory, I should get a bigger cut, right?
+tough_guy: I always knew you had potential! Not just anyone can take down one of the Devil King's generals!
+kazuma: I have...potential!
+tough_guy: At last, someone to shine a light on the gates of Hell... Much like the legends of yore.
+luna: Ahem! We extol the many achievements of Kazuma Satou and friends...
+luna: ...and hereby grant them a hearty sum of 300 million Eris!
+Aqua, Megumin ＆ Darkness: Th-Three hundred million?!
+kazuma: W-we did it! With this reward, I'll finally be able to live the high life: peace and comfort for daaaaays!
+luna: And, um... There's one more thing, Kazuma.
+luna: The flood that Aqua summoned did a great deal of damage to the city's outer walls.
+aqua: Huh?!
+luna: But in light of the fact you defeated one of the Devil King's generals, you'll only have to repay a portion of the cost.
+kazuma: Wha?!
+darkness: The reward is 300 million, but the damages add up to 340 million. Guess we'd better seek a high-paying quest tomorrow.
+megumin: It would seem my bloodstained path toward learning the mystical arts has only just begun.
+aqua: I didn't do it on purpose, so we can split the bill, right?
+kazuma: So I'm stuck here in this strange, illogical world,\n
+kazuma: saddled with useless companions for the rest of my life.
+ナレーション: Kazuma closed his eyes and swore to defeat the Devil King. That seemed like the only way out of this world of weirdos...

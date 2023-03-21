@@ -1,0 +1,77 @@
+Erika - P2
+ナレーション: One afternoon, Erika was visiting Wiz's shop...
+erica: I need a poison antidote, and a motion sickness potion... 
+erica: Oh, are there any items that make lantern oil last longer?
+wiz: Yes, right here!
+banil: Oh! Aren't you one of those dancers? It's been a while since I last saw you here at the shop.
+erica: I guess so. We're going on a quest tomorrow, so I'm stocking up.
+banil: Hm... 
+banil: I'll warn you just in case. Don't allow this silly shopkeeper to sweet talk you into buying useless items.
+wiz: Vanir! You know I vouch for all of my wonderful products!
+wiz: There are no useless items in my shop!
+erica: You say that, but I've heard the rumors around town.\n
+erica: But I'll just be buying what I need, so don't worry.
+banil: I'm glad to hear it... 
+banil: I sensed something ominous about you, so I was a little concerned.
+erica: Something ominous?! That doesn't sound cute! What's the problem? Maybe a vitamin deficiency?
+banil: You have a choice you must make. I look forward to seeing which path you take. 
+banil: Mwahahaha!
+erica: Wait a minute... What choice are you talking about?\n
+erica: Ugh, demons are so annoying! Making me all anxious...
+wiz: That's just the way Vanir is. By the way...\n
+wiz: Did you find everything you need?
+wiz: If you like, I have a very good paralysis extension potion that comes highly recommended.
+erica: You mean the one that greatly extends the range of Bind, but ensnares the user, too? No thanks.
+erica: What I need now...is a cure for this evil omen threatening my cuteness! Do you have any?
+wiz: Supplements? I'm not sure we... 
+wiz: Oh!
+wiz: I'm not sure if you'd call it a cure exactly, but I do have a meow potion.
+erica: A...meow potion?
+wiz: It's a magical item that can make anyone cute, and—
+erica: I'll take it! I'll definitely take it! 
+erica: I just want to be cute! That'll dispel this evil omen, right?
+wiz: Th-thank you so much for your business. Just make sure to read the instructions!
+erica: An item that increases cuteness... How wonderful! I wish I had known about it sooner!
+erica: Lalalalalala! 
+erica: I'm ho-ome! ♪
+cielo: Welcome back, Erika. Did you get supplies for our upcoming quest?
+erica: Yep, they're all right here in this bag! We're ready to ace this quest!
+lia: You're awfully cheerful. Did something happen?
+erica: I picked up a marvelous new item...\n
+erica: Ta-dah! It's a meow potion!
+erica: Drinking this will... Drum roll please... Make you cuter!
+erica: "But Erika, why would you want to be any cuter?\n
+erica: You'd be so cute it'd be scary, which would still be cute!"
+lia: D-did you buy that at Wiz's shop? Don't drink it!
+cielo: Th-that's right! It could have strange side effects. Here, let me see it.
+erica: Huh? Hey! Give that back!
+cielo: "Warnings..." 
+cielo: Aha! Here they are!
+lia: Let's see... "The meow potion, as its name suggests, gives those who drink it a kitten-like cuteness."
+erica: Ooh! Kitten-like cuteness is music to my ears!
+lia: "The transformation will cause thick fur to sprout all over the body, as well as animal ears and a tail."
+erica: Huh?
+lia: "Friends and family of the user should ensure they do not steal fish from the marketplace or hunt mice."\n
+lia: ...Wait!
+cielo: This doesn't just make you as cute as a kitten...\n
+cielo: It turns you into one!
+erica: N-no way!
+lia: It says here, "The user will speak in meows." Thank goodness you didn't actually drink it.
+cielo: It would've been awful. Cats are certainly cute, but if Erika became a cat...
+erica: Hold up! What did you just say?
+cielo: But if Erika became a cat...
+erica: Before that! "Cats are certainly cute..."\n
+erica: Are you saying cats are cuter than me?
+lia: She didn't say that! It's not a competition...
+erica: Grrr... This is unacceptable!
+cielo: Don't get so hung up on it.
+erica: Fine, I'll accept it. Even I think that cats are cute.
+erica: But I refuse to be defeated! If you say that cats are cuter than me...
+erica: I'll reject my humanity and become a cat!
+lia: Erika, don't! Don't drink the potion!
+cielo: Y-you're not thinking clearly! You can't sing or dance if you're a cat!
+erica: I don't care! If it makes me cuter... I'll do anything if it makes me cuter!
+lia: Hurry, Cielo! Dump out that potion!
+cielo: Got it!
+erica: No! Give me that potion!
+ナレーション: Later, Lia and Cielo visited Wiz's shop and asked her to toss the rest of her meow potions.

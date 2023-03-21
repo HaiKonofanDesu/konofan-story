@@ -1,0 +1,82 @@
+A Panty Treasure in This Right Hand! - P1
+ナレーション: Kazuma was visiting the guild to pick up the reward from their previous quest...
+kazuma_jersey: This is all we got from the giant toads, huh? It seems awfully small for risking our necks.
+kazuma_jersey: *Sigh* I wanna go back to Japan. The girl that joined our party is...odd. Life here is too hard.
+？？？: I saw your poster on the quest board. Are you still looking for new party members?
+kazuma_jersey: U-Umm... Yeah, we sure are. Although, I'm honestly not sure...\n
+kazuma_jersey: ...That we're a party worth joining...
+kazuma_jersey: She's a female knight... And a serious babe to boot!
+kazuma_jersey: I get nervous around beautiful older girls. I think my voice might've cracked. I should've gotten out more as a kid.
+？？？: I see. Very good... I've been hoping someone like you would come along.
+darkness: Ahem... My name is Darkness, and I'm a crusader by trade.
+darkness: *Pant pant* Please... A-Allow me to join your p-p-party!
+kazuma_jersey: U-Uh... It's pretty dangerous work, so I'm not sure that's a good idea.
+kazuma_jersey: Two members of my party got swallowed by giant toads and covered in slime just—
+darkness: What?! Swallowed? Covered in slime?! *Pant pant*\n
+darkness: That's better than I ever dreamed of! Please, let me join you!
+kazuma_jersey: She's got a crazed look in her eyes! There's definitely something wrong with her, just like Aqua and Megumin.
+kazuma_jersey: Well, you see, our party is little weird... A crusader would be better off looking for something—
+darkness: That's even more perfect!
+kazuma_jersey: Huh?
+darkness: This is somewhat hard for me to say...
+darkness: My strength and durability are second to none, but... 
+darkness: When it comes to offense... I can't hit a thing. 
+kazuma_jersey: Yeah, I knew something was off about her.
+darkness: So I'll hold down the vanguard! Consider me your human shield!
+kazuma_jersey: Uh, I couldn't hide behind a woman...
+darkness: It'd be my pleasure, really! *Pant pant*
+kazuma_jersey: You could be devoured by vile monsters—
+darkness: I couldn't ask for anything more!!!
+kazuma_jersey: *Sigh* Looks like this is another one who's broken inside and out. I'll just make up an excuse and go home.
+ナレーション: Megumin was teaching Kazuma about skills at the Adventurer's Guild...
+megumin: If you want to learn a skill, first you need to find someone to teach you how to use it.
+megumin: Then, it'll appear on your adventurer card, so you can use the skill points you've earned to learn it.
+kazuma_jersey: I get it... But right now I only have three points total. Are there any cheap and useful skills?
+darkness: I was looking for you. Yesterday, you said you drank too much and left in the middle of our conversation. Are you all right?
+kazuma_jersey: It's her again! I tried to let her down easy, but it didn't get through to her at all!
+darkness: Well then, let's pick up where we left off... I'd like to join you and your—
+kazuma_jersey: We're good, thanks!
+darkness: Ahh... Ungh... *Pant pant*\n
+darkness: S-So blunt...
+kazuma_jersey: Huh? She's enjoying this? This could be trouble!
+？？？: Ahaha! That's no good, Darkness. You can't be so forceful.
+megumin: Um, who are you two?
+chris: I'm Chris—a thief, as I'm sure you've noticed. And this crusader here is Darkness. Nice to meet ya.
+chris: By the way, you were saying you wanted to learn a useful skill?\n
+chris: How about learning a thief skill?
+kazuma_jersey: This girl seems...relatively normal.
+chris: It's a handy skill that hardly costs any points to learn. Interested? I can teach it to you for some bubbly.
+kazuma_jersey: Sounds great! You've got yourself a deal! Excuse me! One ice-cold glass of bubbly for my friend here!
+chris: So you see, thief skills are all about detecting enemies and hiding, but my favorite is this one...
+chris: Here I go. Watch carefully.\n
+chris: Steal!
+kazuma_jersey: Hm? Wait, my wallet's gone!
+megumin: Kazuma, Chris is holding your wallet in her hand! When did she take it?
+chris: Hehe, that was the Steal skill. You can use it to take stuff from your enemies.
+chris: All right, now it's your turn to give it a shot... Take your wallet back from me.
+darkness: H-Hey, Chris. Are you sure you should be doing this?
+chris: You're an adventurer, aren't you? Remember what they say:\n
+chris: Nothing ventured, nothing gained!
+kazuma_jersey: The cost may be steep... 
+kazuma_jersey: But a duel between two rugged adventurers? That sounds pretty cool if you ask me!
+kazuma_jersey: Okay, you're on!
+chris: First, use your adventurer card to acquire the skill. The one you just learned from me should be there.
+kazuma_jersey: Steal: one point... There it is! I've learned it! 
+kazuma_jersey: This skill is mine!
+kazuma_jersey: All right, don't whine when I steal something precious!\n
+kazuma_jersey: Steal!
+chris: Huh?!
+kazuma_jersey: Okay, success... 
+kazuma_jersey: Hm, what's this? There's a strange warmth in my hand...
+megumin: Kazuma... Th-That's her...!
+kazuma_jersey: Oh... Ooooooh!
+kazuma_jersey: Jackpot! Jackpot! I've hit the jackpot!!!
+chris: Eeeeeek! G-Give me back my panties!
+kazuma_jersey: Mwahahahaha! Gwahahahaha!
+megumin: It seems that when you learned that skill, you also switched your job class to pervert.
+chris: Give them back... Give them baaack! I'll pay you!
+kazuma_jersey: How much? Decide for yourself how much they're worth!\n
+kazuma_jersey: C'mon now! Let's hear it! Gwahahahaha!
+darkness: H-He's a crude and lascivious beast with no morals!\n
+darkness: I knew my hunch about him was right!
+darkness: Please, I would very much like to join your party!

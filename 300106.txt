@@ -1,0 +1,85 @@
+Explosion Magic for This Powerful Enemy! - P2
+ナレーション: The Devil King's general that had appeared before Kazuma and the others was clearly enraged, as villains often are.
+Dullahan: Every. Single. Day. Without fail, some insane fool blasts my castle with a single explosion. Which of you worms is it?!
+aqua: Gee... Who do we know that can cast explosion magic?
+megumin: ...
+kazuma: Gah, I should've known...
+darkness: No, Megumin! It's too dangerous!
+ナレーション: Despite Darkness's warning, Megumin boldly strode up to the dullahan.
+Dullahan: It was YOU, was it?
+Dullahan: You're the one who blasts my castle with an explosion every day, like some sort of lunatic with a deathwish?
+Dullahan: Until now, I had let this town be because it was full of weaklings, but you... You just couldn't leave well enough alone! 
+Dullahan: Why would you stoop to such insidious antics? Have you taken leave of your sanity? Are you just daft?
+megumin: I am Megumin, master arch wizard and wielder of super powerful explosion magic!
+Dullahan: What kind of name is Megumin? Are you trying to mock me?!
+megumin: N-no! I'm a member of the Crimson Demon Clan and the most powerful spellcaster in this town!
+megumin: Using my explosion magic on your castle was MEANT to lure the Devil King's general out, and here you are!
+megumin: Standing before me, all alone... Heh heh. It looks like this just isn't your lucky day.
+kazuma: Wait, when did this become part of some sort of master plan?
+darkness: She just declared herself the best mage in town, too.
+aqua: Shh! Just keep your mouths shut. She hasn't used one cast yet today, and she's got tons of adventurers as backup.
+Dullahan: Very well. I may have fallen into darkness, but I am still a knight. I have no interest in butchering the weak.
+Dullahan: Listen well, girl. For the time being, I will remain in that castle. If you swear to cease your attacks, I am willing to forgive—
+megumin: No can do. We Crimson Demons HAVE to use our explosion magic at least once a day or we'll die.
+Dullahan: Huh?! That sounds like a bunch of nonsense to me! How dare you lie to me, you insolent whelp!
+megumin: I can't stop myself from using my explosion magic, no matter what anyone says!
+Dullahan: I see. If that's the case, I shall show you no mercy!
+Dullahan: Consider this your death sentence! In one week, you shall perish.
+darkness: Look out, Megumin... Ungh. 
+darkness: Aaargh!
+kazuma: Darkness! Are you okay?
+darkness: I think so...
+Dullahan: Since you adventurers seem to get along so well, I figure this will be a more fitting punishment.
+Dullahan: Crimson Demon girl, this crusader shall perish in one week's time. Sink into despair as her doom draws nigh.
+Dullahan: Yes, it's all your fault!
+megumin: Yeesh!
+Dullahan: Now, go forth and lament your misdeeds... 
+Dullahan: Hahaha.\n
+Dullahan: If only you'd listened to me earlier.
+darkness: You fiend... You cursed me so I would have to obey your twisted desires just to remove it.
+darkness: That was your plan all along, wasn't it?!
+Dullahan: ...Huh?
+darkness: I will not yield!\n
+darkness: Look, Kazuma! Do you not see the dullahan's lustful gaze?
+darkness: He demands that I submit to his lustful, 
+darkness: degrading acts if I want this curse lifted!
+kazuma: I don't even want to know what she's talking about.
+darkness: *Pant pant* You may lay claim to my body, but you will never capture my heart!
+darkness: A female knight being taken to a castle and then forced to undertake unthinkable demands from a Devil King's minion...
+darkness: Oh, this won't do! My heart is pounding at the thought, Kazuma!
+Dullahan: Th-This girl needs help!
+kazuma: The dullahan's not gonna dulla-fawn over you, so you can quit being a freak any day now!
+Dullahan: M-Moving right along, then! You! Crimson Demon girl! If you wish to save your crusader friend, then you are to come to my castle.
+Dullahan: If you will be able to even make it that far, that is...\n
+Dullahan: Haha! Mwahahahaha!
+ナレーション: As the dullahan vanished into the shadows, a dreadful silence descended upon the town...
+megumin: ...You know what? Fine.
+kazuma: Hey! Where do you think you're going?
+megumin: I'm gonna head to the castle and pummel that stupid dullahan with explosion magic until he cries uncle and removes the curse on Darkness.
+kazuma: *Sigh* Okay. That's cool, I guess.
+kazuma: Just let me come with you. You're gonna screw yourself over if you use up all your magic on his minions first.
+darkness: Don't! Please! You don't need to save me!
+kazuma: Listen up, Darkness. I promise we'll remove the curse, so just sit tight and—
+aqua: Sacred Break Spell!
+darkness: Ah... Ahhhhhh?!
+darkness: Hmm? The curse...is gone?
+Kazuma ＆ Megumin: What?
+aqua: Removing a dullahan's curse is but a simple task for someone like me. 
+aqua: What do you think? Makes me quite the fitting priestess, eh?
+kazuma: If you could just do that, why'd you wait for me and Megumin 
+kazuma: to get so worked up?!
+questComplete: Emergency Quest:
+<size=90>Defeat the dullahan!
+
+
+
+
+
+Quest complete!</size>
+<size=90>Defeat the dullahan!
+
+
+
+
+
+Quest complete!</size>

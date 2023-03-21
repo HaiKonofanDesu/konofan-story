@@ -1,0 +1,82 @@
+A Bailout for These Beastmen! - P1
+ナレーション: With Daniel gone and Axel back to its former glory, our brave heroes returned to their daily routines.
+Fan A: Lia, I'm your biggest fan! I brought you a little something to share with the girls!
+lia_stage: Thanks! I know they'll be delighted.
+Fan B: Even after dominating the dance contest, I'm glad to see you girls are playing local venues!
+erica_stage: Oh, c'mon. You think we'd leave our own town high and dry?\n
+erica_stage: Besides, I'm just starting to test the limits of my cuteness!
+melissa: A packed house and gifts galore...
+melissa: You girls are on fire.
+cielo_stage: Oh, Melissa! And Chris, too. I'm flattered you came. Are you here for the show?
+chris: We’re just stopping by on our way to a quest.
+melissa: One involving a nobleman's estate, and the vault therein. 
+melissa: I get the feeling it’s gonna be a good one. 
+melissa: See you around!
+chris: H-Hey, wait for me! And remember—we're only pilfering treasure.\n
+chris: Nothing else!
+lia_stage: Ahaha...
+lia_stage: Seems they're profiting from this peace.
+cielo_stage: Yep, and we owe it all to Kazuma and his party.
+erica_stage: That's our producer for you! With Daniel's butt thoroughly kicked,\n
+erica_stage: I bet he's bragging to the entire town.
+lia_stage: Kazuma's not really that kind of person...
+lia_stage: Actually, he is.
+kazuma: Heh. So, you want to hear my tale? The legend of my unparalleled bravery?
+Novice Adventurer A: You bet your tunic I do! The Devil King must be running out of generals by now, what with you clobberin' 'em all!
+Novice Adventurer B: I was there when he fought Daniel. Did he ever put the boot to that hulking brute. Say, were you scared?
+kazuma: Hehe... Armed with Thor's hammer, Daniel's power was formidable indeed. 
+kazuma: Scared? I'd be lying if I said I wasn't.
+kazuma: Even so, I had to push on. Knowing everyone was counting on me stoked the flames of courage within me.
+Novice Adventurer C: Courage... That's the mark of a true adventurer! Bravo, I say, good sir!
+kazuma: Daniel picked the wrong fight. I've trounced countless foes before him. 
+kazuma: Not only that, I've repelled countless deadly threats!
+Novice Adventurer A: Well said, Kazuma! Everyone, all together now!
+Novice Adventurers: Ka-zu-ma! Ka-zu-ma! Ka-zu-ma! Ka-zu-ma!
+kazuma: Ooh, I could get used to this!
+aqua: Please keep any and all compliments to a minimum. His ego tends to inflate to unhealthy levels.
+darkness: If anyone deserves credit, it's Axel Hearts. Lia's keyboard saved the day by countering the hammer's lightning.
+kazuma: And who is the official producer of said Axel Hearts?
+Novice Adventurers: Ka-zu-ma! Ka-zu-ma! Ka-zu-ma! Ka-zu-ma!
+kazuma: That's right! 
+kazuma: I put Axel Hearts on the map, baby!
+megumin: Whatever. Can we go on a quest already? We've been doing\n
+megumin: nothing but lounging about here like your lazy butt.
+kazuma: Sorry, but I'm gonna have to sit this one out. I've got a meeting with Vanir today.
+aqua: Ugh. What're you plotting with that masked creep this time?
+kazuma: Hey, it's purely business! We've got a product in the works.\n
+kazuma: One that needs checking up on.
+megumin: Okay, fine. But we're going questing tomorrow, got it? As adventurers, we have a solemn duty to uphold.
+kazuma: Ah, banter like this brings back memories... Fine, we'll go on a quest tomorrow.
+？？？: Too easy. Hand over your bishop!
+kazuma: Hm? Who's that alone in the corner?
+ynyn: Hohoho. It was too easy for me! You see, that bishop was merely bait!
+ynyn: B-Bait, you say? Aw, nuts. I didn't plan on that.
+ynyn: Indeed. For my true aim was none other than... Checkmate!
+ynyn: Wha?! Already?! You're just toooooo good! I don't believe it.
+ynyn: Oh, uh. Ahem.
+Aqua, Megumin, & Darkness: Um...
+aqua: Kazuma, should we, you know... Say something?
+kazuma: No, anything we say will only make it worse.
+darkness: Well, she looks to have time on her hands. Why not invite her along for a quest?
+megumin: I guess it wouldn't hurt.
+kazuma: Although sad, in her case, it's actually pretty normal. It’s proof that peace has truly returned.
+kazuma: I can only hope things stay this way...
+kazuma: Oof, this inner dialogue better not have triggered an event flag.
+ナレーション: Meanwhile, Iris was engaged in a serious discussion with members of her royal court...
+iris: And when did this happen?
+rain: I cannot say for sure. By the time I checked, the perpetrator had already struck.
+clair: I never imagined there were rogues in the business of stealing corpses. 
+clair: My deepest apologies, Your Majesty.
+iris: Quite all right, Claire. This is no fault of yours.\n
+iris: I take it the thief came from outside our walls?
+clair: Yes, the door was forced open from the outside.\n
+clair: I can't say how the thief escaped with two bodies, though.
+rain: What do you suppose they intend?
+iris: Who can say? One thing's for sure, though... It can't be good.\n
+iris: Kazuma must be alerted to what has transpired.
+clair: Agreed. After all, Kazuma Satou is a central figure in this matter.
+iris: "Hero" is a more apt expression. I will let him know myself. 
+iris: Claire, will you join me?
+clair: As you command. My only wish is that m'lady exercises caution. This kingdom has but one princess, after all.
+iris: We shall depart at once. Kazuma must be informed about\n
+iris: this matter regarding Daniel.

@@ -1,0 +1,84 @@
+Treasure Hunting on This Summer Vacation! - P3
+ナレーション: That afternoon, Kazuma and friends were making the most of their maritime experience before their adventure resumed.
+kazuma_swimwear: Blue waters, white sands... 
+kazuma_swimwear: and girls in dazzling swimsuits every which way! 
+kazuma_swimwear: This is the life.
+aqua_swimwear: Kazuma, care for a sip of some grade-A tropical juice?
+kazuma_swimwear: You're too kind, Aqua. 
+kazuma_swimwear: Ah, yes. Plain water—as expected, seeing as you purify any and all liquids you touch.
+aqua_swimwear: My deepest apologies. Allow me to bring you another glass.
+kazuma_swimwear: Oh, that's quite all right. Water is just what I wanted. 
+kazuma_swimwear: Amidst a cool sea breeze, nothing is more refreshing.
+megumin_swimwear: You're not celebrities, you two. Why are you like this?
+kazuma_swimwear: Megumin, my sweet. Where is Komekko, pray tell?
+megumin_swimwear: On a walk, with Arue. She said something about getting dinner supplies.
+darkness_swimwear: What a dependable kid. You should be proud, Megumin.
+aqua_swimwear: Since they're readying the food, we'd better ready our appetites, wouldn't you say?
+iris_swimwear: A lovely proposal. In that case, I think I'll practice 
+iris_swimwear: swimming a little while longer.
+kazuma_swimwear: Your diligence is admirable, Iris.
+iris_swimwear: Oh, I wouldn't call it diligence. Life in the capital doesn't offer many chances to swim, is all.
+iris_swimwear: Plus, all the flora and fauna under the water's surface are 
+iris_swimwear: a shimmering joy to behold.
+darkness_swimwear: Then please, allow me to join you, Princess. Perhaps a 
+darkness_swimwear: little race would motivate you?
+iris_swimwear: That sounds lovely.
+iris_swimwear: *Ex
+iris_swimwear: hale* 
+iris_swimwear: Well, Aqua? Who won?
+aqua_swimwear: And the winner is Iris!
+darkness_swimwear: *Pant pant* I lost? You've improved by leaps and 
+darkness_swimwear: bounds. My compliments, Princess.
+megumin_swimwear: Don't underestimate yourself, Darkness. You cut through the waves valiantly yourself. 
+megumin_swimwear: It was anyone's race for a good portion.
+kazuma_swimwear: I'll say. You swim like a fish. And here I was thinking 
+kazuma_swimwear: that freakishly muscular frame of yours would sink.
+darkness_swimwear: Th-That was a bit unnecessary! S-So scathing, Kazuma! 
+arue_swimwear: Friends, rejoice! For we have returned!
+komekko_swimwear: Look, check out what we found!
+aqua_swimwear: Ooh, a watermelon. Looks ripe.
+Watermelon: Waaaaaatermelon! Melon, melooon! Watermel, mel, muh-meloooooon!
+kazuma_swimwear: The watermelon is moving. Like, a lot.
+arue_swimwear: Naturally. It's a wild watermelon. We found it in the woods just over there.
+kazuma_swimwear: No, you're missing the point. 
+kazuma_swimwear: Fruits aren't supposed to... Oh, wait. That's old news. 
+kazuma_swimwear: Hahaha...
+komekko_swimwear: We were about to 
+komekko_swimwear: eat it right then and there, but I figured we should share. Aren't I a good girl?
+megumin_swimwear: Most definitely. So smart and so kind. Thanks, Komekko.
+kazuma_swimwear: Where I'm from, we try to whack the watermelon open—blindfolded. Have you tried that?
+aqua_swimwear: N-No. Never. Not anymore!
+megumin_swimwear: Have you gone COMPLETELY mad, 
+megumin_swimwear: Kazuma?!
+kazuma_swimwear: Huh?
+darkness_swimwear: That barbaric "game" has been abandoned for ages. Someone could get hurt—or worse!
+aqua_swimwear: A bucking and bounding target is hard enough to hit, let alone blindfolded!
+aqua_swimwear: The act also doubles as a ritual to activate sight beyond sight—one's inner eye. Those who fail... 
+aqua_swimwear: perish!
+kazuma_swimwear: Okay, okay! I got it! Watermelon, scary!
+megumin_swimwear: Summer watermelons are amongst the most savage of fruits. 
+megumin_swimwear: Taking one on blindfolded is only for the foolhardy.
+arue_swimwear: None dare revive the forbidden rite...save for you. I suppose that in itself is worthy of applause.
+komekko_swimwear: You know, they say fruits of your labor are the sweetest fruits. 
+komekko_swimwear: Here, your blindfold.
+kazuma_swimwear: I'll pass. 
+kazuma_swimwear: Let's just eat the thing.
+kazuma_swimwear: Form a line. I'm on slicing duty.
+Iris, Komekko: Thanks!
+iris_swimwear: Mmm... Wild watermelon...how incredible. 
+iris_swimwear: Have you ever tasted anything so sweet?
+clair: It's far sweeter than what you can find within the capital.
+komekko_swimwear: *Nom nom* 
+komekko_swimwear: Kazuma, more please.
+kazuma_swimwear: Coming right up. Try chewing this time or you'll choke.
+komekko_swimwear: I know, I know. 
+komekko_swimwear: I also know not to eat the seeds...'cause a watermelon'll spring out of your belly button.
+iris_swimwear: I-Is that so? I had no idea that watermelon was such a 
+iris_swimwear: perilous fruit. I must be careful.
+kazuma_swimwear: That's just superstitious baloney... 
+kazuma_swimwear: though in this world, who can say?
+aqua_swimwear: Kazuma, a few slices this way please!
+kazuma_swimwear: Sure thing!
+iris_swimwear: Eating watermelon on sparkling white sands... 
+iris_swimwear: This vacation is turning out to be quite grand.
+ナレーション: And with that, Iris then turned to the sun. With her eyes half-closed, she let its gentle light caress her face...

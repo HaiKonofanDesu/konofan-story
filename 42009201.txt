@@ -1,0 +1,60 @@
+lean: Hm... I can't do any of these tougher quests on my own. 
+lean: I need advanced magic...
+ナレーション: Rin was looking for a new quest at the Adventurer's Guild when she heard a familiar voice...
+？？？: Ugh! I'm so tired of being a useless class!
+kazuma: People always make 
+kazuma: fun of me, 
+kazuma: and I've had it up to here!
+kazuma: I want to make a dramatic entrance!
+kazuma: I want to show up and shout for everyone to hear...
+kazuma: Kazuma the sword master is here to save the day!!!
+aqua: Really? Who do you think you are?
+darkness: Personally, I think being able to learn any skill you want suits you quite well, Kazuma.
+megumin: Darkness is right.
+megumin: Your skills might not be as strong as a specialist, but you have great timing. That's way more important.
+lean: I agree. Most people consider beginner level magic 
+lean: a complete waste, but he's proven how useful it can be.
+kazuma: Oh hey, Rin! 
+kazuma: Where are Dust and the others?
+lean: They're off wasting the spoils from their last quest as fast as they can. 
+lean: I wanted to go on a quest myself, but there aren't any solo listings.
+lean: It's always the same. They finish a job, vanish down the same back alley, and leave me out to dry. Where do they even go?
+kazuma: Ahem... No idea. Probably best not to pry...\n
+kazuma: I mean, as long as they aren't breaking any laws, it's not that big of a deal, right?
+lean: Taking their side again. Why am I not surprised?\n
+lean: You must know what they're up to.
+kazuma: O-Of course not! I just think, you know—
+Adventurer: Emergency! A group of monsters has appeared outside of town!
+kazuma: Oh no! Did you hear that? The town needs our help! 
+kazuma: Guess we'll have to chat later!
+Everyone: He's acting awfully suspicious...
+aqua: Speaking of doing solo quests, Kazuma's in the same boat. Without advanced skills or magic, he's useless when he's alone.
+kazuma: Hey! I've had about enough of your criticism. 
+kazuma: Besides, I was thinking about switching jobs anyway.
+lean: Switching jobs? 
+lean: That's not a bad idea!
+megumin: What would you switch to?
+megumin: I was born to be an arch wizard, so there's no way I'd change.
+lean: Well, I'd need to be something that would help balance my party's skills...
+lean: Oh! Maybe a thief!
+darkness: I personally love being a crusader. Nothing makes be happier than taking a hit to protect my friends.
+darkness: Even if I wanted to change, I haven't fought an orc yet. It'd be a total waste to change jobs 
+darkness: before that happens!
+aqua: Well, my job is perfectly befitting my station as a goddess.\n
+aqua: Though archers have such perfect vision. I wouldn't mind that.
+kazuma: Is that the ONLY reason you'd want to be an archer? You've got to be kidding me.
+aqua: Fine then, Kazuma. You've got such strong opinions, what would you be?
+kazuma: If I could choose anything? 
+kazuma: I'd be a ninja.
+lean: A ninja?
+megumin: What's that?
+kazuma: A ninja. They specialize in espionage and assassination.
+kazuma: We had them back where I'm from. They've got all kinds of cool skills.
+kazuma: They work in the shadows, sneaking up on their victims without making a single sound.
+kazuma: Then they wait for the perfect moment and...STRIKE!
+megumin: Wow! That sounds perfect for a member of the Crimson Demon 
+megumin: Clan! Kazuma, tell me more!
+？？？: Grrrrrr...
+darkness: What was that? Uh, Megumin, I think we're going to have to talk later...
+Mega Giant Toad: *Ribbit ribbit*
+lean: I'm so mad at Dust and the others for slacking off. This is the perfect chance to blow off some steam!

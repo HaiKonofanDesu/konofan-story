@@ -1,0 +1,30 @@
+Dreamy Pajama Night
+arue_pajama: All changed into your pajamas, Komekko?
+komekko_pajama: Yep, sure am!
+arue_pajama: Hmm... You buttoned your shirt wrong. 
+arue_pajama: Hold still while I fix that for you.
+komekko_pajama: Thanks.
+arue_pajama: There, all good. Well, it's late. I say we hit the sa—
+komekko_pajama: And I say we stay up!
+arue_pajama: Stay up? ...No, no. That won't do. 
+arue_pajama: Megumin will throw a fit if she catches wind of it.
+komekko_pajama: Then we keep it our little secret. 
+komekko_pajama: I'm not tired yet. Not one bit! Pleaaase?
+arue_pajama: Well, one time won't hurt. And so begins a night of nocturnal merriment— 
+arue_pajama: Crimson Demon style.
+komekko_pajama: Oh, that sounds like fun. Big girl fun! 
+komekko_pajama: What do you wanna do?
+arue_pajama: Good question. We could play board games. We could also talk—no topics off limits. Or perhaps...
+komekko_pajama: Let's do it all!
+arue_pajama: All of it? That might take until morning.
+komekko_pajama: No problem. Staying...awake's my... 
+komekko_pajama: specialty... 
+komekko_pajama: *Yawn*
+arue_pajama: You look pretty tired to me.
+komekko_pajama: N-No, I'm fine! Not sleepy...at all. Let's talk...
+komekko_pajama: Big girl...talk... 
+komekko_pajama: *Snore*
+arue_pajama: Sweet dreams, kid. 
+arue_pajama: Maybe we'll wait a few more years for the big girl talk, hm?
+arue_pajama: Sleep well, Komekko.
+ナレーション: And so, with Komekko's sleeping face the picture of innocence, Arue draped a blanket over her young clansman and turned off the light...

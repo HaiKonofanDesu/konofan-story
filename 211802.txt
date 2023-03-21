@@ -1,0 +1,88 @@
+Mia - P2
+ナレーション: One day, Mia and Amy were selling vegetables at their stand in Axel...
+miia: Welcome, take a look! These veggies came from the north. Buy 'em all up before they sell out!
+Amy: Mia, you need to be nicer with your sales pitch.
+Customer A: Don't worry, we're all used to it. Your vegetables are always fresh and tasty, so I think I'll buy some.
+Customer B: Me, too. Some cabbage, please.
+miia: Thanks as always! Buh-bye!
+Amy: Whew... It looks like the customers are all gone for now. Let's pack everything up, Mia.
+miia: Huh? We usually work later... Are we done for the day?
+Amy: We sold a lot today. If we close up, I can get supper started early. It'll be quite the feast!
+miia: Will there be meat buns?
+Amy: Hehe, I'll make meat buns for you.
+miia: Yay, I can't wait! I'll tidy up here so you can get on those meat buns!
+Amy: That's a good girl. I'll leave the stand to you, then.\n
+Amy: Just be home in time for supper.
+miia: I guess I'm on my own now.
+miia: I know what Amy said, but supper's not for a while yet. I'll just keep selling veggies!
+miia: Yeah! And if I buy her a present with the money I make... 
+miia: She's sure to be thrilled!
+miia: Come take a look! We've got fresh veggies from the north! They're a real bargain, too!
+lean: Look, Dust. Mia's selling vegetables.
+dust: Veggies? Forget it. Bring on the meat already!
+lean: Hey, watch what you're saying.\n
+lean: She's right there!
+miia: Don't worry about it. I may sell vegetables for a living, but I prefer meat, too.
+lean: You're pretty mature for a kid. 
+lean: Okay, let's see... Can I have a tomato, please?
+miia: One tomato? Sure, I guess...
+miia: *Stare*
+lean: Hm? What's wrong? Is there something on my shirt?
+miia: Um... I'll just tell you straight up. Eating tomatoes won't give you a chest like Amy's.
+lean: Huh?! Th-that isn't why I want them!
+dust: Hahaha! Guess that was a deep cut, Rin! What you need is milk, not tomatoes!
+miia: Milk from the north is super fresh and delicious. Amy said that drinking it helped her grow nice and big!
+dust: Ahahaha! You hear that? How about it, Rin? Makes you wanna go up north, doesn't it?
+lean: Oh yeah, sure. You want to head up north first? I'll punch your stupid face so hard, you'll fly there!
+dust: Hehehe... I was only joking, ya know. Oh, that reminds me! 
+dust: I've got something important to take care of! Later!
+lean: Wait, Dust... 
+lean: There he goes. Right in the middle of buying something, too.
+miia: So...are you buying that tomato?
+lean: Yeah, I'll take it.
+miia: Here ya are! Buh-bye!
+Customer C: One radish, miss. And a cabbage too...a nice big one!
+miia: Hm? Well, isn't your head all smooth and shiny!\n
+miia: You should buy seaweed instead. It helps grow hair!
+Customer C: What did you say?!
+lean: Mia, you know you can't say stuff like that, right?
+lean: I'm so sorry, sir. One radish, was it?\n
+lean: There you are. You can pay here.
+Customer C: Hmph. Well, as long as you understand now.
+miia: He sure was mad. I only told him the truth!
+lean: Some things you should keep to yourself, even if they're true. Like that stuff about my chest.
+miia: I see... Sorry. I heard that lying is bad, so...
+lean: Y-you're not wrong, but...
+lean: I guess there are problems when Amy isn't around. Where is she today, anyway?
+miia: She went home early to cook supper for us.
+miia: So I'm handling things by myself here! I'll use the money we earn to buy Amy a present!
+lean: So that was your plan. You're awfully kind.\n
+lean: Dust could learn a lot from you.
+lean: Okay, I'll give you a hand, then.
+lean: Welcome! We have fresh vegetables from the north here! 
+lean: But they're going fast!
+miia: Thanks, Rin! 
+miia: That's really nice of you!
+miia: Step right up! Come buy some super tasty veggies!
+kazuma: Hm? Oh, it's Mia and Rin. I don't see you two together that often.
+miia: Hey, Kazuma. Welcome!
+miia: Buy some vegetables for tonight's dinner. If you do, I can get a present for Amy!
+kazuma: That's quite a direct sales tactic. 
+kazuma: Okay, I'll buy something.
+miia: Ooh! You will, Kazuma?
+Customer D: Say, those veggies look good. I'll take some, too.
+lean: Of course! Thank you very much!
+lean: We sold them all. Good work!
+miia: Yay! Now I can buy a present!
+miia: Thanks, Rin. Your chest may be small, but your heart's big!
+lean: H-hey, I told you! You shouldn't talk about people's chests!
+miia: R-right... You just told me, but I forgot. I'm sorry, Rin. I hope I didn't hurt you.
+lean: Forget it... Why don't you go and buy that present? The shops will be closing soon.
+miia: Yeah, I suppose they will. 
+miia: But what should I get her?
+lean: It's the thought that counts, so anything should be okay. Get her something she likes, and she'll be happy.
+miia: Something that Amy likes... Hmm...
+lean: There's gotta be something.
+miia: Oh, Amy likes vegetables! I'll buy some for her, then!
+lean: Wait, Mia! Why buy vegetables with money you got from selling vegetables? Isn't that weird?
+ナレーション: While Mia did not end up getting a present for Amy, her hard work was the best present Amy could ask for...

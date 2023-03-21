@@ -1,0 +1,56 @@
+ナレーション: Kazuma, Iris, and the others found themselves in the scorching desert...
+kazuma: It's so hot... I can't take another step...
+megumin: Keep moving, Kazuma, or you'll dry up. Let's at least find some shade 
+megumin: before stopping.
+aqua: Shade? Where are we going to find shade? We've been walking forever, and all I see is more sand.
+darkness: True... 
+darkness: Do you grow weary as well, Lady Iris?
+iris_stealth: On the contrary. I've never been to a desert before. Seeing such new and amazing sights is an absolute treat!
+iris_stealth: I must apologize, however. You're only here because I said I wanted to see the desert.
+kazuma: Don't worry about it. We had a quest to take care of, anyways. Besides, it must be nice for you to sneak out like this.
+iris_stealth: Are you sure it's all right for me to be the only one riding on a camel, though? I feel a bit bad about it.
+darkness: It's perfectly fine. We could never ask you to walk in such a place. Please worry not about us.
+megumin: I've never seen a camel before. Those humps on its back are so strange... Is something inside them?
+kazuma: They're full of fat. Camels store any extra energy they can to survive in this harsh environment.
+iris_stealth: Really? How interesting! You are quite knowledgeable.
+aqua: ...Huh? Hey, everyone! Look over there!\n
+aqua: It's a giant lake!
+megumin: You're right! And a big town full of life and trees!
+darkness: It must be an oasis. We can stop there to get some rest.
+kazuma: So...thirsty... Need...water... 
+kazuma: Let's run for it!
+aqua: *Huff huff* What the? Why aren't we 
+aqua: getting any closer?
+megumin: And now we're even more exhausted from running...
+iris_stealth: Aqua? Megumin? Are you all right?
+kazuma: Great... It must be a mirage.
+iris_stealth: A mirage...?
+darkness: It's a natural phenomenon caused by pockets of hot and cool air that bend light, making you see things on the horizon.
+iris_stealth: So that oasis... 
+iris_stealth: It's an illusion?
+aqua: What?! But we worked so hard to reach it! I'm going to have 
+aqua: words with the person responsible!
+kazuma: Don't be stupid. There's nothing to be done about nature's cruel jokes. 
+kazuma: God has abandoned us!
+aqua: Uh, hello? Goddess, here! You know how insulting that is?
+kazuma: Yeah, whatever. Man, I'm thirsty. Everyone, get out your canteens. 
+kazuma: Create Water!
+aqua: Whew... I needed that!
+iris_stealth: I never knew water could taste so wonderful. 
+iris_stealth: What a marvelous experience all around!
+iris_stealth: We even saw a natural phenomenon. I'm so glad we came. 
+iris_stealth: I just wish I could grow up faster to experience more.
+darkness: Your way of finding the good in everything purifies the 
+darkness: spirit. It gives me renewed strength!
+kazuma: All right, let's rest for just a few more minutes. It'd be good if we could get there by dark.
+？？？: Guuuhhh...
+aqua: Huh? Did you guys hear that?
+Troll Warrior: Graaah! Hot! Too hot!
+kazuma: Aaah! A t-troll?!
+iris_stealth: Do you think it's one of Daniel's soldiers?
+darkness: Stand back, Lady Iris! We'll handle this.
+iris_stealth: No! I'll fight too, Lalatina!
+darkness: B-But...
+kazuma: Once Iris makes up her mind, there's no changing it.
+kazuma: \nOkay team, it's go time!
+iris_stealth: Yeah! So let's do this!

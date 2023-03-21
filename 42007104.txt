@@ -1,0 +1,53 @@
+A Ball at This Kingdom's Castle! - P4
+ナレーション: After donning his clothes for the ball, Kazuma was shocked by what he saw in the mirror...
+kazuma_dance: Wait, are these clothes actually in style? Do they really suit me?
+Tailor: Yes, they look absolutely perfect. They are the pinnacle of fashion now, made from the finest fabrics.
+kazuma_dance: The pinnacle? Seriously, is this some kind of fantasy world hazing? Ahh, it feels like a trick, but I guess I'll just go.
+erica_stage: Ahahaha! Why are you dressed like that?! There's nothing cute about THAT!
+lia_stage: Pft! Erika, you really shouldn't laugh... I'm sure he thinks it looks good on him.
+cielo_stage: Y-you look like a real nobleman, Kazuma...
+kazuma_dance: S-silence!
+erica_stage: I'm starting to get used to that outfit. Why did you choose it?
+kazuma_dance: I didn't! It was chosen for me. I thought it was weird myself.
+lia_stage: Is that really popular with the nobility right now?
+cielo_stage: Hm... Well, the fabric is nice, and nobles do like flashy outfits like that, but usually not young people.
+kazuma_dance: I can't imagine anybody liking this. 
+kazuma_dance: Oh well, since I'm just borrowing it, I might as well wear it.
+lia_stage: Forget about that, Kazuma. The stage here isn't high enough for our routine. Should we stick to our usual choreography?
+kazuma_dance: The crowd is mostly royalty. They'll be far from the stage, so I think your usual routine will be just fine.
+lia_stage: I see... I guess since the crowd is mostly upper class, 
+lia_stage: I'm feeling more nervous than usual.
+kazuma_dance: Indeed, we're dealing with uptight members of the nobility. It'll probably take a while for them to loosen up.
+kazuma_dance: But don't let that scare you. The songs and dances of Axel Hearts\n
+kazuma_dance: are the real deal! I know you can impress these nobles!
+cielo_stage: We'll do our best!
+erica_stage: You're exactly right, Kazuma. Whether they're nobility or royalty or whatever, they'll all see just how cute I am!
+kazuma_dance: Indeed, my cute little Erika. Everything's going to be fine.
+erica_stage: Ah, I love how completely honest you are, Kazuma! You're right, I am cute!
+kazuma_dance: Exactly! There's no need to worry. Just put on a great show—
+？？？: Kazuma Satou! Is that you, Kazuma?!
+kazuma_dance: I-is that...?!
+mitsurugi_dance: I know I promised to meet you, but I ended up arriving late. The truth is, I ran into some trouble.
+kazuma_dance: T-trouble?
+mitsurugi_dance: Yes, I somehow managed to lose my invitation. I cannot believe that I did such a thing.
+mitsurugi_dance: Thankfully, when I came to the castle I was able to talk with an acquaintance of mine and was allowed in.
+kazuma_dance: That's quite the misfortune, ahahaha!
+kazuma_dance: I'm safe! I feel bad, but it looks like I got away with it!
+Noble A: Oh, is that you, Lord Mitsurugi? Why, it is an honor to meet the wielder of the magical blade once more.
+mitsurugi_dance: It has been a long time indeed: since the previous gala, I believe. I am glad to see you doing well.
+Noble A: Ah, I am honored that you would remember me, Lord Mitsurugi.
+Noble B: Mitsurugi? The Lord Mitsurugi who wields the magical blade? And this cute young lady next to you is...
+erica_stage: Cute? Did you just call me cute?!\n
+erica_stage: You've got a good eye, old man!
+cielo_stage: Erika! You can't talk to the nobility like that!
+lia_stage: I apologize for the rudeness of my colleague.\n
+lia_stage: It's an honor to meet you. We are Axel Hearts.
+Noble B: Ah, so you're the dancers that will be entertaining us today. I am quite looking forward to it.
+Noble C: Axel Hearts? I believe my son is quite the fan.
+ナレーション: Upon hearing that both Mitsurugi and Axel Hearts were in attendance, a crowd began to form...
+kazuma_dance: *Sigh* They get all the attention. Don't these people know that I've bravely slain 
+kazuma_dance: many mighty opponents?
+kazuma_dance: Or that I'm the one and only Kazuma Satou? 
+kazuma_dance: Producer of Axel Hearts?
+kazuma_dance: Well, I'll know when it's my time to share the limelight. For now, I'll just sit back and let them enjoy it.
+ナレーション: As Lia and the others met newfound fans, Kazuma felt a quiet contentment for bringing them with him.

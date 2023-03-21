@@ -1,0 +1,77 @@
+Dust - P2
+dust: Rin... When I think about it, I realize I cause you nothing but trouble. Sorry about that.
+lean: What's gotten into you? Are you sick or something?
+dust: It's not like that... I just feel bad for what I've done and I want to live a better life now.
+dust: So, please... 
+dust: Just trust me and lend me twenty thousand Eris. I'll pay you back twenty...no, thirty times over!
+lean: ...I sense a bit of a disconnect with your previous statement. 
+lean: You're just out of money and want to borrow more!
+lean: Only the lowest form of scum gambles with other people's money! You're an adventurer, go on your own quest!
+dust: I don't like it, but I guess sacrifices must be made for 
+dust: the greater good. Let's go, Rin!
+lean: Is that how you act when you're asking for a favor?
+dust: I'm begging you, Rin! Please go on a quest with me.
+lean: *Sigh* Was that really so hard?
+questStart: Kill Quest:
+Defeat wild vegetables!
+Defeat wild vegetables!
+Carrot: Carr-carr-carr...
+Cabbage: Cabba-cabba-cabba...
+dust: Oh, what's this? It's a trove of wild vegetables!
+lean: Technically, it's more of a nest than a trove, but wild vegetables can be real pests for adventurers.
+dust: Vegetables have been scarce lately, though. This could be our chance to make some real money!
+Tomato: Toma-toma-toma...
+lean: Look, there are even tomatoes! 
+lean: They look super fresh too! Wouldn't want to spoil them... How about capturing them?
+lean: Freeze Gust!
+ナレーション: The vegetables were surrounded by a cold white mist, and quickly froze solid...
+dust: Good work! Keep it up... 
+dust: Look out, Rin!
+Tomato: TOOOMAAATOOO!
+lean: Huh? Eeek!
+lean: !
+dust: You fool! That's what happens when you don't pay attention! On your feet!
+lean: ...
+dust: Hey... Hey, Rin! Wow, that thing knocked her out 
+dust: in a single blow...
+Tomato: TOOOMAAATOOO!
+dust: Huh? Look at all of them...
+Eggplant: Eggpla-eggpla...
+Carrot: Carr-carr-carr...
+Cabbage: Cabba-cabba-cabba...
+dust: They just keep coming... I can't handle them all!
+lean: ...
+dust: Rin's out cold. Is she gonna be okay?
+ナレーション: Dust put down his sword and picked up a sturdy branch. He spun it around and readied himself...
+dust: It's no spear, but it'll do in a pinch. Oof, maybe... This thing's unwieldy. 
+dust: But I can still smash some veggies with it!
+dust: Rrraaagh!
+lean: Ungh... 
+lean: Hm? Where...?
+dust: Hey! Finally awake, huh?
+lean: Dust... Where are we?
+dust: You got knocked out during the quest, so I carried you back to the inn.
+lean: Right... I got tackled by a wild tomato, and then... 
+lean: Did...did we fail the quest?
+dust: Don't worry about it. You're safe, and that's what matters.
+lean: I guess you do have your good points... Sorry to doubt you.
+dust: You guess, huh? You could've just left that part out. 
+dust: You must still be tired. I'll go get you some food.
+lean: That would be nice, thanks.
+dust: Hahahaha!
+dust: Quest complete! The entire reward is mine, all mine! 
+dust: I feel a bit guilty...but there's no time for that.
+dust: I can finally pay off my debts, and then some! See what happens when I put the team first!
+dust: I'll simply pray for Rin to be my Lady Luck... 
+dust: Okay, I want it all in chips—
+？？？: I figured as much.
+dust: Huh? Oh! R-R-R-Rin?
+lean: The quest was to defeat as many vegetables as possible. I froze a bunch, so you've got my cut for those, right?
+lean: But you didn't even mention it, so I knew that something was up. 
+lean: So I decided to follow you, and what do you know...
+dust: F-fine. We'll split the reward and—
+lean: I'll take the entire reward, and put it toward your debt.
+dust: B-but... If I don't get any money, what was the point of taking the quest?
+dust: I'm begging you! C'mon, Rin! Just lend me a little! 
+dust: Twenty thousand will be fine!
+ナレーション: Despite bowing so low that his face touched the floor, Dust once again found himself broke...

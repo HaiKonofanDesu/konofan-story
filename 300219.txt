@@ -1,0 +1,108 @@
+God's Blessing on This Wonderful Party! - P1
+Male Axis Follower: She's calling herself Aqua! Catch her!
+Female Axis Follower: This heretic claims to be a goddess... Defeat the demons! Down with the Devil King!
+kazuma: You really want to help these people, even when they're saying these things about you?
+aqua: Yes, they're my precious believers! They're only like this because their hot springs have been polluted!
+darkness: The hot springs are polluted... Perhaps someone has poisoned them at their source.
+wiz: If we can purify the source, the people might calm down.
+Male Axis Follower: It's the Aqua impostor! This way, everyone!
+megumin: We've been spotted. Let's find the hot springs' source!
+Female Axis Follower: They're running. Gather the others! After them! After them!
+ナレーション: Kazuma and the others fled from the Axis Order and arrived at the source of the town's hot springs...
+megumin: There it is!
+darkness: Wait, there's someone there.
+Man: Urgh...
+kazuma: I think I recognize that guy.
+Man: Everyone I meet keeps hounding me to join them or to fill out an application...
+Man: Curses!!
+aqua: He seems a little on edge.
+kazuma: The Axis Order must've pushed him to the brink.
+wiz: Hm? I feel like I've seen him somewhere before.
+wiz: Oh, now I remember! Hans! You're Hans, right?
+hans: Uh... Who are you guys? My name isn't Hans. I'm the caretaker of the hot springs here.
+wiz: Don't be silly. We were in the Devil King's army together. Have you forgotten me already?
+darkness: The Devil King's army?!
+hans: I-I don't know what you're talking about.
+wiz: Hans, YOU'RE a poison slime, aren't you?\n
+wiz: Were you the one who poisoned the hot springs?
+aqua: What? He's the one who's behind all this?
+hans: That's absurd! I'm just a simple caretaker.\nHow could I—
+wiz: You're far too modest. Spewing poison is your specialty. Back at the Devil King's castle, you used to—
+hans: Aaah! I just remembered I have urgent business back in town...!
+darkness: Not so fast! Where are you off to, Hans?!
+aqua: You're not going anywhere, Hans!
+megumin: You tried to fool us, but we see through your lies, Hans!
+kazuma: Drop the games and show us your true self, 
+kazuma: Hans!
+hans: Wretched fools! My name isn't worthy of your lips!
+hans: Grr... I spent so long on this scheme, but Wiz had to go and ruin it.
+hans: Your only duty was to maintain the barrier. You agreed not to interfere with any of our business.
+hans: So why are you messing with my plan?
+wiz: Huh? Did I cause some sort of problem?\n
+wiz: All I did was say hello!
+hans: That's what messed up my plans!
+aqua: I'm the one being treated like a witch because you polluted the hot springs! You're gonna pay!
+kazuma: Wiz, you know this guy, right? It's not fair of us to make you fight him, so just stand back.
+wiz: K-Kazuma... I really don't want to fight, but I think—
+kazuma: Don't sweat it! Slimes are the weakest kind of monster. This'll only take a second.
+kazuma: He may have poison attacks, but Aqua can cure them.\n
+kazuma: There's no way we can lose!
+hans: You've got guts. Fine, I'll take you on. My name is Hans. 
+hans: I am a deadly poison slime and a general of the Devil King.
+kazuma: Did he just say...general of the Devil King?
+wiz: Kazuma, Hans has one of the highest bounties of all the Devil King's generals. He's very powerful, so be careful!
+kazuma: Slimes are weak. Right? They're supposed to be weak!
+darkness: Who told you such a thing? Slimes are powerful creatures. 
+darkness: To start with, they are immune to most physical attacks.
+darkness: If one gets on you, it's all over. It will dissolve you with its digestive fluids or simply suffocate you.
+megumin: Plus, he was able to contaminate all of the hot springs! His poison is probably potent enough to kill you instantly!
+kazuma: K-kill me instantly?!
+aqua: Don't worry, Kazuma. I'm here for you if you die!\n
+aqua: Just don't get digested, or I can't resurrect you.
+kazuma: Aaah... I thought I was picking a fight with a weakling...\n
+kazuma: Wh-wh-what do I do now?!
+hans: Mwahahahaha! Face me, brave adventurer!\n
+hans: Give me a good show!
+questStartkinkyu: Emergency Quest:
+<size=80>The Devil King general
+
+
+
+Hans is on the loose.</size>
+
+
+
+
+<size=110>Defeat him!</size>
+<size=80>The Devil King general
+
+
+
+Hans is on the loose.</size>
+
+
+
+
+<size=110>Defeat him!</size>
+aqua: Listen, you! Poisoning people isn't gonna get you anywhere in life! It's too depressing!
+aqua: I bet you joined the Devil King's army because you\n
+aqua: you weren't popular. Get over it already!
+hans: Silence! The caretaker here was just like you guys. You Axis Order freaks have no manners!
+kazuma: What happened to the real caretaker, anyway?
+hans: I ate him.
+kazuma: Uh... Pardon me?
+hans: I ate him. I'm a slime. It's what we do.
+wiz: Cursed Crystal Prison!
+ナレーション: Wiz's spell instantly froze Hans's left arm...
+hans: Gwaaagh! M-my arm!
+wiz: One of the conditions of my noninterference was that you and the other generals spare the lives of anyone not involved in the war.
+hans: Ugh... Stop! Release your spell!
+wiz: As sad as it is, it's inevitable for adventurers to die in battle.
+wiz: After all, they kill monsters to make their living. As such, they should be prepared to die themselves.
+wiz: However, the caretaker was completely innocent!
+aqua: Wow, Wiz is kinda scary.
+hans: So the dreaded Ice Witch wishes to fight me. I won't hold back!
+hans: I will devour everything in my path... Grraaarrrh!
+ナレーション: With a terrible roar, Hans transformed into a gargantuan toxic slime...
+megumin: G-give me a break... Th-that thing's way too big!
+kazuma: Not only that, he's dripping poison everywhere... Watch yourselves, everyone!

@@ -1,0 +1,36 @@
+Lovely Hot Spring
+ナレーション: Kazuma has headed to the famous hot spring resort town, Arcanretia, for a little vacation.
+kazuma_towel: Everywhere I go, they pester me to join their freaky religion. 
+kazuma_towel: This is the only place I can find any peace and quiet.
+kazuma_towel: Ahh... This is the life.
+？？？: Look, Darkness! This water comes straight from the hot springs' source! You can tell by the color!
+？？？: Perhaps you could tell from the color. Once you entered the bath, you immediately purified its waters.
+kazuma_towel: Ah! The girls' bath is on the other side of this fence.
+aqua_towel: I-it's not like I'm doing it on purpose! It's just what happens when my divine form touches water.
+darkness_towel: Do not take offense. Even ordinary water is sufficient in a beautiful setting such as this.
+darkness_towel: A nice, long bath is the perfect ending to a wonderful day spent being tormented by the Axis Order.
+aqua_towel: You're the only person who'd consider that a wonderful day. 
+aqua_towel: Is that attitude what led to your...unusual...development?
+darkness_towel: H-hey, stop staring at me like that.
+aqua_towel: I didn't mean to. You're just...there.
+kazuma_towel: "Just there"? What's "just there"?!
+aqua: Besides, you love it when monsters tear away your armor. It's weird that you'd be uncomfortable just from me looking.
+darkness: Th-the mixed bath is right next to us! What if Kazuma is over there eavesdropping on our conversation?!
+kazuma_towel: Have I been caught...?
+aqua: You're being paranoid, Darkness. Kazuma may be total scum, but he's not the type to listen in on our private conversation.
+darkness: A-are you sure?
+kazuma_towel: That's Aqua for you. She's spent enough time around me to understand who I really am.
+kazuma_towel: I'm not the kind of guy to eavesdrop on their conversation.\n
+kazuma_towel: I'm the kind of guy who'll peek through the fence!
+kazuma_towel: Now then... Let's see what we've got here.
+aqua: Create Water!
+kazuma_towel: Gwaaaaaaaugh!!
+darkness_towel: I knew you were there. I could sense your lecherous gaze.
+kazuma_towel: I didn't even get to see anything!
+aqua_towel: That alone is still a serious crime! Here, have another! Create Water!!
+kazuma_towel: Guh, th-th-that's cold!
+darkness_towel: Aqua, if you make it too cold, he might enjoy it!
+kazuma_towel: Speak for yourself!! 
+kazuma_towel: ...
+kazuma_towel: A-achoo!
+ナレーション: The day after being soaked, Kazuma came down with a cold. He deserved it, though, so nobody offered to help him...

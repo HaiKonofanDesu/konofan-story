@@ -1,0 +1,63 @@
+Collecting on This Summer Beach! - P3
+ナレーション: A few hours had passed since Kazuma and company arrived at the beach. Now past midday, there was no sign of sharks...
+wiz_swimwear: This is absolutely delicious! 
+wiz_swimwear: What do you call this particular dish, Kazuma?
+kazuma_jersey: It's called yakisoba. You fry up some noodles and vegetables, then add some sauce. It's quite common where I'm from.
+lia_swimwear: It's been a while since I last had this. I wasn't sure that I'd ever get the chance to eat it again.
+wiz_swimwear: This is my first time! It has such a rich, new flavor!
+kazuma_jersey: Yakisoba sauce makes anything good. I guess I can understand her enthusiasm, though. It didn't exist here.
+lia_swimwear: Kazuma, may I have some more?
+kazuma_jersey: Sure! There's plenty, so eat up!
+wiz_swimwear: It almost seems unfair that only we 
+wiz_swimwear: get a taste of something so delicious. Why not open a restaurant and sell it?
+kazuma_jersey: Hm, that's not a bad idea. We could probably make a killing 
+kazuma_jersey: with a menu full of novel foods.
+lia_swimwear: We could serve foods like ramen, curry, 
+lia_swimwear: and grilled squid. Those would be popular for sure.
+kazuma_jersey: Hold on, this is brilliant. 
+kazuma_jersey: Staring at girls in swimsuits all day and making money doing it? It's every man's dream!
+kazuma_jersey: We could even rent out swim rings. And every rental comes 
+kazuma_jersey: with a complimentary 
+kazuma_jersey: tanning oil rub! 
+wiz_swimwear: Does anybody know where Aqua and Megumin are? I don't see them anywhere.
+kazuma_jersey: Aqua's right over there.
+ナレーション: Aqua and Megumin were sitting on the sand near the water, locked in a heated discussion.
+megumin_swimwear: A regular sand castle isn't good enough! It should be a palace fit for a king!
+aqua_swimwear: You're right. A simple sand castle just won't cut it!
+megumin_swimwear: Good, we're in agreement. Here's my grand plan!
+megumin_swimwear: Our castle should have two whole stories! And each 
+megumin_swimwear: story will have its own bathroom!
+aqua_swimwear: I think our ideas of grand are a bit different. I'm guessing that's due to the size of the house you grew up in...
+megumin_swimwear: You have something to say about my childhood home? 
+megumin_swimwear: As long as our castle is comfortable, that's good enough!
+aqua_swimwear: You're right! Let's make our castle a splendid one!
+megumin_swimwear: And it needs to look strong. We should build a rampart surrounding the entire thing.
+aqua_swimwear: Great idea. We can dig a moat and fill it with water too! 
+aqua_swimwear: What do you think about adding a drawbridge?
+aqua_swimwear: With a big, sprawling castle town outside the walls! 
+aqua_swimwear: And of course, the townspeople will all be Axis Followers!
+megumin_swimwear: Let's add a big coliseum to the town, so anyone can use explosion magic whenever they like!
+kazuma_jersey: It's just a sand castle. No need to get so involved...
+aqua_swimwear: Finished!
+megumin_swimwear: It's perfect... Just like I imagined.
+lia_swimwear: Wow, that's impressive. Is it really made out of sand?
+wiz_swimwear: Amazing! Such immaculate detail! It's like a sculpture!
+aqua_swimwear: Hehe, it's our masterpiece.
+kazuma_jersey: You really are good with your hands. You should use your skills to make a living instead of bothering with that arch priest business.
+megumin_swimwear: Our castle town sure grew bigger than I ever imagined.
+aqua_swimwear: I had to re-examine our city planning model to build a 12-story church for the Order of Axis.
+wiz_swimwear: The church is even more impressive than the castle.
+aqua_swimwear: Ahh, my shoulders are stiff from all this work. I should 
+aqua_swimwear: stretch them with a quick swim, I think.
+kazuma_jersey: I've got an even better idea.
+aqua_swimwear: A beach ball? What do you expect me to do with that, 
+aqua_swimwear: balance it on my nose like a seal?
+kazuma_jersey: No, it's for beach volleyball!
+megumin_swimwear: Beach volleyball? What's that?
+kazuma_jersey: It's a game that's perfect for the beach. You set up a net, split into teams of two, then hit the ball back and forth!
+kazuma_jersey: If the ball touches the ground in the other team's area, you score a point. 
+kazuma_jersey: First team to score ten points wins.
+aqua_swimwear: I'll team up with Lia. We've had a special bond ever since we were kidnapped by Daniel.
+kazuma_jersey: Then I'll be teaming up with Megumin.
+megumin_swimwear: Bwahahaha! A contest of skill?! I accept! A breathtaking 
+megumin_swimwear: battle of beach volleyball is about to commence!

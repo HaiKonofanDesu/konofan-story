@@ -1,0 +1,32 @@
+Heartfelt Valentine
+ナレーション: Iris was immersed in the art of making sweets, with Lia and Cecily at her side.
+iris_valentine: Oh dear. It seems I've ruined yet another batch. That makes 
+iris_valentine: five in a row now... How am I ever going to get the shape right?
+lia_valentine: You're following the recipe perfectly, but some things 
+lia_valentine: just need a lot of practice and repetition.
+iris_valentine: You're right. Would you mind helping me some more? 
+iris_valentine: At least until a batch is successful?
+lia_valentine: It would be my pleasure. We can keep at it until you're satisfied.
+cecily_valentine: There's still plenty of room in my tummy for any failed creations. In fact, 
+cecily_valentine: keep 'em coming!
+lia_valentine: You could be a little more sensitive, Cecily. She's trying her best.
+iris_valentine: It's quite all right. With Cecily here to snack on any botched treats, I can practice until they're perfect. 
+iris_valentine: Hehe.
+cecily_valentine: Oh, Iris, you're the best! You should ditch Kazuma 
+cecily_valentine: and become MY little sister instead!
+lia_valentine: Is that root of your motivation, Iris? Is this for Kazuma?
+iris_valentine: That's right. I want to see him smile.
+cecily_valentine: You are very kind. 
+cecily_valentine: They say the quickest way to someone's heart is through their stomach. I'm rooting for you, Princess!
+iris_valentine: Through their stomach...?
+cecily_valentine: It's an old saying among us commonfolk. Put simply, tender feelings take root easily on a full stomach.
+cecily_valentine: If you want Kazuma to fall head over heels for you, I recommend whipping up some non-chocolate foodstuffs as well.
+lia_valentine: Cecily, please don't fill her head with crazy ideas. You'll catch an earful from Claire.
+iris_valentine: I see... The way to the heart...is through the stomach.
+iris_valentine: Kazuma always cooks the most wonderful meals. I guess you could say he's the one who's reached me through the stomach.
+iris_valentine: Thank you, Cecily. With your help, I have no choice but to become a competent chef!
+cecily_valentine: Kazuma, of all people, having a hold on your stomach is quite the
+surprise. 
+cecily_valentine: I guess you'll just have to repay him in kind.
+iris_valentine: Yes, I'll sharpen my culinary skills and make Kazuma's stomach mine!
+ナレーション: And so, a determined Iris practiced well into the night...

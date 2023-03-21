@@ -1,0 +1,43 @@
+Making Summer Memories
+ナレーション: Chris and Mitsurugi were selling a large stock of grilled squid, by Kazuma and Aqua's request...
+chris_swimwear: It's the absolute pinnacle of seafood delicacies—grilled squid! Step right up and enter culinary heaven!
+Male Customer A: That smells divine! I'll take one!
+chris_swimwear: Thank ya kindly!
+mitsurugi_swimwear: And you, ma'am? We use freshly caught Kraken! You can practically taste the sea.
+Female Customer: Y-Yes, please! I'll take one... No, make it TEN!
+mitsurugi_swimwear: ...Really? If you say so. 
+mitsurugi_swimwear: Thanks!
+Male Customer B: That aroma's to die for, missie! Gimme five, will ya?
+chris_swimwear: Uh oh. I have to throw more on the grill. Do you mind waiting a few minutes?
+Male Customer B: No problem. I'll be right here.
+kazuma_swimwear: You two are hard at work, I see. 
+kazuma_swimwear: I assume the squid is selling?
+mitsurugi_swimwear: Very well, in fact! I can't wait to bask in the radiance of Lady Aqua's luminous smile once we've sold the whole pile!
+chris_swimwear: I was told I'd be given my weight in tasty summer treats. 
+chris_swimwear: I didn't expect I'd have to sell them, though...
+kazuma_swimwear: Hey, this is a paid gig, so help a friend out, will you?
+chris_swimwear: I am. I'm pouring my heart and soul into it too, so YOU can help a friend out and kick me ten percent of the sales.
+kazuma_swimwear: Ten percent? You gotta be joking!
+mitsurugi_swimwear: The only jester here is you. 
+mitsurugi_swimwear: I am lending a hand for Lady Aqua's sake, but summoning us on such short notice—for this?
+kazuma_swimwear: You have a point there... I know! 
+kazuma_swimwear: How about we settle things with a wee game of chance?
+kazuma_swimwear: Your pay's still in the sack I handed you earlier, yeah? If I can't steal it, I lose...and will give you twenty percent of the sales.
+chris_swimwear: Twenty percent?!
+kazuma_swimwear: BUT... If I do succeed... 
+kazuma_swimwear: You get zilch. Nada. Nothing. Well? You game?
+chris_swimwear: Oh I'm game. 
+chris_swimwear: I'll let Mitsurugi do the honors!
+mitsurugi_swimwear: You're staking everything on me? Well, okay...
+kazuma_swimwear: Let's do this, then! Stea— Huh?! 
+kazuma_swimwear: 　
+chris_swimwear: What was that, a gale? There's sand everywhere!
+kazuma_swimwear: Talk about rotten timing... 
+kazuma_swimwear: But no matter. Victory is mine.
+mitsurugi_swimwear: Huh? Are you blind? 
+mitsurugi_swimwear: I have the sack of coin right here.
+chris_swimwear: I haven't lost anything either...
+kazuma_swimwear: Oh, uh... 
+kazuma_swimwear: Then what's this cloth I'm holding?
+Male Customer B: O-Oh. Why is there a draft...around my loins?
+Kazuma, Chris, Mitsurugi: S-SORRY!!!

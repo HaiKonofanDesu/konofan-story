@@ -1,0 +1,118 @@
+Melissa - P2
+melissa: Hello there. 
+melissa: I've got something to sell again today.
+banil: Oh look, it's the hunter who everyone hates because she takes all the good quests and all the best rewards.
+melissa: Your customer service is as awful as ever.\n
+melissa: Anyway, here's what I want to sell.
+banil: Hm, this is a rare piece of historical furniture.\n
+banil: This would be quite nice for us... We'll take it.
+banil: How does ten million Eris sound?
+melissa: It's a deal. Here, in this pouch.
+banil: Thank you for your business!
+melissa: Well, that was quite profitable. Hehehe! ♪
+dust: Hm? Isn't that the awful treasure hunter who's been taking all the good gathering quests?
+kazuma: Look at her giggling... 
+kazuma: She must have landed a big score.
+dust: She never leaves anything for me. I should teach her how experienced adventurers treat newbies in this town.
+kazuma: You didn't get anything because you didn't go on the quest. Enough with the excuses.
+dust: Nah, I think I'll stick to the excuses. Besides, didn't she cause you trouble too, Kazuma?
+kazuma: Actually... Well, maybe I do want to hear her apologize, at least just once.
+dust: Then let's use that skill of yours to teach her a lesson! I've got the perfect plan. Just leave it to me!
+melissa: Well, well. What to hunt next... 
+melissa: Huh?
+melissa: What is that stench? It's like two piles of trash are closing in on me.
+Kazuma ＆ Dust: Who are you calling trash?
+melissa: I thought I was being followed. So, it was you two. What do you want with me?
+dust: Hey, you little hottie. I heard someone's doing business without informing senior adventurers like me.
+melissa: I see. You've got a bit of an inferiority complex. And?\n
+melissa: You brought your toady Kazuma with you to say that?
+kazuma: Toady or not, you caused me some real trouble the other day.
+dust: You're gonna apologize for breaking the town's rules.
+melissa: What rules? 
+melissa: I haven't done anything wrong. Adventuring is about as by-the-book as you can get.
+dust: Silence! Newbies should respect their seniors! Now apologize, and give us 30% of your take!
+melissa: This town's rules make absolutely no sense.\n
+melissa: Sorry, but I don't have time for you punks. Bye.
+dust: Hold it. One false move, and Kazuma will use Steal on you.
+melissa: Steal? The thief skill? What, is he going to snatch my purse or something?
+dust: Heh, you'll wish it was just your purse. This man is known here as the Panty-Stealing Devil!
+kazuma: Hey, knock that off! You'll ruin my image!
+melissa: Oh, I've heard of him. He prowls around town pilfering underwear from helpless women.
+kazuma: I-I-I don't prowl around!
+dust: Your underwear, your wallet, or that coin pouch... You wouldn't want to lose any one of those, would you?
+dust: So, what will it be? A sincere apology, or losing one of your precious items?
+melissa: These are the worst kind of lowlifes. I can't just walk away though... 
+melissa: I've got it.
+melissa: I see you've got a lot of faith in your friend's skill. How about we have a contest, then?
+kazuma: A contest?
+melissa: If you can steal my underwear, you win. I'll give you this whole pouch. Ten million Eris.
+Kazuma ＆ Dust: T-ten million?!
+melissa: Naturally, I'll apologize for my rude behavior. 
+melissa: However! If you lose, then you'll bow down before me in shame. 
+melissa: Deal?
+dust: What do you think, Kazuma? The odds are lower, but ten million for her underwear...!
+kazuma: And if I mess up, we just have to grovel a bit. I'd say it's pretty low-risk. 
+kazuma: Let's do it! Ten million Eris!
+questStart: <color=#ff0000ff>Emergency Quest:</color>
+
+
+
+
+Steal Melissa's
+
+
+
+panties!
+
+
+
+
+<size=50>Reward: Ten million Eris</size>
+
+
+
+
+Steal Melissa's
+
+
+
+panties!
+
+
+
+
+<size=50>Reward: Ten million Eris</size>
+dust: Okay, we accept your challenge!\n
+melissa: Hehe! Go ahead, whenever you're ready.
+kazuma: Get ready...
+kazuma: Steal!
+ナレーション: After using his Steal skill, Kazuma found himself holding something hefty and made of black leather...
+kazuma: Yaaaaaah... 
+kazuma: Wh-wha? This is her...
+dust: You grabbed her wallet! Why didn't you get her panties? You had one job!
+kazuma: What the hell, man? The Steal skill isn't meant for stealing underwear!
+melissa: Looks like I win this bet. Now give me back my wallet, and get on your knees.
+dust: Damn... 
+dust: This wasn't supposed to happen, but a deal's a deal! I lost, so I'll bow down and—
+kazuma: Wait a minute! Think about it. Failing to steal underwear isn't worth this kind of humiliation!
+kazuma: When you bow down like that, you lose your pride, your dignity...everything that makes you a person!
+dust: I've already pawned all of that off long ago! Besides, a man's word is his bond!
+melissa: I'm already tired of this. Can you hurry up?\n
+melissa: If not, I can step on your heads for you.
+Kazuma ＆ Dust: WE'RE REALLY SORRY!!
+melissa: Excellent. That's what you two get for challenging me. You could never steal my underwear, anyway.
+melissa: After all...I never wear any on my day off.
+melissa: Come on, I can still see your faces! Put 'em in the dirt!
+kazuma: Grr... One day, I'll make you apologize to me.
+dust: And I'll take your money!
+questFail: <color=#ff0000ff>Emergency Quest:</color>
+Steal Melissa's
+
+
+
+panties!
+Steal Melissa's
+
+
+
+panties!

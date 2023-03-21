@@ -1,0 +1,85 @@
+A Price for This Magic Sword! - P1
+ナレーション: I work every day for a crappy wage... I'm babysitting a crappy goddess... Every day is crap! This isn't what I signed up for!
+ナレーション: Why aren't I battling evil dragons with a badass sword?! Why aren't people calling me the "chosen one"?!
+ナレーション: Why don't I have a babe for a party member I can fall in love with...? Isn't that how this is supposed to work?
+aqua: I'm sick of it! I'm so done with this debt hanging over me... 
+aqua: I say we go on a quest! I need to make some fat cash!
+ナレーション: Megumin and Darkness tried to reassure Aqua as she pounded violently on the table...
+aqua: I get that there's nothing but hard quests left because of the dullahan, but let's just go for one! I'm sick of working retail!
+aqua: I get chewed out if there're any croquettes left unsold at the end of the day... I'm doing my best, okay? Like, have a heart!
+kazuma: Knowing you're a goddess makes this very painful to watch.
+kazuma: Fine. I'm gonna run out of money myself sooner or later, so just pick one and we'll bang it out.
+aqua: Can do! You just wait right here.
+megumin: Are you sure about this? I'm gonna bet Aqua will bring back something ridiculous.
+darkness: I-I wouldn't be against an impossible quest!
+questStart: Research Quest:
+Purify the lake.
+Purify the lake.
+aqua: So, Kazuma? Are we really doing this?
+ナレーション: Aqua looked plaintively at her companions from inside a cage as the lake water rose to her knees...
+kazuma: Do you have a problem with my absolutely flawless plan?\n
+kazuma: Besides, you're the one that wanted this quest!
+kazuma: It's not like I brought this sad excuse for a goddess just to toss her in the lake.
+kazuma: Aqua can purify water just by touching it, so let's throw her in a cage and put that in the lake.
+darkness: She'll be safe from the alligators this way, so we'll have nothing to worry about.
+megumin: Yep. This should be an easy 300,000 Eris for us.
+kazuma: Be sure to tell us if anything happens, okay, Aqua? We'll pull the cage out right away.
+aqua: I feel like a used teabag, just sitting here like this.
+ナレーション: Two hours later...
+kazuma: Yo, Aqua! How much longer until the lake is purified?
+aqua: It's going well. I should be finished in another ten hours or so.
+kazuma: You'll catch cold sitting in the water all day! Let us know if nature calls!
+aqua: Huh?! A-Arch priestesses don't need to go to the bathroom!
+megumin: She seems to be doing fine. By the way, Crimson Demons...\n
+megumin: ...Don't need to use the toilet either.
+kazuma: What, do you think you're some kind of teen idols or something?
+darkness: I... I'm a crusader, so things like going to the bathroom are... They're... 
+darkness: Augh!
+kazuma: Don't hold it if you don't have to.\n
+kazuma: This quest isn't ending any time soon, so we'll see if they're lying or not.
+Brutal Alligator: Grrrrrrrrr...
+aqua: K-Kazuma! Something's coming. Hey! Something's coming!\n
+aqua: Kazuma? Kazumaaa!
+ナレーション: Four hours later...
+aqua: I need to do this quickly! Purification! Purification!
+kazuma: She's not just relying on her abilities as a goddess, but putting actual effort into her spells...
+Brutal Alligator: Grrraaarrr!
+megumin: I'd like to help, but Aqua would get caught in the blast if I used my explosion magic.
+aqua: Eeeeeek! The cage! The cage is making weird sounds!
+kazuma: Aqua, just let us know if you want to give up! We'll pull the cage out of the water and make a run for it!
+aqua: Nooo! If I quit now, we won't get our reward! Purification! 
+aqua: Purification!
+aqua: Eeeeeek! I heard something crack! The cage is making sounds it shouldn't be making!
+darkness: It looks kind of fun in that cage...
+kazuma: Just stay right here.
+aqua: Purification! Purification!\n
+aqua: Purificaaatiooon!
+ナレーション: Seven hours later...
+megumin: It looks like the lake is finally pure. The alligators are gone, too.
+aqua: *Sniff* *Sob sob*
+kazuma: *Sigh* If it was that bad, you should've asked us to pull you out sooner.
+kazuma: Hey, Aqua? We talked about it and decided that you can keep all of the reward this time.
+darkness: That's right. The 300,000 Eris is all yours, Aqua.
+megumin: You deserve it for doing all the work this time!
+aqua: Ungh...
+kazuma: Come on... You can get out of the cage now. The alligators are long gone.
+aqua: No... I'd prefer to stay here till we're home.
+kazuma: What was that?
+aqua: The world outside this cage is a scary place... I just wanna go home.
+Megumin ＆ Darkness: *Sigh*
+kazuma: Look at that. Aqua has been traumatized by yet another quest.
+questComplete: Today's Results:
+<size=85>Purify the lake.</size>
+
+
+
+
+
+Quest complete!
+<size=85>Purify the lake.</size>
+
+
+
+
+
+Quest complete!

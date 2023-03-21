@@ -1,0 +1,68 @@
+Collecting on This Summer Beach! - P4
+ナレーション: A truly heated battle was simmering under the summer sun, and there wasn't a single shark to be found.
+wiz_swimwear: Without further ado, let the mid-summer beach volleyball showdown begin!
+wiz_swimwear: I will be acting as referee for the match. I wish you all the best of luck!
+kazuma_jersey: Great! Make sure to call a tight match!
+wiz_swimwear: W-Well then... 
+wiz_swimwear: Up first we have Kazuma and Megumin, a powerful team that has taken down multiple generals in the Devil King's army!
+megumin_swimwear: Hahaha! In the name of the mighty Crimson Demon Clan, we shall show no mercy!
+megumin_swimwear: If you do not desire a taste of my fiery explosion magic, you had better take the hint and give up now!
+kazuma_jersey: Don't start by threatening them! You're going to get us disqualified before we even begin!
+wiz_swimwear: Their opponents are Aqua and Lia! And with outfits like 
+wiz_swimwear: that, every eye on the beach is focused on them!
+lia_swimwear: Don't expect us to go easy on you today!
+aqua_swimwear: I'll show you what a goddess is truly capable of!
+wiz_swimwear: Now, the team captains will play rock, paper, scissors for court position and first serve.
+aqua_swimwear: Leave this one to me, Lia! 
+aqua_swimwear: Blessing!
+kazuma_jersey: Aqua! You can't use magic to raise your luck stat like that! 
+kazuma_jersey: Excuse me, ref. Our opponent is using magic to cheat.
+wiz_swimwear: Um, Aqua...
+aqua_swimwear: You have something to say, lich? If you'd like, I'd be more 
+aqua_swimwear: than happy to purify our overly bossy referee.
+wiz_swimwear: Eeep! 
+wiz_swimwear: The competitor's actions are deemed legal!
+kazuma_jersey: So that's how it's going to be, huh? Not that I'm worried. 
+kazuma_jersey: I've never lost a round of rock, paper, scissors in my life.
+kazuma_jersey: All right, Megumin! This is our chance! Let 'em have it!
+megumin_swimwear: Now, taste my legendary Explosion Spike!
+lia_swimwear: Aqua, this one's all you!
+aqua_swimwear: I've got it! 
+aqua_swimwear: God Receive!
+aqua_swimwear: God Receive takes all the rage and sadness of a goddess and sends it back at her opponent! None can survive it!
+megumin_swimwear: What?! She survived my legendary Explosion Spike?!
+lia_swimwear: Nice one, Aqua! Now it's my turn... 
+lia_swimwear: Take this!
+kazuma_jersey: I don't think so!
+lia_swimwear: Your pathetic guard can't hold me back! 
+lia_swimwear: Hyah!
+kazuma_jersey: Yikes!
+wiz_swimwear: Team Aqua scores a point!
+megumin_swimwear: Kazuma! You're not supposed to dodge the ball! 
+megumin_swimwear: You're supposed to block it!
+kazuma_jersey: Easier said than done! That spike just now was no joke...
+megumin_swimwear: Great, you let Aqua and Lia score another point on us.
+kazuma_jersey: Aqua's maxed stats are bad enough, but Lia's still impressive in her own right. It must be all that dance training.
+wiz_swimwear: Match point! The score is now 9 to 2! Team Aqua needs only one point to win!
+aqua_swimwear: Pft, hahaha! Kazuma! You about ready to give up?
+aqua_swimwear: I'll go easy on you if you promise to give me all the earnings from this quest.
+kazuma_jersey: Bah! Acting all high and mighty! C'mon, Megumin! It's time 
+kazuma_jersey: for our counterattack!
+megumin_swimwear: Taste the power of my Chaos Explosion Serve! 
+megumin_swimwear: Haaah!
+kazuma_jersey: And here's a little something extra... Wind Breath!
+lia_swimwear: Eeek! What's going on?! I can't see a thing with this 
+lia_swimwear: cloud of sand in my eyes!
+kazuma_jersey: How do you like me now?
+wiz_swimwear: Team Kazuma scores! It's now 9 to 3!
+aqua_swimwear: What kind of call is that, Wiz?! Are you blind?! That was clearly an illegal move!
+kazuma_jersey: That was a perfectly acceptable strategy!
+aqua_swimwear: Have it your way, then! We'll play by the new rules! 
+aqua_swimwear: Sacred Create Water!
+megumin_swimwear: Hold on, Aqua! I didn't do anything! If you're going to take it out on someone, aim at Kazu— *Glub glub*
+kazuma_jersey: What are you doing?! Are you cra— *Glub glub*
+aqua_swimwear: Hehe! Looks like you're all washed up! And since you left 
+aqua_swimwear: the court, we win the match!
+wiz_swimwear: L-Lady Aqua! 
+wiz_swimwear: This isn't that sort of game!
+ナレーション: Wiz and Lia rushed to rescue Kazuma and Megumin after they were swept out to sea. Luckily, they didn't see any sharks.

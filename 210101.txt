@@ -1,0 +1,71 @@
+BgCamera: NoWait
+Aqua - P1
+ナレーション: There came a day where Aqua finally set her resolve.
+aqua: That's right! I'm the goddess Aqua!
+kazuma: Yeah, you sure are. Now hurry up and buy the stuff we need for dinner. 
+kazuma: If you want snacks, keep it under 300 Eris—
+aqua: Nooo!!
+kazuma: What's the matter? Feeling grumpy today?
+aqua: Listen, Kazuma. I'm a bona fide water goddess, right?
+aqua: But nobody even worships me! It's ridiculous!
+kazuma: Uh... Well, for one, the others don't even believe you're a goddess. Just let it go.
+aqua: No! You're telling me to just accept it? 
+aqua: I'm a goddess, you know! I literally guide people to the afterlife!
+aqua: I'm gonna prove my divinity to everybody once and for all!
+kazuma: Forget it. They're just gonna think you're being delusional again.
+aqua: So, I was thinking I'm gonna...
+kazuma: She's not listening...
+aqua: ...show them my amazing powers of purification! Then everyone will believe in me!
+aqua: Pretty brilliant plan, right?
+kazuma: Wow, you're SUCH a genius. Sure, why not?
+aqua: Okay, I'm off to show my wonderful divine powers to the good people of Axel!
+kazuma: Yeah, you do that. 
+kazuma: Just make sure you pick up dinner first.
+aqua: Attention, everyone! Your goddess is in town, and she's 
+aqua: offering a special service! Your houses'll be squeaky clean!
+Axel Resident A: Goddess? That girl must be nuts...
+aqua: I swear! I'm a real water goddess! 
+aqua: I'll prove it! The water I've purified can instantly wash away any dirt or grime!
+Axel Resident B: Oh yeah? Our toilet's kinda old. Can you clean that, too?
+aqua: Of course! It'll be as good as new! And it's all 
+aqua: totally free! You won't find a better deal anywhere! ♪
+aqua: All you have to do is tell everyone you met me, an awesome and powerful goddess!
+Axel Resident B: That's all? Not a bad bargain. Mind cleaning my bathroom, then?
+Axel Resident C: Ooh, mine too!
+aqua: Hold on, no need to push! There's enough Aqua to go around.
+aqua: The people are relying on me... I missed this feeling so much. Being a goddess is my true calling!
+aqua: Whew! Nothing like a nice cold bubbly after a hard day's work! It's almost sinful!
+kazuma: Nice job today. So, did it work?
+aqua: Why wouldn't it? I spent the whole day cleaning so many bathrooms!
+megumin: What caused this change of heart?
+darkness: Feeling charitable all of a sudden? 
+darkness: Or perhaps you're being forced into performing services... 
+darkness: Ooh, that's good!     
+aqua: No. I'm a kind and merciful goddess. 
+aqua: Naturally, I'll extend my benevolence to all humans.
+megumin: There she goes again.
+darkness: Charity work is all well and good, but you shouldn't deceive people.
+aqua: I'm not deceiving anyone! I'm a real 
+aqua: goddess! The whole town's abuzz with rumors of me right now—
+Axel Resident A: Hey, look over there! That blue hair... That's the goddess!
+Axel Resident B: It's her! The goddess is among us!
+kazuma: Wait... Do they seriously believe in her?
+Axel Resident C: We lift up our thanks to you... Grant us your blessings, O merciful goddess!
+aqua: Raise your heads. The goddess Aqua is forgiving to those who seek salvation!
+darkness: They're basically prostrating themselves... You don't suppose Aqua's really a goddess, do you?
+megumin: No way. They're just confused... Right?
+Axel Residents: Dear Goddess! Our Goddess! Dear Goddess! Our Goddess!
+aqua: Oh, my... If you worship me so, 
+aqua: even a real goddess like me might blush! Ehehehe...
+Axel Resident A: Please, no need for such humility! You are truly divine!
+Axel Resident B: Yes... You are our beloved Toilet Goddess!
+aqua: I... Wait, what? The what goddess, now?
+Axel Resident C: Everyone was so delighted to see their toilets so clean and shiny! Our goddess will solve all our plumbing problems!
+aqua: Hey! I DID purify your bathroom water, but "Toilet Goddess"?
+darkness: I see now! They were calling you a goddess out of respect for your cleaning skills!
+megumin: Why don't you try saving up skill points and changing jobs to Toilet Specialist?
+aqua: No! I'm a real goddess! Help me out here, Kazuma!
+kazuma: Hey, Toilet Goddess!
+aqua: Come on! 
+aqua: I'm not a toilet goddess, I'm a water goddess!
+ナレーション: The tears Aqua shed that day were said to wash away even the most stubborn bowl stains... But that's a story for another day.

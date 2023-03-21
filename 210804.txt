@@ -1,0 +1,83 @@
+Komekko - P4
+ナレーション: Komekko, accompanied by Arue this time, had come to Axel for the day.
+cecily: Act now and you'll get—yes! A bar of our famous edible soap! 
+cecily: Just sign on the dotted line, right here!
+komekko: Look, it's your friend.
+arue: Yes, she seems rather immersed right now. We'd best leave her— Komekko
+arue: ?
+Adventurer A: Ah, you're trying to induct me into some wacky religion. Pass.
+cecily: Please just listen for one moment! You'll love what you hear!
+komekko: Littering is a no-no.
+cecily: K-Komekko?
+Adventurer A: I didn't want to. This shady priestess tried to make me join her hackneyed—
+komekko: That's no excuse for littering. 
+komekko: Now, pick it up. Here, I'll help.
+Adventurer A: Y-Yeah, thanks. And sorry.
+komekko: Don't forget to sign too.
+Adventurer A: I—Okay, I'll sign. 
+komekko: Doesn't it feel good to do the right thing?
+Adventurer A: Heh, it's like I have a little sister. How cute! 
+cecily: With her every word, he becomes more and more 
+cecily: disarmed. I, no—WE must have her! 
+cecily: Plus, 
+cecily: she's so darn cute!
+cecily: Komekko, dear. There's a place near here with the best jelly slime ever. Would you like me to treat you to some?
+komekko: Wow, okay! Arue too.
+cecily: But of course. Anything to better spread the good word.
+arue: Amazing. Komekko hooked everyone she talked to, no matter their initial resistance. How many was that, by the way?
+cecily: So many! It's a miracle. Tonight I'll throw a jelly slime 
+cecily: party just for you, sweetie!
+komekko: Yay, jelly slimes!
+cecily: I was correct. Her devious powers will further the reaches 
+cecily: of our hallowed faith. Plus, she's so darn— Ahem.
+cecily: Komekko, what do you say to visiting another church with me tomorrow? They'll stuff you silly too.
+komekko: I like the sound of that. I'm in!
+cecily: If we steal people coming for the Eris bread handouts, 
+cecily: their inductee numbers are sure to tank! Plus, free food.
+arue: How exciting! It's as if we're writing the plot to our 
+arue: own evil scheme. 
+cecily: Megumin! *Pant pant* 
+cecily: Thank the goddess I found you.
+megumin: Cecily? Is there an emergency?
+cecily: "Emergency" is an understatement. Komekko has gone and 
+cecily: been stolen by someone else!
+megumin: Stolen...? THE HECK?!
+intensiveLine: 　　　
+megumin: 　　
+megumin: What's that mean? I heard from Arue that she was helping you, but to do what? WHAT DID YOU DO, WOMAN?!
+megumin: What have you done to her? MY SWEET LITTLE SISTER WHO CAN DO NO WRONG?!
+cecily: 　
+megumin: 　　
+cecily: B-Bones...shattering... Please...let go...
+megumin: Oops! 
+megumin: My apologies. My emotions overtook me. Regardless, you will answer my questions!
+cecily: It's faster if I show you. 
+cecily: Come with me. But be warned, 
+cecily: what you're about to see...may scar you for life.
+megumin: No... NO! 
+megumin: KOMEKKOOOOOO!!!
+Eris Follower: Here you go, sweetie. Our standard handout of bread—plus a salmon rice ball, just for you.
+komekko: Thanks a bunch! 
+komekko: *Nom nom* 
+komekko: Mmm, tasty!
+Eris Follower: Hehe... We're happy that you're happy.
+megumin: Cecily?
+cecily: Isn't it horrid?! 
+megumin: It looks like she's simply partaking of the church's free food. And it's much better than the standard Axis fare.
+cecily: Indeed! It's a tragedy to the highest degree! 
+cecily: Your dear little sister, exploited by those Eris phonies!
+Town Resident A: Why that child's smile could light up the night sky! All thanks to the loving Eris followers!
+Town Resident B: They are an inspiration. Please, allow me to help as well. There is no greater honor to be had!
+cecily: Oh, Komekko! You are the brightest jewel of all the Axis treasures! 
+cecily: And only one deserves the right to coddle you—me!
+megumin: Uh, I should have you arrested for sister-stealing! I'm not 
+megumin: giving her to you or the Axis church, okay?
+komekko: Hiya, sis. Just had lunch, thanks to these folks. Boy, they sure are friendly!
+megumin: How nice. Remember your manners and be sure to say thank 
+megumin: you. They're cut from much better cloth than Cecily here...
+cecily: Not you too, Megumin! Eris followers are nothing but swindlers and thieves!
+cecily: These cockroaches have bereaved me of my precious sisters. 
+cecily: And there's only one way to deal with pests... Extermination!
+megumin: Um, I'm pretty sure the only sisters here are Komekko and me...
+komekko: Eris Order or Axis Order, it doesn't matter to me so long 
+komekko: as I get to eat lots of free food. Can I have seconds?!

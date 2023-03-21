@@ -1,0 +1,72 @@
+A Play for This Crimson Demon Author! - P4
+aqua_actor: "Oh, my brave hero!"
+kazuma_actor: "I'm fine, 
+kazuma_actor: but I cannot believe the depths of the Devil King's cowardice!"
+arue_actor: "What about the princess? Is she safe?"
+ynyn_actor: "Please save me, o mighty hero..."
+kazuma_actor: Whoa...
+ynyn_actor: What's wrong? Arue, you have the next line.
+arue_actor: Yeah, I know that, but there's something worrying me...\n
+arue_actor: Let's take a little break.
+ynyn_actor: Huh? But we just started rehearsing.
+kazuma_actor: We don't wanna overdo it. Actors need to rest their voices! 
+kazuma_actor: Let's take ten minutes, and then pick it up from the final battle.
+ynyn_actor: O-okay... I was getting a bit thirsty. Wouldn't want to stress my voice too much.
+aqua_actor: Hey, Kazuma. Come here for a second. It's about Yunyun...
+kazuma_actor: You don't have to say it. I already know. 
+kazuma_actor: Her acting, right? It's like she's just reading it off the page.
+aqua_actor: And it seems like she thinks she's nailing the part.\n
+aqua_actor: Better if we drop her from the play... For her sake.
+kazuma_actor: Maybe, but the schedule's too tight. There's no way we could find a replacement in time.
+aqua_actor: Well then, what are we going to do?
+arue_actor: Give me a little time. I'll rewrite the script and cut 
+arue_actor: some of her lines.
+kazuma_actor: Since you have the immense burden of playing the princess, Arue has adjusted the script to reduce your lines.
+ynyn_actor: I-it's no trouble at all, really. You don't have to go changing things just for me.
+arue_actor: Sharing a burden halves it, while sharing joy doubles it.\n
+arue_actor: Isn't that what friends do?
+ynyn_actor: F-friends... 
+ynyn_actor: That's right! Thanks, everyone!
+kazuma_actor: Well done, Arue! Now you can cut her lines without hurting her feelings!
+aqua_actor: Okay, this is your new script, Yunyun. Your line is this one here. It's after the hero rescues you.
+ynyn_actor: "Th-thank you, brave hero. I love you..."
+kazuma_actor: U-um...
+arue_actor: Yunyun, this is your only line in this scene.\n
+arue_actor: But it's an important one, so give it your all.
+ynyn_actor: I g-got it! Leave it to me! I'll make sure that it leads right into the big climax!
+ynyn_actor: "Thank you, brave hero. I love you!"
+arue_actor: Y-yeah. Like that... But the princess enters the scene 
+arue_actor: after the Devil King is defeated, okay?
+kazuma_actor: You'll wear this armor while the Devil King is on stage, so stalk around and act as creepy as you can.
+ynyn_actor: Okay, I see... I'll climb inside and 
+ynyn_actor: give it a try.
+aqua_actor: It looks like you made Yunyun's role as the Devil King much larger than that of the princess.
+arue_actor: It's a bit drastic, as it was quite hard to cut all of the Devil King's lines and only have him move about.
+ynyn_actor: Ungh... I-is this how I should be moving? What do you think? 
+ynyn_actor: Does it seem like the Devil King?
+aqua_actor: Eek! Okay, that was pretty creepy...
+arue_actor: Good job, Yunyun. Your acting is giving the Devil King a feeling of authenticity.
+ynyn_actor: Th-thanks... Wait, did you just compliment me?
+kazuma_actor: Okay, I think that's enough rehearsing for today.
+aqua_actor: Yeah, I have to finish the set and props.\n
+aqua_actor: I'm really getting into the whole thing.
+kazuma_actor: I'm going to go out and promote the show. We just got these fliers made.
+arue_actor: I'll help too. I want this play to be a big hit.
+ynyn_actor: You're all going out? 
+ynyn_actor: Um, I'd like to go with you!
+arue_actor: You stay here and practice, Yunyun.
+ynyn_actor: What?
+aqua_actor: She's right. The play opens the day after tomorrow. You need to hurry up and master your line!
+kazuma_actor: Leave the fliers to us. Focus on practicing!
+arue_actor: Don't forget to work on the Devil King's movements. We're counting on you.
+ynyn_actor: Ah, they're gone. But they're counting on me...
+ynyn_actor: to meet their expectations!
+ynyn_actor: "Th-thank you, brave hero. I love you..."
+ynyn_actor: "Thank you, brave hero, I love you..."\n
+ynyn_actor: Maybe I need to make it sound like she's happier to see him.
+ynyn_actor: "Thank you, brave hero. I love you...!\n
+ynyn_actor: Thank you, brave hero. I love you...!"
+Dullahan Armor: Grah... Grarrgh...
+ynyn_actor: What?! 
+ynyn_actor: Did the armor just move? Or am I imagining things?
+ナレーション: Despite her concerns about the armor, Yunyun continued to practice her lines. The fateful day was fast approaching...

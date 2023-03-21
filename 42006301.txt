@@ -1,0 +1,50 @@
+ナレーション: One sunny afternoon, Dust was on his own and feeling rather down...
+dust: *Sigh* The casino robbed me blind again... I'm broke. Totally broke.
+dust: I could win it back, if I had a little more.\n
+dust: It's so unfair that you can LOSE at gambling!
+dust: *Sigh* Guess I'll have to take on a quest. It sucks, but it's the fastest way to fill my pockets. 
+dust: Of course, I'd need a party...
+dust: Please! You've gotta help me— I'm begging you here!
+darkness: Wh-What's wrong? Don't grovel like that. Stand up.
+dust: But groveling is all I can do! Please, I'm begging you!
+darkness: I don't know... What should we do, Kazuma?
+kazuma: First, tell us what's going on.
+dust: I need your help with this quest! Please, it's for Rin!
+aqua: What do you mean, "it's for Rin"?
+dust: Ugh... It's my fault. It's all my fault! I'm sorry, Rin. I'm really, REALLY sorry...
+megumin: Less crying, more explaining. What happened?
+dust: R-Rin's been taken hostage. They're holding her until 
+dust: I pay off all my debts!
+dust: If I don't, they're going to keep forcing her to take on all these dangerous jobs!
+darkness: Go on. What kind of danger? How dangerous?
+kazuma: Calm down, Darkness.
+darkness: "Calm down"?! If I am to risk life and limb for a friend, I must know all there is to know about it!
+kazuma: This doesn't sound like a good idea. It sucks for Rin, but we've got our own debts to pay off.
+megumin: Rin needs our help, Kazuma. I mean, forget about Dust, but we can't just turn our backs on Rin right now.
+aqua: That's right, she deserves our help. Remember that time I was hungry, and she brought me some snacks?
+kazuma: *Sigh* Guess I don't have a choice.\n
+kazuma: Fine, I'll go on your little quest. For Rin...not you.
+dust: Y-You mean it, Kazuma?! 
+dust: Thank you. Thank you, from the bottom of my heart!
+questStart: Kill Quest:
+
+
+<size=100>Defeat the Great Wizard!</size>
+
+
+<size=100>Defeat the Great Wizard!</size>
+dust: There's our guy! Huh, he's closer to town than they said he'd be.
+Great Wizard: Grrrrrrrrr... 
+darkness: He looks... rather unsettling. Be careful, his magic is strong.
+megumin: Hahaha! Not at all! I'll show this monster magic!
+kazuma: So Dust, we kill this thing, Rin goes free, right?
+dust: That's right! Let's do it for her!
+kazuma: Okay, but this is still your fault in the first place.
+dust: Kazuma, why'd you have to say that?\n
+dust: (I'll have enough to pay everything off tenfold!)
+dust: Once I use this reward money to clean house at the roulette table, that is!
+aqua: I know that laugh. Kazuma laughs like that when he's thinking of something stupid. You're up to something.
+dust: No I'm not! And this is no time to talk!
+kazuma: He totally is, but we'll deal with that later! Monster first!
+Great Wizard: Grrr...
+dust: Oh, bring it on! Face the mighty Dust if you dare!

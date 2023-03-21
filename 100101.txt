@@ -1,0 +1,64 @@
+An Adventure with This New Party! - P1
+ナレーション: My name is Kazuma Satou. I'm a NEET from Japan. 
+ナレーション: Or I was...
+ナレーション: until I met an unfortunate end in high school.
+ナレーション: But thanks to Aqua, the goddess of water, I was reborn in a fantastical world full of swords and sorcery!
+aqua: I was ready to set out on an RPG-like journey to slay the evil Devil King that plagued the land! 
+MessageWindowExplain: ...Or so I thought.
+ナレーション: I was ready to set out on an RPG-like journey to slay the evil Devil King that plagued the land! 
+ナレーション: ...Or so I thought.
+ナレーション: But then I was joined by the waifish arch wizard Megumin, who only ever uses one explosion spell...
+ナレーション: who also collapses whenever she uses it...
+ナレーション: As well as the crusader Darkness, who couldn't hit a target if her life depended on it...
+ナレーション: but is a masochist who loves getting hit...
+ナレーション: With party members like these, it's no wonder I wound up drowning in debt instead of living the good life...
+ナレーション: Ugh, I get depressed just thinking about it.
+ナレーション: But who cares? I may get mocked for being a shut-in NEET, but even the Devil King's generals are nothing compared to me!
+ナレーション: And I somehow managed to crawl out of debt to make a comfortable life for myself.
+ナレーション: But people still fear the Devil King. I can't stop now!\n
+ナレーション: This time, I'll get some proper gear and take him out!
+Boss: Hey, Kazuma! Quit daydreaming and get your lazy butt back to work!
+kazuma: Ah, sorry boss! Right away.
+aqua: This work is nothing for a divine goddess like me. I'll lay these bricks lickety-split.
+Boss: Say, you've gotten pretty good at this, little lady.\nAll right! Starting today, you two get a raise!
+Kazuma & Aqua: Hooray!
+aqua: Heh! There's nothing like a nice cold bottle of bubbly after a hard day's work!
+aqua: Plus, it goes great with some fried giant toad. It's safe to say that life doesn't get any better than this!
+kazuma_jersey: Yeah! And food always tastes better after a hard day's work!
+kazuma_jersey: Excuse me, another order of fried giant toad, please! And another round of ice-cold bubbly!
+kazuma_jersey: By the way, Aqua... You're in charge of repairs to the back alley's outer wall tomorrow, right?
+aqua: I sure am. I've actually gotten pretty good at this job. The boss even praised me today!
+aqua: He said, "Hey, blue-haired girl. I wouldn't mind putting you in charge
+aqua: !"
+kazuma_jersey: Yeah, you're getting better and better! Maybe some day soon, you'll be the famous lady boss of Axel?
+aqua: You're too kind! That reminds me... Where are 
+aqua: you working tomorrow, Kazuma?
+kazuma_jersey: They're adding a new extension to the canal, and I'll be helping break ground for the project.
+kazuma_jersey: The boss told me, 
+kazuma_jersey: "You're not half bad with that pickaxe." 
+kazuma_jersey: And you know what? He's right!
+aqua: Good for you! It's great that we both have jobs we're good at!
+Waitress: One round of bubbly and fried toad! Sorry for the wait.
+kazuma_jersey: Yes, finally!
+aqua: Mmm... It smells delicious...
+aqua: Now, Kazuma, let's enjoy this wonderful feast that's been graciously placed before us!
+kazuma_jersey: Yeah, then we can give it our all at work tomorrow!
+kazuma_jersey: Here's to the next generation of bosses! Cheer—
+kazuma_jersey: HOLD ON A MINUTE!!!
+kazuma_jersey: Huh. I've got this weird feeling...that we're making some kinda huge mistake.
+kazuma_jersey: ...Oh, I know! I almost just dedicated the rest of my life to menial labor!
+aqua: What's wrong, Kazuma? 
+aqua: We should be happy. We finally found something we're good at.
+kazuma_jersey: That's not the point! Don't you remember, Aqua?\n
+kazuma_jersey: Have you forgotten 
+kazuma_jersey: our purpose?!
+aqua: ...Huh?!
+aqua: Oh, you're right!  I need you to defeat the Devil King if I'm ever to return home!
+kazuma_jersey: To be honest, giving up on defeating the Devil King and just settling down does sound pretty nice... 
+aqua: Waahhh! Kazuma, why are you so desperate to work at a lowly construction site?!
+kazuma_jersey: What choice do we have?! We're still sitting under a mountain of debt!
+aqua: Why are you always like this?! Just do your job for once! Do your job and send me back to my world!
+kazuma_jersey: She's the one who completely forgot our mission...!\n
+kazuma_jersey: Then again, it's not like I have room to talk, either.
+kazuma_jersey: I got so focused on working to pay off our debts, I forgot what I was even here for...
+ナレーション: The incident that threatened our peaceful lives happened just a few days ago...

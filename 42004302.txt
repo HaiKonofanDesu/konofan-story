@@ -1,0 +1,49 @@
+Midlevel Bane - P2
+Midlevel Bane: Graaaaaah!
+ナレーション: All was quiet after the midlevel bane was defeated...
+megumin: It's finally over... We managed to outlast the pack somehow.
+darkness: If we leave now, we won't get back to Axel until late.\n
+darkness: I think it'd be better to set up camp here.
+cielo: Are you worried about me? If that's it, I'll be fine.\n
+cielo: I can still walk...
+kazuma: No, that's not it. For some reason, our party always gets attacked by the undead at night. 
+kazuma: Whose fault could that be?
+aqua: Hey, I can't help that! My holy aura refuses to be hidden!
+kazuma: So we'll camp here. Plus, I bet you're hungry, Cielo.
+cielo: Y-yes, I am... All that action has me kinda peckish.
+aqua: Perfect! Let's start with some snacks and bottles of bubbly!
+kazuma: Yeah, yeah...
+questComplete: Kill Quest:
+Hunt Beginner's Banes
+Completed
+megumin: Ahh... That was really good.
+darkness: It's nice to eat outside like this once in a while.
+kazuma: Well, we did get attacked by undead twice while eating... 
+kazuma: I wonder whose fault that was?
+aqua: W-we're on a kill quest, aren't we?\n
+aqua: We should expect to be attacked by monsters!
+kazuma: How dare she try and turn this back on me...
+cielo: You all seem like such good friends.
+megumin: We've been traveling together for a long time now. Don't you Axel Hearts ladies get along pretty well?
+darkness: That reminds me, you said you're using your earnings to buy a present for Lia and Erika, right?
+cielo: Yes, Lia likes throat care products because she's a singer, so I thought that might be good for her...
+cielo: And Erika likes things that are cute, so I was thinking about a ribbon or some other accessory.
+aqua: You're such a good friend for always thinking of them.
+cielo: I actually wanted to do something for all of you guys too, for helping me out so much...
+kazuma: You don't need to give us anything... 
+kazuma: But I'll take it! Something useful, if you please!
+cielo: Um, I wasn't thinking of a present, but of repaying you with one of my talents.
+darkness: You mean with your body?! 
+darkness: This isn't how I envisioned the night turning out...
+cielo: Th-that's not what I mean!
+cielo: M-my main skill is dancing. So if it's okay with you, I'd like to put on a performance.
+aqua: Oh, that sounds nice! Please do!
+cielo: Okay, here it goes... I hope you all enjoy it.
+cielo: Thank you... Each and every one of you!
+megumin: Ooh... This is really splendid.
+darkness: Maybe it's a trick of the moonlight, but Cielo looks much more mature than usual.
+aqua: I've got a few tricks up my sleeve as well! Nature's Beauty!
+kazuma: Wow, look how it sparkles! You can be quite impressive sometimes, Aqua. This is nice.
+megumin: Normally, you'd have to pay to see a dance like this. But this special performance is just for the four of us.
+darkness: Cielo is showing us her gratitude, but I think we should be the ones thanking her.
+ナレーション: Everyone clapped along to Cielo's dancing with beaming smiles as they whiled the night away...

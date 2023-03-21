@@ -1,0 +1,34 @@
+Dreamy Pajama Night
+ナレーション: After a long day of questing, Amy was getting ready for a restful night at the inn...
+Amy_pajama: Hmm hm hm hmmm... ♪
+erica_pajama: What are you putting on your face?
+Amy_pajama: I'm doing my nightly skincare routine. If I don't do this before bed, my skin gets all dried out the next morning.
+erica_pajama: Taking care of your skin is important, huh? 
+erica_pajama: I've never tried because it always seemed like a lot...
+Amy_pajama: It's not as difficult as you think. You can even take great care of your skin with simple, everyday items.
+erica_pajama: With everyday items?
+Amy_pajama: That's right. For example, you can put some lemon slices on your face. 
+Amy_pajama: I have some here if you'd like to try.
+erica_pajama: Y-You can't be serious! 
+erica_pajama: ...I mean, a lemon?
+Amy_pajama: You're the cutest thing this side of the kingdom, sure. But enhancing your skincare will make you the cutest thing this side—
+erica_pajama: Amy, I'm in! Bring on the lemon!
+Amy_pajama: The trick is to cut thin slices and place them on your face, one at a—
+erica_pajama: Ack! 
+erica_pajama: I-I-It's getting in my mouf! Oh, so SOURRR!
+Amy_pajama: Oh my... You're using far too much, dear. Anyone would find that overwhelming.
+erica_pajama: I thought more was better. That's usually the case...
+Amy_pajama: In matters like these, moderation is best. Here, 
+Amy_pajama: I'll do it for you, nice and neat.
+erica_pajama: *Sniffle* Amy, my eyes are stinging...
+Amy_pajama: My, that won't do. Lay down on my lap so I can wipe your face clean.
+erica_pajama: O-Okay.
+Amy_pajama: Your skin's soft as a cloud. Oh, and so smooth. 
+Amy_pajama: Hehe, I think I'm a little jealous.
+erica_pajama: Don't be, Amy. You're gorgeous. And being around you is like enjoying a fresh breeze... 
+erica_pajama: I've felt this way before... In some of my best memories from the orphanage...
+erica_pajama: Amy's like...a big sister! Yeah. Wow, it's been ages since I've felt this way.
+Amy_pajama: There you go. All better now. 
+Amy_pajama: Erika? You can get back up.
+Amy_pajama: Oh, off to dreamland are we? Nighty night, then, sleepyhead.
+ナレーション: After falling deeply asleep in Amy's lap, Erika was laid to bed, ever so gently.

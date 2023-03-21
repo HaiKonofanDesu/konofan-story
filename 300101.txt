@@ -1,0 +1,84 @@
+An Explosion for This Chuunibyo! - P1
+ナレーション: It was a blissful afternoon, and Kazuma was getting dressed while Aqua slept the morning away...
+aqua: *Yaaawn* Morning...
+kazuma_jersey: Uh, maybe a few hours ago. Did you forget the kill quest we were supposed to get up early for?
+aqua: Oh... Oops. Guess "we're off work tomorrow" was all that registered for me yesterday.
+kazuma_jersey: Sloths have a better work ethic than you. 
+kazuma_jersey: Anyway, is it just me or does no one here seem to care about the Devil King?
+kazuma_jersey: You'd expect a little more fear mongering for all the danger they're supposedly in.
+aqua: Not here. This place is the farthest town from his castle.
+aqua: Besides, there's nothing but low-level adventurers in Axel. Why would he even bother putting the smack-down on this place?
+kazuma_jersey: Gotcha.
+aqua: Well? What are we standing around here for? We've got a kill quest to do, and I have a feeling we're going to knock it out of the park!
+kazuma_jersey: All right. I'm countin' on you, Goddess.
+questStart: Kill Quest:
+Defeat five giant toads
+
+
+
+
+within three days.
+Defeat five giant toads
+
+
+
+
+within three days.
+Giant Toad: *Ribbit* *Riiibbit*
+kazuma_jersey: Aaaaaahhh! Aqua! AQUA! Help me out here!
+aqua: Pffft—AHAHAHA! This is too funny! You're on the verge of tears while running from a TOAD!
+kazuma_jersey: Oh, just you wait! You're gonna get yours later!
+ナレーション: These giant toads, despite their much smaller and more docile cousins, are vile beasts that are not to be trifled with.
+ナレーション: To build strength for their upcoming breeding season, they seek out civilized areas in search of goat herds and such to feed on.
+ナレーション: Rumor has it that each year, children and farmers alike go missing during this time...
+ナレーション: Although their flesh is known for being somewhat tough, its simple and light flavor makes it quite suitable to many a delectable dish.
+aqua: Hey, Kazumaaa! If you want my help, you can always ask with a "pretty please"!
+kazuma_jersey: YES! God, yes! Please, Lady Aqua! PRETTY PLEASE!
+aqua: Okay. If I must. 
+aqua: I'll give you a hand, you little shut-in NEET... But only if you start worshiping me starting tomorrow!
+Giant Toad: *Ribbit* *Riiibbit*
+aqua: Once we're back in town, you'll join the Order of Axis and pray to me thrice a day!
+kazuma_jersey: L-Look out, Aqua! That toad is—
+aqua: And if I want something you're eating, you'll hand it over without giving me lip!
+aqua: Now, what else...? Let me— 
+aqua: Gurk!
+aqua: EEEEEEK! Kazuma! Kazumaaa!
+kazuma_jersey: Hah! That thing's really chowing down on you!
+aqua: It stinks! And it's all slimy and gross! I feel so...filthy!
+aqua: I'm a goddess! I don't deserve thiiis!
+kazuma_jersey: *Pant* *Pant*
+aqua: *Sniffle* Thag you, Gazuba. Thag you zooo buuuch!
+kazuma_jersey: Ugh! You smell rank!
+kazuma_jersey: Anyway...let's go home. This crap's way above our pay grade. 
+kazuma_jersey: Until we get better gear, at least.
+aqua: Go home?! My followers would surely lose all faith in me if they saw me like this!
+aqua: Once word gets out that I lost to a mere toad, my beauty will be forever tainted! My majesty forever lost!
+kazuma_jersey: Because you had SO much of that in the first place. All you want is some food and ice-cold booze after a bath. And who drools in their sleep?
+Giant Toad: *Ribbit* *Riiibbit*
+aqua: Incoming! INCOMING! There's another one! 
+aqua: Ah!
+kazuma_jersey: Whoa! Wait up, Aqua!
+aqua: You stand before a goddess, and you shall repent for your evil ways by rotting in Hell!
+aqua: GOD BLOW!
+kazuma_jersey: Nice! That should do the trick!
+aqua: My God Blow compounds all my rage and sadness into a single, almighty punch! Its victims are sure to perish!
+kazuma_jersey: Hold up. Didn't someone at the guild say that physical damage doesn't do jack against giant toads...?
+ナレーション: Kazuma's timing was brilliantly apt. The giant toad, upon impact from the divine punch, simply yawned in response.
+Giant Toad: *Ribbit* *Riiibbit*
+aqua: You know, I think toads are kinda cute up close. I could never eat something as adorable as— 
+aqua: Bwah?!
+aqua: Kazumaaa! S-save meee!
+kazuma_jersey: You're getting eaten again?!
+questComplete: Today's Results:
+<size=90>Two giant toads
+
+
+
+
+defeated.</size>
+<size=90>Two giant toads
+
+
+
+
+defeated.</size>

@@ -1,0 +1,98 @@
+Selling Vegetables with These Two Beastmen! - P1
+kazuma_jersey: *Sigh* I'm exhausted... I may get paid daily, but how long will I have to work construction?
+aqua: Aw, cheer up. Here, have some of the boss's meat buns. They're super scrumptious!
+kazuma_jersey: A meat bun won't help me forget hundreds of millions in debt. This goddess doesn't have a care in the world.
+kazuma_jersey: I'm even further in debt now that I owe Melissa, too. 
+kazuma_jersey: Maybe it'll all just disappear when I wake up...
+aqua: *Sigh* You're like a broken record... 
+aqua: Huh? There's somebody lying next to the road.
+？？？: Ugh... Can't...go on... So...hungry. So very, very hungry...
+kazuma_jersey: Her stomach's roaring like thunder, and those animal-like ears...
+kazuma_jersey: Who is this girl...
+aqua: She looks like a beastman. There's a lot of them in Axel, but I think this is the first time I've seen one.
+Beastman Child: *Sniff* *Sniff sniff sniff*\n
+Beastman Child: I smell somethin' tasty!
+kazuma_jersey: You seem hungry. Would you like a meat bu—
+Beastman Child: *Nom nom nom*
+aqua: She didn't even let you finish. She must be starving.
+kazuma_jersey: I thought she was gonna bite my hand off!
+Beastman Child: Wow, that was super yummy! I've never eaten anythin' that good in my life!
+Beastman Child: Uhh... It looks like I'm still hungry, though.
+aqua: Here, you can have mine too.
+Beastman Child: *Nom nom nom*
+aqua: Hehe, you're just full of energy, aren't you? 
+aqua: There's no need to pay or thank me. Just tell people you were saved by the goddess Aqua.
+kazuma_jersey: All you did was give her a meat bun.
+Beastman Child: Meat bun? So this is what a meat bun is?!\n
+Beastman Child: These outsider foods sure are tasty!
+kazuma_jersey: Outsiders? Is she from somewhere far away?
+？？？: Mia! Where are you?
+miia: That sounds like Amy!
+miia: Over here, Amy! I got meat buns!
+Amy: My, that was nice of them to give you food. I must apologize on behalf of Mia here.
+miia: Look, Amy, look! This is called a meat bun!
+Amy: Oh Mia, there are crumbs all over your face. I'll wipe them off, so stay still, okay?
+miia: Ungh... Forget that for now! Eat this meat bun, Amy. It's so delicious!
+Amy: Right after I wipe your mouth... There we go. Now you're cute as ever!
+miia: Thanks, Amy!
+aqua: You seem very close. Are you sisters?
+Amy: Something like that. We were raised in the same village, and have been together for over ten years now.
+Amy: Oh, pardon me. My name is Amy, and this cutie is—
+miia: I'm Mia!
+aqua: Hehe, what a lively kid! I'm Aqua, an arch priestess.\n
+aqua: This is Kazuma; he's just a plain old adventurer.
+miia: Kazuma and Aqua! Thanks for the meat bun!
+Amy: I'm really very sorry about all of this.\n
+Amy: Ah, here's a token of our appreciation.
+kazuma_jersey: Are these vegetables? They look so fresh!
+aqua: Radishes, asparagus, potatoes, corn... All of this stuff is hard to find around here.
+Amy: These vegetables are grown in our village far to the north. They're very delicious.
+miia: Me n' Amy got permission t'leave the village for a while. We've been goin' all over t'sell our veggies!
+kazuma_jersey: I see... So that's what she meant by outsiders.
+miia: Outsider food is super tasty. 
+miia: I love it!
+Amy: I'm so sorry, Mia! 
+Amy: If only we could sell more vegetables, I could feed you more delicious food...
+kazuma_jersey: So they're not selling... Could it be the taste?
+Amy: N-No, they're actually very good!\n
+Amy: If people would just try them...
+miia: We keep yellin' at people to buy 'em, but they run away.
+aqua: Well, if you're yelling at them, of course they'll run!
+miia: Just try 'em! I like the corn! I eat it raw when I get real hungry.
+aqua: I'll try some then. Ahh...
+aqua: Huh?! This corn is unlike any I've tasted before!\n
+aqua: It's really sweet like fruit!
+kazuma_jersey: Hey, Aqua. I know they're right in front of you, but stop exaggerating so much.
+miia: Want some too, Kazuma? They're super tasty.
+kazuma_jersey: Sure, I'll give it a... 
+kazuma_jersey: Huh?!
+kazuma_jersey: TH-TH-TH-TH-
+kazuma_jersey: THEY'RE SUPER TASTY!!
+aqua: See? I told you! I wasn't exaggerating; they're really good!!
+kazuma_jersey: Aqua's right, these are tastier than any vegetables I've ever had.\nIf I could sell them...
+Amy: Hehe, I'm glad you like them so much.\n
+Amy: Well, we need to head to the next town.
+kazuma_jersey: Hold on! Amy, I need to speak with you!
+Amy: Umm... It's a little scary when you stand so close...
+miia: Oy, Kazuma! Get away from Amy!
+kazuma_jersey: Mia, I have very important business to discuss with Amy.\n
+kazuma_jersey: Would you like another meat bun?
+miia: Sure! *Nom nom nom*
+kazuma_jersey: Now then, does your village grow a lot of vegetables? And do you peddle them in other towns, too?
+Amy: We grow a wider variety than you see here. 
+Amy: But we sell them by hand, so we don't export—
+kazuma_jersey: Perfect! I think I can actually make it work this time! I'm gonna get Darkness and Megumin!
+aqua: Whoa, Kazuma, what's with the yelling?
+kazuma_jersey: Think about it, Aqua. You've tried these beastmen's veggies. They're incredible! 
+kazuma_jersey: They'll sell for sure!
+kazuma_jersey: Look, if we get exclusive rights to the beastman veggies, we'll be rich in no time!
+kazuma_jersey: Mia, Amy, I'll pay for the travel costs. So please, take us to your village!
+miia: Sure. We ran outta veggies, so I was goin' back anyways. 
+miia: Let's go! To the northern beastman village of Samuidoh!
+kazuma_jersey: An amazing opportunity has fallen right into my lap!\n
+kazuma_jersey: Tasty northern veggies... 
+kazuma_jersey: I'll be a vegetable tycoon!
+ナレーション: And so, Kazuma embarked on yet another journey in the endless quest to repay his debt...
+questStart: Quest:
+Obtain northern veggies.
+Obtain northern veggies.

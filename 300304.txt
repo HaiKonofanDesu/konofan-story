@@ -1,0 +1,75 @@
+Crimson Legend - P4
+ナレーション: Megumin and her former classmates continued to reminisce about their school days...
+arue: Are things going well outside of the village, Yunyun?
+aqua: She's helped us get through many difficult situations. Her sparkling blades of magic have felled many monsters!
+: Emergency Quest
+The Devil King's Army Invades!
+Dodonko: You mean Light of Saber? Isn't that advanced magic?
+Funifura: I thought you could only use intermediate magic, Yunyun.
+ynyn_school: O-oh, just give it a rest, please!
+kazuma: A member of the Crimson Demon Clan using intermediate magic?
+kazuma: Hm... Can we talk about Yunyun for a second?
+megumin: Is this about that conversation from before?
+kazuma: I thought the Crimson Demons only focused on advanced magic, so I was surprised to hear she started at intermediate.
+megumin: When I was a student, I wanted to learn explosion magic, so I was very careful with all of my skill points.
+megumin: But one day, Komekko was attacked by a terrible monster. So Yunyun picked up intermediate magic in an instant to save her.
+megumin: She had been saving up all of those points to learn advanced magic, but she used them for my sister...
+kazuma: So she basically saved her on your behalf, so that you could continue to learn your explosion magic?
+megumin: It's not like I asked her to do it or anything.
+aqua: Well, now she can use higher level magic than even you, Megumin. So everything turned out all right in the end!
+kazuma: Yeah, you're right... 
+kazuma: Hey, what was that?!
+questStartkinkyu: Emergency Quest:
+
+
+<size=100>The Devil King's army\nis invading!</size>
+
+
+<size=100>The Devil King's army\nis invading!</size>
+darkness: I refuse to let the Devil King's Army pass so long as I draw breath!
+silvia: Who is this girl? What does she want?!
+Goblin A: Lady Sylvia, we don't know what she's up to! Please pull back at once!
+Goblin B: This girl's a real pain! She's not trying to call for help, but her attacks are extremely weak, too.
+darkness: *Pant pant* I'll say it again... 
+darkness: You won't get by me with those half-hearted attacks. Will you bring shame upon your general? Come, attack me!
+ナレーション: Seeing the Devil King's army attack the Crimson Demon Village, Darkness stood against them alone...
+kazuma: Good job, Darkness! I called the villagers for help!
+darkness: K-Kazuma?! You're here already?\n
+darkness: I was hoping to hold them off for a while longer...
+kazuma: Let me stop you right there. Just let people think you were doing this out of bravery.
+silvia: Now I get it... You were trying to delay us until your friends arrived. I'm impressed you held out this long.
+silvia: Was missing every single one of your attacks also part of your act?
+darkness: Uh, yeah... That's it. You...discovered my plan...I guess?
+kazuma: Sylvia, was it? That brave crusader in front of you went toe-to-toe with the Devil King's general, Vanir!
+silvia: Did you say Vanir?! I heard that he went to Axel and never returned... 
+silvia: Wait, are you the ones responsible for that?
+kazuma: That's right. And then Megumin here finished him off.
+megumin: ...
+megumin: Hehe!
+Goblin A: You killed Lord Vanir...?
+kazuma: That's not all! Verdia the dullahan too! And also Hans, the Deadly Poison Slime!
+kazuma: Not to mention the Mobile Fortress Destroyer! The four of us took out all of them!
+aqua: *Sigh* There he goes again...
+silvia: Ah, so I take it you're the party's leader? Could I have your name?
+kazuma: My name? She's in the Devil King's army... I must be careful.
+kazuma: I'm Mitsurugi... Kyouya Mitsurugi. You'd best remember it!
+megumin: Just when I thought he couldn't sink any lower...
+silvia: You're the Mitsurugi who wields the legendary magical sword? I wasn't expecting to face such a powerful force.
+kazuma: Heh. If I beat you here, I'd hate for the Crimson Demon Clan to get credit.
+silvia: I'm grateful, Mitsurugi. We'll meet again soon. Then this will be settled. 
+silvia: Fall back!
+kazuma: Hm, maybe giving a fake name was going a bit too far.\n
+kazuma: I'll have to treat Mitsurugi to some bubbly next time.
+ナレーション: The chirping of the crickets was the only sound to be heard as the village slumbered peacefully...
+megumin_pajama: Mmm... 
+megumin_pajama: Huh?
+kazuma_jersey: Good morning. Did you sleep well?
+megumin_pajama: Eeek!
+kazuma_jersey: Morning.
+megumin_pajama: Wh-why are you holding my hand right now?! Did you do something you shouldn't have?!
+kazuma_jersey: You dummy. I accidentally grabbed it because I was cold. Also, this whole situation is your mother's fault, remember?
+kazuma_jersey: She put everyone to sleep and then locked us in here. I'm not here because I want to be.
+megumin_pajama: R-really? I guess I jumped to conclusions. I'm sorry for doubting you.
+kazuma_jersey: O-oh, so you mean this is okay...?
+Kazuma ＆ Megumin: ...
+ナレーション: The apology made Kazuma blush, leaving a strange silence between them as they sat in the cold...

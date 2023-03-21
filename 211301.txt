@@ -1,0 +1,73 @@
+Rin - P1
+dust: Rin, something awful has happened!
+lean: What did you do this time?
+dust: Uh, I...kinda ran someone over with my wagon. If I don't pay up by today, they'll toss me in jail!
+dust: But I'm broke at the moment, so... 
+dust: Hey! You're willing to help a friend, right?
+lean: Forget it.
+dust: Your fellow party member is in dire straits! Don't you have any compassion at all?
+lean: Sounds like you're in trouble.   
+dust: That's all you've got to say? You could, ah, give me whatever's in your wallet!
+lean: C'mon, I know you're lying about the wagon. I can't believe 
+lean: you'd stoop so low just to get money out of me!
+dust: Fine, I'll tell you the truth. You see... Keith got hurt 
+dust: real bad during a quest, and—
+lean: I just bumped into Keith.
+dust: Ungh...
+dust: Actually, I meant to say it was Taylor! He got these bad stomach cramps, and—
+lean: He seemed fine when we ate lunch together today.
+dust: Yeesh!
+lean: Let me take a wild guess... Gambled away all of your money again?
+dust: You know me too well... You're a good friend.
+lean: Don't try to weasel your way out of this! 
+lean: Listen, Dust... When you act like this, I can't trust you.
+dust: Who cares! I don't need your trust! I need money! 
+dust: Please, Rin!
+lean: It's not gonna happen!
+dust: Don't be like that! 
+dust: I'm begging you, Rin! We can cut the next reward any way you want!
+lean: *Sigh* 
+lean: You really are impossible. Just this once, got it?
+dust: Oh, Rin! You're an amazing woman!
+lean: That sure cheered you up.
+lean: I'm holding you to your promise about our next quest. And don't forget about the rest of what you owe me, either.
+dust: Of course not! With a little luck, I'll be paying you back\n
+dust: ten-fold later today! Gwahahahahaha!
+lean: I know he's just going to gamble it all away again.
+？？？: Hehehe...
+lean: Oh, Luna... Did you see all that? How embarrassing...
+luna: Dust never learns, does he? Furthermore... 
+luna: He's always coming after me too.
+lean: I guess I should probably learn my lesson, too. I always end up lending him money.
+lean: I'm spineless. I really should give him a piece of my mind!
+luna: Please forgive me for asking, but why are you in a party with Dust in the first place?
+lean: Hmm... I suppose it's because he can't survive on his own. 
+lean: He's like a little brother to me.
+lean: I guess we're kind of stuck with each other. What's the point in cutting him loose now?
+lean: And besides... I know what he seems like, but he has a good heart. He looks after his friends.
+lean: He acts selfish, but you can always count on him in a fight.
+luna: Such kindness.
+lean: Kindness? 
+lean: I'm not sure I'd go that far, but...
+luna: No, I wasn't talking about Dust just now. I meant you, Rin.
+lean: Huh? M-me? 
+lean: I-I don't know about all that...
+luna: Hehe... I think you're both kind and thoughtful.
+lean: Ahaha... This is embarrassing. I just don't want my little brother to get in trouble...
+dust: Rin! Please listen to me, Rin! I know I can win in the next race!
+dust: Finally, the winds of fate are blowing my way! 
+dust: If you lend me just a bit more, we'll make a fortune!
+lean: Luna, forget everything I just said.
+luna: Hm?
+dust: We're ready to cash in! Just five thousand Eris and I can make every—
+lean: Are you crazy? I just loaned you money!
+dust: C'mon...there's no need to be so stingy! Look, I'm literally 
+dust: begging you here! Please, Rin!
+lean: Absolutely not!
+lean: Say, Luna... What's the most difficult quest you've got? 
+lean: It's high time he learned how to make his own money!
+dust: No... That's not fair... 
+dust: Rinnnnnn!
+lean: I never said it was fair!
+lean: I'm tired of bailing you out all the time.
+luna: Ahaha...

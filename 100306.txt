@@ -1,0 +1,90 @@
+A Break-In at This Impregnable Vault! - P6
+ナレーション: After defeating the monster guarding the vault and securing the gem, Kazuma's group teleported back to Axel...
+melissa: Ah, what a beautiful necklace. A perfect complement for my own beauty.
+kazuma: Phew. That was easier than expected!
+kazuma: We got to punish a corrupt nobleman AND score some treasure to boot. 
+kazuma: Talk about a great job!
+melissa: Now then, time to get this jewel to the client.\n
+melissa: I suppose I'll sell the rest of this treasure to the shop.
+kazuma: How much do you think we'll get?
+melissa: Let's see, rough estimate... 
+melissa: About thirty million Eris?
+Aqua, Megumin ＆ Darkness: Th-thirty million?!
+melissa: But scouting the casino and guard shifts, and obtaining the explosives... That's about ten million in expenses.
+kazuma: Still, that's twenty million. If we split it down the line, that's ten million each!
+melissa: Split it? I'm sure I told you beforehand...\n
+melissa: I decide the shares based on how hard you work.
+kazuma: You did mention that... But we did a lot too!\n
+kazuma: Like using my Lurk skill, and defeating the golem.
+melissa: Negative one million Eris.
+kazuma: What? A million?
+melissa: Didn't you hear me? Minus one million Eris. You need to pay up.
+aqua: Why? We did a ton of work! I'm sore from using Nature's Beauty so much!
+megumin: I didn't use any explosion magic, even though I really wanted to!
+darkness: Y-Y-You even made me do something humiliating!
+melissa: You were the ones who broke your word. I told you from the beginning—don't lie to me.
+melissa: Firstly, my orders are final. Also, absolutely no deception.\n
+melissa: I hate people who defy me.
+kazuma: Lies, what lies did we... 
+kazuma: ...Huh?!
+melissa: We? It was mainly you, Kazuma. Megumin told me everything.
+kazuma: I want to earn money in a respectable way, so I can return Chomusuke to normal. 
+kazuma: Because she's like family!
+megumin: Normal? Chomusuke has always had wings.
+melissa: You were lying about Chommy, weren't you?
+kazuma: No, I wouldn't call it a lie. It's mostly a lie, but not actually a total lie...
+melissa: Didn't I tell you that I hate liars? And that I hate being used?
+melissa: And yet you still lied to me and tried to use me.\n
+melissa: Your reward is negative one million Eris. Think of it as... payment for a lesson learned.
+kazuma: D-Damn you! You played us!
+melissa: You played yourself. If you learned anything 
+melissa: from this, you'll stop lying all the time.
+melissa: If you do, then I'll reconsider the shares.\n
+melissa: Give my regards to Chommy.
+kazuma: Wait, Melissa! How about just a little...
+aqua: Kazuma, what's the meaning of this?
+megumin: We didn't just work for free, we actually owe more now...
+darkness: A-A-And I had to do something so humiliating! Writhing around in front of somebody like that!
+aqua: Kazuma, you have to pay the one million Eris yourself. And you need to pay us our shares, too!
+kazuma: Hey, wait! I just thought I was doing the right thing to help repay our debt!
+megumin: You reap what you sow. Maybe you shouldn't have used Chomusuke like that!
+kazuma: Damn it!
+questFail: Quest:
+Break into the vault
+
+
+
+
+and pilfer the treasure.
+Break into the vault
+
+
+
+
+and pilfer the treasure.
+melissa: So...we meet again, boy.
+Boy: Ah, you're that treasure hunter lady...
+melissa: Did you find your mom's necklace?
+Boy: No, I don't know where it went. So I'm saving up my allowance until I can hire you.
+melissa: Still nothing but a handful of coins, huh? Well, I could use some change. Gimme one, okay?
+Boy: What? N-No! I'm working hard to save up!
+melissa: Just give it to me. 
+melissa: In exchange, you can have this.
+Boy: This...necklace?! Miss...
+melissa: It's a bit too flashy for me. So that'll be one Eris, okay?
+Fan A: Well, if it isn't Daniel. Waiting for the dancers again? That's some serious dedication.
+daniel: Indeed. I must support Lia after all.
+Fan B: Incredible! Your feelings for Lia are like a towering inferno!
+Fan C: I won't be outdone. I need to do more to show my undying love for Erika!
+daniel: There are no winners or losers when it comes to love.\n
+daniel: There are many ways to support someone. Isn't that grand?
+Fan A: Daniel, you're an inspiration to all of us fans!
+daniel: Our looks and lives may differ, but our feelings are one!\n
+daniel: Axel Hearts are the best!
+Fans: Axel Hearts are the best!
+wiz: So it was the dancer fans... I was wondering what the commotion was about.
+wiz: Huh? Could that person over there be... Daniel?
+daniel: Lia's the best! Axel Hearts are the best!
+wiz: No, there's no way Daniel would be in a place like this.\n
+wiz: But it does look just like him...
+ナレーション: With doubt lingering in Wiz's heart, the night grew late in Axel...

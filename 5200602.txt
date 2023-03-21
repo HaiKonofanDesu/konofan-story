@@ -1,0 +1,38 @@
+Shining Future! Axel Hearts
+ナレーション: Dressed in their dancer outfits, Cielo and Erika were hard at work rehearsing...
+cielo_stage: We're almost done, Erika! Keep it up!
+erica_stage: Woah! I'm literally tripping over my own feet up here.\n
+erica_stage: Don't you think these dance moves are a bit, I dunno, SUPER hard?
+cielo_stage: You're already starting to get better. With a little more practice, you'll have this dance down in no time!
+erica_stage: I wish I was as good as you, Cielo. You're always the first one to master our new dance steps.
+cielo_stage: It's not like I'm perfect on my first try either, you know.\n
+cielo_stage: That's why I practice so hard.
+erica_stage: You think so? It's hard to put into words, but I feel like you and Lia have something I don't.
+erica_stage: Maybe I should set aside time for some special training and start over with the basics...
+cielo_stage: What? The basics? Special training?!
+erica_stage: ...What's with that look in your eyes?
+cielo_stage: The basics are the foundation of dance itself... 
+cielo_stage: And special training is the pinnacle of one's youth!
+cielo_stage: If you're willing to go that far, I'll join you!
+Your enthusiasm is admirable!
+erica_stage: Wh-What?!
+cielo_stage: But why wait? After all, there's no time like the present! Let's do it right now! This will be wonderful!
+erica_stage: What do I do? It's too late to back out now...!
+erica_stage: *Pant pant* That's enough!\n
+erica_stage: I can't take another step!
+cielo_stage: Erika, the foundation of dance is building up your body! Now give me 100 more sit-ups and 100 more push-ups!
+erica_stage: But if my arms get too big, my clothes won't fit properly.
+cielo_stage: That's just an excuse! Besides, nobody bulks up that fast.\n
+cielo_stage: So set your worries aside and let's get right back into it!
+erica_stage: What? C'mon, give me a break already!\n
+erica_stage: I'm gonna drop dead of exhaustion at this rate...
+cielo_stage: You're fine! If you can speak, you're nowhere near death!\n
+cielo_stage: I should know! I nearly died during martial arts training!
+erica_stage: Well I don't want to even come close to dying!
+erica_stage: Waaaaaa! Liiiaaaaaa! Help meeeeee!!!
+cielo_stage: Hey! Get back here, Erika!\n
+cielo_stage: See, I knew you still had some life left in you!
+cielo_stage: Our special training isn't over yet!\n
+cielo_stage: Heck, we're not even done with the basics! Get ready to train all night long!
+erica_stage: No way I'm going all night! If I don't get my beauty sleep, my lovable cuteness will all dry up!
+ナレーション: As Erika ran for her life from her demon-like coach, she vowed never to mention the word training again...

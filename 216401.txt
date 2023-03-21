@@ -1,0 +1,101 @@
+Albedo P1
+ナレーション: Hamsuke joins Kazuma and company as they escort a carriage along a cold, harsh, snow-covered road...
+kazuma_winter: It's f-f-freezing out here... 
+kazuma_winter: Are you all holding up? 
+ainz: It's of no issue to you. Albedo, are you faring well? 
+albedo: Your concern fills me with joy, but this amount of cold 
+albedo: is negligible. 
+darkness_winter: Me too! 
+darkness_winter: In fact, if it was just a little colder I could really feel the bite of the frost. 
+hamusuke: This white stuff is snow, they say? My behind feels icy, 
+hamusuke: but I enjoy the crunch crunch when I walk, that I do! 
+kazuma_winter: That's a relief. Our quest is just protecting the carriage, 
+kazuma_winter: so this should be a breeze. 
+ainz: Regardless, we should remain vigilant. There are reports of powerful enemies in the area, and a snowstorm increases the chances of an ambush. 
+darkness_winter: Don't worry! Whatever attacks or ambushes may happen, this human shield is at your service! 
+albedo: You desire to be Lord Ainz's shield...? 
+ainz: Thank you. If the situation takes a turn for the worse—
+albedo: That is entirely unnecessary! I have dedicated my very life and soul to protecting Lord Ainz! 
+albedo: The only one qualified to serve as Lord Ainz's shield is myself! 
+albedo: I will not yield my sacred duty to anyone! 
+darkness_winter: Your Guardian's loyalty is admirable, Ainz. But my duty as a knight also binds me to protecting those around me. 
+kazuma_winter: Our quest is protecting the carriage, you pain freak. 
+kazuma_winter: You're just trying to put yourself in a position to get hit! 
+darkness_winter: I-I would never! 
+hamusuke: Something's coming, that it is! 
+kazuma_winter: Oh?
+Blizzard: Grrraaaaaar!
+darkness_winter: That's a blizzard! It'll freeze you solid if you get too close! 
+albedo: A monster of this caliber is certainly not worth Lord Ainz's effort. I shall handle it. 
+albedo: Haaah!
+Blizzard: Graaa...
+kazuma_winter: Y-You defeated it with a single attack?!
+albedo: It's as simple as being faster and stronger than the enemy. 
+albedo: Lord Ainz, did that vile creature harm you? 
+ainz: I'm fine. 
+ainz: That was a swiftly executed response, Albedo.
+albedo: Thank you, my lord. I am most honored by your kind words. I hope this demonstrates I am the only shield you require. 
+hamusuke: Wooow! Now the white stuff is falling from the sky! Fascinating, that it is! 
+ainz: The weather is much worse higher on the mountain. 
+ainz: I would estimate we're about half way there? 
+darkness_winter: Yeah. Thanks to Albedo dealing with all the monsters so quickly, we're making great time.
+kazuma_winter: We should be close, but I'd prefer to avoid a full-on snowstorm. 
+kazuma_winter: I'll ask the driver to pick up the pace.
+albedo: Hamsuke, stop running about as you please. 
+hamusuke: But look at the dancing snow! If only I could just... 
+hamusuke: Hah! I caught one, that I did! 
+hamusuke: This looks different from the falling stuff. 
+darkness_winter: Please allow me, Hamsuke. A snow sprite?! 
+darkness_winter: Quick, 
+darkness_winter: release it immediately!
+hamusuke: B-But it took me so long to—
+Winter Shogun: Rrraaaaaarrr!
+ainz: What in this world is that?! 
+darkness_winter: The Winter Shogun! It protects snow sprites from any perceived danger. 
+darkness_winter: Its attacks are too much even for me to take...  Unfortunately. 
+Winter Shogun: Rrraaa!!
+albedo: Hi-yaaagh! This monster is certainly stronger than the ones 
+albedo: I've dealt with up to now.
+kazuma_winter: You've got to be kidding me! 
+kazuma_winter: I'm still not over DYING the last time we fought this thing, in case you've forgotten!  
+ainz: Apologies, Kazuma. It appears my party has caused trouble again. 
+ainz: Albedo is holding it off, but do we have any options? 
+kazuma_winter: Yes! I have a great option! Run! 
+Winter Shogun: Grrraaaaaarrr!
+albedo: Haha! Ahahaha! What stupendous power! 
+albedo: Unfortunately, you're still too weak to penetrate my defenses. 
+Winter Shogun: Rrraaaaaarrr!
+albedo: It disappeared? What a tricky little—
+darkness_winter: Watch out, 
+darkness_winter: Albedo! 
+darkness_winter: Aauu
+darkness_winter: ugh!
+kazuma_winter: Darkness! She took that attack head on! 
+albedo: How dare you! What do you take me for?! 
+albedo: Hyaaah!
+Winter Shogun: Grrraaaaaarrr!
+albedo: *Pant pant* That...will show you.
+kazuma_winter: Wow, you actually fought off the Winter Shogun.
+albedo: Oh! Lord Ainz! Did you come to any harm? 
+ainz: No. Thanks to your decisive action, 
+ainz: my intervention was unnecessary. Well done. 
+albedo: I only sought to fulfill my duty to you. 
+albedo: And I failed at that, forcing Darkness to come to my aid. 
+kazuma_winter: Darkness! Are you alive? Where are you? 
+darkness_winter: I-I'm 
+darkness_winter: here! 
+albedo: Darkness, you have my gratitude for protecting me. 
+albedo: I believe I have misjudged you. 
+darkness_winter: Not at all! I'm grateful for the chance to fulfill my duty 
+darkness_winter: as a crusader and protecting you from the Winter Shogun's attack. 
+albedo: Hehe, your spirit is as tough as your body. You have much 
+albedo: promise. Would you like to vow loyalty to our absolute leader? 
+ainz: Albedo, what are you saying? 
+albedo: The more shields we have to protect Lord Ainz, the better, and your actions demonstrate your willingness to serve our lord. 
+darkness_winter: Y-Y-You want me to be a meat shield used relentlessly for the sole purpose of protecting Lord Ainz? 
+darkness_winter: It'd be my pleasure!
+ainz: Y-You would be okay with that? 
+kazuma_winter: You don't understand. She's much, much more than okay with that. 
+kazuma_winter: She'll beg you on both knees to be your shield and whatever else you want. 
+albedo: How admirable. I took you for no more than a mere human, but I can learn much from you. 
+ナレーション: Neither Ainz nor Kazuma could find the words to respond to Albedo's uncharacteristic acceptance of Darkness...

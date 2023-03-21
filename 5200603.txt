@@ -1,0 +1,35 @@
+Shining Future! Axel Hearts
+ナレーション: Lia was practicing for the show coming up next month.
+lia_stage: Hmm... That may have been a little too enthusiastic. 
+lia_stage: Once more from the top... 
+kazuma: Hey, Lia! You home?
+lia_stage: Oh, hey Kazuma.
+kazuma: Don't "Hey Kazuma" me! 
+kazuma: Do you have any idea what time it is! 
+kazuma: Everyone's waiting for you.
+lia_stage: Oh, that's right! I completely forgot we were supposed to go out on a quest today! 
+lia_stage: Sorry about that!
+kazuma: I take it that means you're not ready. I mean, that outfit...
+lia_stage: Wearing this costume helps get me fired up to practice.
+kazuma: Seeing your dedication makes me think you truly were meant to be a dancer.
+lia_stage: You really think so?
+kazuma: Yeah, and that costume looks great on you. 
+kazuma: But still, I'd appreciate it if you'd get ready for the quest.
+lia_stage: Oh, right. Sorry. 
+lia_stage: I'll get changed and be right back.
+lia_stage: Huh? Now where did I put...
+kazuma: You ready yet?
+lia_stage: I could have sworn I put it right here... Hey, Kazuma?\n
+lia_stage: Can you help me find my quest gear?
+kazuma: You don't even know where you put your gear?\n
+kazuma: Hmm... Have you checked in here yet?
+lia_stage: Wait! I left some of my underwear over there!
+kazuma: What?! You're embarrassed about underwear...
+kazuma: What?! You're embarrassed about underwear but not this mess? How's it this bad after I just helped you clean it?!
+lia_stage: I didn't do it on purpose! I've just been practicing so much lately that I haven't had time to tidy up!
+lia_stage: I'm sure it's here somewhere! Just give me an hour or so!
+kazuma: An hour?!
+kazuma: *Sigh* How is her room this bad when her dance outfit is so perfect? It's kind of a shame...
+lia_stage: Maybe over here? Nope. Wait, is that it? 
+lia_stage: Oh great, that's not it either! I can't find my lancer gear anywhere!
+ナレーション: Even with Kazuma's help, it took nearly two hours before Lia was finally ready...

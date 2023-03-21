@@ -1,0 +1,78 @@
+Melissa - P4
+melissa: Hey Kazuma, I've got something to ask you...
+kazuma: Pass! 
+kazuma: Knowing you, it's definitely something shady... I'm not interested in what you have to say.
+melissa: Just hear me out, please? I'm serious this time. 
+melissa: This is life or death for me. I'll even beg if I have to. Please... 
+melissa: I need your help.
+kazuma: What? Melissa's bowing her head to me? I must be dreaming. 
+kazuma: Well, if you insist...
+melissa: Thank you! Then I'll see you at the main gate tomorrow morning. 
+melissa: I'll tell you more then.
+melissa: I'm glad you made it, Kazuma.
+kazuma: Oh, Chris is here too?
+chris: I never thought I'd see Melissa with her hat in her hand. 
+chris: So, what do you need us to do?
+melissa: It's quite simple, really. All we need to do is sneak into 
+melissa: a dungeon and steal some monsters' treasure.
+kazuma: Let me guess, the monsters are super strong, right? I'm not falling for that.
+melissa: Ah, what are you so afraid of? Don't worry, the monsters shouldn't be very high level.
+kazuma: Oh yeah? Then why did you literally beg us to help you out?  
+kazuma: That makes it even more suspicious.
+melissa: I just want this job to succeed, no matter what. 
+melissa: Also... 
+melissa: There will probably be a lot of monsters there, so it's not an easy job to take on by myself, that's all.
+kazuma: Still smells fishy, if you ask me...
+kazuma: Well, whatever. If the monsters aren't too tough, just give us a share of the treasure and we're good.
+melissa: Actually, I'm only after a single treasure this time around. 
+melissa: You two are free to split everything else.
+chris: Wow, that's pretty generous of you. I guess we have no reason to refuse this quest.
+melissa: Then let's go!
+chris: I'm detecting some treasure nearby! There's a room to the right of this corridor!
+kazuma: Looks like there are monsters there too!
+chris: They must be guarding the treasure. 
+chris: That must be what Melissa is looking for!
+melissa: We need to make this quick. I'll throw down a flash potion 
+melissa: as soon as we see them! Close your eyes, you two!
+Monsters: Rwaaargh!
+kazuma: All right, they're blinded! Chris, are you ready?
+chris: Sure thing, Kazuma! Ready, and...
+Kazuma, Chris: Bind!
+Monsters: Rwaaargh!
+melissa: Okay, let's finish them off!
+chris: Phew... That worked out well. 
+chris: I'd say we make for a pretty good team.
+kazuma: Now what kind of treasure is waiting for us here...? 
+kazuma: Whoa, look over here! There are piles of coins and jewels!
+chris: Wow! This is way more than I ever imagined we'd find! 
+chris: What a fortune!
+kazuma: Melissa, are you sure you're okay with us taking all of this treasure?
+melissa: You two can do whatever you like with it. I have no need for baubles.
+chris: But you were searching for something too, right? 
+chris: You said there was only one treasure you wanted...
+melissa: I've already got my hands on it. 
+melissa: Look over there.
+kazuma: Where...?
+kazuma: Huh? There's something in the forest?
+Dog: *Whine*
+chris: ...Is that a stray dog?
+Cat: Meow!
+kazuma: And a cat, too! 
+kazuma: Whoa, and they just keep coming...
+melissa: Do you see now? 
+melissa: Those horrible monsters were preying on the 
+melissa: poor puppies and kitties who live in this forest!
+chris: You asked us to come with you just to save these animals?
+melissa: That's right. 
+kazuma: So...the treasure you were after...
+melissa: These little ones ARE the treasure, obviously! 
+melissa: Oh you poor, poor floofs! Those mean monsters are all gone now, okay?
+Dog: Woof! Woof woof woof!
+Cat: *Hiss*
+chris: They suddenly aren't so cute anymore...
+kazuma: Melissa likes our furry friends, but I don't know if they 
+kazuma: like her back. I think they find her a bit smothering...
+melissa: Oooh! You're all so cute when you're angry! 
+melissa: Yes, you are! I'm in heaven right now!
+chris: Well, at least she looks happy, right?
+ナレーション: Melissa basked in the sheer happiness of her new treasure, which she valued more than any other...

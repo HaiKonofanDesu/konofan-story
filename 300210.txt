@@ -1,0 +1,142 @@
+Servitude for This Masked Knight! - P2
+ナレーション: After secretly erasing the magic sigil, Kazuma led Darkness, wearing Vanir's mask, toward the surface...
+kazuma: Once we're out of here, Aqua's going to banish you!
+Vanir's Spirit: This girl is quite the crusader. Every time she resists my control, pain courses through her body. And yet...
+Darkness: Yes... Such unbearable pain... I've never felt anything like it... 
+Darkness: I'm clearly no match for one of the Devil King generals!
+kazuma: Keep fighting! It'll stop hurting once we get outside!
+Darkness: No need to rush.
+kazuma: What was that?
+kazuma: Darkness, we made it! I can see light coming from outside! We're almost there!
+Darkness: ...
+kazuma: Darkness? C'mon, talk to me. Darkness!
+Vanir's Spirit: Hahahaha! I have complete control! 
+Vanir's Spirit: Your priest will be utterly unprepared for what I have in store for her!
+Vanir's Spirit: As for you, my annoying mortal foe... What will you do now that I've possessed your friend?!
+aqua: Sacred Exorcism!
+Vanir ＆ Darkness: Aaaaaaugh!
+kazuma: Cut it out, Aqua! You can't just blast everyone with magic!
+aqua: It was a reflex. I felt an evil presence approaching, so...
+kazuma: The Devil King's general has possessed Darkness! You've gotta find a way to destroy that mask!
+Vanir's Spirit: Mwahahahaha... You're that priestess named after the water goddess. Allow me to introduce myself... I am Vanir!
+aqua: Sacred Highness Exorcism!
+Vanir's Spirit: Gyaaagh!
+aqua: Darkness! What're you doing?! Your magic resistance\n
+aqua: makes my spells less effective!
+Darkness: I-It's not like I can help it!
+megumin: It's not fair! I want a mask, too! It calls to my Crimson Demon Clan blood!
+kazuma: Seriously?! That mask is the demon!
+Vanir's Spirit: Ah, what a delicious body! Strong, durable... It's even somewhat resistant to that annoying divine energy.
+kazuma: Darkness!! You can do it! We're here with you, so rip off that mask!
+Vanir's Spirit: It's hopeless. No human can remove this demonic mask!
+aqua: Demons are nothing but parasites that can't survive without feeding on negative emotions!
+kazuma: If Aqua uses her magic, Darkness's resistance just negates it... Crap! How do we stop this thing?!
+Darkness: There is but one choice... Since Aqua's spells have no effect, you must strike me and the mask with explosion magic!
+megumin: No way! With all the experience I've gained, my explosion magic is stronger than ever! Darkness, not even you could...
+Darkness: Vanir, our time together was brief...but not all unpleasant.
+Darkness: So I will allow you to choose. Either remove yourself and be purified, or face explosion magic with me.
+Vanir's Spirit: Mwahaha! What a perverse dilemma for one who yearns for agony. I never would've imagined such a fate.
+Vanir's Spirit: I must admit, possessing you was most enjoyable.
+ナレーション: Darkness separated herself from the others to minimize the damage, and raised her hand high in the air...
+Vanir's Spirit: I am a demon! I would never allow myself to be cleansed by a sworn enemy!
+Darkness: Now, Megumin!
+megumin: B-But...
+kazuma: Do it, Megumin. 
+kazuma: I'll take the blame for whatever happens!
+megumin: ...
+megumin: The pillar of rebellion creeps over this world, as unspoken faith reveals itself to me... 
+megumin: The time has come!
+megumin: The time has come. Awaken from thine slumber...\n
+megumin: ...and by my madness be unleashed! Burst forth, Explosion!
+sena: Adventurer Kazuma Satou, the town commends you and offers its thanks. We also apologize for suspecting you of misdeeds.
+ナレーション: Defeating Vanir cleared my name. It's nice not living on death row.
+sena: Next, Lady Lalatina Ford Dustiness...
+darkness: O-Okay...
+sena: In recognition of your dedication to justice and living up to the Dustiness name, the royal court offers its thanks.
+ナレーション: The explosion magic Megumin unleashed against Vanir left Darkness on the verge of death...
+ナレーション: Aqua was able to help her recover a bit, but...
+Adventurer A: Congratulations, Lalatina! You're awesome!
+Adventurer B: That's Lalatina for ya—cute AND badass!
+megumin: Lala... Lalatina... 
+megumin: Bwahahaha!
+darkness: Ngh... This isn't the humiliation I was hoping for!
+aqua: Aw, c'mon, Darkness. I think Lalatina's a super cute name!
+aqua: I'll chew Kazuma out for trying to turn your name into a joke. You should be proud of your name, Lalatina!
+darkness: Waaah...
+sena: Next, to Kazuma Satou's party: You have vanquished the Mobile Fortress Destroyer as well as General Vanir.
+sena: These deeds could not have happened without your efforts. Thus, we will subtract the reward we owe you from your outstanding debt.
+sena: Consider your debt repaid. Your remaining reward...is 40 million Eris. 
+sena: We commend your great success!
+Adventurers: Hooray!
+tough_guy: Heh... Look at them, all proud of themselves... I guess they've earned it though.
+kazuma: Finally, the chains of oppression no longer weigh me down...
+kazuma: ...and the wings of freedom lift my spirits high! Waaaaaah! *Sob*
+questComplete: Quests Complete:
+
+
+<size=45>Uncover the truth behind
+
+
+the strange happenings
+
+
+in Keele's Dungeon.
+
+
+
+
+The Devil King general
+
+
+Vanir is on the loose.
+
+
+Defeat him!</size>
+
+
+
+
+
+
+
+<size=65>Forty million Eris
+
+
+received toward
+
+
+debt repayment.</size>
+
+
+<size=45>Uncover the truth behind
+
+
+the strange happenings
+
+
+in Keele's Dungeon.
+
+
+
+
+The Devil King general
+
+
+Vanir is on the loose.
+
+
+Defeat him!</size>
+
+
+
+
+
+
+
+<size=65>Forty million Eris
+
+
+received toward
+
+
+debt repayment.</size>

@@ -1,0 +1,61 @@
+A Ball at This Kingdom's Castle! - P6
+Magic Iron Golem: Grrraaaaaahhh... 
+kazuma: They were pretty tough, but unfortunately for them, they had to face me!
+erica: What are you talking about? Mitsurugi took out most of them.
+Troll: Ugh...
+cielo: Be careful, it's still breathing!
+Troll: F-forgive me, Lord Daniel...
+kazuma: Daniel? This was one of Daniel's underlings?!
+kazuma: Wait, the magic golems are being controlled too?!
+lia: What do we do, Kazuma? If these trolls are Daniel's minions, then it must involve us somehow... 
+lia: Is this our fault?
+kazuma: Calm down, Lia!
+clair: Are you saying they're after Axel Hearts?
+kazuma: We can't say that for certain! Daniel and his henchman are wreaking havoc all over the place!
+clair: Either way, you still brought trouble to the royal family.\n
+clair: Do you understand what I am saying, Kazuma Satou?
+ナレーション: Although the ball resumed after the capital's safety was assured, Kazuma remained in an empty corridor...
+kazuma_dance: *Sigh* I haven't been interrogated like that in a while. Sena was tough, but Claire is even scarier.
+kazuma_dance: I'm lucky the knights testified that the trolls weren't after Axel Hearts...
+kazuma_dance: I'm not entirely sure what's going on, but I should tell the girls everything is all right. They're probably worried.
+iris: Kazuma! Are you okay? I heard that Claire had taken you in for questioning...
+kazuma_dance: Hey, Iris. Yeah, I'm fine.
+iris: That's good. I told Claire this was simply a big misunderstanding.\n
+iris: But she said that she had to do so to keep up appearances.
+kazuma_dance: It's fine, okay? I know she's just doing her duty to defend the capital.
+kazuma_dance: If people are concerned over the matter, then you need to confront the issue or else there'll be lingering doubts.
+iris: Brother...
+kazuma_dance: Well, to be honest, the second half of the interrogation was mainly about me not getting you into trouble.
+iris: Really? At any rate... 
+iris: Thank you, Brother.
+kazuma_dance: Don't worry about it. Anyway, the ball's back on, right? You should probably get back to it.
+iris: No, I can't go back yet. The main purpose of the ball hasn't been fulfilled yet.
+kazuma_dance: The "main purpose"?
+iris: Brother...will you dance with me?
+ナレーション: Kazuma was nervous after being suddenly summoned by Iris...
+kazuma_dance: So I guess I just do what Mitsurugi did?
+iris: Yes, take my hand. I'll lead.
+kazuma: I-is this okay?
+iris: Yes. You're quite good at this, Brother.
+kazuma: Well, I can't say I know the difference. Do I look funny?
+iris: Hehe... No, not at all, Brother. Thank you for coming to the ball.
+erica_stage: Aha! I was wondering where you were, and I see you left to sneak off with the princess!
+kazuma_dance: I'm not sneaking anywhere! You got this all wrong!
+lia_stage: Kazuma, is everything okay?
+kazuma_dance: Yeah, it's fine. As your producer, you can count on me to take 
+kazuma_dance: care of this situation for you.
+iris: There is no need for concern. Nobody knows for certain if Axel Hearts were the cause of this or not.
+lia_stage: Seriously, I must thank you for everything. If there is anything we can do, just ask.
+iris: Really? Anything?!\n
+iris: There is one thing...
+erica_stage: Really? You want my autograph?
+iris: Hehe... Well, yes, that would be very nice. But I've actually become very interested in dancing.
+cielo_stage: You want to learn how to dance?
+iris: Yes, could you teach me the Axel Hearts dances? 
+iris: I'm asking not as a princess, but as a friend.
+erica_stage: As a friend? 
+erica_stage: Did you hear that?! The princess is our friend!
+iris: I'd like to get along with you as well as I do with Kazuma.
+lia_stage: Of course! That'd be great!
+kazuma_dance: Iris is having fun and all the girls are really happy. We had some rough spots, but I'm glad we came to the ball.
+ナレーション: The music from the hall quietly echoed into the corridor as the friendship between Iris and Axel Hearts began to blossom...

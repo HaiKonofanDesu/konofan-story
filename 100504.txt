@@ -1,0 +1,87 @@
+Join This Prestigious Dance Contest! - P4
+aqua: Round 2 is physical, Round 3 is a quiz, and then come the finals.\n
+aqua: Victory shall belong to Explosion Goddess Lalatina!
+lia_stage: To bring our songs and dance to as many people as possible, 
+lia_stage: Axel Hearts shall put on a concert in the capital!
+kazuma: I really couldn't care less which team wins the competition. 
+kazuma: Just as long as I get that billion Eris and pay off my debts!
+questStart: Special Quest:
+<size=79>Make it into the\nfinalists' bracket!</size>
+<size=79>Make it into the\nfinalists' bracket!</size>
+darkness: Hup, hup, hup... 
+darkness: I can do sit-ups all day!
+cielo_stage: Crusaders are as tough as they say... But I won't let her beat me!
+megumin: They've both easily surpassed 1,000 reps, with no sign of slowing down...
+erica_stage: You can't tell through their clothes, but do you think they're packing six-packs? I bet they're both as hard as a rock.
+darkness: I-I don't have a six-pack!
+cielo_stage: That's right! I'm a girl too, you know. You'll hurt my feelings, saying stuff like that.
+Announcer: We're nearing the round's end. Cielo of Axel Hearts and Explosion Goddess Lalatina's Darkness... Which macho girl will win?
+Darkness ＆ Cielo: Don't call me macho!
+ナレーション: Surprisingly, Aqua's group did well in Round 2 and advanced. Next up was Round 3's test of knowledge...
+Announcer: Contestants must answer within five seconds. For the first question, what is the strongest attack magic—
+megumin: Yes!
+Announcer: That was fast. Explosion Goddess Lalatina, your answer?
+megumin: This question is too easy! A darkness, blacker than black and 
+megumin: darker than dark, I beseech thee! Combine with my deep—
+Announcer: Sorry, time's up! Once more, what is the strongest attack magic, also known as joke magic?
+erica_stage: Um... Explosion magic!
+Announcer: Correct! Ten points for Axel Hearts!
+megumin: That's totally wrong! Explosion magic is not joke magic! 
+megumin: I'll prove it to you right here and now!
+Axel Resident: It's her! The crazy explosion girl!
+megumin: Whaaat?! Who are you calling "crazy explosion girl"?!
+erica_stage: She's surprisingly popular. 
+erica_stage: But I'm definitely cuter! 
+ナレーション: Seeing all the attention Aqua's team was getting in spite of the trouble they caused gave me a faint hope that they might win. But then...
+Announcer: The group that shall advance to the final round possesses the purity of a goddess... Axel Hearts!
+lia_stage: We're going to the final round!
+erica_stage: Of course we are. I'm too cute not to!\n
+erica_stage: Ah, I'm so sinfully cute!
+cielo_stage: Since Aqua's team failed, let's give it our best for them.
+ナレーション: And obviously, they failed.
+aqua: Why?! Why did this happen?!
+darkness: Calm down, Aqua. It's amazing we did as well as we did, considering none of us are experienced dancers.
+megumin: She's right. I can't accept that we failed, but...
+aqua: You don't get it! I'm mad about HOW Lia's group won!
+lia_stage: How...we won?
+aqua: What the announcer said! He said they have the "purity of a goddess"!
+aqua: So then how did I, an actual goddess, fail?! Why did THEY win?! I can't accept this! I won't!
+erica_stage: There you go with the goddess stuff again.
+cielo_stage: Um, didn't I tell you that the Order of Axis will get mad at you for lying?
+aqua: But it's TRUE! I'm the goddess the Order of Axis worships!
+darkness: We get it, we get it. Let's get some bubbly and—
+aqua: You don't get it at all! I really AM a goddess!
+lia_stage: Aqua... Was losing that big of a shock to you?
+kazuma: Well, let's just forget about Aqua. It's all up to you girls now.
+kazuma: Be proud. You're the best dancers I know! Now go and make 
+kazuma: your dreams come true, by earning a spot in the finals!
+cielo_stage: Th-Thank you. I'll do my best! We'll go on, and one day I'll cure my fear of men!
+erica_stage: I'll perform on the capital's grandest stage... Then Mom and Dad can see how cute I've become!
+lia_stage: I...
+kazuma: That reminds me, I never heard why you're a dancer, Lia. Do you two know why?
+cielo_stage: Why Lia's a dancer?
+erica_stage: I never thought about it before.
+lia_stage: Well, I suppose it's okay to tell you all now.\n
+lia_stage: The reason I'm a dancer is—
+Announcer: The final round will begin shortly. All finalists, please head to the waiting room backstage.
+kazuma: It's time. Go on then, I'll listen to your story 
+kazuma: later, Lia. Good luck, girls.
+lia_stage: Yeah, I can tell you after the final round.\n
+lia_stage: We'll definitely earn a spot in the finals.
+kazuma: I believe it. Your competition is pretty cute, but I know you'll beat them!
+erica_stage: Our competition is cute? No way! I'm the cutest!\n
+erica_stage: Then again... If there was...someone cuter than me...
+questComplete_2: Special Quest:
+<size=79>Make it into the\nfinalists' bracket!</size>
+<size=79>Make it into the\nfinalists' bracket!</size>
+daniel: Oh Lia, how cute you are! Your shimmering hair, your sparkling eyes!
+daniel: I can't be satisfied with just photos anymore! Charlie, I want Lia!
+charlie: Um... Is this for restoring the ancient weapon? Or is it just out of personal interest?
+daniel: ...
+daniel: I-it's for the ancient weapon, of course.
+charlie: That was a long pause.
+daniel: In any case! It's about time we make our move. Aren't they holding the preliminaries in Axel?
+charlie: Th-there's no need for you to trouble yourself, Lord Daniel! I'll go and take care of—
+daniel: No, Charlie. I will deal with this matter personally. I want to see the dancers in the flesh.
+daniel: Wait for me, Lia! I'm coming to lay my face on your glorious lap!
+charlie: I'm starting to wonder if this is really about the weapon... Still, I have faith in you, Lord Daniel.

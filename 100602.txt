@@ -1,0 +1,84 @@
+Attack the Troll Lord's Castle! - P2
+ナレーション: Lia continued pounding on the heavy locked door...
+lia_stage: Tch, it won't budge.
+aqua: You're just going to tire yourself out. Let's wait 
+aqua: until there's an opportunity to escape.
+lia_stage: B-but what if the dance contest ends while we're trapped here? We even made it to the finals...
+lia_stage: If Axel Hearts loses because of me, I'll never be able to face Erika and Cielo again...
+aqua: You always seem so cool and clinical, but you're surprisingly passionate at times, too.
+aqua: Say Lia, why did you become a dancer?
+aqua: I know Cielo wants to cure her fear of men, and Erika wants to find her parents. I haven't heard your story yet.
+lia_stage: It's...nothing special.
+aqua: Really? But there must be a reason for all your hard work.
+lia_stage: Truth is, I don't remember anything before two years ago.
+aqua: Wait, what? You mean you've lost your memories?
+lia_stage: Yes... My earliest memory is waking up in the plains outside of Axel. I didn't know where I was or why I was there.
+lia_stage: I had a stuffed animal and some kind of magical keyboard...thing. I only knew that I loved singing and dancing.
+lia_stage: Whenever I hear a song, my body starts moving on its own. It's like I can hear it in my soul.
+aqua: Wait, then the name Lia...
+lia_stage: It's a stage name I picked for myself when Erika and Cielo asked me to join the group.
+lia_stage: I became a dancer because I thought singing and dancing might be the key to recovering my lost memories.
+lia_stage: But it's been a couple years now, and I still don't remember anything. Plus, I'm not as talented as Erika and Cielo.
+aqua: What do you mean? Sure you are!
+lia_stage: They both have clear goals they're working towards. I just have some vague idea...
+lia_stage: It feels like I'm not as serious as they are.
+aqua: That's not true. You refused to bend to that punk Kazuma's tyranny. We have a saying in the Order of Axis...
+aqua: "If you are troubled, take time to enjoy life and choose the easier path. Don't hold back, just follow your instincts."
+aqua: So! I think you should relax, Lia!
+lia_stage: Hehe.
+aqua: What is it? Why are you laughing?
+lia_stage: I was a bit depressed, but I'm starting to feel better. Thank you, Aqua.
+aqua: Oh? 
+aqua: Well, I'm glad to hear it! Since you're feeling 
+aqua: better, I have a favor to ask of you.
+lia_stage: Yeah, what is it? Ask me anything.
+aqua: This is kinda serious, but since we're living together now... Can you be a bit more tidy?
+lia_stage: Oh, is that all? Okay, I'll do my best.
+aqua: Huh? Up close, Lia looks sort of familiar...
+ナレーション: Elsewhere in Daniel's castle...
+daniel: This has been a long time coming. Soon, we will complete the ritual...and the ancient weapon will be mine.
+daniel: Once I have such power, the Devil King will be forced to recognize me. 
+daniel: Then...I can claim my unpaid wages! 
+daniel: The time is nigh!
+charlie: All we need to complete the ritual is to kidnap Erika and Cielo, right?
+charlie: Please, give me the order! I'll head out right away and bring them before you, Lord Daniel.
+daniel: Hold on, Charlie. There's no need for that.
+charlie: But...don't you need the other two for the ritual?
+daniel: No, Lia alone will suffice. 
+daniel: Now, let's go to the altar. I'll explain more there. Hehehe...
+kazuma: Hey, Melissa. Are we there yet?
+melissa: Based on my recon, we ought to be getting close. The castle should be just up ahead.
+megumin: It was a mistake to abduct my comrades! The second we see 
+megumin: their castle, I'll end it with my explosion magic and—
+kazuma: Forget it! What if Aqua and Lia get caught in the blast?
+darkness: We must rescue Aqua and Lia before they're humiliated...
+erica: I'll make those trolls regret not kidnapping me, the cutest member of the group!
+cielo: Oh, what should I do if the castle is full of men...
+kazuma: Can this party really pull it off? I'm not so sure...
+megumin: Look, over there! I can see Daniel's castle!
+kazuma: There's a lot to be worried about, but we've come too far to give up! Everyone, brace yourselves for the road ahead!
+questStartkinkyu: Emergency Quest:
+<size=80>Rescue Aqua and Lia
+
+
+from the clutches of</size>
+
+
+
+
+<size=95>the former Devil King
+
+
+general, Daniel!</size>
+<size=80>Rescue Aqua and Lia
+
+
+from the clutches of</size>
+
+
+
+
+<size=95>the former Devil King
+
+
+general, Daniel!</size>

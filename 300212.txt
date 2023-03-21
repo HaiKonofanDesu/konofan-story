@@ -1,0 +1,86 @@
+Goodbye to This Irritating Living World! - P2
+ナレーション: When lizard runner mating season begins, so does a fierce competition over their princess runner.
+ナレーション: The fastest runner is chosen as king, earning him the right to court the princess runner.
+ナレーション: We took on a lizard runner kill quest and decided to ambush them along their predicted route...
+questStart: Kill Quest:
+Defeat Lizard Runners.
+Defeat Lizard Runners.
+megumin: What the hell?! Aqua's spell lured the whole herd of lizard runners and now they're charging at us!
+kazuma: You idiot! I was going to use Snipe to take out 
+kazuma: the king 
+kazuma: and the princess, but now we have to deal with the whole herd!
+aqua: Don't you yell at me! I was just trying to help! Besides, you know what always happens on these kill quests!
+aqua: Those monsters are gonna do terrible things to me and leave me in tears! And DON'T say it won't happen this time, because it will!! 
+aqua: So just do your thing!
+kazuma: Tch! Whatever. I guess I'll aim for the king runner first.\n
+kazuma: Here goes nothing... Snipe!
+King Runner: Kreeegh!
+megumin: All right! Way to go, Kazuma! Now I'll take care of the princess runner!
+megumin: Mwahaha! Now taste the full power of my sorcery...\n
+megumin: Explosion! 
+megumin: Hm?
+megumin: My magic power! I don't have enough for my explosion magic!
+kazuma: Now, of all times... 
+kazuma: What?!     
+kazuma: Drain Touch!
+megumin: Uwaaagh! Stop taking my magic without permission! You're asking for a beating!
+kazuma: This is all my fault! If only I wasn't so stupid back then!
+darkness: Ugh! Kazuma... 
+darkness: How long do I have to hold back this herd?!
+kazuma: We have to kill the princess before Darkness gets crushed to death! 
+kazuma: But the princess is coming right for us...
+Princess Runner: Kreeegh!
+aqua: Oh crap... Up! Look up! The princess runner's right above you, Kazuma—
+kazuma: Heh. Nice jump! But I was expecting that.\n
+kazuma: Snipe!
+Princess Runner: Krrreeeeeeggghhh!
+kazuma: That was a close one. 
+kazuma: Huh?
+ナレーション: Kazuma used Snipe to slay the princess runner in midair...leaving its body to fall right on top of him...
+kazuma: Augh...
+aqua: Kazuma?! Are you okay?!
+megumin: The princess runner totally crushed him... I don't think necks are supposed to bend that way!
+eris: As an adventurer, you are bound to run into danger, but you were far too careless this time.
+kazuma: I'm sorry. Umm... Was everyone all right after I died?
+eris: The herd of lizard runners scattered right after they lost their princess. Aqua is now tending to your wounds.
+kazuma: Whew, that's good. In that case... Mind if I hang out here for a while?
+eris: That is fine, but you seem a bit too calm about this.
+kazuma: Well, this isn't my first death, you know.
+kazuma: By the way, isn't being stuck alone in this empty room kinda boring?
+eris: If I am bored, that means people are doing well. So...
+eris: I would say free time is a blessing.
+kazuma: She's so nice... Wait. What—? My heart...! This sweet, sensible girl makes me feel...
+kazuma: That's it! I knew my life was missing something. My heroine was sitting here all along!
+eris: Actually, I do not spend all my time here. When I want to have fun, I sneak my way out to the surface.
+eris: But let's keep that our little secret, okay?
+kazuma: Oh... That's fine. More than fine.
+aqua: Kazuma! Kazuma, can you hear me?
+aqua: I cast a resurrection spell. You're clear to come back! Get Eris to open the gate for you!
+kazuma: Come back later! 
+kazuma: I'm gonna chat with Lady Eris a little more. Just keep my body safe until I get back!
+aqua: What?! Stop blabbing and get back here! If you don't, we're gonna draw on your face!
+kazuma: Like that matters. I'm already dead! You guys can do what you want!
+aqua: What the? Megumin! Why are you undressing him? Megumin! Stop that!
+kazuma: Hey, knock that off! That's my body you're playing with! Desecrate my corpse and I'll haunt you!
+aqua: Megumin, no! That's enough! Hurry, Kazuma! If you don't, it's gonna turn ugly!
+kazuma: Can't you do something, Aqua?! Stop her! *Sigh* All right, Lady Eris... 
+kazuma: Please open the gate for me!
+eris: Hehe! Very well, Kazuma. I pray you do not come here again.
+kazuma: ...Huh?!
+megumin: Oh, you're finally awake. I thought you might not come back this time.
+kazuma: Ah! Megumin! What exactly did you do to me while I was gone...?
+megumin: ...You said you weren't coming back. Scare me like that again, and I'll do something much worse.
+darkness: I... I couldn't stop her.
+kazuma: Huh?! ...Darkness? What's what that reaction?!\n
+kazuma: Aqua! What the hell did Megumin do to me?!
+aqua: I could not allow such words to soil my divine lips.
+kazuma: Seriously, what happened to me?
+ナレーション: Kazuma took off his clothes. As he was about to step into the bath, he let out a loud scream...
+kazuma_towel: Megumin! Where's Megumin?!
+darkness: Megumin said she was staying at Yunyun's place for—
+darkness: Eeeeeeeeek!
+aqua: Walking around in nothing but a bath towel... I know you're confident, but have some decency. Put some clothes on.
+kazuma_towel: D-Damn her! She drew on me with permanent marker!
+kazuma_towel: What the hell is she calling the "Holy Sword Excalibur"?! 
+kazuma_towel: ...Oops.
+ナレーション: Kazuma's towel slipped to the floor. Aqua snickered as Kazuma's holy sword was unsheathed before her...

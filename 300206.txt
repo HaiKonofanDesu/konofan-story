@@ -1,0 +1,107 @@
+Peace for the Master of This Labyrinth! - P2
+ナレーション: Kazuma and Aqua left Megumin on the surface and delved into Keele's Dungeon with hopes of finding a hidden passage...
+aqua: O lost souls who wander this cold, dark dungeon... May you find peace! 
+aqua: Turn Undead!
+Zombie: Gyaaaaaah!
+kazuma: There's definitely something different about Aqua... When she banishes the undead, it's like she's a real goddess!
+aqua: Whew. That should help keep things quiet for a while.
+kazuma: Thanks for the help. I don't think I could've handled all of those undead on my own.
+aqua: You finally recognize how great I am! You can praise me more if you like, I won't mind.
+？？？: Is that a priest I sense?
+kazuma: Wh-Who's there?!
+Keele: I am Keele, the "evil" wizard who built this dungeon and kidnapped a nobleman's daughter.
+Keele: She was married to the king to curry favor, but he treated her poorly.
+Keele: I had but one wish: to see her free of her misery and see her happy at last.
+Keele: So I kidnapped her! I cast aside my rank as court wizard and we eloped while the king's army chased us.
+ナレーション: The skeletal Keele shared his story, his jaw clacking as he laughed...
+kazuma: So basically, you were never an evil wizard? It sounds like you were actually a good wizard this whole time!
+Keele: You've got that right! I proposed to the kidnapped girl, she said yes, and we lived happily ever after.
+Keele: Oh, by the way—my lovely wife rests right over there. Doesn't she have the loveliest collarbones?
+aqua: She's at peace.
+Keele: That she is. So I have a small request... Could you please purify me so I may finally rest beside my love? I believe you have the divine power to do so.
+aqua: Hmm hm hm hmmm ♪
+ナレーション: Aqua hummed as she drew a purifying magic sigil on the ground in chalk...
+kazuma: Keele was mortally wounded defending his lady. To protect her, he abandoned his humanity and became a lich.
+kazuma: All to protect the one he loved... What a guy, this lich!
+aqua: Okay, all set.
+Keele: Thank you... Thank you! We undead are unable to end our own lives.
+Keele: I was waiting to just fade away when I sensed incredible divine energy and woke from my long slumber.
+Keele: Now, please send me to my beloved.
+aqua: Oh, arch wizard who turned from nature and became a lich, Aqua, goddess of water, washes away your sins.
+Keele: You have my gratitude. You'll find treasure next to the remains of my beloved. Please take it as a token of my thanks.
+kazuma: Thank you. I hope you're able to reunite with her.
+aqua: Sacred Turn Undead!
+Keele: I shall be with you soon, my darling.
+ナレーション: The magic sigil glowed softly, and the remains of Keele and his beloved dissolved into rays of pure light...
+kazuma: Ready to go home?
+kazuma: But first, Aqua—Keele said he woke up because he sensed your divine energy.
+kazuma: You don't think that we ran into all those undead here because of you, do you?
+aqua: Eh?!\n
+aqua: N-N-N-No... I don't...think so...?
+kazuma: Every time we go on a quest, undead swarm us. Do goddesses attract them or something?
+aqua: Of course not. And don't you even dare think about ditching me down here.
+Zombie: Gyaaaaaah!
+kazuma: You say that, but that horde of monsters is headed this way! The undead really are attracted to you!
+aqua: I can't help it! Goddesses overflow with pure life energy. We're born this way. There's nothing I can do about it!
+aqua: What? Do you expect me to extinguish my divine aura to the level of a lowly shut-in NEET like you?!
+kazuma: Why you...! 
+kazuma: Anyway, let's get out of here!
+aqua: Eeeeeek! Wait for me, Kazumaaa!
+questComplete: Today's Results:
+
+
+
+
+<size=88>Keele's Dungeon
+
+
+
+
+Scouting complete.</size>
+
+
+
+
+
+<size=50>Special Bonus:
+
+
+Keele's Treasure</size>
+
+
+
+
+<size=88>Keele's Dungeon
+
+
+
+
+Scouting Complete</size>
+
+
+
+
+
+<size=50>Special Bonus:
+
+
+Keele's Treasure</size>
+ナレーション: Later that night, Kazuma's party held a modest feast at the guild's tavern after returning with Keele's treasure...
+megumin: Hey, why can't I drink any of that bubbly?! Lemme have some! Just one glass, please!
+kazuma: You're still just a kid! Besides, we need to pay back our debt, so we can't be splurging right now.
+aqua: I'm done with these part-time jobs. We have to go questing. Ta-da... "Nature's Beauty"!
+aqua: !
+luna: Hehe, congratulations on completing the quest.
+kazuma: Thanks, miss... You really helped us out. Everyone, drinks are on me. 
+kazuma: Go on, drink up!
+dust: Huh? You're buying? Hey, everyone! Drinks are on Kazuma!
+chris: Wait, Kazuma is paying for drinks?!
+Adventurer A: That's Kazuma for you. You can always count on him!
+Dust & Crew: Ka-zu-ma! Ka-zu-ma! Ka-zu-ma! Ka-zu-ma!
+kazuma: Okay, everyone! Bottoms up!
+kazuma: I'm drowning in debt and suspected of terrorism... But being an adventurer ain't all bad, is it?
+aqua: We're gonna drink until dawn!
+Dust & Crew: Hooray!
+aqua: Ungh... Kazuma, rub my back.
+kazuma: What the heck am I doing? 
+kazuma: I can't go on like this!

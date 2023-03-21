@@ -1,0 +1,48 @@
+Glamorous Casino Bunny
+chris: I'm surprised your guards actually let you come here.
+iris: Me too! It almost didn't happen. 
+iris: But I managed to convince them it would be a good learning experience.
+iris: Of course, they still wouldn't let me go alone. 
+iris: They insisted I have an escort, someone Lalatina trusted.
+chris: Ah. That explains why I'm here.
+iris: Yes! And I really appreciate you looking out for me today!
+chris: Don't mention it. Now... What would you like to do?
+iris: I know exactly what I want to do! 
+iris: I've read about places like this in books, and I've always wanted to visit one in person.
+iris_casino: They're a fascinating realm of desire and greed!
+chris_casino: Whoa. Of all things she could do, she wants to visit a casino? 
+chris_casino: I guess Darkness was right. What an odd princess...
+iris_casino: But I'm wondering... Why am I dressed like this?
+chris_casino: We need to keep a low profile, and nobody will look twice at a new employee in training.
+iris_casino: Oh, I see! I hadn't thought of that.
+chris_casino: Mm hm. What game do you want to play? There's poker, blackjack... 
+chris_casino: Roulette is probably easiest.
+iris_casino: Roulette? How does that work?
+chris_casino: All you do is bet on which pocket you think the ball will land in. Get the right color or number, and you win.
+iris_casino: That sounds simple enough!
+chris_casino: Yes. In fact, they call this game the Queen of the Casino for that very reason.
+iris_casino: Queen, huh? And I'm a princess... This must be fate. There's no way I can lose!
+iris_casino: Excuse me! I'd like to bet everything on twelve!
+chris_casino: What?! You're betting everything?!
+Barkeep: Are you certain?
+iris_casino: Yes, sir! Thank you!
+Barkeep: Understood. Here we go!
+chris_casino: She's a beginner! She should have started out with a small bet on red or black, not everything on a single number!
+chris_casino: The odds are terrible. What was she thinking?
+Barkeep: T-Twelve! We have a winner!
+iris_casino: Woooow! Look at all of these chips!
+chris_casino: What?! She actually won?! That's a payout of 35 to 1! 
+chris_casino: I've never seen anyone do that before!
+iris_casino: I knew I could count on my lucky number!
+chris_casino: Wait, your what?
+iris_casino: My lucky number! It's kind of a funny story, because... 
+chris_casino: Actually, save it. We need to get out of here right now!
+iris_casino: Why? What's the matter?
+chris_casino: We were supposed to keep a low profile, remember? Hitting the jackpot at the most popular game is the opposite of that! 
+chris: No matter what, I can't let anyone find out I took the princess to a casino! 
+chris: I'll get in all kinds of trouble! You've got to keep this a secret! Can you do that?
+iris: Well, I don't really like keeping secrets, but... I guess I could. 
+iris: But you have to promise me something.
+iris: Will you take me again sometime?
+chris: Only if you promise to lose.
+iris: Yes! I can't wait!

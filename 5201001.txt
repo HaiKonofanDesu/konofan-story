@@ -1,0 +1,33 @@
+Adorable Trick-or-Treat
+ナレーション: Dressed for the occasion, Aqua, Yunyun, and Iris visited the Halloween festival in Axel.
+ynyn_halloween: So this is what Halloween is like? The whole town is lit up. 
+ynyn_halloween: It's beautiful...
+iris_halloween: What interesting pumpkin decorations. 
+iris_halloween: Kazuma's homeland has so many novel customs.
+aqua_halloween: Hehe... Since this is your first Halloween, 
+aqua_halloween: shall I show you how to enjoy yourself properly?
+aqua_halloween: It all comes down to one phrase— Trick-or-treat!
+iris_halloween: Oh, Kazuma said something about that...
+aqua_halloween: You dress up in special costumes, right? 
+aqua_halloween: And go around town saying that to as many people as possible.
+ynyn_halloween: And if they don't give you candy, you play a trick on them?
+aqua_halloween: Exactly! Good-for-nothings who are too cheap to hand out candy 
+aqua_halloween: deserve a good trick!
+iris_halloween: That doesn't sound like a very nice thing to do...
+aqua_halloween: Oh, it's all in good fun. Besides, you never know...
+aqua_halloween: You might make a new friend while you're at it!
+ynyn_halloween: Make new friends?! What an absolutely 
+ynyn_halloween: wonderful festival!
+iris_halloween: Kazuma is amazing!
+iris_halloween: He was able to transform the pumpkins' terrifying attack 
+iris_halloween: into a new holiday tradition!
+aqua_halloween: I bet that's what changed everyone's image of pumpkins from terrifying monsters to delicious treats.
+iris_halloween: Perhaps we'll be celebrating Halloween in the capital next year!
+aqua_halloween: Have you remembered the phrase I taught you? Repeat after me...
+aqua_halloween: Trick-or-treat!
+Yunyun, Iris: Trick-or-treat! Give us something good to eat!
+aqua_halloween: Perfect. Now let's go around town 
+aqua_halloween: and get as much candy as possible!
+iris_halloween: Okay! This will be so much fun!
+ynyn_halloween: T-Trick-or-treat! If you don't want to give me candy, w-we can be friends instead!
+ナレーション: And so the three friends enjoyed the Halloween festival late into the night...even though Aqua gave herself a stomachache by eating too much candy.

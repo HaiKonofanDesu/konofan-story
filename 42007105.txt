@@ -1,0 +1,60 @@
+A Ball at This Kingdom's Castle! - P5
+ナレーション: The serving trays were piled high with delicacies as Axel Hearts kicked off the festivities...
+erica_stage: I want to thank all of you for coming to see us today!
+cielo_stage: Th-that's not it, Erika. They're here for the ball.
+lia_stage: Please enjoy the wonderful food and drinks during your time here at the ball!
+Noble A: Ah, this was my first time seeing a dance performance. It was really quite lively.
+Noble B: Indeed. Tonight's ball has been simply marvelous...
+kazuma_dance: The nobles here seem to have really liked the show. Hopefully we can find a sponsor or two...
+iris: Brother!
+kazuma_dance: Oh, hey Iris. How did you like Axel Hearts?
+iris: They were fantastic! I had so much fun! I have never seen anything like it, and I can't wait to see it again!
+kazuma_dance: Is that so? Well, maybe you can come to a show at Arcanretia or the Crimson Demon Village next time.
+clair: Hey, you do realize what will happen if you try to take Lady Iris from the castle, right?
+kazuma_dance: Whoa! Yeah, yeah, I get it. I'll be careful...
+iris: Hehe, have you been enjoying the ball?
+kazuma_dance: I sure have.
+iris: Glad to hear it! 
+iris: Now, I have a request for you—
+mitsurugi_dance: Lady Iris, I must thank you for inviting me here.
+iris: Oh, Mitsurugi! It's been quite a while.
+mitsurugi_dance: Well, it has not been that long of an absence, but I must say that you have become even more beautiful.
+kazuma_dance: This guy is a real piece of work!
+mitsurugi_dance: That dress also suits you so very well. Truly, it brings out your natural radiance.
+iris: My, you have a way with words. Thank you.
+mitsurugi_dance: If I may be so bold as to ask... May I have this dance?
+iris: Yes, of course, brave hero of the magical blade.
+kazuma_dance: ...
+ナレーション: The Axel Hearts show ended, and after some idle chatter, the hall filled with music as everyone began to dance...
+iris: Lord Mitsurugi, you are quite a skilled dancer.
+mitsurugi_dance: My skills hardly compare to yours, Lady Iris. Still, I am honored by your compliment.
+Noble A: Lady Iris dancing with Lord Mitsurugi... What an exquisite scene!
+mitsurugi_dance: Hehe... Everyone at the ball wants to share a dance with you, Lady Iris.
+mitsurugi_dance: I must say that I am extremely pleased to have been your first dance partner.
+Noble B: He is quite the handsome young man. They make a good pair.
+kazuma_dance: Damn, when it comes to dancing I... 
+kazuma_dance: Well, I've never danced.\n
+kazuma_dance: Erika, pass me some of that meat.
+erica_stage: Oh Kazuma, are you jealousy eating?
+kazuma_dance: No. I don't get many chances to eat gourmet food, so I want to try everything I can.
+lia_stage: I'm surprised to see you so jealous, Kazuma.
+kazuma_dance: I'm not! I just hate seeing someone who is basically my sister being treated that way by Mitsurugi—
+ナレーション: Just as Kazuma was about to finish his thought, an alarm sounded through the ballroom...
+Announcement: Warning! Warning! Monsters have appeared in the capital!
+Announcement: Royal Knights, prepare for battle at once! All adventurers are asked to aid in defending the city! Repeat—
+clair: They won't make it this far, but it's good to be cautious. The ball is suspended until we can secure the area.
+mitsurugi_dance: I shall assist in the battle. I must do my part to help!
+Noble A: Oh, I feel better knowing Lord Mitsurugi is going!
+mitsurugi_dance: Worry not, Lady Iris. As the wielder of the magical blade, I shall protect you all.
+iris: Lord Mitsurugi...
+Noble B: Those two truly make a picturesque couple.
+kazuma_dance: I'm going too! I must keep Iris safe from these monsters and these equally-evil men!
+Troll: Grrrrrrrrr!
+kazuma: Trolls, huh? Even I can handle a few of these— 
+Magic Iron Golem: Rrraaawwwrrr!!!
+kazuma: Wait, there are magic golems here too?! I thought we were just dealing with trolls!
+mitsurugi: Any foe who stands in my way will taste this mystic blade!
+kazuma: Wait! We should call in some backup if we're going to— 
+lia: Hraaaaaah!
+kazuma: Not you too! 
+kazuma: Oh fine, forget it! 

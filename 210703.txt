@@ -1,0 +1,62 @@
+Iris - P3
+ナレーション: Kazuma and company helped Iris sneak out of the castle so that she could go on a quest as an adventurer...
+iris_stealth: Finally, a real quest! I'm so excited! Do I look the part?
+kazuma: Iris, this isn't a picnic we're going on. Adventuring is deadly serious. 
+kazuma: I'm gonna go hard on you today!
+iris_stealth: Right, Kazuma!
+kazuma: Listen... Going out on a quest is a matter of life and death.
+iris_stealth: ...
+kazuma: One mistake, and the next thing you know... 
+kazuma: You're dead!
+kazuma: Anyone can go out and get into a fight. But coming back alive from it is another matter...
+megumin: Kazuma is really getting into this whole mentor act.
+darkness: I warned him to be polite before we left this morning. 
+darkness: Well, at least it looks like she's having fun.
+aqua: So Iris, do you remember the goal of today's quest?
+iris_stealth: Yeah, we're going to slay a wyvern!
+kazuma: That's right, a wyvern. It's a type of dragon. A real, live dragon, mind you... 
+kazuma: It won't go down easily.
+iris_stealth: I've only heard about wyverns in stories before... 
+iris_stealth: They say many adventurers have lost their lives to them.
+kazuma: That's right, and they attack merchant caravans too. 
+kazuma: It's a bigger problem than just people dying.
+iris_stealth: Then we must slay them for the sake of the people!
+iris_stealth: Of course, I've never actually seen a wyvern before. They sound quite formidable. 
+iris_stealth: I'll be careful!
+megumin: Wow. You might be small, but you sure are brave.
+aqua: Are we really doing this? Wyverns are pretty tough.
+darkness: Have no fear... I will protect Lady Iris with my life!
+kazuma: You just want a wyvern to smack you around a bit. Don't get all excited over a difficult quest.
+megumin: I could say the same thing to you, Kazuma. You're the one who's all excited to show off for Iris.
+iris_stealth: L-let's get going! 
+iris_stealth: It's time to slay the wicked wyvern!
+kazuma: Back when I was fighting the Devil King's generals... I almost died on more than one occasion.
+iris_stealth: You almost died?!
+kazuma: I know what it means to really stare death in the face. And I've done it plenty of times.
+iris_stealth: You're really something, Kazuma!
+megumin: Stare death in the face? He's full-on died a few times now.
+aqua: He's just enjoying the attention from Iris... Ah. Whoooaaa!
+aqua: 　　　　　　　　　　　　
+darkness: What was that sudden gust of wind?
+megumin: It's the wyvern! And not just any monster! That's a high-rank wyvern!
+kazuma: A high-rank, huh? 
+kazuma: Wait a dang minute! That thing's way too big! We're in real trouble here! Fall back and—
+iris_stealth: Extellion!
+ナレーション: A bright flash emanated from Iris's blade as she split the wyvern in two...
+kazuma: Huh?
+iris_stealth: That was quite a distraction, but now we can keep moving. 
+iris_stealth: Please continue your story until we find the wyvern!
+kazuma: Uh...r-right! Be sure to keep a sharp eye out until we come across that wyvern! 
+kazuma: We can't be too careful!
+aqua: Kazuma was just about to run off and leave us...
+aqua: Iris defeated that thing like it was nothing. It'd be hard for him to tell her that it was actually the wyvern.
+darkness: Oh well. At least we all managed to face a wyvern and live to tell about it.
+megumin: That's true, but look at how deflated Kazuma is now, after acting so tough before.
+kazuma: Hey! That's enough out of you guys!
+iris_stealth: Kazuma, what's the matter? Are there foes about?
+kazuma: I-it's fine. Nothing happened. Nothing at all.
+iris_stealth: I see. Well, I'm glad to hear that, but I do wonder... 
+iris_stealth: Just how strong are these wyverns?
+iris_stealth: I know I shouldn't be too anxious... 
+iris_stealth: But I simply can't wait to fight with you guys watching my back!
+ナレーション: Iris smiled brightly while Kazuma wore a bitter smile...

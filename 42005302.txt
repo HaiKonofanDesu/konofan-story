@@ -1,0 +1,43 @@
+Deadly Bunny - P2
+megumin: EXPLOSION!!
+questComplete: Kill Quest:
+<size=100>Defeat Deadly Bunnies!</size>
+<size=100>Defeat Deadly Bunnies!</size>
+kazuma: Whew... That was too close.
+wiz: Y-Yes... Thank you for saving me.
+darkness: No, Wiz. Thank you. Getting buried in that horde of bunnies as they poked and pierced my skin...was delightful.
+wiz: That wasn't supposed to happen. 
+wiz: The instruction manual said that when you put the ears on, the bunnies will befriend you.
+kazuma: Let me see that manual, Wiz.
+wiz: Here you go.
+kazuma: "Put on these bunny ears to make bunnies approach you in a friendly manner."
+kazuma: Hm? There's some fine print written below...
+kazuma: "Great love leads to even greater hate. 
+kazuma: Therefore, there is a high probability 
+kazuma: that they'll simply attack you instead."
+kazuma: I knew this thing was a piece of junk!
+Wearing it just causes those bunnies to attack you!
+wiz: Whaaat?! 
+wiz: I never even saw that warning!
+aqua: Considering it's one of your items...
+I just knew it'd backfire somehow.
+wiz: Wh-what should I do? I thought these would be good items, so I purchased them in bulk...
+wiz: Look at all of these! It's not just rabbit ears! I have dogs, cats, bears...
+wiz: I bought all kinds of different ears. Vanir is going to be so mad at me!
+megumin: Well, it really is your own fault.
+darkness: All different kinds of ears?! S-so if I wear these bear ears...
+darkness: a vicious bear might approach me?!
+kazuma: Hey, Darkness. Do you really want that magic item, even if it's a total dud?
+kazuma: Anyway, these things are way too dangerous, Wiz. You have to return them.
+wiz: B-but...
+kazuma: I'll explain everything to Vanir.
+kazuma: It might not help much, but hearing from people who have experienced the item's effects can't hurt.
+wiz: Thank you, Kazuma. I feel better already.\n
+wiz: With you there, Vanir probably won't use his Death Ray...
+banil: Vanir's Death Ray!
+wiz: Waaaaaaaaah!
+kazuma: I was right. It didn't help much at all.
+banil: You miserable shopkeeper! Returns are not free, you know?! 
+banil: There are the ridiculous fees and shipping charges...
+wiz: Ooh... I'm sorry...
+ナレーション: The stock was eventually returned, although it took a while for the freshly-charred Wiz to recover...

@@ -1,0 +1,74 @@
+Attack the Troll Lord's Castle! - P1
+ナレーション: Three days after Aqua and Lia were kidnapped by Daniel during the final round of the Axel dance contest...
+aqua: Ugh! How long is that guy going to keep a goddess like me trapped in this tiny room?!
+lia_stage: Erika and Cielo must be so worried...
+daniel: Pardon the intrusion. I've come to check on you.
+aqua: There you are, you perverted troll!
+daniel: Ahh...it's nice to finally have a dancer around the house. Creating this room for Lia was well worth it.
+daniel: Are you comfortable? If you need anything at all, please do not hesitate to ask.
+lia_stage: Wait! Just how long do you plan to keep us locked up here?!
+aqua: Yeah, knock it off already! And tell the trolls stomping 
+aqua: around the castle that they're too loud!
+daniel: I'm terribly sorry. However, I can't let 
+daniel: you out of here just yet.
+daniel: At least, not until the ritual is ready.
+lia_stage: Wait, we're not done talking... 
+lia_stage: He locked us in again. What do we do now, Aqua?
+aqua: All we can do for now is wait. Even if we escape, this place is full of monsters. We can't handle them all on our own.
+aqua: Fortunately, Kazuma and everyone else are surely worried about us. I know they're coming to our rescue, so let's wait.
+lia_stage: You're right. Despite his many faults, Kazuma really cares about his comrades. I'm sure he's coming to save us...
+ナレーション: Meanwhile...
+kazuma_towel: Ahh, that feels good.
+megumin: Hey, Kazuma? Should we really be going to the hot springs?
+ナレーション: Megumin's voice echoed from the other side of the fence.
+kazuma_towel: What else can we do? It's bad luck they got captured, but we don't even know where they are.
+darkness: As we speak, Aqua and Lia are being cornered by those trolls... Hng!
+megumin: Darkness, you'll get heatstroke if you work yourself up in the bath.
+darkness: J-just think, the two of them being crushed by meaty trolls! Such an envia...I mean...horrible position!
+darkness: Me too... They must take me too! Ahhhn! *Gurgle*
+megumin: Ahhh! Kazuma! Darkness passed out from excitement!
+darkness: Ngh... My head is still swimming.
+megumin: I told you that you'd get heatstroke.
+melissa: I see you're all as carefree as ever.
+kazuma: Yikes! Where'd you come from, Melissa? 
+kazuma: You shouldn't leap out of the shadows like that; you startled me.
+melissa: You're awfully rude for being such trash. I brought you some info, so get on your knees and thank me.
+kazuma: Oh, then that means...
+melissa: Yes, I know where they are.
+kazuma: Really?! Where are they?
+melissa: I will tell you, 
+melissa: but you know what this means, right? You're going to owe me for this information.
+megumin: Owe you, huh... 
+megumin: Looks like our debt increases yet again.
+darkness: The lives of our allies are at stake. Sacrifices must be made!
+kazuma: She's right. If I rescue Lia, I can use the contest to turn my fortunes around. That's the easiest way to repay my debt!
+kazuma: Melissa sure is skilled to find Lia and Aqua so quickly... 
+kazuma: That's it!
+kazuma: Hey Melissa, do you want in on a job? I'd love to have someone as skilled as you on board.
+melissa: You're awfully cocky for someone that's drowning in debt.\n
+melissa: Save it until after you've got a plan to pay me back.
+kazuma: Daniel was nearly a general in the Devil King's army. There must be loads of treasure in his castle.
+melissa: Oh? Really?
+kazuma: She took the bait!
+kazuma: If you help us rescue Aqua and Lia, you can have all the treasure we find. How does that sound?
+melissa: Not a bad proposal, coming from you. 
+melissa: All right, I'm in.
+kazuma: I have no idea if there really is any treasure or not. But, Daniel looks rich... I'm sure it'll be fine.
+kazuma: All right, let's go!
+？？？: Kazuma!
+cielo: *Pant*
+cielo: *Pant* Good...we made it in time.
+kazuma: What are you doing here? I told you to wait in Axel!
+erica: But you're going to save Lia, right? We can't stand around doing nothing! Take us with you!
+kazuma: But the enemy's goal is to capture you. Bringing you along is just asking for trouble.
+erica: We know how dangerous it is, but we can't just sit back 
+erica: and wait. Lia is our dear friend. 
+erica: Right, Cielo?
+cielo: I'm tired of being protected all the time! This problem affects all of Axel Hearts!
+cielo: Please, take us with you!
+megumin: Their resolve seems strong.
+darkness: No...the strength isn't in their resolve, but their bond of friendship. It shows just how much they care for Lia.
+melissa: A bond of friendship isn't worth a single Eris. Such foolish children...
+kazuma: Okay, fine! 
+kazuma: You can come with us!
+ナレーション: With that, Kazuma's group headed off to rescue Aqua and Lia...

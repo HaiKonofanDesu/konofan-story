@@ -1,0 +1,40 @@
+Ninja Transformation
+ナレーション: After putting on her ninja outfit, Amy asked Chris to show her the basics of using shuriken...
+chris_ninja: Don't focus too much on the strength of your throw. 
+chris_ninja: The most important thing is visualizing a straight line to the target.
+chris_ninja: Hyah!
+Amy_ninja: Wow! That was amazing! 
+Amy_ninja: It's almost like it's being pulled in by the target.
+chris_ninja: Thanks! 
+chris_ninja: All right, Amy. Your turn.
+Amy_ninja: Okay, here I go. 
+Amy_ninja: Hyaaah!
+Amy_ninja: Oh, dear. It didn't even get close to the target.
+chris_ninja: Ahaha. Well, you'll need a bit more force than that. 
+chris_ninja: You've got nice form, though. You'll get the hang of it in no time.
+Amy_ninja: Hehe, that's good to hear. I'm so glad you had time to give me some lessons.
+chris_ninja: So...what drew you to the ninja arts?
+Amy_ninja: Well, Mia's really been talking about them nonstop lately. 
+Amy_ninja: It seems she heard about them from Kazuma.
+chris_ninja: I see. 
+chris_ninja: You really do love that girl, don't you Amy?
+Amy_ninja: I can't help it. She's just so cute when she's pretending to be a ninja!
+Amy_ninja: She was practicing really hard with her shuriken the other day, 
+Amy_ninja: but I couldn't do anything but watch her.
+Amy_ninja: I thought she would really enjoy it if I could play ninja with her,  
+Amy_ninja: instead of just playing by herself.
+chris_ninja: Hehe... In that case, let's get back to practice!
+Amy_ninja: That would be lovely. Please be sure to teach me everything you know, Master Chris!
+chris_ninja: M-Master?! 
+chris_ninja: I don't know about that... 
+chris_ninja: But go ahead and ask me anything you'd like! If I can help, I will!
+Amy_ninja: Thank you so much, Master Chris. 
+Amy_ninja: Oh, and once we reach a good stopping point, we can go take a bath.
+chris_ninja: A bath? 
+chris_ninja: I wasn't really planning on anything that would make me sweat...
+Amy_ninja: Oh, that's not what I meant. 
+Amy_ninja: Kazuma told me that kunoichi always bathe after their training.
+chris_ninja: Mmm...
+chris_ninja: That sounds like Kazuma's wishful thinking.  
+chris_ninja: I wish he'd stop giving people strange ideas all the time...
+ナレーション: Despite her irritation at Kazuma's misinformation, Chris continued to teach Amy the ways of the ninja...

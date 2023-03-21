@@ -1,0 +1,36 @@
+Lovely Hot Spring
+ナレーション: After completing a giant toad hunt, Cielo and Mel washed off in the bath at Kazuma's mansion.
+cielo_towel: I'm covered in all this sticky, stinky toad gunk!
+mel_towel: Ugh, same. I got way too into my last prank and got swallowed! 
+cielo_towel: Today was tough for both of us. 
+cielo_towel: Let's take a relaxing bath to refresh both our bodies and minds! 
+mel_towel: Relaxing? Hah! That word isn't even in my dictionary. 
+cielo_towel: Wh-What do you mean?! 
+mel_towel: This! 
+mel_towel: Super Bath Towel Snatch! 
+cielo_towel: Eeeeeek! 
+kazuma_jersey: Was that Cielo screaming?! 
+kazuma_jersey: I-I'm coming! 
+kazuma_jersey: Wait... Isn't she in the bath right now? 
+kazuma_jersey: Knowing Cielo, she'd hit me if I tried to check on her. 
+kazuma_jersey: Besides, she's with Mel, so it was probably just one of her pranks... 
+kazuma_jersey: But wait! If something horrible happened, I'm already too late! 
+kazuma_jersey: Cielo could be in trouble! I have to check! 
+kazuma_jersey: Cielo! What happened?! 
+cielo_towel: Eeeeeeeeek! 
+kazuma_jersey: Gr
+kazuma_jersey: aaah! 
+kazuma_jersey: J-Just as I expected...
+kazuma_jersey: Hey, Mel! 
+kazuma_jersey: Was this just one of your pranks again?! 
+mel_towel: Ahaha! I didn't think I'd get you too! 
+mel_towel: I must be some kind of prank prodigy!
+kazuma_jersey: Unbelievable! 
+kazuma_jersey: You're not getting away with this! Not this time! 
+kazuma_jersey: Sit down right there and—
+cielo_towel: How long do you plan on peeping on us for?! 
+cielo_towel: Hurry up and get out of here! 
+cielo_towel: Haaah! 
+kazuma_jersey: ... 
+kazuma_jersey: Aaagggh! 
+ナレーション: After calming down, Cielo apologized profusely, but Kazuma didn't talk to her for some time.

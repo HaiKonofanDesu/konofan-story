@@ -1,0 +1,69 @@
+Wiz - P3
+wiz: But why?! I work here every single day and—
+banil: Precisely, you fool! That's why we're in the red! At this rate, we'll go under entirely!
+banil: Every single day you buy up magic items that range from worthless to entirely disastrous!
+banil: On top of that, you buy them for too much and sell them for too little!
+wiz: *Sob* But I really am doing my best...
+banil: You're doing your best, so why are you being yelled at? 
+banil: Once again, you're missing the point, my useless shopkeeper.
+banil: A business needs to profit in order to survive. 
+banil: Hmm... Maybe we should close up shop before we get further in debt?
+wiz: No! This is my shop! I won't shut it down!
+wiz: I know! I'll open a branch in another town! If my shops get famous, more customers will come here!
+banil: I see, but...then what? What items do you intend to sell there?\n
+banil: The potion that helps you lose weight but almost kills you?
+banil: Or perhaps the cursed ring you foolishly bought today? The one that causes pain if your love isn't reciprocated?!
+banil: Naturally, the negative emotions it generates are quite the delicacy to us demons... 
+banil: But do you really think it'll sell?!
+wiz: Y-you're so mean, Vanir... 
+wiz: Fine then! This perfume that wards off evil is sure to be a hit at my new store!
+banil: Wait, that perfume is— 
+banil: Aaaaand she's gone. Well, I'm sure it'll be fine. Besides, I've got my own work to do.
+wiz: Hello! Welcome to the Arcanretia branch of Wiz's Magic Shop!
+Arcanretia Resident A: Oh! A new shop just opened? Say, you look pale, miss.
+Arcanretia Resident A: Are you maybe having some financial troubles? Or is there an unpleasant fellow in your life?
+wiz: Um... I can't really say that's not the case, but they have nothing to do with my complexion...
+Arcanretia Resident A: There's no need to fret! Convert to the Order of Axis and all your worries will be gone! Act now and get free soap!
+Arcanretia Resident A: Don't delay! Here, take the soap! It's the best there is! In fact... You can even eat it!
+wiz: Um, no thank you! 
+wiz: Actually, how would you like some of this perfume that wards off evil? 
+wiz: Hey, where are you going?!
+Arcanretia Resident B: Oh, did you open a new shop? Here, how about an Arcanretian cake to welcome you to town?
+wiz: Thank you, it looks delicious. In return, I can give you a discount on this perfume— 
+wiz: Wait, don't run!
+Arcanretia Resident C: Oh, I haven't seen this shop before. You're quite beautiful, miss. I have some water here if you're thirsty.
+wiz: U-uh, thank you so much. My throat was quite dry after eating that cake, so— 
+wiz: Yeeeeeegh!
+Arcanretia Resident C: Pretty good, right? It's Arcanretian holy water, blessed by the goddess Aqua herself!
+wiz: I'm fading away! I'm going to vanish!
+wiz: Ugh, it was hard enough trying to recuperate in Arcanretia, let alone focus on my business.
+wiz: However! That won't be a problem here in the Crimson Demon Village!
+wiz: Hello! Welcome to the newest branch of Wiz's Magic Shop!
+Crimson Demon A: Did you say magic shop? Hmph! You got anything worth purchasing here?
+wiz: Oh! I can see a bright glimmer in a customer's eyes! I'll be able to sell all kinds of items here!
+wiz: Welcome! How about some perfume that wards off evil?
+Crimson Demon B: Yuck! That smells awful!
+Crimson Demon C: What a stench... Wh-whoa, stay back!
+Crimson Demon A: That might keep monsters away, but it'll keep everyone else away, too!
+wiz: Precisely! Nobody will bring you any of their problems or misfortunes, leaving you safe and happy!
+Crimson Demons: Why would anyone buy something like that?!
+wiz: I'm back.
+banil: Oh, my sorry shopkeeper has returned. Why the long face?
+wiz: Vanir, I'm sorry! I couldn't sell a thing... In fact, paying for inns and shop space put me even further in the red.
+banil: Hmm... It's about what I expected from you. 
+banil: Now, if you will, look at my bookkeeping for the past month.
+wiz: You mean for the month that I wasn't here? 
+wiz: Oh, my... OH, MY!
+banil: Mwahahaha! 
+banil: Splendid, isn't it? Profits have been soaring! Much like the levels of a fledgling adventurer!
+banil: I'll have you know, with you out of the picture, I profited most handsomely!
+wiz: S-seriously?
+banil: Oho! That awful feeling when you finally realize the truth... 
+banil: Its sumptuous flavor is a match for even the finest of delicacies!
+banil: What would you say to becoming a traveling peddler? 
+banil: I will then be free to set record profits!
+wiz: Thank you so much, Vanir! I feel much better now. I promise I'll work harder than ever before!
+banil: Do you understand what I'm saying?
+wiz: Sure, you showed me that this shop is capable of making some real money!
+banil: How can you be so positive?!
+ナレーション: Wiz discovered a new level of determination, but the harder she worked, the more she ate into Vanir's profits...

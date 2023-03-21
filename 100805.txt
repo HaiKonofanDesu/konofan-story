@@ -1,0 +1,68 @@
+A Swift Escape from This Predicament! - P5
+ナレーション: The evening after the first round of the dance competition...
+Konjiro: That was a heck of a show, Lia.
+lia_stage: Thanks, Konjiro. I really like singing.
+lia_stage: It was my first show after recovering my memory. Winning was nice, but just being able to sing was my true joy.
+Konjiro: I could really tell that you love singing, Lia. You can do anything if you put your mind to it!
+lia_stage: Stop it! I'm going to blush!
+kazuma: H-hi.
+lia_stage: K-Kazuma?! And Cielo and Erika, too?! 
+lia_stage: Tell me you didn't see that!
+kazuma: Um... Sorry for barging in like this.
+erica_stage: What are you so embarrassed about, Lia? We've seen you talking to your stuffed animal—
+lia_stage: He's not a stuffed animal! His name is Konjiro.
+cielo_stage: Konjiro is very important to Lia.
+lia_stage: Yeah, he helped me when I was out questing on my own.
+lia_stage: While my memories were gone, Konjiro was there for me.\n
+lia_stage: He's practically the fourth member of Axel Hearts.
+erica_stage: That seems like an exaggeration, but...
+cielo_stage: Come on, it's fine. Just think of him as the mascot of Axel Hearts.
+kazuma: W-wait, is Konjiro your cheat or something?
+erica_stage: A cheat?
+lia_stage: No, he's different. I got...a magical keyboard.
+ナレーション: From her bag, Lia produced an instrument with a long row of black and white keys.
+kazuma: So this is her transfer bonus. That means it must have some kind of cheat-level power like Gram, right?
+kazuma: Hey, Lia. What kind of ability does—
+aqua: We've got trouble!
+erica_stage: What's the matter? What's got you so flustered?
+aqua: It's him! Daniel is attacking the capital!
+kazuma: What did you say?!
+cielo_stage: Th-this could end up ruining the competition, just like what happened with our tour.
+erica_stage: We won't let that happen! We dancers will defend the city! Lia, Cielo, let's move!
+lia_stage: Yeah... Let me bring this, just in case.
+ナレーション: Lia attached a strap to her magical keyboard and slung it over her shoulders before running off to face Daniel...
+aqua: We're going too, Kazuma. We should also let Mia and the others know.
+kazuma: Okay. By the way... Something's been bothering me.
+kazuma: Tell me about that magical keyboard you gave Lia. What sort of powers does it have?
+aqua: Huh? How can you expect me to remember something like that?
+kazuma: She doesn't even show the slightest embarrassment over her failings! What a worthless goddess!
+aqua: Forget about that, we need to hurry! The contest could be in danger!
+daniel_troll: Mwahahaha! The Devil King's army is sure to welcome me back! And then I can live a happy, married life!
+daniel_troll: Let's make these foolish humans weep in agony!
+charlie_troll: Splendid, Lord Daniel. I'm pleased to see you're ready to return to work again. It's an honor to serve by your side!
+daniel_troll: Cower in fear before the might of my ancient weapon!\n
+daniel_troll: Mighty hammer! Reduce this pathetic town to smoke and rubb—
+kazuma: Sorry for the delay! The stars of the show are here!
+daniel_troll: Grrr... You people again?
+darkness: We will defend this city and all of its dancers! If you wish to fire off your lightning again... 
+darkness: Then f-fire it at me!
+miia: Wow! She's a real crusader... So dang cool!
+Amy: Mia, she might be cool, but don't imitate her, okay?
+megumin: It's my turn! Thor's Hammer or my explosion magic... 
+megumin: We'll see which is more powerful, right here, right now!
+melissa: No, I'll take care of this. That man has a bounty of 500 million Eris on his head. 
+melissa: And I intend to collect it!
+daniel_troll: Gragh! What a bunch of annoying insects you are... 
+daniel_troll: Cease this inane prattling and show me the girls already!
+lia_stage: If you want dancers, come and get us!
+daniel_troll: Ah, Lia... So you were alive all this time! Our meeting here has to be fate, right?
+daniel_troll: Now, witness my incredible power as you fall head over heels for me!
+erica_stage: You're lost in your own creepy world... 
+erica_stage: Lia would never fall for a brute like you! Plus, you're not cute...not even a little!
+cielo_stage: This stage is where the dreams of countless dancers come true! People like you don't belong here!
+daniel_troll: I don't want to destroy the stage of my beloved dancers.\n
+daniel_troll: But true love requires sacrifice!
+daniel_troll: Come with me, Lia! 
+daniel_troll: We'll get married...build a happy home! You'll thank me later!
+lia_stage: Marriage? What is this guy talking about?
+kazuma: Forget about it! Here he comes!

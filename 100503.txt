@@ -1,0 +1,101 @@
+Join This Prestigious Dance Contest! - P3
+Announcer: Ladies and gentlemen, thank you for your patience. We will now begin the preliminaries for the dance contest!
+dust: Yes! About time!
+mitsurugi: I heard the goddess herself is participating in this contest.\n
+mitsurugi: I shall cheer her on harder than anyone!
+Announcer: The first round tests the charm of our dancers with a Q&A session! When your group is called, please approach the judge!
+kazuma: Will they be okay? Even I'm starting to get nervous...
+tough_guy: We'll see just how much those gems of yours sparkle.
+questStart: Special Quest:
+<size=79>Get past the\ncontest's first round!</size>
+<size=79>Get past the\ncontest's first round!</size>
+Announcer: Let's see... Next up is the trio Explosion Goddess Lalatina. Please step up to the judge's table!
+darkness: Aqua, nobody consulted me on this team name!
+aqua: Hehe, I picked it myself. Isn't it great? It features all our best traits!
+megumin: I love it! Good job, Aqua! It couldn't be any better!
+Announcer: Time for questions. Explosion Goddess Lalatina, if you please.
+darkness: D-Don't call me Lalatina!\n
+Judge: Shall we begin? I'd like to start by asking why you wanted to join this contest.
+darkness: As a noble, I have my reservations about appearing on stage 
+darkness: like this, but I could not refuse a request from my comrades.
+megumin: The time has come for my hidden dance skills to awaken. 
+megumin: As a Crimson Demon, I vow to steal the hearts of my fans!
+aqua: I wanted to join the contest because I'm an actual goddess. I'm not about to let anybody beat us!
+mitsurugi: Most impressive, my goddess! 
+mitsurugi: I'll follow you anywhere!
+Announcer: That's quite a passionate fan you have there. Is he a friend of yours?
+aqua: Nope, never met him before. 
+aqua: But thanks for your support!
+Judge: A goddess, a strange young girl, and a noblewoman... You're playing some pretty distinctive characters.
+aqua: It's not a character! It's the truth!
+Judge: Amazing! Your commitment to method acting is admirable. Say, is there anything goddess-like you can do?
+aqua: Very well, I'll prove to you I'm not playing a character...\n
+aqua: We're on stage, so I'll give you a show! Nature's Beauty!
+Judge: Wow! Conjuring a rainbow out of thin air to captivate the crowd! Explosion Goddess Lalatina goes on to the next round!
+kazuma: I'm glad they made it, but what's with this judging criteria...
+Announcer: And now, for our last group... Axel Hearts, please step forward!
+cielo_stage: So, you say you want to know who I am?\n
+cielo_stage: Guess who? It's me, Cielo!
+lia_stage: My eyes may be cool, but my heart is on fire!\n
+lia_stage: Relax, you're with Lia now!
+erica_stage: It's all the cuteness in the world in a single package!\n
+erica_stage: It's me, Erika! A dose of 1,000% cuteness! Together, we're...
+Axel Hearts: Axel Hearts!
+Axel Resident A: That's the spirit, Axel Hearts! You're the best, Lia!
+Axel Resident B: No, it's Erika! She's the cutest!
+Axel Resident C: Cielo, I want you to punch me as hard as you can!
+Judge: Goodness! You sure are popular. Now then, I'd like to know why you wanted to join this contest.
+lia_stage: Oh, it's no big deal. We just want more people to enjoy our singing and dancing, that's all.
+Judge: Such a simple yet wonderful answer!
+erica_stage: We've gotta show off my cuteness, too!
+cielo_stage: I believe if everyone can see us sing and dance, we can touch their hearts. So please, watch us!
+Judge: So honest and pure... I've seen enough, you pass!
+lia: We survived round one.
+kazuma: Don't let your guard down just yet. This is only the beginning! 
+kazuma: But for now, congratulations are in order.
+aqua: Heh, we passed too! It's good to be a goddess!
+megumin: By the way, what happened to Mia's group?
+darkness: Ah, yes. Kazuma named himself their producer and convinced them to compete.
+kazuma: Yeah, about them...
+Amy: It's a pleasure to meet you. My name is Amy, I come from the northern lands.
+miia: Hi there! Mia here, ready an' rarin' to go!
+melissa: She's trying so hard to raise her widdle bitty hand... Isn't she the cutest thing ever?!
+Judge: Um, I hate to interrupt, but you with the black hair... Could you tell me your name?
+melissa: Huh? What kind of presumptuous pig just asks a person for their name out of the blue? Tell me YOUR name first.
+miia: Huh. He looks like a human, but he's actually a pig?
+Amy: Melissa! Mia! Calling a person who's simply trying 
+Amy: to get by in life a pig... 
+Amy: That's a no-no!
+Judge: Indeed, it is bad to call someone a pig, but what's done is done. You're disqualified!
+kazuma: ...So that's what happened. They lost in the first round. I should've expected it from such an inexperienced group.
+cielo: It sounds more like Melissa's personality was the problem.
+erica: We can't worry about that now. Rounds 2 and 3 will test our physical and mental abilities, and then there's the finals.
+megumin: For the final round, we have to sing and dance, right? Let's work on our routine! My crimson blood is boiling!
+aqua: Leave the song to me! I'll sing something that's guaranteed to put a smile on anybody's face, even a crying baby!
+darkness: Wearing a revealing outfit, writhing around on stage, dancing in front of a sweaty audience... 
+darkness: Is that what you want?!
+kazuma: We don't even know if they're going to make it to the final round or not. They never break character, no matter what.
+kazuma: Well, I don't care whether Lia's group or Aqua's group wins. As long as I get that one billion 
+kazuma: Eris and repay my debts!
+kazuma: I'm counting on you girls! Win this thing for me!
+questComplete_2: Special Quest:
+<size=79>Get past the\ncontest's first round!</size>
+<size=79>Get past the\ncontest's first round!</size>
+charlie: Lord Daniel! What is this prophetic dancer you speak of?
+daniel: Charlie, do you know the legend of an ancient weapon that can control weather and summon lightning?
+charlie: Of course. It's said that whoever controls that weapon controls the world itself.
+daniel: The texts speak of a way to restore the weapon: "In a sealed land, great power shall arise from the dance of a goddess."
+daniel: My guess is the dance of a goddess refers to a lovely dancer. And the sealed land shall be this castle's altar!
+charlie: I-I see! 
+charlie: So you want to restore this ancient weapon and rule the world, Lord Daniel?
+daniel: There's something I must do before making the world mine... 
+daniel: I must take revenge on the Devil King for my expulsion!
+daniel: To obtain this ancient weapon, I've spent the last 100 years searching for the perfect dancer.
+daniel: Near or far, if there was a talented singer or dancer, I'd abandon my duties to the Devil King to see them.
+daniel: And yet the Devil King ignored my hard work, expelled me from his army, and denied my paid leave!
+charlie: He says it's for the weapon, but if he's that passionate about these dancers, I see why he was banished...
+daniel: I'll take the ancient weapon for myself, and exact vengeance upon 
+daniel: the Devil King! And then...I'll finally have my unpaid wages!
+daniel: Hehehe... Mwahahahaha!
+charlie: He cares more for his unpaid wages than 
+charlie: world domination. But that's what makes Lord Daniel so great!

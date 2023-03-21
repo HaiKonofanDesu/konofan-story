@@ -1,0 +1,71 @@
+Yunyun - P1
+ナレーション: Yunyun paid a visit to the Crimson Demon Village after being away for a week...
+ynyn: Lalalalalala...
+arue: Singing to yourself, eh? What's got you in such a good mood?
+ynyn: Oh, hello, Arue. Hi, Komekko... It sure is lovely today, don't you think?
+komekko: Don't give us that. You're back home, huh?
+ynyn: Well, I am part of the Crimson Demon Clan, aren't I? 
+ynyn: I'm still allowed to come back and visit, right?
+arue: Komekko is getting at the frequency of your visits. Aren't you coming home a little too often?
+ynyn: Do you really think so?
+komekko: You were just here last week!
+arue: I know you can teleport with ease, but it's a bit much, isn't it?
+ynyn: I-it's fine! I mean... I don't come back for myself! 
+ynyn: It's to... It's to see my friends!
+arue: Wait! Where are you going, Yunyun?
+komekko: Yunyun has...friends?
+arue: I thought the same thing, Komekko. Something's not right here... Not right at all.
+komekko: I think Yunyun's gotten skinnier.
+arue: Let's follow her and find out what's going on.
+ynyn: H-hello...
+？？？: Hello.
+arue: L-look at that!
+？？？: Thanks for coming to see me again. I'm so happy.
+ynyn: O-of course! I'd come visit you any time! 
+ynyn: I-I mean...we're...f-friends, so...
+？？？: Yes, the two of us are friends...
+？？？: You're the first friend I've had... I never expected this, after being alone for so long.
+ynyn: Ahh... I can't believe it, either. It's like a dream come true.
+komekko: Is that...a girl?
+arue: No, Yunyun is talking to a plant-type monster known as a tranquility girl.
+arue: It lures lonely adventurers in and then poisons them slowly.
+arue: The victims starve and the monster uses them for food... Adventurer's Guilds put out notices to exterminate them.
+Tranquility Girl: Here you are... I brought this for you...
+ynyn: You're giving me another one? A-all right, thank you...
+arue: I see... The fruit she's been getting from this monster is the reason she's looking so worn out.
+ynyn: This fruit is so delicious. Thank you for sharing it.
+Tranquility Girl: It's nothing... We're friends, after all...
+Tranquility Girl: Please, stay here with me forever...\n
+ynyn: Huh? Seriously? Are you sure that's what you want?
+Tranquility Girl: Of course it is... Look, this fruit is our bond... Here, have another...
+arue: Fireball!
+Tranquility Girl: Eeegyaaaaaah!
+ynyn: Noooooo!
+Tranquility Girl: Auuugh! It burns! Who did this to me! Show yourself, you vile wretch!
+komekko: What happened to her quiet demeanor?
+Tranquility Girl: Curse you all! I was so close to finally devouring this pathetic little girl. Just my luck...
+arue: Whew. That was a close one, Yunyun.
+ynyn: A-Arue? Did...you do that?
+arue: Yes. That was a monster pretending to be a girl so it could eat—
+ynyn: How could you? Why did you have to kill her?
+komekko: Yunyun, it was a dangerous monster.
+ynyn: I-I knew that!
+arue: Huh?
+ynyn: *Sob*
+ynyn: I knew it, and I didn't care! I'll risk my life to finally have a friend...
+arue: She's taking this way differently than I expected... I'd better try phrasing it another way.
+ynyn: Waaaaaah! I don't care if it's a worm or a cricket or even a giant toad! I just want a friend!
+arue: Calm down, Yunyun. A dangerous monster had you... 
+arue: It's natural for us to worry about you!
+arue: You see... You see, we're...
+arue: friends, aren't we?
+komekko: Yeah! We're friends!
+ynyn: Arue? Komekko?
+arue: Come on, let's go back to the village. How about having dinner with us tonight?
+ynyn: *Sniff sniff* Thank you. But...I heard that right, didn't I? You said that we're friends?
+arue: Of course we are. So please don't do anything dangerous like this again, okay?
+ynyn: All right!
+komekko: She'll do anything if someone says they're her friend. 
+komekko: Yunyun's a real pushover.
+arue: Shh! She's feeling better now. You can't be saying things like that now.
+ynyn: Lalalalalala, I have friends!

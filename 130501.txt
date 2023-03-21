@@ -1,0 +1,73 @@
+Admiration for This Decisive Princess! P1
+ナレーション: The memory-restoring magic item had ultimately proved ineffective on Iris, leaving the group utterly dejected...
+darkness: To think that item had a use-by date...
+iris_adventurer: If only I'd confided in everyone sooner, perhaps...
+kazuma: You're not at fault here, Iris. We'll find another way, together.
+iris_adventurer: Oh Brother... 
+iris_adventurer: Thank you. You're right. This is no time to lose hope.
+megumin: We can't forget about those golems targeting Kazuma, though. 
+megumin: They're bound to strike again.
+aqua: She's right. They might even mount an attack on Axel. What should we do, Kazuma?
+kazuma: We can't form a plan if we don't know when they're coming. 
+kazuma: Right now, restoring Iris's memory takes priority.
+darkness: Kazuma's right. It's too soon to give up.
+shelly: Hi guys, I'm back. Sorry I took so long, I lost track of time buying up magic items.
+iris_adventurer: Miss Shelly! That's right, you were out searching for items that might provide an alternative solution.
+shelly: Heave-ho! 
+shelly: While full memory restoration is a bit of a stretch, something's better than nothing.
+darkness: Does "something" include this hat? The one with several hand-like appendages.
+shelly: That's a magic item for massaging scalps. I figured some direct physical stimulation might help jog her memory.
+aqua: Hmm... It lacks...oomph. What about this pronged stick? 
+aqua: Seems perfect for dishing out a good whack.
+kazuma: Stop trying to bludgeon people! 
+kazuma:  ...Huh? This is a shoulder massager. While it can be used to administer LIGHT strikes—
+shelly: You recognize this, Kazuma? 
+shelly: Legends say that it is an incredible device, capable of curing all manner of ailments.
+megumin: Legends, eh? 
+megumin: Do you think if we use that shoulder ma-whatsit to thwack Lilsis's head, then perhaps...
+darkness: Not so fast! 
+darkness: The princess's head is not a broken tool to be knocked into working order. One wrong step and...
+iris_adventurer: I see... I'm a little scared, but this is a magic item of legend. 
+iris_adventurer: If you think it'll work, then please—have at it.
+kazuma: No, there will be none of that, Lilsis.
+darkness: H-How are you, Princess? The day's fatigue getting the better of you?
+iris_adventurer: I-I'm fine, really. But the pace at which we're trying out these items is tremendous. I find it somewhat tiring.
+aqua: Ultimately, we just ended up giving her a good head and shoulder massage.
+shelly: Sorry. Each item here is quite rare, and backed by literature claiming they can instantly heal a host of maladies...
+kazuma: Uh...everything here's some kind of massage apparatus. 
+kazuma: This entire world needs to revisit its understanding of magic.
+iris_adventurer: Thank you for taking the time to procure all these items. It is a shame that not a single one worked...
+darkness: Don't worry about the things you can't change, Princess. If there's one thing your people need most, it's your smile.
+iris_adventurer: All the more reason to act with haste. 
+iris_adventurer: I can't feign illness and hide myself away forever. 
+iris_adventurer: I must regain my memory as soon as possible. 
+iris_adventurer: But how...?
+kazuma: In that case, why not just go public with the truth? 
+kazuma: Those who care for you are sure to understand.
+iris_adventurer: I thought so as well, 
+iris_adventurer: but Claire and Rain advised against making it public knowledge...
+iris_adventurer: If the person sworn to protect the kingdom is without her memories, it would cultivate fear and may tempt the Devil King into action.
+megumin: Princesses sure have it tough.
+darkness: Belzerg's precarious financial state also complicates the matter, with the kingdom having to borrow from Elroad. 
+darkness: News of Iris's crisis would both embolden the Devil King while simultaneously straining our relationships with other kingdoms.
+kazuma: *Sigh* Nothing's simple when you're in charge.
+aqua: How tragic. Why are people so quick to stir up conflict?
+megumin: How about a change of pace? Sitting here won't do anything. 
+megumin:  Let's return to the capital and give our friends an update.
+iris_adventurer: True. Rain and the rest looked after my duties for far too long. We need to discuss our next steps. 
+iris_adventurer: Let us be off.
+kazuma: I haven't been here in a while, but the capital feels far less lively than before.
+iris_adventurer: I would have to agree. The streets are barren—all the way up to the castle itself.
+shelly: Look, over there! Someone's fallen!
+Soldier: U-Urrrrgh...
+darkness: It's a castle guard. 
+darkness: Heal him, Aqua! ...Are you well? What happened here?
+Soldier: *Gasp* We were attacked. They came out of nowhere...
+megumin: Who're "they"? 
+megumin: Monsters?
+Soldier: No, we were attacked by a bevy of beautiful women... Like that one over there!
+Lady Golem: Brother located... Proceeding to clean!
+kazuma: THOSE things again?! I was hoping our last encounter taught them a lesson!
+aqua: Kazuma, you really do have a knack for this kind of thing...
+megumin: No time for bickering. Here they come!
+Lady Golem: Must cleaaaaaaaaan!

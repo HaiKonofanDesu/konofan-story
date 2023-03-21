@@ -1,0 +1,102 @@
+A Shop for Samuidoh's Crops! - P1
+mel: Wh-Who are you two...?
+ナレーション: Daniel and Charlie, the supposedly deceased adversaries of Kazuma and the gang, had appeared in Mel's new home.
+daniel: It's been far too long, my dear Mel. Remember me? My name is Daniel.
+mel: How do you know my name? I've never met either of you.
+charlie: H-How could you forget?! 
+charlie: It's me—Charlie!
+daniel: Aha. This indeed would be our first encounter, technically 
+daniel: speaking. In these frail human forms, anyway. Haaaaaagh!
+daniel_troll: Now do you remember? Do you remember the day you infused our cold, lifeless bodies with the gift of blessed life?
+mel: Whew. Dragging these two out of the morgue was no easy task. 
+mel: This friendship thing takes work.
+mel: I'll resurrect you both with this special Spirit Serum! 
+mel: Now, open your eyes!
+daniel_troll: Ungh... 
+daniel_troll: Huh? I'm... 
+charlie_troll: L-Lord Daniel! Is this heaven? O-Or perhaps some kind of hell?
+mel: Haha! Looks like the Spirit Serum actually worked! 
+mel: Now that you're resurrected, I want you to be my friends!
+daniel_troll: Wh-Who are you?
+mel: I am the lightning spirit, Mel! Now, thank me for bringing you back to life by being my friends, 
+mel: okay?
+mel: *Sigh*
+charlie_troll: Offering my friendship is the least I can do after receiving the priceless gift of life.
+mel: Actually, that's quite all right. You two are, to put it delicately—ugly. Uglier than a monkey's armpit.
+Daniel, Charlie: Us? Ugly?!
+charlie: The mere memory makes me shudder. Even if we may not be the definition of dashing, 
+charlie: there's no need to say it!
+daniel: Charlie, calm yourself. We owe her an eternal debt. It's not our place to protest her aesthetic sensibilities.
+daniel: If I may change the subject, you are still looking for friends, yes? I have a simple and effective solution.
+mel: Oh? Fine, let's hear it.
+daniel: Make the world yours: utterly and entirely. Then anyone and everyone will be your friend. I can help make it happen.
+daniel: In return, I simply wish for your help cultivating a relationship with a certain dancer. There may be casualties, but I assure you—
+mel: I promised Kazuma and my new friends that I would never kill again.
+charlie: ...Ka...zuma? 
+charlie: That insufferable adventurer?!
+daniel: Detach yourself from that loathsome parasite. Time and again 
+daniel: he plunged us into peril with his underhanded tactics!
+mel: At least they aren't as ugly as a mud fence. Plus, I don't even want to take over the world.
+mel: Right now, I desire two things and nothing more: friends... 
+mel: And enough coin to cover my living expenses. 
+charlie: Living expenses, eh? There's a topic that brings reality crashing down. How about working part-time?
+mel: Working? Part-time? 
+mel: Explain.
+charlie: Waiting tables, manual labor... 
+charlie: Menial work for an hourly wage.
+mel: Where there's work, there are people. 
+mel: And where there are 
+mel: people, there are friends to be made!
+mel: I'll do it! I'll work part-time! Where's Squall? 
+mel: I need his advice!
+daniel: Mel?! ...She's gone. Such power at her disposal, and yet she's content 
+daniel: to waste it on petty wages? What profligacy.
+charlie: Agreed. This opportunity is simply too good to pass up. 
+charlie: Surely there's some way we can trick her into siding with us!
+daniel: We will find it. Then vengeance upon Kazuma Satou will be ours! 
+daniel: And my one true love, Lia, will be mine again!
+charlie: The man sure is committed, I'll give him that much. 
+charlie: Wait... Again? She was never yours to begin with!
+aqua_winter: No blizzards, no cold wave... Those greenhouse crops will be shooting out of the ground in no time flat.
+miia: Yep, yep! The villagers are happy. The corn's happy. 
+miia: Heck, I'm happy too!
+Amy: Kazuma, the produce is all packed. These boxes go straight to the royal capital. Thanks for your help.
+Cabbage: Cabba-cabba-cabba...
+Corn: Corn, cuh-corn...
+kazuma_winter: The shipment...is speaking. And the boxes are shaking too. 
+kazuma_winter: I'll never get used to this world...
+darkness_winter: Well, everything's packed away. Now there's the matter of 
+darkness_winter: shipping. Paperwork, too... Wow, this is pretty hard.
+megumin_winter: You can say that again. We're supposed to go questing once 
+megumin_winter: this is over. But at this rate, we'll never start!
+kazuma_winter: What do you expect? We're shorthanded. If only we had more staff...
+mel: Heh. In need of help, are we?
+aqua_winter: Oh. Hiya, Mel. That paper in your hand—could it be?
+mel: Your Help Wanted ad? It most certainly is! Says you're in need of packing staff. 
+mel: Luckily for you, I'm here to help!
+kazuma_winter: Nah, we're good.
+mel: Wha...? But you just said you need more hired hands. 
+mel: Don't be shy. I'm more than happy to offer my assis—
+kazuma_winter: We're fine. Really. We need workers, not pranksters.
+mel: Okay, okay. I may or may not have been planning to pull the occasional prank.
+kazuma_winter: "May not"? Just say you were, for crying out loud! 
+megumin_winter: What brings you to Samuidoh anyway?
+mel: I told Squall I'm interested in working part time. He said you're hiring and handed me this ad you put out.
+mel: Please hire me! I really need this job. I promise to keep the pranks to a bare minimum. Honest!
+kazuma_winter: Hmm...
+darkness_winter: You're making a mountain out of a molehill. So long as you're there to keep watch, how many pranks can she pull?
+megumin_winter: Yeah. Rather than risk something happening in your absence, stick close by—so nothing happens at all.
+kazuma_winter: Huh. Never thought of it that way. 
+kazuma_winter: Okay, fine. You're hired. But you're starting off at five hundred Eris an hour.
+mel: No problem!
+miia: Startin' tomorrow, Mel's working alongside us, eh? 
+miia: Oh, I can't wait!
+Amy: Hehe, look, Mia's glowing with joy. I'd love it if you 
+Amy: played with Mia, Mel.
+mel: W-Well since you asked so nicely, how can I refuse? 
+mel: Play with her I shall!
+kazuma_winter: You can play...but make sure the job gets done, okay?
+mel: You can count on me!
+kazuma_winter: So you say... If Mel goes berserk again, there's no way I can handle her alone. 
+kazuma_winter: I should ask Squall for help watching her.
+ナレーション: So began Mel's first foray into the workforce...

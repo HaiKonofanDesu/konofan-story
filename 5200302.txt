@@ -1,0 +1,33 @@
+Last Snow Day of Winter
+dust_winter: Woo-
+dust_winter: hoo!
+lean_winter: Dust, you're going way too fast!
+dust_winter: C'mon, Rin. What's the point of sledding if you don't go fast?
+dust_winter: When chicks see how I handle this sled, they'll fall head over heels.
+dust_winter: Okay! I'm gonna go for it! Time to head down to where all the girls are!
+lean_winter: Hold on, Dust! That's not—
+dust_winter: Hah... The wind's really picking up! Where'd the cabin go?
+lean_winter: I tried to stop you. Didn't you see the no entry sign?
+dust_winter: Overcoming life's little challenges like this is what being a man's all about.
+dust_winter: Ow! What was that for?!
+lean_winter: What was it you were saying about overcoming little challenges? Try being a little more responsible for a change!
+lean_winter: Achoo
+lean_winter: !
+lean_winter: Well, do you have any bright ideas? We're going to end up getting lost out here!
+dust_winter: I'm sorry. This is all my fault.
+lean_winter: Dust?
+dust_winter: I cause nothing but trouble for you constantly. I'm a pathetic excuse for a man.
+lean_winter: Hey, what's gotten into you all of a sudden? This really isn't the time for—
+dust_winter: No, this is the only time. There's something I need to tell you.
+dust_winter: Rin...
+dust_winter: Please! Lend me some money!
+lean_winter: You already know my answer to that!
+dust_winter: Ungh... It didn't work. I figured I had a shot because of the situation we're in.
+lean_winter: Look, the snow stopped. We'll catch cold up here, so let's head back to the cabin.
+dust_winter: Wait! Before we go, lemme have just ten thousand Eris—
+lean_winter: Knock. It. 
+lean_winter: Off!
+dust_winter: That's quite...a right hook...
+lean_winter: Hmph. Even up in the mountains, this guy 
+lean_winter: is the worst!
+ナレーション: Rin loaded Dust's unconscious body onto the sled and hauled it back to the cabin.

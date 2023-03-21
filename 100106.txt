@@ -1,0 +1,85 @@
+An Adventure with This New Party! - P6
+kazuma: Erika! Look out!
+lia: Hyaaagh!
+Beginner's Bane: Rrraaawwwrrr!!!
+kazuma: Whew, we made it. 
+kazuma: You okay, Erika?
+erica: Hmph! I didn't ask for your help.
+lia: You idiot!
+erica: Ah...
+kazuma: Whoa! You didn't have to slap her.
+lia: Erika! Why'd you go off on your own?!
+erica: ...I just wanted the Alexandrite. With four million Eris, we could put on a show for all our fans.
+lia: Even so, that was dangerous... What if you'd gotten killed?! You'd never get to see your parents again!
+erica: Ungh...
+aqua: Hold on. There's something deeper going on here...
+darkness: Perhaps we shouldn't pry...
+cielo: We weren't exactly hiding it, but Erika was raised in an orphanage. She's never met her parents.
+cielo: She thinks her parents will come for her if she's cute. She became a dancer hoping her parents would hear about her...
+kazuma: I see... So that's why she's obsessed with being cute.
+cielo: Erika, Lia's only angry because of how much she cares about you.
+erica: You think I don't know that?
+cielo: So what should you do? If you think you did something wrong, shouldn't you say you're sorry?
+erica: ...I'm sorry. And...thank you...for saving me.
+lia: As long as you understand. Just don't do anything reckless like that again.
+lia: We can't be a dance trio if one of us is gone. Let's make sure we can keep sharing the stage together.
+erica: Yeah... You're right! I'm so sorry!
+erica: Waaaaaah! I'm sorry, Lia! I'm sorry, Cielooo!
+ナレーション: Erika sobbed into Lia's chest while Cielo gently patted Erika's back...
+darkness: She puts on a brave face, but her situation is clearly more complicated than it appears.
+kazuma: In that case, this must be fate. If there's anything we can do to help, don't hesitate to ask.
+lia: Thank you, Kazuma.
+kazuma: Now that everyone's made up, why don't you shake hands? Go on, just take your hands and—
+lia: Kazuma, wait! Remember what happens if a man touches Cielo!!
+cielo: Noooooo!
+kazuma: Aaaaaaugh
+kazuma: !!!
+lia: *Sigh* ...I tried to stop you.
+cielo: I-I'm sorry! I didn't mean to!
+kazuma: Do you seriously think you can just get away with anything as long as you say you didn't mean it?
+questComplete: Gathering Quest:
+<size=90>Retrieve adamantite ore
+
+
+
+
+from the dungeon.</size>
+<size=90>Retrieve adamantite ore
+
+
+
+
+from the dungeon.</size>
+ナレーション: In the end, we decided to split the quest reward and the profits from the uncut Alexandrite with Lia's group.
+ナレーション: They used their reward to make new costumes and rent a small theater in Axel. On the day of the show...
+aqua: I've gotta say, it's surprisingly crowded... Do you think they're all fans of Lia's group?
+darkness: While they have traveled a great distance, it seems they hail from Axel. It makes sense for them to have many fans here.
+kazuma: I saw something like this on TV when I was in Japan, but never in this world...
+megumin: Oh! I think it's starting!
+erica_stage: Hey, everybody! Thanks for coming!
+cielo_stage: There's so many people here... Ahhh... I'm sorry, I'm sorry, I'm really very sorry...
+lia_stage: You don't have to apologize. It's been a while since we put 
+lia_stage: on a show, so let's introduce ourselves.\nWe are...
+Axel Hearts: The dance trio, Axel Hearts!
+cielo: W-We're gonna sing and dance our hearts out. So we hope everyone has lots of fun tonight!
+erica: You won't want to take your eyes off me! Gaze at my dazzling cuteness!
+lia: Now for our first song, "Bright Show"!
+aqua: Those girls are pretty good!
+megumin: They're driving the audience absolutely crazy.\n
+megumin: Still, it's nothing compared to my explosion magic.
+darkness: Yes... This is much more lively than traditional court music. It's quite enjoyable.
+kazuma: This is nice... Refreshing, even... They kind of remind me of Japanese idols... 
+kazuma: Wait. Idols?!
+darkness: You look rather serious, Kazuma. Does our debt still worry you?
+kazuma: No... 
+kazuma: I've got it. I've figured it out!
+aqua: Figured what out?
+kazuma: They're idols! IDOLS!!! 
+kazuma: They're basically a license to print money!
+kazuma: If they just polish their singing and dancing, they could become famous and make tons of money!
+megumin: Idols?
+aqua: They're highly merchandiseable people who put on shows for enthusiastic fans.
+kazuma: I've made up my mind! I'll be their producer!
+kazuma: We'll do shows at a bigger venue and make merchandise...
+kazuma: I'll use this to finally REPAY MY DEBTS!!!
+tough_guy: So you've set out on a new path. I may have just witnessed the birth of a new legend...

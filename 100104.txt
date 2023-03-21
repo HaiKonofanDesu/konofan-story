@@ -1,0 +1,84 @@
+An Adventure with This New Party! - P4
+ナレーション: The day had finally come for the party to go on a quest with the three dancers...
+lia: Thanks for helping us today.
+erica: I can't believe they're actually making us do a trial run. We're way too good for that!
+cielo: Don't be rude, Erika. We're the ones asking for a favor.
+megumin: It's all right. Nobody in this party is petty enough to get mad over something like that.
+darkness: Besides, we've been looking forward to doing a quest for a while now. Let's give it our all, everybody!
+aqua: Yeah! And as senior arch priestess, I can't let Cielo beat me!
+kazuma: Don't make this weird.
+kazuma: Hm. Going on this quest seemed like the right move, but who knows...
+kazuma: Maybe we should've just distanced ourselves before they realize we're the ones who burned up their costumes...
+？？？: Huh? Is that...
+dust: So it IS you, Kazuma! What are you doing here?
+dust: And where'd those cute girls come from?! You trying to seduce some new ladies without me?!
+kazuma: Don't make me sound like some kind of a scumbag! I'm not trying to seduce them!
+dust: Fine, fine. I won't press the issue.\nBy the way, I heard you had a little accident the other day.
+kazuma: Ack?!
+lia: ...The other day?
+dust: Yeah, some cabbages went on a rampage and attacked a performance group's cart.
+dust: On Kazuma's orders, the cart was blown to—
+kazuma: AAAAAAAAAHHH!!!
+dust: Whoa, what's with the screaming?
+kazuma: Let's go on that quest! Quickly, now!
+aqua: Slow down, Kazuma. What's the hurry? It's not like the quest is going anywhere.
+kazuma: You don't know that! We should really get moving!
+lia: O-Okay...
+kazuma: Let's go, everyone! We're out of here!
+dust: Kazuma, wait! Jeez, what's his problem?
+questStart: Gathering Quest:
+Retrieve adamantite ore
+
+
+
+
+from the dungeon.
+Retrieve adamantite ore
+
+
+
+
+from the dungeon.
+kazuma: Adamantite is used to make weapons and armor, right?
+darkness: That is correct. My armor contains a small amount of it. It is near impossible to work with due to its hardness.
+aqua: You've got the Blacksmith skill, Kazuma. Maybe you can work with it without needing to go to the actual blacksmith.
+erica: Oh, who cares about that... Can we take a break?
+kazuma: What are you talking about? We just took a break.
+erica: Don't be like that. 
+erica: Pretty please?
+kazuma: Acting cute isn't going to help. The answer's still no.
+erica: Cute? 
+erica: Did you just call me cute?!\n
+erica: Oh, Kazuma, you're such a flirt!
+erica: All right! If I do my best, will you say it again?
+kazuma: What a pain...
+megumin: Getting excited over being called cute... Seriously?\nBeing cool is more important than being cute!
+erica: No way, cuteness is more important! Cute, cute, cute, cute, cute, cute, cute!
+megumin: Cool, cool, cool, cool, cool, cool, cool!
+cielo: U-Um...
+lia: Calm down, you two. Dungeons are full of traps and other dangers. We need to be careful.
+erica: Cute, cute, cu— 
+erica: ...Huh? Did I just step on something?
+Dancers & Megumin: Eeeeeek!!!
+erica: Ugh, this sucks! What is this?!
+aqua: Isn't it obvious? You're in some kind of trap.
+darkness: Indeed. The ropes appear to be digging into their skin... It must feel amazing.
+cielo: Don't just stand there talking about it, Darkness! Get us out of here!!!
+megumin: Th-This position...is really not good!
+megumin: D-D-Don't look, Kazuma! If you do, I'll fire my explosion magic right here!
+kazuma: Don't worry, I'm not looking.
+kazuma: I'm totally looking. And what a view!\nWhoever set this trap... Thank you!
+aqua: Listen up!
+aqua: Truth be told, I've been caught in plenty of traps. But each time, the experience helped me grow!
+aqua: So don't feel embarrassed just because you got caught. Be proud!
+kazuma: Ugh, she's just trying to show off for Cielo...
+lia: *Sigh* ...Erika, don't you have the Trap Detection skill?
+erica: Ah! It's been a while since our last quest, so I forgot... I'll make sure to use it next time.
+kazuma: Oops, my bad. I forgot that I have that skill too. But...
+darkness: H-Hey, Kazuma. Why are you simply standing there? We should hurry to their aid...
+aqua: Kazuma? Are you listening? Hey, Kazuma!
+megumin: Aah! This is going from bad to worse!
+lia: Hey, quit squirming. The rope's digging into me!
+cielo: Ahh...
+kazuma: Nice work, Erika. I think I see the value in Trap Detection now.
+ナレーション: And so Kazuma was convinced that good things could come from having dancers in your party...

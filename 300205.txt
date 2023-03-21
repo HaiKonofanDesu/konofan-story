@@ -1,0 +1,90 @@
+Peace for the Master of This Labyrinth! - P1
+ナレーション: Kazuma's party was deep in debt and could no longer make due through questing alone.
+kazuma: We're heading to a dungeon tomorrow.
+megumin: No way. I can't use explosion magic indoors, so what's the point in going to a place like that?!
+aqua: And a dungeon of all places... Can't we at least wait until Darkness gets back?
+kazuma: Listen, our debt is big enough to be the budget for a small country! We're gonna starve to death if we don't do something!
+aqua: Even after I got a raise at my milk carton folding job? And selling vegetables non-stop?
+kazuma: I'm telling you, part-time jobs and working from home aren't enough to dig us out of this hole!
+kazuma: Look at this, both of you. It's a new quest.
+megumin: Keele's Dungeon is for beginners. They've already explored every last corner of it.
+luna: Allow me to explain. 
+luna: You see, a new passage was recently discovered.
+luna: I was just about to post a large-scale research quest...
+kazuma: But I put in a request, and she let us grab it first.
+aqua: I get it! Unexplored territory gives us a better shot at finding treasure!
+questStart: Exploration Quest:
+
+
+
+Keele's Dungeon
+
+
+
+<size=70>Scout the new route.</size>
+
+
+
+
+
+
+<size=50>Difficulty: Unknown</size>
+
+
+
+Keele's Dungeon
+
+
+
+<size=70>Scout the new route.</size>
+
+
+
+
+
+
+<size=50>Difficulty: Unknown</size>
+megumin: They say that Keele's Dungeon was built long ago by the most powerful arch wizard in the kingdom.
+aqua: What was he doing holed up all the way out here?
+kazuma: Who knows? But people have been looking for him ever since he died.
+kazuma: Megumin, you can't use your explosion magic in there, so wait here. Let's go, Aqua.
+kazuma: I can use my thief skills, Enemy Detection and Lurk... That'll let us avoid monsters. 
+kazuma: Plus, I have Farsight!
+kazuma: Now, I can see in the dark. Being able to use skills from any class is one of the few perks of being an adventurer.
+aqua: Wait. Can you really see okay?
+kazuma: I can see just fine. How about you?
+aqua: Hehe... Have you forgotten who I am? Arch priestess is just my cover. My real job is—
+kazuma: The goddess of debt, right?
+aqua: No! I'm still a real goddess! I may have weakened since coming here, but I still have some powers!
+aqua: I might not be all-seeing, but my eyes can cut through this darkness no problem!
+kazuma: She's walking as if she can see, but I'm worried about how she's gonna screw up deeper in.
+aqua: Undead wander in dungeons. They can detect the life force of living creatures and seek them out.
+aqua: In other words, your Lurk skill won't work. I'm stuck having to look after you!
+aqua: Treasure ♪ Treasure ♪ Lalalalalala! ♪
+kazuma: According to the map from the guild, we just press on this part of the wall sticking out... There, did that do it?
+aqua: There's the new passage! Everything after this is unexplored territory! Think of all the loot we're gonna find!
+kazuma: We'll be in trouble if we don't. Well, let's—
+kazuma: Eeep! Was that a monster?
+aqua: Oh, are you scared? My perfect vision can see you trembling on the floor in fear, you know.
+kazuma: Yeah, and I saw you pathetically jump at every little sound since we got here.
+aqua: I can run away just fine, so let me know if you sense a monster approaching.
+aqua: And don't try anything funny in the dark.
+kazuma: Let me tell you what's on my mind. I'm thinking as hard as I can of a way to ditch you at the bottom of this dungeon!
+aqua: Oh, Kazuma. You're such a kidder... *Chuckle*
+kazuma: Silly Aqua. We've spent enough time together for you to know I'm being serious when I say that. Ahahaha.
+aqua: Grrr... You stupid shut-in NEET... 
+aqua: Huh?
+aqua: Hey, Kazuma! Look over there! It's a treasure chest! Real treasure! We did it!
+ナレーション: As Aqua started to dash toward the treasure chest in the corridor, Kazuma quickly grabbed her arm...
+kazuma: Wait! That treasure chest is simply too good to be true... It could be a trap. I'll use my Enemy Detection skill and—
+kazuma: Just as I thought! It's going off... Okay!
+ナレーション: Kazuma tossed a rock at the chest and a giant mouth appeared from the wall, swallowing the rock and the chest whole...
+kazuma: Th-That was gross! What was that?!
+aqua: That reminds me, I heard warnings about a monster called a dungeon mimic back at the guild...
+aqua: Sometimes they appear as humans and eat monsters, too.
+kazuma: I guess the law of the jungle applies to dungeons, too, huh? What a world...
+kazuma: There's no reason to fight that thing. Let's try to go around it instead. Be careful!
+ナレーション: Meanwhile...
+darkness: S-Stop it! Leave me alone... Haven't you brought enough shame upon me?!
+darkness: I will cut you down where you stand!
+ナレーション: At the nobleman's manor, Darkness screamed in agony...

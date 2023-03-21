@@ -1,0 +1,47 @@
+Sparkling Summer! Swimsuit
+ナレーション: Darkness went to buy a swimsuit for a quest at the beach...
+Shopkeeper: Welcome! Can I help you find something today?
+darkness: Would you tell me where your swimsuits are?
+Shopkeeper: You can find our selection of swimsuits over there in the corner where the other customer is browsing.
+？？？: Hmm... I wonder which one I should get. The more I look, the harder it is to decide.
+darkness: Yunyun, is that you?
+ynyn: Oh! Darkness! What a coincidence! I wasn't expecting to see you here.
+darkness: Did you come to buy a swimsuit too?
+ynyn: Is that what you're here for?
+darkness: Yep. There are a lot of quests at the beach this time of year, so I figured I should have one. 
+darkness: What about you?
+ynyn: Me?! W-Well, I thought it would be best to have one in case I get invited to the beach. 
+ynyn: It's so hard to choose, though.
+ynyn: If it's not too much trouble, would you help me pick one?
+darkness: Sure. How about we help each other?
+ynyn: Th-thank you so much!
+darkness_swimwear: How are you doing, Yunyun?
+ynyn_swimwear: Almost got it... There, all finished! What do you think 
+ynyn_swimwear: of 
+ynyn_swimwear: this one?
+darkness_swimwear: It looks great on you. Really matches your hair.
+ynyn_swimwear: Y-You think so? 
+ynyn_swimwear: I think yours looks really cute too. 
+darkness_swimwear: Thanks. I'm glad I bumped into someone who could give 
+darkness_swimwear: a second opinion. I'm curious about something, though.
+darkness_swimwear: You're the same age as Megumin, right?
+ynyn_swimwear: That's right. Why do you ask?
+darkness_swimwear: Oh, it's nothing! I was just worried because that swimsuit looked a little uncomfortable.
+ynyn_swimwear: Eek! Y-You think so?! I was wondering about that myself. 
+ynyn_swimwear: M-Maybe I should get one that's a bit bigger...
+ynyn_swimwear: The real reason I'm here is because I can't fit in the 
+ynyn_swimwear: swimsuit I bought last year anymore.
+darkness_swimwear: Is that so? To tell the truth, that's why I'm here as well.\n
+darkness_swimwear: Talk about a coincidence. Hehe.
+ynyn_swimwear: Hehe! Yeah!
+darkness_swimwear: So do you already have plans to go to the beach?
+ynyn_swimwear: Not at the moment, no. But after all the help you gave me picking one out, I hope I get the chance soon.
+darkness_swimwear: I see. If an opportunity to head to the beach arises, 
+darkness_swimwear: I'll be sure to let you know.
+ynyn_swimwear: R-Really?!
+darkness_swimwear: Of course. As long as I can count on you for some extra 
+darkness_swimwear: firepower. It'll probably be for a quest, after all.
+ynyn_swimwear: I-I can't believe it! An invitation to go to the beach with friends?! 
+ynyn_swimwear: This is like a dream come true!
+ynyn_swimwear: I promise to do my best to make lots of friends in my new swimsuit this year!
+ナレーション: Yunyun's overwhelming enthusiasm was so contagious that Darkness began looking forward to going as well...

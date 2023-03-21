@@ -1,0 +1,30 @@
+Starry Arabian Nights
+ナレーション: As always upon arriving at some ruins, Melissa sought one thing: treasure. Joining her was a certain sword master...
+melissa_arabian: I never imagined you'd ask to go questing with me.
+mitsurugi_arabian: Am I not allowed?
+melissa_arabian: Of course you're allowed. Unlike that motley riffraff we know, you have talent. 
+melissa_arabian: And I welcome those with talent.
+mitsurugi_arabian: Haha, I'm honored. It's not often one can say they've braved the field with a renowned treasure hunter like yourself. 
+mitsurugi_arabian: With you at my side, I'm certain I'll find a prize like no other in these ruins.
+melissa_arabian: His gaze burns with passion... 
+melissa_arabian: Am I the treasure he seeks? It certainly seems that way.
+melissa_arabian: I hope you're okay with some heat. It's practically boiling within these ruins. 
+mitsurugi_arabian: Hence this get-up. I'll be fine—let's be off.
+melissa_arabian: There! I've found it! And with surprising ease. 
+melissa_arabian: It's all thanks to you, Mitsurugi.
+mitsurugi_arabian: I merely did my duty, as any sword master would. 
+mitsurugi_arabian: I also found the treasure that I so eagerly sought...
+mitsurugi_arabian: This tropical fruit!
+melissa_arabian: Come again?
+mitsurugi_arabian: Fruit! Sweet, edible gems of the tropics! Lady Aqua wanted them. When I heard they only grew here...
+mitsurugi_arabian: ...I knew braving these halls with the greatest treasure hunter would certainly prove...fruitful! 
+mitsurugi_arabian: Thank you.
+melissa_arabian: Meaning you came on this treasure hunt with me just to find Aqua an afternoon snack?
+mitsurugi_arabian: But of course! And in pleasing Lady Aqua, I can also lend my
+skills to your pursuits. 
+mitsurugi_arabian: Two birds with one stone.
+mitsurugi_arabian: Well, I'd better procure a box to present these... 
+mitsurugi_arabian: Or should I serve them on a plate so she can eat them right away?
+melissa_arabian: Ugh. Usually I can read men like a book... 
+melissa_arabian: Just you wait, boy. The next time we meet, your heart will be my plaything.
+ナレーション: Mitsurugi beamed with joy, entirely unaware of the predatory glare piercing him from behind...

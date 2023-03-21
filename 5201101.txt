@@ -1,0 +1,28 @@
+Re:ZERO Collaboration Recruit
+aqua: Finished! Here are your new outfits!
+emilia: Wow! They look just like clothes we have.
+rem: Your sewing skills are impressive. On par with a lady's maid, even.
+aqua: It was nothing, really. 
+aqua: I'm pretty proud of them, though.
+aqua: It's not often I wear new clothes. Do you mind if I try it on? 
+aqua: Here, Megumin! Try this one!
+megumin_lightcloth: What?! Why me?!
+aqua_R: Ta-da! Well, how do I look?
+rem: You are beautiful, Lady Aqua.
+emilia: Aqua, you look wonderful! But Rem, don't you think that Megumin 
+emilia: is adorable in your outfit too?!
+megumin_R: Thank you.
+megumin_R: Though, it does feel pretty loose in the chest area...
+aqua_R: Well, I used Rem's measurements... It's a little big for you. 
+aqua_R: Wanna stuff something in there?
+megumin_R: No! Absolutely not!
+rem: Well, it will be difficult to move in if we don't adjust it 
+rem: to fit your body. Megumin, I shall resize it for you.
+megumin_R: Do we really need to talk about this right now? 
+megumin_R: Where are your priorities?!
+emilia: Haha... It's been a while since I've relaxed like this.
+aqua_R: It's all part of the Order of Axis's teachings. 
+aqua_R: "If you are troubled, take time to enjoy life."
+aqua_R: You can't be straining yourself all the time. Why not relax until you return to your world?
+emilia: You're right. Thank you!
+ナレーション: With a new group of friends by their side, Emilia and Rem enjoyed a long-deserved break...

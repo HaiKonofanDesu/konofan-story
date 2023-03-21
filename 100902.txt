@@ -1,0 +1,92 @@
+A Final Battle for This Newbie Town! - P2
+ナレーション: After using Thor's Hammer to wreak havoc on the capital, Daniel and Charlie were enjoying a drink in their castle...
+charlie: That was wonderful! Those insects in the capital were scared witless! The Devil King is sure to contact you any day now!
+daniel: Why, thank you. I know it has been hard for you ever since I was banished from the Devil King's army.
+daniel: But now that I have Thor's Hammer, I vow that our lives will be very much improved.
+charlie: Lord Daniel, you are too kind. I am overcome with joy 
+charlie: to hear you say such things.
+daniel: We'll need to deal with that magical keyboard, however. I didn't realize it could withstand the hammer's lightning.
+charlie: What would you like to do, my lord? If you wish, I shall help you steal 
+charlie: the keyboard from Lia right away.
+daniel: Let's not be too hasty. The keyboard's power is indeed formidable, 
+daniel: but at the same time, Thor's Hammer has not lost yet.
+daniel: Besides, if I confront her directly, I may end up harming her again as I did on Mount Worm.
+charlie: If you wish not to harm Lia, should we focus on other towns where we know she is not present?
+daniel: Yes, demonstrating my power will be the quickest way to convince her to finally join me!
+daniel: "Oh, Daniel! I had no idea you were so strong! Marry me so I can dance for you every day!"
+daniel: Her love for me shall be rekindled, and she will finally become my wife! 
+daniel: I am sure of it!
+charlie: I wouldn't bet on that...
+daniel: That reminds me... Lia's magic item is not the only thing we need to worry about. That Kazuma Satou also concerns me.
+charlie: He does seem rather capable, and he's willing to use such cowardly means to accomplish his goals. He's a total fiend!
+daniel: He may even now be planning something more heinous than before. We should proceed with caution.
+ナレーション: Kazuma, a man regarded as dangerous even by the wielder of Thor's Hammer. Yet now...
+Jailer: Prisoner #920! You have visitors!
+kazuma: My name isn't a number! It's Kazuma Satou!
+kazuma: I can't believe they threw me in jail on suspicion of colluding with the enemy. Why is this happening again?
+Jailer: Prisoner #920, you've got 30 minutes. It looks like a whole mess of your friends showed up today.
+aqua: What happened, Kazuma?! Why were you arrested?! What was it this time? Do I have to apologize for you again?
+kazuma: I didn't do anything! I'm being detained as a suspect, but I'm innocent!
+aqua: Then why do you have a prisoner number? Geez, I wish you would stop committing crimes, Kazuma! 
+aqua: Waaahhhhhh!
+kazuma: Cut it out with the waterworks already. 
+kazuma: Besides, this is all your fault for reviving a certain ancient weapon that will remain unnamed!
+dust: Hey there. Enjoying the food here? This place isn't so bad, once you get used to it. I'm a frequent visitor, you know.
+kazuma: Dust? You came all the way to visit? That was nice of—\n
+kazuma: Hold on! I don't want to get used to this place!
+melissa: That's too bad, I think it suits you. A filthy man eating nothing but rotten food? It's like poetry.
+kazuma: Who are you calling filthy?! 
+kazuma: Just because they won't let me take a bath here doesn't mean I never take them!
+megumin: Kazuma! Kazuma! Should I blast a hole in the wall so you can bust out of this place?
+kazuma: Say what now? If I did that, I'd be an actual criminal.
+cecily: If you're against destroying the wall, how about letting a certain golden-haired beauty seduce the guards while you escape?
+kazuma: If you're trying to recruit me into your cult, forget it.
+cecily: I only have one condition. Once you're free, you join the\n
+cecily: Order of Axis and—
+kazuma: I knew it! Absolutely not! I think I've had about enough for one day. 
+kazuma: None of you are taking this seriously, are you?
+Amy: Kazuma, we brought you some vegetables.
+miia: Hey there, criminal!
+kazuma: Thanks, Amy. I owe you one! Oh, and Mia? 
+kazuma: I'm not a criminal, got it?
+Amy: Would you like a fresh carrot, Kazuma? Say "ahhh."
+kazuma: Ooh, there's nothing better than being fed by a cute girl! 
+kazuma: It'd be better if I wasn't in prison, but I'll take it!
+miia: Wow, fresh carrots! I want some too!
+Amy: Mia, you always have such a healthy appetite. 
+Amy: But that's just another one of your cute points. Say "ahhh."
+miia: Ahhh. 
+miia: Oh, it's super tasty!
+kazuma: Hey, um... What about mine?
+Amy: Sorry, but that's all I brought today. 
+Amy: We'll have to come back again another time.
+kazuma: What the heck did you even come for?! 
+kazuma: Does anyone actually care that I'm stuck in here?!
+kazuma: It sure is nice having friends in high places. Cielo, 
+kazuma: Lalatina, 
+kazuma: thanks again.
+darkness: Kazuma, if you don't want me to leave you in prison, then stop calling me that.
+cielo: This was quite an unfortunate misunderstanding. I still can't believe they accused you of working with Daniel.
+darkness: If we hadn't stepped in when we did, it's possible that you would have been executed.
+kazuma: I already said I'm grateful. 
+kazuma: I knew you were from a noble family, but I didn't know Cielo had so much pull.
+darkness: Cielo's parents actually paid the majority of your bail. Thank you again for your help, Cielo.
+cielo: Please, don't mention it! I owe Kazuma for always being so kind to me!
+cielo: My family's land is near Elroad. We're more than happy to assist in matters of money.
+kazuma: Elroad, huh? You'll have to show me around the next time I'm in the area. I can pay your parents back in person.
+cielo: Of course.
+kazuma: All of this is that Daniel's fault! I'd chase him down and deal with him myself, but...
+kazuma: The capital put a 500 million Eris bounty on his head, but my bail was 800 million. That still leaves 300 million.
+kazuma: Even after putting my life on the line to take down several Devil King generals, I'm still in debt...
+kazuma: All right then, I'll forget about Daniel for the time being. 
+kazuma: Now, let's focus on winning that contest.
+cielo: Um, I'm glad you're so enthusiastic, but...
+kazuma: What's wrong, Cielo? You never look this gloomy.
+darkness: Kazuma, while you were in prison, Lia made an announcement.\n
+darkness: She's leaving Axel Hearts.
+kazuma: Is that so? Well the system is merit-based, so we should—
+kazuma: Wait, WHAT?! Where's Lia?! She needs to explain herself!
+cielo: I think she's at home today.
+kazuma: If Lia leaves, what happens to Axel Hearts? 
+kazuma: What about the contest? What about my debt?!
+ナレーション: Kazuma rushed to the house Axel Hearts shared...

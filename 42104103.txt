@@ -1,0 +1,87 @@
+School Life for This Shut-in NEET! - P3
+ナレーション: I'm Kazuma Satou. My dad's a megacorp president and my childhood friend is back in my life. All normal stuff, no?
+iris_school: Rise and shine, Kazuma. I made toast, let's eat!
+ynyn_school2: You'll make it on time for school if you know what's good for you. C'mon and get dressed. 
+erica_school: Is there a better sight to wake up to than your drop-dead gorgeous childhood friend? I didn't think so!
+kazuma_school: F-Five more minutes...
+Everyone: NOW!
+kazuma_school: This is paradise. And though I want my newfound school life to continue on forever...I must remain vigilant.
+kazuma_school: For I am not a passive protagonist merely waiting for girls to advance. No, I am a hunter—and hunt I must!
+iris_school: Brother! This is a surprise. Why're you at my 
+iris_school: classroom? What happened to practice?
+kazuma_school: Canceled. Coach came down with a fever. So, I thought I'd walk you home. 
+iris_school: Really? You're the best! Let me just get my stuff 
+iris_school: together and—
+clair: Not so fast, young lady. You have cleaning duty today. Which means you actually have to clean.
+iris_school: Oh, Ms. Claire.
+clair: You're usually a model student. It's unlike you to skip out on your duties.
+iris_school: I'm really sorry. It just slipped my mind.
+kazuma_school: Please don't blame her, Ms. Claire. I'm the one that tried 
+kazuma_school: to pull her away. I'll wait downstairs, Iris. 
+iris_school: Thanks, Brother. 
+iris_school: I'll finish up here as soon as I can, okay?
+iris_school: *Pant pant* Sorry for the wait.
+kazuma_school: You didn't have to rush so much. 
+iris_school: Walking home together is a rare treat! I couldn't help it. Soccer turned you into the school hero. 
+kazuma_school: Now that's an exaggeration if I ever heard one.
+iris_school: But today, you're all mine to monopolize... Right?
+iris_school: I feel like it's been ages since we've done this.
+kazuma_school: That's because we used to go home together every day before I started soccer. 
+iris_school: Back then, I held your hand and didn't give a second 
+iris_school: thought to who looked. Now, other girls get jealous...
+kazuma_school: Does that mean you want to hold hands?
+iris_school: C-
+iris_school: Can we?
+**SelectLabel_A: Give me your hand.
+**SelectLabel_B: Hmm. I'm not so sure...
+kazuma_school: Give me your hand.
+iris_school: O-Okay...
+kazuma_school: Haha. Why so nervous? Are you intimidated? 
+iris_school: No, I'm getting a bit self-conscious is all. I mean, it 
+iris_school: almost looks like we're...together. You know?
+kazuma_school: Hmm. I'm not so sure...
+iris_school: I knew it was a stupid idea. Just forget it. Only kid siblings hold hands. 
+kazuma_school: I'm joking, by the way. I just wanted to see how you'd 
+kazuma_school: react if I turned you down. Now give me that hand.
+iris_school: Y-You're so mean...
+kazuma_school: Little sis, you're the very definition of cute!
+iris_school: Compliments from you are the best, Brother. 
+kazuma_school: I'm envious of the lucky guy who gets to go out with you. After all, you're one of a kind.
+iris_school: Well.. If I got to choose, my choice would be you. 
+kazuma_school: Aw, you're a girl after my own heart. Thanks, Iris. 
+kazuma_school: But you're my adorable little sister. 
+iris_school: I suppose you're right... Well, I'm happy just to get to 
+iris_school: hold your hand.
+ナレーション: That night...
+iris_school: Hmm...
+kazuma_school: Something's not right. After getting to hold hands all the way home, Iris should be in a good mood.
+kazuma_school: But she's been short with me ever since dinner. Did I 
+kazuma_school: make the wrong selection? Or maybe...
+kazuma_school: Iris, did something happen? You seem a bit upset.
+iris_school: I really can't hide anything from you, can I? 
+iris_school: Father instructed me not to say anything, but the truth is...
+iris_school: Brother, you and I aren't...
+kazuma_school: We're not related by blood, are we?
+iris_school: Yes, that's right. 
+iris_school: We're not—Whaaat?! You knew this whole time?!
+kazuma_school: All right! Called it again!
+kazuma_school: No, not exactly. I've just had a feeling for a while now.
+kazuma_school: I mean, come on. We look nothing alike.
+iris_school: You've managed to surprise me once again, Brother. 
+iris_school: You really do see right through everything, don't you?
+kazuma_school: There's no reason to be upset, right? This doesn't change the fact you and I are siblings. 
+iris_school: Siblings... Yeah, you're right...
+kazuma_school: Hmm? What's wrong, Iris? Is something still bothering you?
+iris_school: Well, since we're not related by blood, I thought I could be your girlfriend instead.
+iris_school: But I suppose that wouldn't be right....would it?
+kazuma_school: That's my fault... I shouldn't have said it like that. If 
+kazuma_school: you really feel that way, then I'd be—
+？？？: He's completely out cold.
+？？？: If he doesn't wake up, I'm going to draw on him again.
+kazuma_school: Hey, don't you dare! Leave my body alone!
+iris_school: Brother?! What's wrong?!
+kazuma_school: Huh? 
+kazuma_school: I suddenly had the feeling someone was trying to pull a prank on me. Sorry, I must be imagining things.
+kazuma_school: What the heck was that? Oh well, right now I should be focusing on Iris! 
+kazuma_school: Things are going perfectly!
+kazuma_school: That just leaves my lovely neighbor, Yunyun!

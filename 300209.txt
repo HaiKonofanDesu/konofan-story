@@ -1,0 +1,115 @@
+Servitude for This Masked Knight! - P1
+sena: Kazuma Satou! There are reports of strange monsters pouring out of Keele's Dungeon since you left it!
+ナレーション: After listening to Sena, Kazuma and his party set out to investigate Keele's Dungeon...
+questStart: Exploration Quest:,
+<size=70>Uncover the truth behind
+
+
+
+
+the strange happenings
+
+
+in Keele's Dungeon.</size>,
+<size=70>Uncover the truth behind
+
+
+
+
+the strange happenings
+
+
+in Keele's Dungeon.</size>
+darkness: I don't understand why they're blaming Kazuma for this.
+megumin: Yeah, we have no idea how this could've happened.
+aqua: I knew the dungeon would be free of monsters after I took care of things.
+kazuma: "Took care of things"?
+aqua: The magic sigil I put in the lich's chamber should keep evil presences away from the dungeon completely!
+kazuma: I bet that's what's causing these monsters to leave the dungeon...\n
+kazuma: ...You idiot!
+kazuma: We have to remove that magic sigil before anyone notices!
+ナレーション: Lines of small, doll-like monsters with black and white masks marched out of the entrance to Keele's Dungeon...
+kazuma: Ooh, look at 'em. Those must be the mysterious monsters.
+darkness: Someone inside the dungeon must be summoning them.
+megumin: One of them is coming this way. Be careful!
+aqua: Huh? Hey, does this little guy want a hug or something? 
+aqua: He's clinging to my leg. What gives? It's kinda cute—
+aqua: Grrrghhh!
+aqua: ?!
+kazuma: They grab onto people and blow themselves up... Interesting.
+aqua: That's not interesting at all! What are you so calm for?! Worry about me for a change! Have some sympathy!
+darkness: The explosion wasn't that powerful. I can handle it. I'll take point and distract them. Follow me, Kazuma.
+ナレーション: The two left Megumin and Aqua behind to enter the dungeon. It was bright inside, indicating that the mastermind was within...
+ナレーション: Darkness led the way, shrugging off the exploding dolls like they were nothing, until they reached the dungeon's depths...
+？？？: Ungh...
+kazuma: That masked man appears to be making dolls out of clay. 
+kazuma: He must be their master.
+darkness: Hey, you. Are you the ringleader here?
+kazuma: Agh! You can't just walk up and talk to the enemy!
+？？？: Welcome, adventurers, to my dungeon.
+banil_nomark: I am one of the Devil King's generals and a duke of Hell who commands demons. None can escape my eye, for I am Vanir!
+questStartkinkyu: Emergency quest alert!
+The Devil King general
+
+
+
+
+
+Vanir is on the loose.
+
+
+Defeat him!
+The Devil King general
+
+
+
+
+
+Vanir is on the loose.
+
+
+Defeat him!
+kazuma: One of the Devil King's generals?! Let's get out of here, Darkness!
+darkness: A disciple of Eris will not flee in the face of demons! Besides, he is the master of those monsters we're after!
+banil_nomark: Hmph... I was using these to clean out any monsters still in the dungeon, but it seems their job is complete.
+banil_nomark: It's time to move on to the next phase of my plan.
+kazuma: Next phase? What are you scheming?
+banil_nomark: I am so glad you asked. It's my plan for ultimate ruin!
+banil_nomark: First I obtain a dungeon. Next, I fill its chambers with various demons.
+banil_nomark: Then come the grizzled adventurers! I await them in the dungeon's final chamber!
+banil_nomark: Then, at last, the final battle begins! After a terrible struggle, I am struck down, and a treasure chest appears.
+banil_nomark: They open it and stare dumbfounded at its contents: a lone scrap of paper that says, "Empty." 
+banil_nomark: That's how I wish to die.
+kazuma: This demon is the worst!
+banil_nomark: I happened upon this place and it seemed unoccupied, so I decided to claim it as my own.
+banil_nomark: But there is a vexing magic sigil inscribed in its depths. I cannot approach it. Why is it here?
+kazuma: That useless goddess!
+banil_nomark: Oh? A companion of yours is the one who created it?\n
+banil_nomark: Let's see... Allow me to take a look.
+kazuma: Wait, is he reading my mind?!
+banil_nomark: Mwahahaha! I see! I see! A priestess in your 
+banil_nomark: party created that troublesome sigil!
+banil_nomark: How dare she do something like that! I'll teach her a lesson she'll never forget!
+darkness: Not a chance! If you want to hurt Aqua, you'll have to go through me first! Hrah!
+banil_nomark: Mwahahahaha! Is this some kind of joke, lady knight? I admire your strength, but your aim needs work!
+banil_nomark: Ah... It would inspire even more despair if one of her 
+banil_nomark: companions were to slay her. I'm borrowing your body!
+Darkness: Noooooo!
+ナレーション: Vanir's body turned to sand and his mask attached itself to Darkness's face...
+kazuma: Darkness! Are you all right?!
+Vanir's Spirit: Mwahahahaha! Listen well, boy!\n
+Vanir's Spirit: Right now my power has—
+Darkness: What should I do, Kazuma? He's stolen my body!
+Vanir's Spirit: Well, boy? If you can attack her, then—
+Darkness: Don't mind me! Hit me as hard as you can! Quickly! This is an ideal, perfect situation!
+Vanir's Spirit: What is with you, girl?! How can you possess such a resilient—
+Darkness: This is what crusaders were born to do!
+Vanir's Spirit: Argh! Quiet! You must be something special to resist my mind control.
+Darkness: N-No...
+Vanir's Spirit: But how long can you resist? The more you struggle, the worse the pain will become!
+Darkness: Wh-What did you say?
+Vanir's Spirit: Mwahahahahaha! Writhe in sheer agony!\n
+Vanir's Spirit: Your torment will be exquisite!
+Vanir's Spirit: Hm? What's going on? Why am I sensing joy from you? Are you actually enjoying this, girl?!
+kazuma: Hang in there, Darkness. I'll go take care of the sigil.
+ナレーション: Kazuma left the possessed Darkness and ventured further into the dungeon to remove the magic sigil...

@@ -1,0 +1,70 @@
+BgCamera: NoWait
+A Second Death in This Freezing Season! - P2
+ナレーション: After dying in yet another world, Kazuma found himself in a strange space, sitting across the goddess Eris...
+kazuma_jersey: I remember this... It's like when I first met Aqua.
+kazuma_jersey: Are you a goddess from this world?
+eris: Yes, Kazuma Satou. 
+eris: You came to this world from peaceful Japan and met another unfortunate end...
+kazuma_jersey: Huh? Who is this goddess? Is she actually sad I died? She's so different from the useless goddess I know.
+eris: Allow me to use my power to ensure that you're reborn in Japan to a rich family and a comfortable life.
+kazuma_jersey: Huh? You can do that?
+eris: If that is what you wish.
+kazuma_jersey: No freakin' way!
+kazuma_jersey: I want above average physical and mental stats and a cute girl for a neighbor, if you could!
+eris: Uh, I'm not sure I can do all of that...
+kazuma_jersey: What a relief! I thought I was done for, but it looks like I made it by the skin of my teeth!
+kazuma_jersey: This must be my reward for working so hard all the time.\n
+kazuma_jersey: What an awful life that was!
+eris: Yes, I peeked at your life from time to time.\n
+eris: It seemed a bit difficult.
+kazuma_jersey: I'll say! That useless goddess I brought as my "bonus" was a total albatross around my neck.
+kazuma_jersey: And then there was that crazy wizard who collapses after a single spell, not to mention our masochistic crusader.
+kazuma_jersey: I was an adventurer, yet I had to work odd jobs and even hunt cabbages! Defeating a boss almost drowned me in debt.
+kazuma_jersey: And I nearly got hypothermia sleeping in the stables. The game balance of that world was completely busted.
+kazuma_jersey: H-Huh? What's this?
+ナレーション: A tear rolled down Kazuma's cheek as he complained...
+eris: You who will be reborn, may fate guide you to bliss...
+kazuma_jersey: Wow... I guess I got a little attached to that crazy world. I wish I could adventure with those—
+？？？: Come on, Kazuma! How could you drop dead like that?! You've still got work to do!
+kazuma_jersey: Huh?! Wh-What the...?!
+eris: That voice... Is that you, Aqua?
+aqua: Can you hear me, Kazuma? I cast a resurrection spell on you, so get your butt back here!
+kazuma_jersey: Oh, are you serious?!
+eris: W-Wait a second! You've been brought back to life once before, and the rules say you can't be resurrected again!
+kazuma_jersey: Aqua! She says I've been rezzed before, so the rules say it can't happen again!
+aqua: Huh?! What idiot of a goddess told you that?!
+kazuma_jersey: Um, a goddess named Eris...
+aqua: Eris? The one who got all cheeky because she has a few worshippers here and they named their money after her?
+eris: What?!
+aqua: Kazuma, tell her if she keeps flapping her lips, I'll show everyone how she pads her—
+eris: V-Very well! This is a special case! I'll let it slide! Here, let me open the gate for you!
+kazuma_jersey: You pad your shirt?!
+eris: That Aqua... She's always been so ridiculous!
+eris: Kazuma, was it? Um, could you do me a favor? 
+eris: Keep this between us.
+#081B3580: NoWait
+ナレーション: After making her request, Eris touched a lone finger to her lips...
+#081B3580: NoWait
+megumin_winter: Kazuma... Kazuma, come back! Kazuma!
+kazuma_winter: Nngh... 
+kazuma_winter: Huh?    
+aqua_winter: You're finally awake? Ugh, she can be so stubborn sometimes.
+Megumin ＆ Darkness: Kazuma!
+ナレーション: Overjoyed, with tear-filled eyes, Megumin and Darkness gave Kazuma a big hug...
+kazuma_winter: This is so embarrassing...
+aqua_winter: What are you embarrassed about, Kazuma?\n
+aqua_winter: Don't you have something to say? Well?!
+aqua_winter: Like a word of gratitude? Or an apology for sneering at a noble goddess like myself all the time?
+kazuma_winter: I want to swap this useless goddess for that cute one.
+kazuma_winter: I'd like a new goddess, please!
+aqua_winter: What?! You've got some nerve, you loser NEET! I can send you back to Eris right here, right now!
+darkness_winter: Now, now... Take it easy, Aqua.
+megumin_winter: How're you feeling? Do you hurt anywhere? After all, you were killed in a rather gruesome fashion...
+kazuma_winter: Huh?! How was I killed?
+aqua_winter: The Winter Shogun took your head clean off in a single blow. It was really quite spectacular.
+kazuma_winter: H-He cut off my head?!
+kazuma_winter: The winters in this world are harsh, with a scarcity of food and endless struggle, where only the strong survive.
+kazuma_winter: There are no quests for beginners like us...
+questRetire: Kill Quest:
+Defeat snow sprites!
+Defeat snow sprites!

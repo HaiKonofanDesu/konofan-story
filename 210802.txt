@@ -1,0 +1,66 @@
+Komekko - P2
+megumin: Komekko, don't run off like that!
+komekko: Oops! I'll walk off next time.
+megumin: You're missing the point... You're missing my grand tour of the town.
+komekko: Fine. I'll stay in place. 
+komekko: Ooh what's that yummy smell?
+megumin: ...Kids. Ahem. 
+megumin: This is Axel's most bustling hub of commerce. You can buy most anything here. 
+megumin: Huh? 
+megumin: Komekko?
+komekko: Now THAT looks yummy. *Drool* Say, Mister, what 
+komekko: kinda meat ya got there?
+Old Street Vendor: You've never had skewered blood fang before, little lady? That won't do. Care for a bite?
+komekko: I would care for many! 
+komekko: But I can't. I don't have even one Eris. Mommy and Daddy are sick and my sister works so hard...
+Old Street Vendor: I see. Life dealt you a tough hand. But you won't be going hungry on my watch, you sweet angelic bundle, you! Here!
+komekko: Thanks, Mister! 
+komekko: *Chomp chomp*
+komekko: Yum! 
+komekko: ...I just wish Mommy and Daddy could try even one bite.
+Old Street Vendor: What a caring little girl. A fledgling saint! Here, take some for your parents, you cherubic wonder!
+megumin: Komekko, what in crimson blazes are you doing over here?
+komekko: Stuffing myself silly. Look, I even got extra.
+komekko: Say, sis, I'm hankering for another free meal.
+megumin: Your stomach is on par with a giant toad's. It's baffling. 
+megumin: And that meal WASN'T free—I paid, I'll have you know.
+komekko: You're a star, sis. So responsible.
+megumin: Y-You think so? Well, naturally, seeing as I am the adult here! Now, to our next destination we traverse!
+megumin: When weary adventurers return from the field, they seek 
+megumin: relief, repose, and recreation...here, at the theater!
+megumin: Though we take most of our meals at the guild, the theater also serves food and drink.
+komekko: Did you say..."food"?
+lean: Hey, you two. Are you here to eat? 
+megumin: No, Komekko is getting a grand tour of the town. What business have you here?
+dust: We just pocketed a quest reward 
+dust: and I'm ready to live it up!
+lean: And I'm ready for it to disappear after we pay for lunch...and Dust's staggering tab.
+komekko: "Tab." 
+komekko: Isn't that the thing lazy dumb-dumbs use?
+lean: Exactly. You're sharp as a tack, aren't you, Komekko?
+dust: Try dull as a rock! I'm kind of a big deal 'round here. 
+dust: Kids wouldn't understand.
+dust: Forget the tab, let's chow down! Being the town's hero works up an appetite, you know.
+komekko: Chow...down... *Drool*
+dust: You hungry too? There's enough fried chicken for 
+dust: everyone to share.
+komekko: Thanks! *Chomp chomp*
+dust: Slow down, kid. You'll choke if you're not careful. Let's get some juice to wash that down.
+megumin: His manner is almost...brotherly...?
+lean: It's hard to believe, I know. But he's actually pretty good at caring for others. 
+komekko: Uh oh! I forgot—Sis said no free stuff. 
+komekko: How much do I owe?
+dust: You think I'd charge a little kid? 
+dust: C'mon.
+komekko: Wow! You're so nice and handsome, Dust!
+dust: Haha! You finally understand what makes me, Dust, so great. Eat up as much as you want!
+komekko: Okey dokey! Gee, Dust, you're really just the best. I bet you're 
+komekko: a real hit with the ladies.
+dust: Flattery will get you nowhere with me. 'Scuse me! Your best 
+dust: cut of steak. For the kid, if you would.
+lean: Uh, forgetting something, Dust? ...Like the tab?
+megumin: It's not entirely his fault. He's getting played 
+megumin: like a fiddle. Way to go, little sis.
+komekko: The hero of Axel, Dust! Say, mind if I order a smoke lizard burger?
+dust: Go right ahead. You name it, I'll get it.
+ナレーション: Komekko's ability to manipulate others inspired both fear and awe in Megumin.

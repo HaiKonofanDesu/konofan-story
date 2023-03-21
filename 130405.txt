@@ -1,0 +1,99 @@
+Some Ore for This Broken Magic Item! P5
+Announcer: Umm, "Explosion Goddess Lalatina and Friends"... Thank you, er, for that. Please exit the stage immediately.
+mel_stage: B-But why?
+Announcer: Because any more lightning will reduce everything and everyone here to ash.
+aqua: This isn't right! It wasn't supposed to go down like this! 
+aqua: We were gonna be showered in glory!
+darkness: I should've saved some energy for singing. The cold stares of the audience and judges are nigh unbearable... 
+darkness: Ohh!
+megumin: Even so, we made our mark. Today's performance will be immortalized for all ti—
+kazuma: Stop spouting nonsense! You almost blew the arena up with your explosion magic!
+kazuma: Apologize to the judges—now!
+shelly: I tried to sing, but nothing came out...
+iris_adventurer: You're far too hard on yourself. Thank you for trying.
+kazuma: I knew it. It'll take more than a ragtag crew of amateurs to win. 
+kazuma: Axel Hearts, it's all up to you...
+lia_stage: Having fun out there, everyone?
+erica_stage: Our performance today is more than just a catchy tune... Check out the dance moves Cielo and I are bringing!
+cielo_stage: And with that, 
+cielo_stage: cue the next song!
+iris_adventurer: A-Amazing! They're on a completely different level.
+kazuma: Well, they are professionals. This is far from their first show.
+iris_adventurer: To think that we've been privileged with the best seats in the house. Look at this crowd, Brother. They're ecstatic. 
+iris_adventurer: The girls of Axel Hearts just might have the greatest job ever—making people smile.
+iris_adventurer: And you're responsible for that happiness as well, Brother, as their producer.
+kazuma: Nah... Everything up there is thanks to the girls. Not me.
+lia_stage: *Pant pant* 
+lia_stage: Thank you, everyone!
+cielo_stage: The contest is far from over. Enjoy the rest of the show!
+erica_stage: And don't forget how cute I was, 'kay?
+Fan A: Wow! I knew Axel Hearts was the absolute best!
+Fan B: Say, that song... They changed some of the lyrics, right?
+Fan A: It sounded like a special version, just for today! The girls are on fire!
+kazuma: Nice. The crowd's really fired up.
+lia_stage: How was that? We decided to change it up a little bit.
+kazuma: It was spectacular! The audience went wild.
+erica_stage: I knew it! 
+erica_stage: My cuteness had them absolutely transfixed! 
+erica_stage: I hope I didn't set the bar too high for the next group.
+mel_stage: I guess that means first place will go to either Axel Hearts or us, then.
+kazuma: There are delusions of grandeur, and then there's Mel...
+iris_adventurer: Well, I think we can safely assume...
+Aqua, Megumin, Darkness: Congrats on winning the Showtime Sing-Off!
+kazuma: Axel Hearts won. Kind of a given, I guess. That new arrangement was amazing.
+erica: Hehe. Naturally! Lia's songwriting is next level!
+cielo: Lia came up with most of the changes. 
+cielo: We simply chimed in now and again. Then it was just a matter of practice!
+lia: Y-You give me too much credit. 
+lia: If it had just been up to me, I'd still be at my desk, staring at a blank page.
+mel: So close! We were so close to victory!
+kazuma: They were quite upset after you used your lightning... 
+kazuma: Really, I'm more impressed that you still thought you had a chance after that. 
+kazuma: But enough about that. Are you sure you're willing to part with this malenium?
+lia: Anything to regain Iris's memory! It's all yours.
+kazuma: Thanks a bunch. 
+kazuma: Hear that, Shelly? I trust you can take it from... 
+kazuma: Shelly?
+shelly: "You lost the contest. Now, accept your due punishment," 
+shelly: the producer growled, a sinister smirk dancing upon his lips.
+kazuma: Stop turning what we do into one of your novels!
+shelly: S-Sorry! 
+shelly: Leave the magic item repairs to me! It should be ready within a few days.
+iris_adventurer: A few days...
+kazuma: Yep. Hang tight! It won't be long now before your memory's back.
+iris_adventurer: Um...
+iris_adventurer: It's finally time.
+shelly: Thanks for your patience. The fully repaired magic item is right over here.
+kazuma: The artifact won't malfunction, I trust?
+shelly: Don't worry. You guys put in a ton of effort, so I triple-checked everything. 
+shelly: It's in complete working order.
+aqua: Why wouldn't it be? No one comes this far just to fail.
+darkness: Indeed. I'd no idea a single magic item would take us down such a winding path. 
+darkness: In retrospect, it seems all too fast.
+iris_adventurer: ...I was thinking the very same thing. 
+iris_adventurer: Our adventuring days have ended in all but an instant.
+iris_adventurer: Once we activate this item, all of my memories will return. As will my many duties as princess.
+kazuma: Something wrong, Iris?
+iris_adventurer: Oh, no, 
+iris_adventurer: not at all, Brother. I'm fully aware of what I must do.
+iris_adventurer: I was merely preoccupied with fond memories of our travels—and this bittersweet end. 
+iris_adventurer: But Claire and Rain work tirelessly for me at the capital. Likewise, I must serve the subjects of my kingdom. 
+iris_adventurer: Miss Shelly, please ready the magic item, if you will.
+shelly: As you wish, Princess... 
+shelly: I'll activate it now. Please stand still.
+iris_adventurer: U-Understood... 
+iris_adventurer: Um, Brother. I have one final request before going through with this...
+kazuma: And what would that be?
+iris_adventurer: My nerves are...somewhat strained. 
+iris_adventurer: Would you...hold my hand?
+kazuma: Huh?! 
+kazuma: O-Oh. Yeah, sure. Remember the time we met at the castle? 
+kazuma: I could hold you close if you want, just like—
+？？？: Arrrghhhhhhhhh...
+megumin: Hm? A voice... But whose?
+Lady Golem A: Target acquired. Neutralizing! Neutralizing!
+darkness: Those Lady Golems! There were more?!
+Lady Golem B: Brother... Masterrrrrrrrr!
+kazuma: Yeeeeeek! They're after me again! 
+kazuma: Oh, and I was just about to make a precious memory!
+iris_adventurer: D-Don't you dare hurt my brother, you fiends!

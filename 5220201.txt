@@ -1,0 +1,40 @@
+Yummy Treats Valentine
+ナレーション: Rin, Erika, and Komekko were busy helping Darkness make chocolates for Valentine's Day.
+lean_valentine: Hey, Komekko. Can you stir the chocolate for me please?
+komekko_valentine: Head Baker Komekko is on the case! 
+komekko_valentine: Stir the chocolate. Don't be hasty! Stir with care to make it tasty.
+erica_valentine: You're having lots of fun, Komekko! 
+komekko_valentine: It's a chant that makes the chocolate even yummier. You should try it, Erika.
+erica_valentine: Hehe, sounds fun! 
+erica_valentine: Chocolate, chocolate, don't dilute!
+erica_valentine: Stir with care to make it cute!
+lean_valentine: That's a fitting chant for you, Erika. 
+komekko_valentine: I'd rather something be tasty than cute! 
+lean_valentine: Well, 
+lean_valentine: why not both? 
+lean_valentine: Then whoever you give it to is sure to love it! 
+komekko_valentine: You're so smart! 
+komekko_valentine: Okay, tasty AND cute! 
+erica_valentine: Whoever we give it to... 
+erica_valentine: Have you two thought about who to give chocolate to? 
+erica_valentine: Anyone special in mind? 
+lean_valentine: Unfortunately, no. I'll give mine to my party members. 
+lean_valentine: As a thank you, I guess... 
+lean_valentine: I'm usually the one helping them though... 
+lean_valentine: What about you, Erika? 
+erica_valentine: Pretty much the same, Lia and Cielo. 
+erica_valentine: Just my friends.
+lean_valentine: That's all? I guess romance isn't in our cards right now. 
+lean_valentine: And what about you, Komekko? 
+komekko_valentine: I'm Komekko! Maker of chocolates, and soon to be the devourer of said chocolates!
+lean_valentine: So then, 
+lean_valentine: they're all for you? 
+komekko_valentine: Yup! All for me. 
+erica_valentine: It's self-love! How adorably cute! 
+erica_valentine: There's no one right way to do Valentine's! 
+komekko_valentine: But if someone asks real nice, I'll let 'em have one. 
+lean_valentine: How generous, Komekko. 
+lean_valentine: In that case, let's all swap chocolates once we finish. 
+komekko_valentine: Oh! A swap! 
+komekko_valentine: Yeah! Let's do it! 
+ナレーション: Looking forward to their exchange, excitement filled the air as they poured their hearts into the chocolate.

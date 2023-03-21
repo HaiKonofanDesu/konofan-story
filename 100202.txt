@@ -1,0 +1,110 @@
+A New Deal for These Dancers! - P2
+ナレーション: As Lia's group pondered the meaning of the word "producer," Kazuma began to speak...
+kazuma: You're a better dancer than the other two, Cielo. Have you studied dancing before?
+cielo: Not really... 
+cielo: But I have studied martial arts. It might've helped with my center of gravity.
+erica: Hey, why are you only complimenting Cielo? I'm a pretty good dancer too, you know!
+kazuma: I'd say your greatest skill, Erika, is hyping up the audience. Just watching you makes me want to cheer.
+erica: Hehe, my cuteness is also second to none.
+kazuma: And your songs are nothing less than enchanting, Lia. Do you write them yourself?
+lia: Yeah, I have an item that automatically arranges melodies, whether they're hummed or played.
+kazuma: Wow, that's handy!
+erica: We call it the magic piano. It's over there, see?\n
+erica: It produces all kinds of amazing sounds.
+ナレーション: Erika pointed to an electronic instrument with black and white keys on the desk. It was a keyboard...
+cielo: We don't know how to use it, so we always ask Lia for help. It would be nice if we could learn though...
+kazuma: A keyboard... No, a synthesizer? It doesn't seem like a magic item from this world. I'll have to see how it's made.
+kazuma: Your singing, dancing, and looks are all on point, 
+kazuma: but... Is that enough? Don't you want to climb higher?
+erica: Of course we do! I have to share my cuteness with the entire world!
+lia: I want more chances for the three of us to sing all sorts of songs together.
+cielo: M-Me too! I want to overcome my fear of men and become a graceful lady!
+kazuma: I see... However, let me be clear. It's impossible for you 
+kazuma: three to become more popular if these are the only skills you have!
+cielo: Huh?
+erica: You don't know that! We're still growing; we'll only get better as time goes on!
+kazuma: Even if you become the best dancers in the world, that doesn't mean you'll attract an audience!
+kazuma: That's a completely different skill set. There are many talented people who get overlooked.
+lia: You're well informed. It's almost like you've seen this kind of thing happen before...
+kazuma: I have something important to say. I've kept it secret until now, but I'm from a country with a rich dancer culture.
+cielo: What?! R-Really?!
+kazuma: I mean, technically it's a country rich in idols, not dancers.\n
+kazuma: But it's not exactly a lie either... 
+kazuma: I think?
+kazuma: I've seen tons of dancers ruthlessly compete against each other. I've witnessed it firsthand.
+kazuma: To reach the top, you need a producer! If you think you can get by on cuteness alone, you're sorely mistaken!
+erica: Huh? Did you just call me cute?
+erica: Oh my, what should I do? Yet another man has fallen for me.\n
+erica: It should be a crime to be this cute!
+kazuma: As cute as you are, Erika, can you PLEASE be quiet for a moment?
+erica: Okay! I'll be cute AND quiet! But mostly cute!
+kazuma: Moving on... Listen up. You three may have talent, but right now you're still diamonds in the rough.
+kazuma: What you need is someone who can polish you into real gems...\n
+kazuma: In other words, a producer!
+cielo: Umm, you said that word before, but...what's a "pro-doocer" do, anyway?
+kazuma: They figure out a dancer's talents and polish them so fans will have a reason to fall in love. 
+kazuma: That is the sacred duty of a producer! Also, stop saying it wrong.
+kazuma: I, Kazuma Satou, swear to use all of my experience and training to become the best producer this world has ever seen!
+erica: Really?! With Kazuma's experience and my cuteness, we'll be absolutely unstoppable!
+lia: W-Wait a minute... Suddenly saying you want to be our producer—what exactly are you going to do for us, Kazuma?
+kazuma: Come up with a marketing strategy. First, we've got to leave Axel and start performing in other towns. 
+kazuma: It's called "going on tour."
+lia: But that's what we've BEEN doing...
+kazuma: Let me finish. From now on, we'll sell merchandise at your shows and 
+kazuma: do meet-and-greets!
+cielo: Meet-and-greets... Y-You mean I'm supposed to say hello and...sh-shake hands with our fans?!
+erica: Hold on, Kazuma. Did you forget? If even the tip of a man's finger touches Cielo...
+kazuma: All the more reason to do it! You need to train your mind and get over your fear. 
+kazuma: You can't run from your faults!
+kazuma: Besides, a tour will help Erika and Lia too.
+lia: Really?
+kazuma: You won't get famous performing in the furthest town from the Devil King's castle. 
+kazuma: You need to go out into the world!
+kazuma: If people like what they see, you'll get more and more popular, and the offers will come pouring in. Don't you want to keep performing, Lia?
+lia: Y-Yeah...
+kazuma: And if you perform all over the place and get famous, the odds of Erika meeting her parents will skyrocket!
+erica: Kazuma...
+cielo: You'd really do that for us, Kazuma?
+lia: Wait... This doesn't add up. Why would you go so far when you just met us a few days ago?
+kazuma: Didn't I tell you? You're diamonds in the rough. I just want to bet on your rise, that's all.
+kazuma: That's why I'm going to back you up with everything I have. I'll even throw all my money at you girls if I have to!
+lia: You're so confident about this...
+kazuma: Then let me ask you again. Will you girls let me be your producer?
+erica: Sure! I'll let you share my cuteness with the whole world!
+cielo: I'll do my best to live up to your expectations, Kazuma!
+lia: I feel the same way. We're counting on you, Kazuma.
+kazuma: Success! I feel kind of bad, but there are perks in it for them, too.
+kazuma: This is a win-win situation, if I ever saw one! They get to become successful idols, and I get to pay off all my debts! 
+kazuma: Lia, Cielo, Erika! From now on, we're all in the same 
+kazuma: boat and share the same fate!
+kazuma: If we're going to do this, accept no less than the best! I'll lead you to the very top!
+kazuma: Ahem... Like I said, the person who guides a troupe of dancers is called a producer.\n
+kazuma: So be sure to call me that from now on.
+erica: You got it, Producer!
+lia: Our producer, huh? We won't let you down.
+cielo: I-I'll do my best. Please look out for me, Mr. Producer!
+kazuma: ...Heh, not bad.
+lia: Wait, are... Are you smiling?
+kazuma: No, no, no, it's nothing. Don't worry about it.
+kazuma: Once again... Axel Hearts! Let's give it our all!\n
+kazuma: I'm gonna work you hard, got it?
+Axel Hearts: Got it!
+questStart: Training Quest:
+<size=80>Help Lia, Cielo,
+
+
+and Erika
+
+
+
+
+grow into true idols.</size>
+<size=80>Help Lia, Cielo,
+
+
+and Erika
+
+
+
+
+grow into true idols.</size>

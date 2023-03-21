@@ -1,0 +1,86 @@
+A Friend for This Lonely Spirit! - P4
+miia: Ka-zu-ma!
+kazuma: Hey, Mia... Amy's with you too, eh?
+Amy: My, you look like you haven't slept a wink...
+megumin: Yeah, no thanks to Mel. She's a relentless prankster. 
+megumin: Can you believe it? She hot-sauced my eyepatch.
+mel: I'll admit, that was a bit much. 
+mel: But you guys agreed to look after me, right? So do it right!
+kazuma: You condescending—
+squall: Sorry to change the subject, but how's Samuidoh of late?
+Amy: The village is producing crops again, thanks to you. Everyone's busier than ever.
+darkness: That's wonderful news. With the cold wave gone, it's back to business as usual.
+Amy: Thank you as well, Kazuma. With the extra hands you hired, the modified produce is growing at an astonishing pace.
+kazuma: These crops can be grown by non-beastmen after all. Greenhouse farming might just hit it big!
+miia: Here's some asparagus we grew. It's from our first harvest. 
+miia: Please, consider it a token of our appreciation!
+aqua: You're so sweet, coming all this way just to say thanks.
+mel: Ahem! Less gossiping and more going! We gotta pick up the pace! 
+mel: I intend to make the most of my first quest!
+Amy: Oh, questing today? I admire your commitment.
+mel: As you should. Fancy accompanying us? I'd be more than happy to permit your presence.
+Amy: I'm terribly sorry, but we simply came to relay our thanks. We're due back in Samuidoh to help with the harvest.
+mel: Oh, uh... 
+mel: L-Like I said, I'd be delighted to allow it, so...
+miia: You hard o' hearin'? Amy just said they need us back home! We got veggies to grow.
+mel: I just thought it'd be fun to go on a quest together...
+darkness: Well she's clearly dejected.
+aqua: I guess she's the kind that needs company. 
+aqua: To the point of resurrecting killer lizards, in the case of the blizzards.
+kazuma: It's coming together. Could the motivation for her extreme pranks be...that she's lonely?
+megumin: Friends this, friends that. She reminds me of Yunyun.
+Amy: Sorry to disappoint. We can go together next time, okay?
+mel: Y-You promise? I'll hold you to it!
+squall: Hm...
+kazuma: Why the long face, Squall? Something about this quest bothering you?
+squall: I'll admit—a little, yes.
+questStart: Kill Quest:
+Defeat the Blood Fangs!,
+Defeat the Blood Fangs!
+megumin: *Pant pant* What gives? 
+megumin: Monsters are crawling out of the woodwork...
+darkness: Kobolds, white wolves, murder bears... And yet only 
+darkness: Blood Fangs are the target for this quest.
+kazuma: They're all beast-type monsters...
+kazuma: Wait, can it be...?! 
+squall: It can...and unfortunately, it is. They're being drawn to me.
+kazuma: So that's why you were reluctant to join us! A little advance warning would've been nice!
+squall: As a new member, I didn't want to overstep any boundaries...
+kazuma: And now we'll have monsters chewing on our corpses!
+mel: Boys, boys, let's stay civil. It's our first time questing 
+mel: together, after all! I say we savor the challenge!
+mel: As for the monsters... They're a piece of cake!
+ナレーション: With a mere 
+ナレーション: wave of the finger, 
+ナレーション: Mel sent a crackling blast of electricity roiling through the fanged horde.
+darkness: Mel's abilities are something special, to be sure.
+kazuma: They sure are. With her around, we can power through these kill quests! 
+kazuma: Hehehe...
+aqua: Kazuma's got that sly smirk on his face again... It's always a precursor to tragedy.
+megumin: Uh, Mel? What're you doing? ...She's running up to the fallen monsters for some reason.
+mel: With one drop of my potion, even the coldest corpses spring back to life!
+squall: Are you daft?! 
+squall: Why revive monsters we just defeated?
+mel: Isn't it obvious? What gift is greater than life? They'll be so thankful, they'll become my friends!
+darkness: What's that? 
+megumin: This girl has issues. Big time.
+aqua: Or maybe spirits are just, like, weird?
+kazuma: You think that resurrecting monsters will make them feel 
+kazuma: indebted to you? That they'll be your friends? Oh, brother.
+kazuma: True friendship isn't based on obligation! Even I can tell you that much.
+mel: It...isn't...?
+aqua: Oh, even a shut-in NEET can say something inspiring every once in a while. I'm truly moved. 
+aqua: Pft! *Snicker*
+kazuma: Shut your divine trap! I'm neither a NEET nor a shut-in!
+Blood Fang: Grrraaawwwrrrngh!!!
+squall: That roar... That scent...
+squall: The Blood Fang pack is close by.
+darkness: With Squall here, they were bound to pounce sooner or later. 
+darkness: But I say we pounce first. Kazuma, let's move!
+kazuma: Agreed. We have the muscle. It's time to use it. 
+kazuma: C'mon, everyone! 
+mel: I thought that in order to become friends with someone, they have to be in your debt.
+mel: Bringing them back to life would guarantee that they owe me. Am I wrong?
+megumin: Mel, it's time to hustle! Hey, you listening?
+mel: Y-Yeah, I hear you. Let's get a move on!
+ナレーション: Kazuma and crew continued into the Blood Fangs' territory, leaving many singed monsters strewn in their wake.

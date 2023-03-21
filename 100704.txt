@@ -1,0 +1,74 @@
+Exploration in This Land of Snow! - P4
+Cabbage: Cabba-cabba-cabba...
+Tomato: Toma-toma-toma-toma...
+Corn: Corn-corn! Corrrn!
+miia: Oh, these veggies all look mighty tasty!
+Amy: They're fresh and full of life. It's the bounty of nature.
+kazuma_winter: This isn't the time to stop and admire them! These things are trying to kill us!
+aqua_winter: I don't wanna die to a bunch of vegetables!
+darkness_winter: Attack while I draw their attention with my Decoy skill!
+darkness_winter: Ready... Decoy!
+ナレーション: As Darkness used her skill, the nearby vegetables turned toward her and leaped to attack...
+Cabbage: Cabba-cabba-cabba...
+Tomato: Tooomaaatooo!
+Corn: Corrrrrrn!
+darkness_winter: Aaaaaaaaah!!
+aqua_winter: Attack while they're focused on Darkness!
+Amy: She's taking those hits for us... I feel sorry for her.
+darkness_winter: Ah, to think that I can revisit the joy I felt in Axel when those cabbages tore my armor apart!
+kazuma_winter: Good old reliable Darkness.
+aqua_winter: Whew... We finally wiped them out. Are you okay, Darkness?
+darkness_winter: I'm wonderful... That was absolutely fantastic. Hehehe.
+Amy: Good work, everybody. We can have these vegetables for dinner tonight.
+miia: I want some roasted corn.
+Amy: Sure, I can make that. I'll call you when it's ready.
+kazuma_winter: They're sure cavalier about this, even though we were nearly killed by those things.
+charlie: I found them, Lord Daniel! They're over here!
+megumin_winter: I thought I annihilated you guys with my explosion magic. You're some pretty tough cookies.
+daniel: Yeah, I didn't expect my wyvern to get shot down. Thanks to you, we had to hoof it all this way.
+mitsurugi: So, you're Daniel and Charlie... Looks like this is as far as you go. 
+mitsurugi: For I, Mitsurugi, Man of the Mystic Blade, shall cut you down!
+kazuma_winter: Get 'em Mitsurugi! I know you've got this! You're the best, Mitsurugi!
+mitsurugi: Kazuma Satou... The way you keep using my name correctly makes me suspect your motives.
+daniel: Ahh... You wield the legendary blade Gram, do you?
+mitsurugi: Verily! Thus you should know that your foul plot ends here!
+mitsurugi: Taste the blade that has felled an ancient dragon! 
+mitsurugi: And perish, evildoers! Hraaaaaah!
+ナレーション: Mitsurugi raised his sword high and brought it down on Daniel and Charlie...
+daniel: Oh, you're not a bad swordsman!
+charlie: Yeah, one slice with that thing and we'd be toast. 
+charlie: Hm?
+mitsurugi: Huh? Why is the ground shaking?
+miia: Hey, the snow here is pretty unstable. You might want to lay off the flashy moves.
+mitsurugi: Thanks for the warning, Mia. 
+mitsurugi: But, you know...
+mitsurugi: You could've mentioned that a bit sooner!
+ナレーション: Gram's strike split the ground, sending Mitsurugi, Daniel, and Charlie plunging...
+charlie: Whaaaaaagh?!
+daniel: W-we've lost this battle...
+mitsurugi: Ngh! I'm fine, everyone! Go on without me!
+aqua_winter: Sure thing!
+megumin_winter: Yeah, we'll just go on ahead.
+mitsurugi: You don't have to take this so lightly!
+ナレーション: Eventually, the sun began to set, forcing Kazuma and company to make camp halfway up the mountain.
+miia: Ah, that was tasty... 
+miia: I'm fuller than a pig in a pantry!
+megumin_winter: Those fresh veggies really restored my magical energy.
+miia: I only wish we had some more meat to go with 'em.
+kazuma_winter: You ate all that corn! Are you really still hungry?
+Amy: Mia, you always have such a huge appetite.\n
+Amy: That's my adorable growing girl!
+aqua_winter: Hm? Did you just hear something in the bushes?
+lia: Thank goodness... I finally caught up with you.
+Kazuma, Megumin ＆ Darkness: Lia?!
+darkness_winter: What are you doing here?
+lia: I did some thinking, and I can't just leave this to you. I'm the cause of this, after all.
+kazuma_winter: I told you, it's not your fault. You really should be practicing so you can win the competition.
+lia: I came here to win. This whole thing is bothering me so much that I can't focus on my practice.
+lia: So please, Kazuma...let me go with you.\n
+lia: Without a clear conscience, there's no winning that contest.
+kazuma_winter: All right. You already came this far, so I can't really send you home now.
+kazuma_winter: We'll work together to end the threat of Thor's Hammer. 
+kazuma_winter: Once that's out of the way, the contest can finally resume!
+kazuma_winter: And make sure that my gigantic debt gets paid off!
+ナレーション: Night crept over Mount Worm as the party welcomed Lia into their ranks.

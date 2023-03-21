@@ -1,0 +1,66 @@
+Arue - P3
+ナレーション: A moan of anguish rose from the Crimson Demon Village...
+arue: Ughhh... 
+arue: Graaaaaagh!
+arue: Start moving, stupid hand! 
+arue: If I stop writing now, my story will never be complete. And I won't let that happen!
+arue: What do I do? Rework the plot? No, it's too late for that. 
+arue: I'm near the story's climax, so I can't adjust it now.
+arue: But how can I propel the story forward? 
+arue: Yes, a new character... A cute girl who can dance!
+arue: All right, it's time to go out and do a bit of research. I heard there are some cute dancers in town right now.
+erica_stage: Hello, Crimson Demon Village! I'm all the cuteness of the world, smushed into a single package! 
+erica_stage: 1000% pure cuteness!
+Spectators: *Cheers*
+arue: I've found her. Out of the Axel Hearts members, Erika fits the part perfectly.
+erica_stage: Huh? Oh, my! Erika, have you managed to get even cuter somehow?
+Spectators: You're the cutest, Erika!
+erica_stage: Oh dear! I'm so cute, it scares me!
+arue: The way she lays it on so thick will be a nice touch for my story. I need to write down her lines.
+ynyn: Oh, you came here to see the show too, Arue? 
+ynyn: I-if you'd like, we can watch it together.
+arue: Yunyun, do you go to their shows often?
+ynyn: I come because the music makes me feel good and all of the fans seem like old friends. 
+ynyn: But not that often! Why do you ask?
+arue: Yunyun, I need your help. It's for my novel! You're always willing to help a friend, right?
+ynyn: D-did you say...a friend?! 
+ynyn: Of course! I mean, we're friends, right?
+kazuma: The show in the Crimson Demon Village was a huge hit, propelling Axel Hearts to even greater heights.
+？？？: "A-all the world's cuteness in a single package! C-cuteness at\n1,000%... It's Yunyun! ♪"
+kazuma: What are you doing, Yunyun? Pretending to be Erika? Has loneliness finally gotten to you?
+ynyn: N-no, that's not it! I'm doing it for a friend.
+arue: She's indulging me for the sake of my next book. 
+arue: Although her line reads are disappointingly flat.
+kazuma: Indulging you? What did you ask her to do?
+arue: She's delivering lines that I wrote for a character in my upcoming novel.
+arue: The model for the character is Erika, and if Yunyun can capture her essence, then my characterization is complete!
+kazuma: All that for a novel?
+arue: Yunyun! You're so cute today!
+ynyn: "Did you say cute? You're talking about me, right?"
+arue: Good! Now, say the line!
+ynyn: "O-oh dear... I'm really in trouble now. I-it should be a crime...to be this cute... Uh..."
+kazuma: That's some seriously wooden acting there. 
+kazuma: Still, her lines are pretty much the same as Erika's.
+erica_stage: That won't do at all!
+arue: Speak of the devil...
+erica_stage: I've been watching for a while now, and you're totally off!\n
+erica_stage: I'm way, way, way cuter than her!
+ynyn: "Huh? D-did you say cute? You're talking about me, right?!"
+kazuma: Yep, that's pretty much Erika.
+erica_stage: That's so mean, Kazuma! C'mon, say it like you always do!\n
+erica_stage: Say that Erika is cuter! 
+erica_stage: Hey!
+kazuma: Yeah, you're cuter, Erika.
+erica_stage: Ha! See? I'm the cuter one!
+arue: Ahh... I was missing her single-minded obsession with her cuteness. 
+arue: I know how to write the character now!
+ynyn: "H-hey... Don't forget me... Tell me I'm cute, too!"
+kazuma: Y-yeah... You're cute too. Sure.
+erica_stage: What's with you, Kazuma? You said I was cuter literally a second ago!
+kazuma: Oh, yeah, right. 
+kazuma: Erika, you're also cute.
+arue: Hehe, I think I've got what I need for my novel. I should be heading home.
+ynyn: Wait, Arue! Wh-what about our friendship?!
+erica_stage: Okay, Kazuma! You need to pick one of us right now!
+kazuma: Arue, do something about this before you go!
+ナレーション: The character based on Erika was wildly popular and even received their own series, but that's a tale for another day.

@@ -1,0 +1,25 @@
+Ninja Transformation
+ナレーション: A pair of shadowy figures moved through Axel late at night, wearing ninja attire and holding a large stack of papers...
+cecily_ninja: This is so much easier to move around in than my usual robes! I'm going to finish my work in no time!
+lean_ninja: I still don't get it. Why pass these out in the dead of night? Can we please wait for the sun to come up?
+cecily_ninja: No! We are ninjas, elusive denizens of the night! 
+cecily_ninja: When Kazuma first told me about them, I was struck by a flash of genius.
+cecily_ninja: We're always subbed when we pass out forms during the day. 
+cecily_ninja: But if we hand them out at night, we can deliver them to each house!
+lean_ninja: Pushing unwanted forms onto people... 
+lean_ninja: I honestly don't know. Sounds like a bad way to start off one's day.
+cecily_ninja: You wanna talk about bad days? 
+cecily_ninja: The townsfolk won't even look me in the eye anymore!
+cecily_ninja: Another of the Eris Order's foul schemes, no doubt... 
+cecily_ninja: That's why our mission at hand is critical!
+lean_ninja: O-Oh? 
+lean_ninja: I mean, will people really sign up, you think?
+cecily_ninja: Don't be such a pessimist, Rin—act like a kindly ninja! Now help your dear friend, for heaven's sake!
+cecily_ninja: By morning, these forms must rest on each and every Axel doorstep! Your ninja code demands it!
+lean_ninja: I've never heard of such a thing. Honestly!
+cecily_ninja: Very well. 
+cecily_ninja: Then the fate of our beloved church compels you. 
+cecily_ninja: How's that for a reason? Now let us depart!
+lean_ninja: Yeah, uh, I'm not a member of the Axis Order either. 
+lean_ninja: Cecily? Are you listening to me?!
+ナレーション: Rin's refusal to turn away a friend in need kept her passing out forms with Cecily until the crack of dawn.

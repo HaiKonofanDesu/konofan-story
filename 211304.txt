@@ -1,0 +1,90 @@
+Rin - P4
+lean: *Sigh* Things can't keep going on like this.
+lean: But no matter what I do, nothing ever gets through to him. Maybe it's impossible.
+melissa: Mind if I join you?
+lean: Oh, hi there Melissa. What's up? Did you need something? 
+lean: Don't tell me Dust is up to some mischief!
+melissa: It seems like you're the one who needs to watch out for his 
+melissa: mischief. No, it just looked like something was troubling you.
+melissa: I figured you could use an ear.
+lean: Actually, I was trying to figure out how to fix Dust's wasteful habits.
+melissa: Somehow I doubt it. You can't fix something unless 
+melissa: it wants to be fixed. 
+lean: If I could at least get him to stop begging our friends for money...
+lean: It's bad enough he's always asking me.
+lean: Besides, I feel like he'd make a proper adventurer if he 
+lean: just tried. I want to help him reach his full potential.
+melissa: You sure are a kind one. Luckily, I'm a bit of a sucker for 
+melissa: your types. 
+melissa: Why don't you come over to my place and I'll give you a 
+melissa: special lesson on how to wrap men around your finger.
+lean: Huh? How to wrap men around my finger? I'm not sure that 
+lean: really relates to my problem here...
+melissa: You want to cure his awful spending habits, don't you? 
+melissa: I promise it'll help. 
+lean: Okay, let's try it!
+melissa: All right, time for your first lesson. Feel free to take notes if you wish.
+lean: O-Okay, I'm ready!
+melissa: Lesson one: dress to impress. Men are simple creatures. 
+melissa: Show a little skin and they'll be your slaves. 
+lean: That makes sense. Dust is always falling all over himself to impress women like that. 
+melissa: So let's find you something with a bit more spice. Let's see...
+melissa: How about something like this?
+lean: What?! There's barely any fabric! The chest and the back are almost completely open!
+lean: I could never wear that!
+melissa: Oh, that's too bad. Though I suppose this is a bit much for someone not fully...matured.
+lean: Um, where exactly are you looking right now?
+melissa: Exactly where you think I am. 
+melissa: Well, if that's not an option, you can probably get by smooth-talking him.
+melissa: Dust gets out of trouble by manipulating you rather often, wouldn't you agree?
+lean: I-I'm not letting him manipulate me! I'm just trying to 
+lean: find the quickest solution to the situation...
+melissa: All that does is teach him you're an easy target. You need 
+melissa: to take control, not let him do the controlling.
+melissa: If someone asks you to do something, you make a request of your own. Nothing is for free. 
+lean: So I ask a favor in response?
+melissa: But there's a delicate balance. If that's all you ever do, he'll start to avoid you all together.
+melissa: It's important to throw in a bit of praise and sweet talk 
+melissa: once in a while. Even dogs need treats to learn new tricks.
+lean: I'm not sure if I can talk to Dust like that... 
+melissa: Hehe, don't you worry about that. You'll have him eating out of the palm of your hand when I'm done with you.
+melissa: Time for some real-world practice. Follow my lead.
+lean: Yes, ma'am! I'm ready, professor!
+dust: Hey, Rin! I haven't seen you around in a while. I was 
+dust: starting to worry. What've you been up to?
+lean: How very kind of you, Dust. It's rather sweet of you to 
+lean: worry about me so much.
+dust: Um, thanks...? You're acting a little weird. Oh, hey! 
+dust: I had a tiny little favor I've need to ask!
+lean: You need to borrow some money again? The answer is no.
+dust: Please! I'm beggin' you!
+lean: You know what, Dust? I know that if you put your mind to 
+lean: it, you'd be able to do just about anything.
+dust: Huh?
+lean: You always pull through in a pinch. Imagine if you applied that intelligence and effort to earning money. 
+lean: I believe in you!
+dust: I'm glad you have such faith in me, but it's already too late to earn money so I can eat tonight. 
+dust: Please, Rin!
+lean: Then just don't eat tonight.
+dust: I can't skip a meal! Come on, Rin! 
+dust: I'll beg at your feet if I have to, just please lend me some money!
+lean: And what value does your begging have for me? The only one who benefits 
+lean: is you.
+dust: Nrrgh! Wh-What's gotten into you? You're not 
+dust: the Rin I know!
+lean: I'm just not going to jump to fulfill your every whim and fancy anymore.
+lean: That's never going to put an end to your wasteful spending or your habit of leeching off friends! 
+lean: You're utter trash!
+dust: Th-This attitude change is my fault? 
+dust: Wait! I-I'm trash? 
+lean: Oh, dear. My apologies. Perhaps I was too hasty in calling 
+lean: you trash. I'd be happy to refer to you as scum instead.
+dust: Rin... You've turned into a totally different person!
+dust: Waaahhhhhh!
+melissa: A magnificent performance. After being told off like that, he's sure to do some self-reflection.
+lean: Melissa, you don't think I went a little too far, do you? I feel a little bad for him.
+melissa: I don't think so. Men need a firm hand sometimes.
+lean: But... Urrr...
+lean: No, I can't! I'm going to go apologize!
+melissa: *Sigh* She's too soft. Though I suppose she wouldn't really 
+melissa: be Rin if she wasn't.

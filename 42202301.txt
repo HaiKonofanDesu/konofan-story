@@ -1,0 +1,58 @@
+lolisa_succubus: Hello! 
+lolisa_succubus: Huh? Is Lord Vanir absent today?
+wiz: Welcome! 
+wiz: My apologies, but I'm afraid he's out at the moment...
+wiz: He said he wanted to inspect some items himself before stocking them. He should be back soon, I think.
+lolisa_succubus: I see. That's too bad... 
+lolisa_succubus: *Sigh*
+wiz: Umm, is something bothering you? 
+wiz: I don't know if I'll be able to help, but you can talk to me, if you like.
+lolisa_succubus: Th-Thank you! It's just...
+lolisa_succubus: I feel like I can never really relax and be myself lately.
+lolisa_succubus: Since I'm trying to conceal the fact that I'm a succubus, I'm always worrying about how others around town see me...
+wiz: I see. Shortly after I became a lich, I remember feeling something similar...
+wiz: Probably... 
+wiz: In any case, I understand how you feel.
+lolisa_succubus: But I wanted to see Lord Vanir! 
+lolisa_succubus: That's why I ventured out despite my anxiety about being seen. 
+lolisa_succubus: But I just feel worse and worse...I'm exhausted...
+wiz: That sounds tough.
+lolisa_succubus: Yes. I wish there were a way to hide my identity...
+wiz: Hide your identity? 
+wiz: Oh! I might be able to help with that!
+lolisa_succubus: What?! Really?
+wiz: Yes! Only recently, I heard about a rare magic item that can do just that. 
+wiz: It's hidden within some ruins in a nearby forest.
+lolisa_succubus: I'll go find it! Please tell me where it is!
+wiz: P-Please, calm down! 
+wiz: Will you really be okay on your own, Miss Succubus?
+wiz: There are rumors of an instakill bear in that forest, and there could be traps in the ruins.
+lolisa_succubus: B-But... I...
+wiz: Let me accompany you. Despite my appearance, I was once an adventurer too. I'm sure I can be of assistance.
+lolisa_succubus: Really?! You would do that for me? 
+lolisa_succubus: But what about the shop?
+wiz: Don't worry. I can close the shop for today. I can make up any lost business in no time! 
+wiz: Let's go!
+wiz: Um, I've always wanted to ask... 
+wiz: What is it about Vanir that you find so appealing?
+lolisa_succubus: Everything! In fact, I want to ask you! 
+lolisa_succubus: Does he have any faults? He doesn't, right?
+wiz: Y-You really adore him, don't you? 
+wiz: Just be careful, please. Vanir is a bona fide demon, through and through!
+lolisa_succubus: A-Ah, I'm aware, but...
+wiz: Listen to what happened just the other day. 
+wiz: Vanir took one look at the amazing items I procured for the shop 
+wiz: and called me "pitiful"!
+lolisa_succubus: Incredible!
+wiz: Then, as soon as he saw how many I procured, he cast his Death Ray on me!
+lolisa_succubus: You're so lucky!
+wiz: Exactly! Vanir is a terrible, fearsome... 
+wiz: Wait...did you just say I'm "lucky"?
+lolisa_succubus: Yes, lucky! You got to be criticized by Vanir, and even felt the incomparable touch of his Death Ray! 
+lolisa_succubus: That's fantastic!
+wiz: ...Huh?
+Instakill Bear: Grah... Grrraaaaaarrr!
+wiz: That's the instakill bear! The rumors were true! 
+wiz: Miss Succubus, get ready to fight!
+lolisa_succubus: Okay!
+Instakill Bear: Grrraaaaaarrr!!!

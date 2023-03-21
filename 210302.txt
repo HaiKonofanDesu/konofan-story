@@ -1,0 +1,62 @@
+BgCamera: NoWait
+Darkness - P2
+ナレーション: At the Adventurer's Guild... Darkness bumps into Chris for the first time in quite a while.
+darkness: It feels as though we haven't talked like this in ages, Chris.
+chris: Indeed. I suppose our schedules just haven't lined up right.
+chris: But I'm happy to see you've finally found a party that you can really get along with.
+darkness: It's all because you introduced me to Kazuma. Once again, I'm in your debt, Chris.
+darkness: Say, is there anything I can do for you? If it's within my power, I'd be happy to help.
+chris: Hmm... Lemme think...
+chris: I got it. This isn't a big deal or anything... But can I ask you a question?
+darkness: Of course. Ask whatever you like!
+chris: U-um, well... I was wondering... How does a girl get, y'know...a chest like yours?
+darkness: A chest like mine?
+chris: I-I mean, I'm not as...er... I guess...well-endowed...as you are. Hah...
+darkness: Ah. Well, honestly, I'm not sure that I did anything. It's really just the way I am.
+chris: Ugh. Life can be so harsh sometimes.
+darkness: W-wait a moment, Chris! I might have an idea... 
+darkness: Yes, I would say...
+chris: Please, go on!
+darkness: Maybe it was due to constant visualization. That might have been the reason.
+chris: Visualization? So, you... simply pictured yourself having a bigger chest?
+darkness: No, not exactly, but... Well, you could give it a try?
+chris: Sure, I've got nothing to lose. Let's do it!
+chris: You're always so quick to act when you decide something. I don't think I've ever seen this side of you before.
+darkness: Now, close your eyes, Chris! I want you to imagine the scenes I describe for you.
+chris: Got it. I'm all ears.
+darkness: Good. Now first, picture the Devil King's mighty castle.
+chris: Got it. Devil King's castle...
+darkness: You've recklessly decided to assault his impregnable stronghold on your own. What is going through your mind?
+chris: I-I'm thinking, why did I decide to do such a stupid thing?
+darkness: That's it, Chris. Keep painting that clear image in your mind!
+darkness: You find yourself totally helpless before the Devil King, your beloved two-handed sword shattered...
+chris: Yeah, well... I guess I had it coming, huh?
+darkness: As you're forced to kneel in total defeat, he speaks...\n
+darkness: "Mwahahaha! You've made quite a mess of my castle!"
+darkness: "You'll pay dearly for this, crusader...with your body!"
+chris: Crusader? You know I'm a thief, right?
+darkness: "Surely you weren't foolish enough to come here alone... Tell me where your allies are hiding, crusader!"
+darkness: "Never! I would never betray them!"
+chris: Uh, Darkness?
+darkness: "Your eyes sparkle with defiance. If you refuse, then I'll have to resort to...other methods."
+darkness: "No! Do not stain the noble pride of a virtuous knight with your filthy hands!"
+darkness: "Hehehehe... How long can you keep up this brave front? We'll soon see the extent of your foolish pride!"
+darkness: "N-Noooooo! 
+darkness: Aaagh! Ngh... 
+darkness: Death would be too easy!"
+darkness: Nnngh... How wonderful!
+chris: Hell-ooo? Are you in there, Darkness?
+darkness: The Devil King's generals surround you, eager for whatever scraps their master leaves them!
+darkness: Their relentless attacks reduce my armor to shreds... *Pant* I'm left completely defenseless!
+darkness: "N-no... Please... 
+darkness: Agh?"
+chris: DARKNESS!
+darkness: Huh?
+chris: You told me to visualize things, and then went off into your own...thing.
+darkness: Ahem! Well, my point is, if you imagine yourself as strong, you can endure any kind of shameful situation.
+chris: Shameful situation? What does that have to do with... Agh, I regret even mentioning it.
+darkness: This visualization training also helped strengthen my will, so it definitely served a dual purpose.
+darkness: However, it is not without a cost. You may find yourself too...excited...to sleep at night.
+chris: Yeah, I, uh, think I'll be okay. I don't get so caught up in thoughts like that.
+darkness: Hah... Looks like another sleepless night for me...
+ナレーション: Darkness's vivid imaginings continued throughout the night, and the sun had already risen by the time she finally fell asleep...

@@ -1,0 +1,35 @@
+Emilia - P2
+ナレーション: Emilia found herself in the azure city of Arcanretia, with Kazuma and Aqua as her tour guides...
+emilia: So, this is the famed hot spring capital. It truly is a sight to behold.
+aqua: C'mon, Emilia, let's hit the hot springs! Time flies here, so let's make the most of it!
+Axis Follower: You there, pretty girl! Are you a traveler? Is this your first time in Arcanretia, perhaps?
+emilia: Me? Oh, uh, yes...
+Axis Follower: Then welcome to our wondrous burg! It just so happens that we're giving out this edible soap to new visitors.
+emilia: Edible...soap? Is there such a thing?
+Axis Follower: Why not try it and find out? But first, we need you to fill out a simple questionnaire.
+emilia: Oh, is that all? I suppose—
+kazuma: No, no, no! Emilia, these crooks are in a group so shady, 
+kazuma: they can block out the sun!
+emilia: Are you sure? She seems like such a nice person...
+kazuma: Oh yeah? Gimme that "questionnaire." Aha! It's a registration 
+kazuma: form for joining their kooky order!
+kazuma: Still up to their old tricks, I see. You'd think people who 
+kazuma: peddle soap wouldn't stoop to such dirty tactics.
+kazuma: Sorry to leave you vulnerable, Emilia. Glad to see you haven't signed your life away.
+aqua: Hey, those are my followers you're badmouthing! I won't have you giving Emilia 
+aqua: the wrong idea about them!
+kazuma: The Axis faith is full of fruitcakes and that's the truth. You and I both got burned by them, 
+kazuma: remember?
+aqua: Ooh, now you've gone too far! I've saved you time 
+aqua: and again with my magic, and you don't even care!
+kazuma: Uh, no, I don't. Because you’ve put me through ten times the trouble you’ve saved me from, 
+kazuma: you useless goddess!
+emilia: Hehe, you two really are such good friends.
+Kazuma & Aqua: Come again?
+emilia: Being able to tell the other what you truly feel is a rare 
+emilia: and beautiful thing among friends.
+kazuma: That's strange. I've suddenly lost the urge to argue.
+aqua: Same. Let's get that soak in. And once we're done, 
+aqua: we can knock back a few glasses of bubbly.
+emilia: By all means! That sounds like a wonderful idea!
+ナレーション: Emilia helped avert a pointless argument, allowing the trio to return to their day of rest and relaxation.

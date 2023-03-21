@@ -1,0 +1,99 @@
+School Life for This Shut-in NEET! - P2
+ナレーション: The name's Kazuma Satou. Other than my dad being president of a mega corporation, I'm just your average high schooler.
+iris_school: I made breakfast today. I hope you like it!
+kazuma_school: Ooh, salmon meunière and miso soup... Mmm, it's delicious! 
+kazuma_school: And cooked 
+kazuma_school: perfectly, too!
+iris_school: Yay! Thanks for teaching me how to make it!
+ナレーション: This is Iris, my younger sister. One year younger, to be exact. With our parents working overseas, it's just us two.
+ynyn_school2: Kazuma, your collar's bent upward.
+ynyn_school2: Don't worry, I'll get it for you. Hold still, okay? 
+ynyn_school2: There we go, nice and neat.
+ナレーション: This is Yunyun, our next door neighbor. She's exactly one year my senior.
+ナレーション: Yunyun comes by and helps. She doesn't trust me and sis can make it on our own. She's great, and cute too.
+kazuma_school: A cute younger sister and a gorgeous neighbor waiting on me hand and foot... 
+kazuma_school: Now THIS is a premise worth living!
+kazuma_school: A childhood friend in my grade would be the cherry on top, but I can't complain.
+iris_school: Is something wrong? You look lost in thought.
+kazuma_school: On the contrary, everything is oh so right. 
+kazuma_school: The story is a go. The characters are in place. Now for my ideal timeline!
+kazuma_school: But victory goes not to the hasty. Strategy is key here, Kazuma. 
+kazuma_school: Coolness. Composure!
+kazuma_school: Aw, crud. I forgot I have morning clean-up duty at school today. 
+kazuma_school: See you later, Iris, Yunyun!
+Yunyun, Iris: See you, Kazuma!
+kazuma_school: Aw crap! I'm gonna get chewed out again.
+kazuma_school: But that's all fine and dandy, 
+kazuma_school: because this sets the scene for a pretty face to appear.
+？？？: Why does time fly when you're doing your hair...? I'm late! Sooo late!
+Kazuma & ???: Aaaaaagh!
+kazuma_school: Holy heck. I knew it!
+kazuma_school: Sorry, I wasn't looking. You okay there?
+erica_school: Am I okay? 
+erica_school: Try ANYTHING but! My perfect hair is now in shambles! What're you gonna do about this, huh?
+erica_school: ...No. I don't believe it. Is your name, by any chance...Kazuma?
+erica_school: You don't remember me? 
+erica_school: It's me, c'mon. Erika! We grew up together until elementary school.
+kazuma_school: Childhood friend, check! I've got the perfect scenario laid 
+kazuma_school: out for me now...in triplicate!
+kazuma_school: It's been so long. I never expected you to transfer here. 
+kazuma_school: Can you believe you're seated right next to me, too?
+erica_school: Life is strange at times. 
+erica_school: B-But just so you know, I'm not necessarily glad. Indifferent, at best. 
+kazuma_school: Aha. Warm one moment, ice cold the next. Another dating sim trope...one I've been training for my entire life.
+**SelectLabel_A: There's a term for situations like this... "Destiny."
+**SelectLabel_B: I'm glad to be in the same class with a cutie like you.
+kazuma_school: There's a term for situations like this... "Destiny."
+erica_school: Destiny...? 
+erica_school: S-Sorry, but I'm not following! And I don't 
+erica_school: intend to either way!
+kazuma_school: Got her hook, line, and sinker! I must be a natural born 
+kazuma_school: poet or something!
+kazuma_school: I'm glad to be in the same class with a cutie like you.
+erica_school: Y-You think I'm cute? 
+erica_school: Th-Thanks. Strange how compliments can make you both happy and self-conscious...
+kazuma_school: That line worked WAY better than I thought it would! Heck, I'm even making myself flustered.
+Male Student: Hey, Kazuma! Stop flirting and let's go! It's time for practice.
+erica_school: Hey, I didn't know you did sports. If I recall, you were one of those quiet types as a kid.
+kazuma_school: I'm on the soccer team. Started in middle school.
+Male Student: Kazuma's out of this world. He's a killer goalie AND our top scorer. Our team's undisputed MVP!
+erica_school: Wow. While I don't know anything about soccer, you must be good. 
+erica_school: Say, Kazuma. Can you spare some time after practice? 
+erica_school: There's something I want to talk to you about.
+erica_school: I-If not, that's totally fine too!
+kazuma_school: Hey, I have time for you. 
+erica_school: Really? 
+erica_school: Okay, I'll meet you here then. 
+ナレーション: Several hours later...
+kazuma_school: Erika, sorry to keep you waiting. Practice dragged on today.
+erica_school: I-It's okay. I just got here too! ...Kinda. 
+erica_school: Anyways, what I wanted to talk to you about is...
+kazuma_school: Wait, let me guess. The promise we made as kids? 
+kazuma_school: That when we grew up—we'd get married?
+erica_school: Huh? 
+erica_school: Th-That's exactly it... I can't believe you remembered. 
+erica_school: Either way, I'm happy you did.
+kazuma_school: I know these tropes like the back of my hand.
+erica_school: Uh, are you okay?
+kazuma_school: Totally. Don't worry yourself. 
+kazuma_school: You know, I'd never forget a promise like that—ever.
+erica_school: True. You've always kept all your promises. I guess some things never change.
+kazuma_school: Well, you certainly have. 
+kazuma_school: You've gotten really...um. Pretty.
+erica_school: O-Ohmigosh, stop! 
+erica_school: Y-You're not so bad-looking y-your... Aw, screw it. 
+erica_school: Forget I even said anything!
+erica_school: I bet you're a hit with the ladies. I mean, you're the team's top scorer and goal. The MVP.
+kazuma_school: That doesn't mean anything. I'm just normal old Kazuma.
+erica_school: Glad to hear it...I guess. Say, Kazuma, is that promise 
+erica_school: still in effect?
+erica_school: Because for me, it always has been. I was wondering if... 
+kazuma_school: Do you have to ask? Of course I—
+？？？: Get a grip!
+kazuma_school: Huh? I swear I heard someone just now.
+erica_school: We're the only ones here, Kazuma. There's a time and place 
+erica_school: for jokes, and this is neither.
+kazuma_school: Sorry, sorry.
+kazuma_school: Is my mind playing tricks? 
+kazuma_school: No matter. I'm making her heart 
+kazuma_school: mine with record speed. Being a gamer's finally paying off!

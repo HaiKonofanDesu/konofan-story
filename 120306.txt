@@ -1,0 +1,91 @@
+A Friend for This Lonely Spirit! - P6
+ナレーション: The quest had culminated in a battle with both the pack of Blood Fangs and Mel too...
+megumin: That solves our...Blood Fang...problem... Nighty night.
+squall: And now for the incensed spirit...
+aqua: What gives? She's still breaking everything in sight! Don't spirits ever get tired?
+mel: $〇×△... 
+mel: Don't fight it! Give! In! And! Die! Become my friends!
+kazuma: Die? Forget it! You know who you're dealing with, right? I'm Kazuma— 
+kazuma: Bane of the Devil King and his generals!
+darkness: Whoa. Kazuma's pulled out all the stops!
+kazuma: You're playing in the big leagues now!
+mel: 〇△□$$〇×△!!
+kazuma: YEEE
+kazuma: OWWWGH!
+aqua: That was...anticlimactic.
+kazuma: Her strength is right up there with the Winter Shogun... 
+kazuma: No adventurer has a snowball's chance in hell against her!
+mel: How about you try attacking this time, hm? 
+mel: Lightning Bolt!
+kazuma: Gaaa
+kazuma: aaaaaaghk!
+megumin: K-Kazumaaa!
+kazuma: This isn't good! Not good at all! 
+mel: You're supposed to fight back... 
+mel: Why don't you?!
+kazuma: Eh? 
+mel: Everyone at the guild holds you in such high regard. You've brought the Devil King's generals to their knees.
+mel: And yet you're content to not 
+mel: lift a single finger in your defense, taking hit after hit. Are you mocking me?!
+kazuma: She's flustered. And wide open... 
+kazuma: We better capitalize on this!
+kazuma: Me? Hit you? Now why would I do that...when I'm trying so 
+kazuma: hard to become friends with you?
+mel: Friends? With me? 
+darkness: Whew. Mel's lightning finally stopped. But is Kazuma being 
+darkness: sincere right now?
+aqua: Who knows? I get the feeling he's trying to bluff his way out of a losing battle...
+megumin: I was thinking the exact same thing.
+kazuma: Hey, you in the peanut gallery. Pipe down!
+kazuma: Mel, I'm not here to fight you. And to prove that... Here. 
+kazuma: Let's shake hands. Then, all will be forgiven.
+mel: K-Kazuma...!
+kazuma: Hook, line, and sinker. Now to reel her in with more sweet 
+kazuma: talk! ...Because if I don't, I'm human toast!
+kazuma: I have friends. Many, in fact. And to become friends, we all passed this hurdle.
+kazuma: To strike you would be to betray them. I can't do that. 
+kazuma: No, I would choose death before doing such a thing!
+mel: ...Kazuma, 
+mel: I was wrong! I had it all so wrong! Please, forgive me!
+aqua: Whoa, the oaf actually broke through to Mel!
+megumin: Indeed, although I don't fully agree with his methods...
+darkness: All's well that ends well, I suppose. Once again, Kazuma's quick thinking has won the day.
+squall: Ugh.
+mel: What I did was horrid. Please accept my sincere apologies.
+mel: Killing someone just to bring them back... It's absurd. 
+mel: No one would ever wish death upon their friends.
+aqua: Hey, don't look so blue. It's all in the past now.
+mel: Thank you. I shall never kill or use the serum ever again. 
+mel: No amount of apologizing could express my remorse!
+kazuma: Wow, I must've really gotten through to her. I regret the deception a little, 
+kazuma: but there's nothing wrong with a happy ending.
+mel: I, too, will seek out friends that I would be willing to lay down my life for!
+mel: Oh, and no more lethal pranks either!
+darkness: Meaning regular pranks are still on the table...
+megumin: She is a lightning spirit, after all. Let's just take what we can get.
+squall: Hm... 
+kazuma: Good. That settles that. We'll still be around to keep an eye on you for a while longer. How's that sound...friend?
+mel: That sounds lovely...friend! Let's go on another quest 
+mel: again soon!
+questComplete: Kill Quest,
+<size=90>Defeat the Blood Fangs!</size>,
+<size=90>Defeat the Blood Fangs!</size>
+ナレーション: Squall and Mel renovated their new abode in the forest with the coin they earned and started their new life.
+mel: Ah, a real residence. My second life has truly begun. 
+mel: Squall, go find candidates worthy of my friendship!
+squall: Though it may come as a surprise, I am not your butler. 
+squall: That said, I sympathize with your profound loneliness. If friendship will help you, I'll do what I can.
+mel: Here, you should hold on to this.
+squall: The Spirit Serum...
+mel: It's better this way. No more needless killing— 
+mel: Or resurrecting either. The first step to making real friends.
+squall: I see you're serious. Very well, the potion is safe with me.
+squall: I'll buy groceries for dinner. Since we're celebrating our first day together, I think a modicum of extravagance is warranted.
+mel: See you later, then! ...I have no idea how long it's been since I've had a home-cooked meal. 
+mel: I'd better get the place clean and the table set before Squall gets back!
+？？？: A new beginning... Your excitement is certainly warranted.
+mel: Wh-Who's there?!
+？？？: You cut us deep, my lady. How could you forget those you snatched from death's callous clutches?
+daniel: Greetings, Mel. It's been quite some time. We've searched high and low for you.
+ナレーション: The two men emerged from the shadows, ready to shatter Mel's
+new life, clueless as she was to their true nature...

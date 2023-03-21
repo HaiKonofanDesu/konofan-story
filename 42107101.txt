@@ -1,0 +1,76 @@
+kazuma_towel: Ahh... This feels wonderful. 
+kazuma_towel: Nothing beats relaxing in a hot bath after a tough quest.
+kazuma_towel: Huh? What was that? Aqua, maybe? 
+kazuma_towel: Hey there, ol' Kazuma's having a soak in here!
+kazuma_towel: Come to think of it, that sound didn't come from inside. More like outside—outside the window, in fact...
+Man's Voice: Ooh hoo hoo, this oughta be... Huh?! It's a GUY!
+kazuma_towel: Aaaaaagh! We got a peeper, people!
+aqua: He becomes more shameless everyday. Everything okay, Kazuma?
+kazuma_towel: N-No! Someone was peeping my unclothed body!
+megumin_lightcloth: Can we help it? You're the one exposing yourself!
+kazuma_towel: No, I mean in the BATH! 
+kazuma_towel: Some deranged voyeur was camped right outside the window!
+darkness: I have heard reports of such incidents around these parts lately. 
+megumin_lightcloth: The culprit could still be close by. 
+megumin_lightcloth: Let's take him down. 
+sena: On behalf of the kingdom, I thank you for assisting in the apprehension of this deviant.
+kazuma: No prob. It's our civic duty. 
+kazuma: Plus, all that got ruined was my bath...and my innocence. 
+sena: F-For that, I am sorry. 
+sena: Please, allow us to present you with an official letter of thanks. 
+sena: Farewell, then.
+aqua: An official letter of thanks, eh? 
+aqua: I like the 
+aqua: sound of that! I mean, we did save the town from a nefarious felon!
+megumin_lightcloth: By the morrow, news of our exploits will be echoing 
+megumin_lightcloth: throughout all of Axel. 
+megumin_lightcloth: So is born a new legend.
+darkness: While I wouldn't have minded being the one in Kazuma's stead, 
+darkness: I suppose we all can't be so lucky.
+kazuma: LUCKY?! I'm a traumatize victim! I can still see the perp's 
+kazuma: cold-blooded, mouth-breathing, buck-toothed visage...
+megumin_lightcloth: Hm... A suspicious description. 
+kazuma: I'd say he's suspicious! With no sense of decency! 
+kazuma: I'd say he's even more reptile than human.
+darkness: The way you describe him: cold-blooded, buck-toothed, reptile... Those terms depict a very specific monster.
+kazuma: They...do?
+kazuma: Eh, I'll bite. What kind of monster?
+megumin_lightcloth: Though I haven't seen it in person, there are rumors of 
+megumin_lightcloth: a gargantuan turtle-like beast.
+megumin_lightcloth: It's so large, you could run the perimeter of its back, if you were so inclined.
+darkness: Oh my. Imagining getting trampled by such a beast would be exhilarating. 
+kazuma: Uh, no. Try fatal. You're tough, but there's no doubt you'd be reduced to a mere stain on the ground.
+aqua: One more thing. The creature's horribly buck-toothed, hence its name: Toothed Turtle.
+kazuma: How creative.
+iris_stealth: Greetings, everyone.
+kazuma: I-Iris?!
+darkness: Princess! And Claire, too?
+iris_stealth: Hello, Brother.
+clair: I trust you all have been well?
+megumin_lightcloth: Well this is a pleasant surprise. What brings you two here?
+iris_stealth: Having finished all royal affairs 
+iris_stealth: for the immediate future, Claire suggested a summer vacation.
+aqua: How nice! 
+aqua: But I always imagined royal folk going to immaculate villas and whatnot for vacation.
+clair: The princess made it abundantly clear her idea of a vacation is time with her most cherished friends. 
+iris_stealth: Apologies for the abrupt nature of my visit. I do hope you're not adverse 
+iris_stealth: to the idea...?
+kazuma: Why would we be? 
+kazuma: Sounds like a blast!
+megumin_lightcloth: Count me in too! 
+megumin_lightcloth: Being it's summer, we should do something in the spirit of the season. Any ideas?
+iris_stealth: Hehe... I assumed you would say that. 
+iris_stealth: Which is why I brought...this.
+darkness: Oh? A map?
+iris_stealth: Indeed. I found it in the royal archives.
+aqua: I spy a red "X" in the middle of the sea... 
+aqua: Don't tell me this is a treasure map!
+megumin_lightcloth: Look at this writing. "On the night of the full 
+megumin_lightcloth: moon shall appear the land where the treasure sleepeth."
+iris_stealth: Hehe, doesn't it sound exciting?
+kazuma: It sure does. Plus, tomorrow's a full moon. 
+kazuma: Gear up for a nighttime treasure hunt, gang!
+darkness: Thanks for the invitation, Princess. I can't wait.
+aqua: Neither can I—for the treasure, that is! 
+aqua: And to make this a summer Iris can remember for all time! You with me?
+Everyone: You bet!

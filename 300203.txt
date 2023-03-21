@@ -1,0 +1,95 @@
+A Friend for This Crimson Demon Girl! - P1
+ナレーション: The day after Darkness left the manor, Megumin arrived with a black cat...
+aqua: What's with the cat?
+megumin: I doubt she'll cause any trouble. 
+megumin: Her name's Chomusuke.
+chomu: Meooow.
+kazuma: ...Chomusuke?! You're serious, huh? Life's hard enough after that trial without another mouth to feed.
+sena: Kazuma Satou! Is Kazuma Satou here?!
+kazuma: Speak of the devil...
+questStart: Kill Quest:
+Defeat the monsters
+
+
+ 
+
+in the Axel area.
+Defeat the monsters
+
+
+ 
+
+in the Axel area.
+kazuma: Sena said that Megumin's explosion magic woke the giant toads from hibernation.
+kazuma: So it's our responsibility to get rid of them.
+Giant Toad A: *Croak croak*
+aqua: Nooo! Not more toads! I'm done being eaten by toads!
+megumin: C'mon, Aqua. You've gotta help us. I already used all my explosion magic, so all I can do is stand around.
+kazuma: Um... Is there any chance you could help us, Sena?
+sena: My hands are tied. I'm only here to make sure you do your duty.
+kazuma: *Sigh* Thought so... Well, if we have to...
+kazuma: Darkness gives our party a really strong tank, but we're pretty lacking in ranged attacks.
+kazuma: So I picked up a new skill. The higher your luck, the more accurate the attack. It's called...
+kazuma: Snipe!
+Giant Toad A: *Croak croak*
+kazuma: It didn't even work!
+aqua: Wait! There are more toads coming!
+Giant Toads B, C, D: *Croak croak*
+kazuma: Four of 'em? Crap, even if I count Sena, that's not enough decoys!
+sena: Decoys? I don't—
+sena: Eeeeeek!
+ナレーション: The giant toad's tongue whipped out, wrapped around Sena, and it proceeded to swallow her whole...
+kazuma: Wh-Whoaaa...
+aqua: Now's your chance, Kazuma! Finish off that toad and—
+aqua: Aaagh!
+kazuma: Not Aqua, too! If only Darkness were here... She'd probably enjoy this!
+megumin: Sorry... I seem to have turned into toad chow. Lend me a—? 
+megumin: *Glub glub*
+kazuma: C'mon, you guuuys! 
+kazuma: At least try to fight back!
+？？？: Light of Saber!
+ナレーション: After Sena and Aqua arranged for the meat from the electrocuted giant toads to be delivered to the guild...
+kazuma: I don't know who you are, but thanks for the help.
+？？？: I-I wasn't trying to help. I just had to make sure my rival didn't get eaten by a toad.
+megumin: Rival? Wait. Who are you?
+？？？: Huh?
+megumin: It's pretty rude not to introduce yourself. You're not one of those scammers, are you?
+？？？: F-Fine. It's embarrassing to say in front of strangers, but... Ahem...
+ynyn: I am Yunyun! Master arch wizard, wielder of advanced magic, and the future chieftain of the Crimson Demons!
+megumin: Oh right, this is Yunyun. She's the Crimson Demon Clan chief's daughter...and my self-proclaimed rival.
+ynyn: You DO remember me... You're such a meanie!\n
+ynyn: But that's why we're rivals! How about a duel!
+megumin: Nah, no thanks. It's way too cold right now.
+ynyn: Huh? Seriously? Come ooon! Pleeeease!
+megumin: *Sigh* If I have to...
+megumin: I'm all out of magic for today, though, so how about we spar? You were always better at that.
+ynyn: Great! It'll be a test of our martial arts prowess!
+megumin: All right, then. Come at me whenever you're ready!
+kazuma: Yunyun looks pretty strong. Plus, I can't imagine Megumin being particularly good at hand-to-hand combat.
+ynyn: Huh?! Megumin, you're all...shiny.
+megumin: Heh. Finally noticed, huh? I'm covered from head to toe in giant toad digestive fluids!
+megumin: Once you're within reach, I'll wrap my slimy arms around you and pin you to the ground!
+ynyn: Y-You're joking, right? You're trying to gross me out so I'll surrender! ...Right?
+megumin: We're friends, right? And friends share everything... Every sticky little detail!
+ynyn: Nooo! Stop! Stay awaaay!
+megumin: Slimy, slimy! Sticky sticky sticky sticky!
+ynyn: I give, I give! Just. Let. Goooooo!
+megumin: Oh, no you don't. You're not getting away! You're gonna be all gooey too!
+ynyn: Eeeeeeeeek! I-I feel sick...
+megumin: Your friends make you feel sick? Talk about cruel.
+megumin: I'll keep squeezing until you like it! C'mon! Slimy! Squishy! Gooey!
+ynyn: S-Stop! You win this round!
+megumin: I win again!
+questComplete: Today's Results:
+<size=80>Twelve giant toads
+
+
+
+
+defeated.</size>
+<size=80>Twelve giant toads
+
+
+
+
+defeated.</size>

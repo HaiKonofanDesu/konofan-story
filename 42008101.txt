@@ -1,0 +1,58 @@
+kazuma_jersey: This heatwave is ridiculous. It's so hot that I feel like 
+kazuma_jersey: I'll melt as soon as I step outside.
+megumin_lightcloth: I agree. It's enough to make me wish I could blow up the sun.
+kazuma_jersey: I think it's time for my most recent idea. 
+kazuma_jersey: Create Water! 
+kazuma_jersey: And I'll follow that with Freeze!
+megumin_lightcloth: Ah, this ice is really refreshing... Make some more, Kazuma.
+kazuma_jersey: Not so fast. I didn't make this ice just to cool the room.\n
+kazuma_jersey: I had Vanir make this prototype for me to use. 
+kazuma_jersey: And...there!
+megumin_lightcloth: Is that the snow cone contraption you mentioned earlier?
+kazuma_jersey: Hehehe! I thought we might need this. I was right to ask Vanir when I did!
+kazuma_jersey: You just shave the ice like so, and... 
+kazuma_jersey: Here, try this.
+megumin_lightcloth: Mmmmmm! It's so fluffy! And nice and cold, too!
+kazuma_jersey: It really cools you off, doesn't it?
+megumin_lightcloth: It sure does! The perfect amount of chill!
+kazuma_jersey: Why don't you go get Aqua from her room? I'm sure she'd enjoy some too.
+aqua: Whoo! It goes straight to your head!
+megumin_lightcloth: O-ouch...! What is this feeling? My head!
+kazuma_jersey: That's what you get for eating it so fast. Just slow down and try to enjoy it.
+lia: Hello? Is anyone here?
+wiz: Wow, this room feels nice and cool.
+kazuma_jersey: Lia and Wiz? I don't see you two together very often.
+lia: Where's Darkness?
+kazuma_jersey: She had some business to take care of back home, 
+kazuma_jersey: so she'll be gone for a bit. Hey, would you two like a snow cone?
+wiz: Thank you! That sounds lovely, it's so hot outside!
+megumin_lightcloth: So, what brings you two here? Do you need something?
+lia: Actually, yes. I came to ask for your help with a quest—
+kazuma_jersey: No. Absolutely not!
+aqua: You can't expect us to go on a quest when it's so hot out. 
+aqua: Today's a day for swimming, not battling monsters.
+lia: Please, hear me out before brushing this off. The quest is fishing for sharks.
+aqua: Sharks? You don't mean for the summer seafood specials, do you?!
+lia: I sure do! And what's more, the request says we get to keep any extra seafood we manage to collect!
+aqua: R-really?! Now that's what I call a generous quest!
+lia: Right? 
+lia: I had planned on going with Erika and Cielo, 
+lia: but they're both busy today.
+wiz: Lia was fretting over what to do when I happened to see her at the guild. 
+wiz: I suggested we come ask you all for help.
+aqua: This certainly is a perfect quest for a hot day like this! Let's get going, then. To the beach!
+megumin: A quest reward, a chance to eat grilled shark, and a trip to the beach? 
+megumin: You sure hit the quest jackpot, Lia!
+lia: Hm? What's the matter, Kazuma? You don't look very excited about all this.
+kazuma_jersey: I can see the appeal of the situation, but I don't have very good memories of the beach...
+kazuma_jersey: Last time I went as a kid, I got stung by a jellyfish and couldn't sit for days... Not to mention I nearly drowned.
+aqua: There's no need to worry, Kazuma!
+aqua: There's no way you'll get stung! The jellyfish of this world don't live in the ocean... 
+aqua: They live in the forest!
+kazuma_jersey: Why is this world so backwards?! 
+kazuma_jersey: Still, if I can just enjoy a nice, cool day indoors, then—
+megumin: Kazuma, you really are hopeless sometimes! 
+megumin: Have it your way, then! We'll enjoy the beach in our swimsuits without you!
+megumin: Come on, ladies! Fun in the sun in skimpy clothing awaits! It's a shame Kazuma won't be there, but that's his choice!
+kazuma_jersey: Okay, you convinced me.
+ナレーション: And with that, our heroes set off toward sand and sea...

@@ -1,0 +1,24 @@
+Rem - P2
+aqua: Ah, Rem, I'm all out of bubbly! Would you top me off?
+rem: Of course, Lady Aqua.
+aqua: You're the best! And could you make 
+aqua: me some snacks, too?
+rem: I'd be more than happy to prepare something for you—
+rem: Might I borrow your kitchen?
+aqua: Borrow away! Use anything in the pantry that you want! And if there's not enough food, there's a market—
+megumin_lightcloth: Aqua, slow down; you'll run her ragged! And Rem... 
+megumin_lightcloth: Don't let them take advantage of you. You're free to say "no."
+rem: I wouldn't dream of it after you've been so kind to us. Besides, I am a maid, after all.
+aqua: See? The maid has spoken! If she doesn't mind, then you shouldn't either!
+rem: If there's anything I can do for you, Lady Megumin or Lady Darkness, simply say the word.
+darkness: Now that you mention it, there is one thing...
+rem: Yes, Lady Darkness? What is it?
+darkness: Think you could hurl that giant morningstar of yours straight at me? Uh, for training, I mean...
+rem: Pardon me?
+darkness: Watching you pulverize your foes into nothingness was unlike 
+darkness: anything I've ever seen! Just imagining that onslaught makes me tremble...
+rem: B-But, Lady Darkness, I consider you my friend! I could never hurt you.
+darkness: Oh, but you must! Don't worry, I can take it. As a crusader, 
+darkness: I'm sworn to endure such punishment!
+rem: A-Ah, what should Rem do...
+ナレーション: Luckily for Rem, Kazuma returned, relieving her from fulfilling Darkness's peculiar imposition.

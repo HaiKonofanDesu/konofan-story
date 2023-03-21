@@ -1,0 +1,93 @@
+School Life for This Shut-in NEET! - P4
+kazuma_school: Hey, sis!
+ynyn_school2: K-K-Kazuma?! You promised not to call me that 
+ynyn_school2: at school!
+ynyn_school2: What are you even doing here? 
+kazuma_school: Do you want to have dinner tonight? 
+kazuma_school: Iris is going to a friend's house after work, and eating 
+kazuma_school: by myself sounded kinda lonely. 
+kazuma_school: How about it, sis?
+ynyn_school2: Stop calling me that! But dinner sounds nice... 
+ynyn_school2: We can stop at the store on our way home.
+kazuma_school: Thanks, 
+kazuma_school: sis!
+Male Student A: Who the hell is that chatting up Yunyun...?
+Male Student B: How dare he act all buddy-buddy with our precious Yunyun!
+kazuma_school: Top of her class, president of the disciplinary committee, and hot to boot! Most people find Yunyun hard to approach.
+kazuma_school: But to me, she's my neighbor! And with Iris gone, tonight's my 
+kazuma_school: big chance to finally close the gap between us!
+kazuma_school: Man, we bought a lot. 
+kazuma_school: I am kinda surprised you didn't have anyone to walk home with, though.
+ynyn_school2: I-I'm not always alone! I've got plenty of friends, I'll 
+ynyn_school2: have you know!
+**SelectLabel_A: You know, it's really cute when you act all tough.
+**SelectLabel_B: I kinda like that you're alone.     
+kazuma_school: You know, it's really cute 
+kazuma_school: when you act all tough.
+ynyn_school2: I-I-I am not acting tough! But did you just say...you think 
+ynyn_school2: that I'm cute?
+kazuma_school: I dunno, did I?
+kazuma_school: I kinda like that you're alone.
+ynyn_school2: What...do you mean by that?
+kazuma_school: I meant exactly what I said.
+ynyn_school2: Kazuma, don't poke fun at me! Maybe I won't have dinner with you 
+ynyn_school2: after all! 
+ynyn_school2: Hmph!
+kazuma_school: There's no need to get so— Huh? 
+kazuma_school: Something feels wet...
+ynyn_school2: Oh, it's raining! 
+ynyn_school2: I didn't bring an umbrella today. Did you?
+kazuma_school: I don't have one, either.
+ynyn_school2: No time to fool around, then. Let's hurry home!
+kazuma_school: Man, we're soaked to the bone. No complaints, though. 
+kazuma_school: Your white school uniform makes it all worth it! 
+ynyn_school2: What?! Are you serious?! D-Don't stare 
+ynyn_school2: at me like that.
+ynyn_school2: Just go shower and warm up! You'll catch a cold!
+kazuma_school: Haha! Okay, okay, I'm just joking! 
+kazuma_school: You should jump in first, though. I'll wait here until you're— 
+kazuma_school: Achoo!
+ynyn_school2: Look, you're already sneezing.
+kazuma_school: Don't worry about me. 
+kazuma_school: I don't want you to catch a cold.
+ynyn_school2: You're being so difficult...
+ynyn_school2: How about we take a bath together, then?
+ynyn_school2: Haha! I'm just joking, of course! Hurry up and 
+ynyn_school2: go shower already!
+kazuma_school: Oh boy, here we go! 
+kazuma_school: This is where the main character is supposed to get flustered. Me, however, I'm going for it!
+kazuma_school: I agree! Let's take one together, Yunyun.
+ynyn_school2: What?! I-I said I was only joking!
+ナレーション: A few days later...
+ナレーション: Iris, the step-sister; Erika, the childhood friend; Yunyun, the next-door neighbor... Everything was going as planned...
+erica_school: Let go! Kazuma and I are eating together!
+iris_school: No way! I brought us lunch today. Brother, I made your favorite, fried chicken.
+ynyn_school2: D-Don't forget about me! I want to have lunch together too!
+kazuma_school: Perfect! This is the situation I've been waiting for! It is a bit more painful than I'd expected, though.
+kazuma_school: Calm down, you three. 
+kazuma_school: How about we all have lunch together?
+erica_school: I wanted it to be just the two of us, Kazuma! 
+erica_school: But if you say so, then I guess I won't say no.
+iris_school: I'll listen to what you want, Brother...
+ynyn_school2: I would 
+ynyn_school2: be happy to eat with everyone!
+kazuma_school: Great. 
+kazuma_school: Would you be so kind as to feed me some of your homemade lunch, Iris?
+iris_school: Of course! 
+iris_school: Let's start with your favorite! 
+iris_school: Say "ahh."
+kazuma_school: Mmm! This is delicious! So juicy! 
+kazuma_school: Hey Yunyun, would you mind pouring me some tea?
+ynyn_school2: Sure! I'd be glad to.
+erica_school: Kazuma, what can I do?
+kazuma_school: Let's see... Oh, I know. Would you mind if I rested my head on your lap later?
+erica_school: O-On my lap?! That's quite a bit different than what you asked them to do! 
+erica_school: But if you insist...
+kazuma_school: Haha! I have finally achieved the supreme bliss I've 
+kazuma_school: dreamed of my whole life. 
+kazuma_school: I pray this lasts forever!
+？？？: —ma!
+kazuma_school: Huh?
+？？？: —zuma!
+aqua: Kazuma! Snap out of it already!
+kazuma: Hrng... Where am I...?

@@ -1,0 +1,68 @@
+Crimson Legend - P6
+ナレーション: With the power of the legendary Mage Killer, Sylvia launched a vicious attack on the Crimson Demon Village...
+silvia_secound: This is payback for everything you've done to me!
+Goblin A: It's Lady Sylvia! Lady Sylvia has obtained the Mage Killer!
+Goblins: Sylvia! Sylvia! Sylvia! Sylvia!
+Chieftain: I cannot believe the seal was broken... I am so sorry this had to happen while you're visiting our village.
+kazuma: It's my fault. I'm the one who broke the seal...
+arue: The village is burning...
+kazuma: Ugh, I feel terrible... Hey, is there really nothing 
+kazuma: we can do about this?
+arue: There is a secret way to stop the Mage Killer!
+Chieftain: Er, supposedly. Nobody has been able to decipher the text inscribed on the ancient stone monument...
+kazuma: So there is a way to stop it! 
+kazuma: Okay, let's check it out!
+megumin: Wait, I'm worried about Komekko. Before we go, we have to—
+darkness: No, Megumin. You show Kazuma the way to the monument. I'll look after your family... 
+darkness: That's the duty of a knight, is it not?
+megumin: ...Please take care of her.
+aqua: Hey, I know this is serious, but leave me out of it! I can support you from a safe distance!
+kazuma: Stop throwing your little tantrum and let's get moving! 
+kazuma: We're a party, aren't we?
+wiz: We'll be arriving soon, Vanir. The craftsman I know does excellent work.
+banil: Your confidence gives me cause for concern.
+wiz: Don't worry. He really is the best—
+banil: Huh? Was that an explosion?
+wiz: Oh no! The village is on fire!
+silvia_secound: Ancient Dispel!
+Chieftain: Is that...a magic-sealing spell?!
+Goblin A: Woohoo! Without their magic, the Crimson Demon Clan is nothing!
+silvia_secound: This Mage Killer is amazing! 
+silvia_secound: Hehehe... 
+silvia_secound: The Crimson Demon Clan will be destroyed by its own weapon. 
+silvia_secound: This is the end!
+arue: Funifura! Dodonko! Watch out!
+Funifura ＆ Dodonko: Aaaaaah!
+？？？: Light of Saber!
+silvia_secound: What the—?!
+ynyn: General Sylvia of the Devil King's Army! That's as far as you go!
+Dodonko: Yunyun, you fool! What are you doing?!
+ynyn: I can't abandon my friends...
+Funifura: Yunyun...
+ynyn: I'm Yunyun, arch wizard and wielder of advanced magic! Also the top spellcaster of the Crimson Demons, and future chieftain!
+ynyn: You'll have to go through me if you want to destroy our village!\n
+ynyn: We refuse to let evil go unpunished! That is the fate we have chosen!
+silvia_secound: How quaint. 
+silvia_secound: When it comes to cute little girls like you...\n
+silvia_secound: I hate every last one of you! 
+silvia_secound: It's time for me to end this—
+kazuma: That's enough, Sylvia!
+silvia_secound: Ugh, now what?!
+kazuma: Thanks for buying me time, Yunyun! Sylvia, this is a secret\n
+kazuma: weapon designed to destroy the Mage Killer!
+Chekera: Hey, that's my laundry pole!
+kazuma: I'd best keep what was written on that monument a secret. I can't believe that old codger was involved again...
+kazuma: I'm grateful for a weapon that can defeat the Mage Killer, but what was he thinking, 
+kazuma: calling it the Railgun?!
+kazuma: Sylvia, it's been fun... 
+kazuma: But it's time to say goodbye!\n
+kazuma: Snipe!
+ナレーション: As Kazuma pulled the trigger on the railgun (laundry pole), a silence followed, hanging in the dry air...
+kazuma: Wait, what?! Is this thing broken?!
+darkness: Hey, let me see that! These things usually work if you give them a good smack!
+aqua: Hey, what's going on?! I poured my magic into that thing!
+silvia_secound: Hey, are you guys through teasing me yet? I've had enough.\n
+silvia_secound: It's time to reveal the true power of the Mage Killer—
+？？？: Hahahaha... Make way for the cavalry!
+megumin: I am Megumin, the greatest spellcaster of them all! I command the power of the heavens themselves!
+megumin: My explosion magic shall reduce everything to ashes!

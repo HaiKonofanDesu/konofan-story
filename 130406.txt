@@ -1,0 +1,127 @@
+Some Ore for This Broken Magic Item! P6
+ナレーション: Once more on the rampage, the Lady Golems were lured out of the lab by our heroes and led into a barren field...
+Lady Golem A: Rrrrrrrrrghm!
+kazuma: Is it just me or are they more unruly than ever? 
+kazuma: And why am I the sole object of their attention?!
+shelly: I can't say, but they seem to have gone berserk. 
+shelly: And if that wasn't enough, there's a horde of them!
+Lady Golem B: Groooaaargh!
+kazuma: H-Help?!
+iris_adventurer: Brother!
+shelly: Bind!
+megumin: Whoa. Shelly used Bind?!
+shelly: Thanks to one of the magic items you guys found while clearing dungeons! I was keeping it for research. 
+shelly: I'm glad I had it!
+Lady Golems: Grrroooarrr!
+aqua: There's another wave incoming! 
+aqua: Kazuma, what do we do?!
+kazuma: Must I solve EVERY problem around here?! 
+kazuma: Ugh, we have no choice. 
+kazuma: Shelly, can you Bind any more of those things?
+shelly: M-Maybe a few... 
+shelly: This item doesn't have many charges left!
+kazuma: That's fine. We only need to slow them down! Ready... 
+kazuma: Bind!
+shelly: Bind!
+Lady Golems: Wrrrgh?!
+megumin: The golem horde is losing speed!
+kazuma: Good. Keep on 'em, Shelly! 
+kazuma: Aqua, cast Blessing and Protection on me, if you would!
+aqua: Consider it done! 
+aqua: Blessing! Protection!
+kazuma: Now enhance Darkness's strength!
+aqua: Huh? What exactly are you scheming?
+kazuma: Just do it already!
+darkness: Wh-What's the deal, Kazuma? 
+darkness: Undressing me with your gaze...
+kazuma: Hey! Get your head in the game and hurl me as far as you can! 
+kazuma: I'm the one they're after!
+darkness: I-I see... 
+darkness: Unlike last time, you're able to bait those golems in any direction you want.
+kazuma: Now you're getting it! 
+kazuma: Megumin, when I give the signal—
+megumin: Say no more! I'm cooking one up right now! 
+megumin: Darkness darker than dark, entwine thyself with my crimson...
+shelly: Kazuma, I'm fresh out of Binds!
+kazuma: I hear you! Darkness, you're up!
+darkness: On it. 
+darkness: Haaaaaagh...!
+kazuma: W-Wait! Waaaaaah!
+aqua: Wow. She flung him sky-high.
+Lady Golems: Target spotted. Setting course for crash point...
+kazuma: Now, Megumin! Get 'em, BEFORE I hit the ground!
+megumin: Here goes! 
+megumin: EXPLOSION!!!
+Lady Golems: Rrrrrrrrrngh!
+iris_adventurer: Excellent job, 
+iris_adventurer: Megumin, Brother!
+shelly: Well, it seems that I am indebted to you yet again for 
+shelly: saving my laboratory!
+kazuma: All in a day's work. 
+kazuma: Now, can we hurry and use the magic item 
+kazuma: we just fought so hard to protect?
+shelly: Sure thing. Princess, if you will, stand right there, within the item's range of effect.
+iris_adventurer: I understand. 
+iris_adventurer: Brother, I thoroughly enjoyed our adventures. Please take me on another someday!
+kazuma: You got it. But...let's try for something a little milder than the life-threatening ordeal we've just gone through.
+iris_adventurer: Hehe... Perhaps that would be prudent.
+shelly: Activating the magic item!
+iris_adventurer: Ah...
+aqua: Wow. Check out that light. It's enveloping the princess!
+megumin: Spellbinding. I can't believe what I'm seeing.
+darkness: This is the artifact's power? Incredible.
+kazuma: W-Well, Iris? How do you feel? Not bad, I hope?
+iris_adventurer: N-No, I'm quite all right. 
+iris_adventurer: Oh, the light is fading...
+shelly: Huh?
+iris_adventurer: Shelly, is the process over?
+shelly: It shouldn't be...The more memory one has lost, the more time it should take. I expected it to last much longer.
+kazuma: Put simply, it's not working as planned. 
+kazuma: Do you remember anything, Iris?
+iris_adventurer: Let me see... 
+iris_adventurer: I'm afraid I don't, no.
+darkness: So the item didn't work?
+shelly: N-No, that's impossible! 
+shelly: Just a moment. My father's notes should contain detailed instructions...
+aqua: Why don't we, you know, smack her in the head? 
+aqua: Human are built a lot simpler than you'd think.
+kazuma: No and no! 
+kazuma: Your habit of taking shortcuts is the reason we land in so many preposterous predicaments!
+shelly: Oh no! It can't be!
+iris_adventurer: Have you learned something, Miss Shelly?
+shelly: Y-Yes indeed... 
+shelly: My sincerest apologies. For it seems I overlooked a crucial detail...
+kazuma: Oh? Please, tell us what it is. I won't get mad. Promise.
+shelly: A-According to my father's records...
+shelly: the device is only effective within ten days of 
+shelly: the initial memory loss.
+kazuma: Ten days? 
+kazuma: HOW COULD YOU OVERLOOK SOMETHING SO ESSENTIAL?!
+shelly: Eeek! Y-You promised not to get mad at me! I'm s-sorry! 
+shelly: My dad has terrible handwriting, it's super hard to read.
+darkness: Hmm... I can't blame her. These look more like a child's doodles than a researcher's notes.
+kazuma: *Sigh* So, since it's been a month since Iris lost her memory, the item has no effect on her.
+shelly: C-Correct...
+kazuma: And to top it off, this magic item is one use only. Is that right too?
+shelly: I am SO sorry! SO, SO VERY SORRY!
+aqua: Well, what happens now? Is Iris just gonna stay like this forever now?
+shelly: I'll search high and low for another solution!
+kazuma: Just great... 
+kazuma: No, feeling down never helped anyone get past trouble. Time for some serious brainstorming.
+megumin: Honestly though, I'm pretty much out of ideas over here. 
+megumin: I mean, how else can one restore lost memory?
+iris_adventurer: Oh, Brother, everyone...
+kazuma: This is a conundrum. 
+kazuma: What are we to do?
+ナレーション: While Kazuma and friends lamented their situation, some very specific ruins were rumbling ominously...
+Lady Golem: Reboot complete. Primary directives reset. Master, your orders, please.
+daniel_troll: *Pant pant* 
+daniel_troll: We've done it, Charlie! And we owe it all to the peculiar golem you found.
+charlie_troll: *Pant* 
+charlie_troll: You're far too kind, my lord. You were the one who subdued the rampaging drone and pushed its reset button.
+charlie_troll: What are your orders? We must have our revenge for being beaten twice and, more importantly, 
+charlie_troll: being banned from seeing Axel Hearts!
+daniel_troll: Indeed. 
+daniel_troll: That vile adventurer—Kazuma Satou—must be punished!
+Lady Golem: Directive required. Standing by...
+ナレーション: Little did Kazuma and his friends know that their troubles had only just begun...

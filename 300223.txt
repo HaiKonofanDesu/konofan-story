@@ -1,0 +1,77 @@
+God's Blessing on This Wonderful Work of Art! - P3
+aqua: Huh? Take out a giant golem?! 
+aqua: Seriously? Are you a complete idiot?!
+ナレーション: After Aqua heard about the new quest, she began throwing the sofa cushions...
+aqua: I'm not doing it! We don't have money problems anymore, so I'm just going to kick back and enjoy life!
+kazuma: The villagers are terrified. You're supposed to be an adventurer, remember?!
+aqua: This coming from the guy who constantly whined about going on quests and getting into danger!
+darkness: Golems are big, strong, sturdy foes... 
+darkness: They hit really hard and heavy, right?!
+darkness: Marvelous! I'll be happy to take one on!
+kazuma: No need to explain, then? You're coming too, right, Megumin?
+megumin: A golem isn't a tough enough challenge to satisfy me.
+kazuma: Huh? You're always looking for a good fight.
+megumin: Do I look like a raging bull or a berserker to you? I have a right to choose the target for my magic.
+kazuma: Shh... Slow down, Megumin. They're usually tough opponents, but you can one-shot 'em from afar, right?
+kazuma: You do that, and you'll become even more famous than you are now. It'll be another glorious chapter in your story.
+megumin: Ooh. Well, when you put it that way... Let's go, then! There's not a moment to lose!
+aqua: Megumin, why are you always so easy to fool? 
+aqua: Oh well, let's go then.
+questStart: Kill Quest:
+Defeat guardian golem.
+Defeat guardian golem.
+kazuma: Those must be the ruins we're looking for.
+darkness: I had a look around, but I didn't see a giant golem anywhere.
+aqua: It must've wandered off somewhere.
+megumin: That's a real problem! How else is the grand tale of my life ever going to be completed?!
+kazuma: Let's get a little closer.
+aqua: It's just something Megumin can wipe out in the blink of an eye. So let's get this over with and go home!
+kazuma: Why do you always say things that we end up immediately regretting?
+darkness: The golem might be hiding, so I'll take point. You know you can always count on me in times like these.
+kazuma: Okay. Megumin, get back and wait for the signal.
+megumin: Leave it to me! I'll reduce all of these ruins 
+megumin: to rubble!
+kazuma: Um, you don't need to go that far.
+aqua: Hey, is the ground shaking?
+？？？: Grrrrrrrrr...
+darkness: Kazuma, that thing might be a bit too big to handle.
+megumin: Wh-what the... What is that thing?!
+Giant Golem: Rrraaarrrh!
+kazuma: That thing isn't a golem! It's a giant robot! 
+kazuma: It must've been made by that old Japanese guy!
+ナレーション: Sporting two horns and dark purple armor, the massive golem smashed its giant fists down on Kazuma's party...
+kazuma: Whoa, watch out! It's gonna smash us!
+darkness: Everyone, stand back... 
+darkness: Hyaaah!
+aqua: Wow, she stopped that thing's punch!
+kazuma: Darkness, are you okay?!
+darkness: ...
+darkness: Huh?!
+kazuma: Wh-what's wrong?!
+darkness: Kazuma, it's no good... Its attacks are too weak! I wanted something brutal! Something heavy!
+kazuma: ...
+kazuma: Say what now?
+darkness: *Sigh* 
+darkness: Still, this thing is so large. I think it'll trample me no matter what I do, and then... *Pant*
+kazuma: Hey, Megumin! Use your explosion magic before it's too late for her!
+megumin: No!
+kazuma: Okay then, let's— 
+kazuma: Wait, what did you just say?
+megumin: That golem is way too cool for me to destroy! 
+megumin: Kazuma, we've got to find a way to capture it and take it home!
+kazuma: Are you seriously saying that RIGHT NOW?!
+megumin: I'll be sure to feed it and take proper care of it! I'll take it on walks and train it, too!
+kazuma: You want to keep it as a pet? That huge thing?! 
+kazuma: What in the world is wrong with you?!
+aqua: Hey, Kazuma! Darkness is—
+darkness: Ung
+darkness: hhhhhhhhhhhh!!
+darkness: S-stop... Not in the breastplate!
+megumin: What should I do? Darkness is in trouble, but the golem's bulk and dark luster is so appealing...
+kazuma: In trouble? It looks like she's enjoying it...
+aqua: Megumin, I'll make you something even better than this golem, so just save her already!
+megumin: Oh, I'm going to hold you to that! 
+megumin: It better be cooler than this thing, okay?!
+darkness: More, more... Give me mooore!
+kazuma: Okay, Aqua! Help out Darkness, and hold that thing back until Megumin is finished casting!
+aqua: Leave it to me, Kazuma!

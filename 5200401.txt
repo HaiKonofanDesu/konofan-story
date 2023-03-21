@@ -1,0 +1,40 @@
+Pajama Party!
+ナレーション: The heroines were wearing their cutest, comfiest pajamas and it was already late. But the party was just getting started...
+megumin_pajama: I didn't hesitate one second! I unleashed my explosion magic! 
+megumin_pajama: But despite everything, Kazuma...
+wiz_pajama: It's all right, Megumin. You meant well. Besides, Vanir's just a big grump. He gets mad at me for stuff like that all the time.
+wiz_pajama: He can be really mean! I try so hard to find stuff that will sell, but he calls it junk and... 
+wiz_pajama: Hm?
+ynyn_pajama: ...
+megumin_pajama: You're awfully quiet tonight, Yunyun. We hardly ever get together for sleepovers. You should join in!
+ynyn_pajama: Oh, sorry, Megumin. I've just never done anything like this before.
+ynyn_pajama: It almost makes me feel like I have real friends!
+megumin_pajama: Almost real friends? What are you talking about?
+ynyn_pajama: Oh, I'm sorry. I just thought—
+wiz_pajama: Of course we're real friends!
+ynyn_pajama: Huh?
+megumin_pajama: Wiz is right. I know I've been stubborn, but that's in the past. I consider you my friend now, Yunyun.
+ynyn_pajama: No way! Really?! I must be dreaming! Say it again!
+megumin_pajama: I'll say it as many times as you'd like. We're friends, Yunyun.
+wiz_pajama: But just to be extra sure... We should go on a trip together!
+megumin_pajama: That's a great idea! A little bonding time would really cement our friendship.
+ynyn_pajama: A trip with friends?! I would love that! Do you promise?! 
+ynyn_pajama: This is like a dream come true!
+megumin_pajama: Yunyun...
+megumin_pajama: Yunyun? Yunyun! Wake up!
+ynyn_pajama: Wake...up?
+megumin_pajama: Yeah! It's morning!
+ynyn_pajama: ...
+ynyn_pajama: Huh?
+wiz: Good morning, Yunyun. Did you sleep well?
+ynyn_pajama: What? Weren't we just talking in Megumin's room?
+megumin: Uh, no. You fell asleep right after dinner. You're lucky we didn't freeze your bra.
+ynyn_pajama: We didn't decide to go on a trip together?!
+wiz: Trip? What trip?
+ynyn_pajama: You mean it was all a dream? No! It can't be!
+ynyn_pajama: Megumin! Can we please have another pajama party tonight?!
+megumin: No way! It's not special if you do it all the time.
+ynyn_pajama: Aw... After all that, I can't believe I fell asleep and missed everything! 
+ynyn_pajama: Waaahhhhhh!
+wiz: Yunyun, wait! What's wrong? Why is she crying?
+megumin: Well, I called that one.

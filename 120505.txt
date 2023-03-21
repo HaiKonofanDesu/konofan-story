@@ -1,0 +1,107 @@
+A Settlement for This Stubborn Noble! - P5
+Sentry: My lord, a letter has arrived for you.
+reuenthal: ...
+reuenthal: You dare disturb me in the middle of my sacred bench press 
+reuenthal: for a mere letter? Hurl the cursed thing in the trash!
+Sentry: But my liege, it is from multiple persons of great eminence! Princess Iris herself, and a Lord Dustiness of Axel...
+reuenthal: The Belzerg princess, you say? 
+reuenthal: ...
+reuenthal: Give it here!
+iris: We have elected to hold an event for the people. There will be entertainment for all, from orphans to the elderly.
+iris: It will be a wonderful opportunity to celebrate the capital and its citizens. We will of course prepare you a seat of honor.
+reuenthal: Far be it for me to refuse a princess and the aristocratic elite. 
+reuenthal: Summon Ciruelto. To the capital!
+darkness: The plan's taking shape. Let's just hope it works... 
+darkness: This outdoor stage is certainly something else, though.
+kazuma: You can thank Iris for that. She's one of Axel Hearts' biggest fans, after all.
+aqua: If only she could command the weather, too. That sky looks rather foreboding.
+megumin: That depends on your perspective. I like the idea of 
+megumin: starting the show with some thunder.
+kazuma: The kids might go for it, but the old folks would be 
+kazuma: startled. We've got a broad demographic in attendance.
+lia_stage: Hi everyone! Thanks for making it out to today's event, brought to you by the Kingdom of Belzerg!
+erica_stage: From our longtime fans to our new friends, we welcome you all! 
+erica_stage: Who's ready to rock these rainclouds away?
+Audience: YEEEAAAHHH!!!
+kazuma: I see winning that contest propelled them to the next level. They're beloved. 
+kazuma: I'm so proud of them.
+aqua: But won't people notice the trio's down to two? Cielo's fans might riot...
+kazuma: I have a feeling things will pan out. A lot of planning went into this show. 
+kazuma: Just sit back and watch.
+lia_stage: As a lot of you know, we haven't been able to perform for some time now. 
+erica_stage: It was tough for us.
+erica_stage: There is no Axel Hearts without Cielo! And no show!
+lia_stage: Cielo! We know you're out there somewhere! If you can hear us, say something!
+cielo: Lia! Erika!
+ナレーション: A lone voice sounded from the VIP seats. A young girl rose, dwarfed by a muscular man at her side—Cielo.
+Fan C: YEEEAAAHHH!!! Cielo!!! Remember me?! Sink a right cross right into my solar plexus! Please!!
+lia_stage: C'mon, Cielo! Get up here, where you belong! 
+lia_stage: Sing with us!
+cielo: Lia...
+reuenthal: Squash any thoughts you have of taking to that confounded stage, girl! You are a noblewoman, not some dancing fool!
+cielo: Father...
+erica_stage: Cielo, it's time to dance! I think everyone else here agrees! 
+erica_stage: C'mon everyone, tell her!
+Audience: Ci-e-lo! Ci-e-lo! Ci-e-lo! Ci-e-lo!
+cielo: Father, I'm sorry. But my dear friends and fans have helped me realize where I truly belong. 
+cielo: And that's... 
+cielo: on 
+cielo: the stage!
+reuenthal: Ciruelto, get back here!
+lia_stage: My apologies, Lord Reuentahl.
+lia_stage: But we need Cielo. She's special, one in ten million. 
+lia_stage: I beseech you—allow her to choose her own path!
+reuenthal: Allow my heir to render herself a spectacle for the commonfolk? The Reuentahls would be the laughingstock of nobility!
+kazuma: Hold that thought! As Axel Hearts' producer, I respectfully object! 
+kazuma: Here, read this.
+megumin: Behold! The signatures of all the people desperate for Cielo's return to the stage!
+reuenthal: The Crimson Demon Village, Axel, Arcanretia. Even citizens
+of the capital...
+aqua: Oh, you think that's something? 
+aqua: Here's the signature of the princess of Belzerg herself! 
+aqua: How's that for some persuasive oomph?
+reuenthal: So the initial letter from the princess, co-signed by House Dustiness, was a ploy to bring us here?
+darkness: Apologies for the deception, Lord Reuentahl, but we needed you 
+darkness: to witness Axel Hearts' greatness in person.
+darkness: They're loved across the land. Look at this arena of fans. 
+darkness: Please, do not deny them the joy of seeing Cielo perform.
+reuenthal: ...
+reuenthal: In truth, I am impressed. Ciruelto is blessed. 
+reuenthal: She possesses both the love of the people, and loyal friends too.
+cielo: Then, Father, I shall ask you once more. With your 
+cielo: permission, I wish to follow my heart...and perform!
+reuenthal: Permission granted, my child. Provided you adhere to the 
+reuenthal: first tenet of our ancestral creed!
+cielo: "Achieving your loftiest goals requires but one thing—your fists!"
+reuenthal: Ciruelto... Show me your commitment! End our quarrel, now and forever!
+kazuma: Are these really nobles? They sound like pro wrestlers...
+reuenthal: If the life of a dancer is what you desire, defeat me! Build your own path...over my corpse!
+cielo: No! Our forebears were all musclebound maniacs, like you! That extreme machismo made me fear men!
+reuenthal: Still whimpering like a kitten? Then I have no choice but to forcibly awaken the roaring lion within!
+？？？: Enough's enough!
+squall: Mel?
+mel: You make your own child a prisoner in her home and force your 
+mel: twisted morality on her... Do you truly care for Cielo?!
+squall: I agree with you Mel, but we must stay calm! Do not lose yourself to anger!
+mel: You have no idea what it's like to be utterly trapped...
+mel: deprived of the warmth of friendship perpetually!
+darkness: Mel is projecting her years of imprisonment under a seal's enchantment onto Cielo's situation!
+mel: ...
+mel: You ought to be ashamed! 
+mel: □〇△×△!!
+kazuma: Huh?! What was that?!
+Fan A: No! That poor girl was struck by a bolt of lightning!
+Fan B: But there's not a scratch on her! How's that possible?
+mel: I'll...destroy you!!
+reuenthal: Heh. You're an interesting lass. You dare stand against me 
+reuenthal: with such a puny and paltry physique?
+cielo: Mel, wait! Don't do this!
+mel: Get out of my way... 
+mel: Lightning Bolt!!!
+cielo: Aaaaaah!
+megumin: Cielo! Are you okay?!
+aqua: Kazuma, Mel's rampaging again! At this rate, there won't 
+aqua: even be a venue left when she's done!
+kazuma: The guests have to be protected at all costs. 
+kazuma: That means one thing...
+kazuma: All hands on deck! We need to slap some sanity back into Mel before it's too late!

@@ -1,0 +1,80 @@
+ナレーション: After Kazuma and the gang returned from a tuna hunting quest, they had quite the solemn air about them...
+kazuma: ...Zero points.
+megumin: What?! Even low-balling today's should be around 120!
+kazuma: Even zero is too high! You used your magic when the monsters were right next to the tuna!
+kazuma: What's the point if all the tuna get blown up?! It's time you finally learned some advanced magic!
+darkness: Kazuma, that's not how you talk to your friends.
+aqua: Hey, are we in more debt now? 
+aqua: What are we going to do? I don't want to work part-time anymore!
+kazuma: *Sigh* They're always causing me trouble. 
+kazuma: I should be having them fall head over heels for me, like a proper anime hero!
+ynyn: Megumin! Hey, is Megumin here? What about Kazuma?
+kazuma: Hey, Yunyun. You look upset. What's wrong?
+ynyn: K-Kazuma! I... I...
+ynyn: I want to have your child!
+kazuma: Yes! Things are finally starting to go my way!
+ynyn: I got a letter from my father.
+megumin: Let me see it...\n
+megumin: "By the time this letter arrives, I will surely have passed on."
+megumin: It seems the Crimson Demon Village is under attack from 
+megumin: a Devil King general. Ah, there's another page here.
+megumin: "A soothsayer foresaw the town's destruction, but we have one hope left... Yunyun, the last of the Crimson Demon Clan."
+megumin: "She will meet a man in the novice adventurer town. This unreliable, powerless man will be her mate."
+kazuma: Hey, why are you all looking at me like that?\n
+kazuma: Surely, you don't think I...
+megumin: "As the days pass, their son will set out on a journey. The boy will defeat his family's enemy, the Devil King..."
+ynyn: So, Kazuma, if you and I don't have a child, then the world will never be saved!
+kazuma: Our child will defeat the Devil King... 
+kazuma: Understood! Leave it to me... It's for the sake of the world!
+darkness: Wh-what's going on? You're normally so wishy-washy, but today you're...like a real man!
+megumin: Wait, there's more...
+megumin: "Crimson Chronicles, Chapter 1 - By Arue."
+ynyn: Arue wrote that letter? How could she?! 
+ynyn: I believed that stuff!
+aqua: Wait, what do you mean?
+megumin: Arue is one of our classmates, and wants to be an author.
+darkness: Oh, so this is all made up.
+ynyn: Hey, Megumin. Let's go to the village. I'm worried!
+megumin: The people there won't give up that easily. Everything is fine.
+ynyn: But... 
+ynyn: Fine, I'll go by myself!
+kazuma: Megumin, what are you going to do?
+megumin: Unfortunately, it seems like the town is in trouble.\n
+megumin: I'm going too... 
+megumin: But I'm not doing this for Yunyun!
+ナレーション: Kazuma and the gang set out for the Crimson Demon Village. Naturally, things didn't go quite as expected...
+questStartkinkyu: Emergency quest alert!
+
+<size=80>Survive!\nProtect yourself!</size>
+
+<size=80>Survive!\nProtect yourself!</size>
+kazuma: Aaaaaah!
+Orc A: Wait, hold on for a second!
+Orc B: Hey, pretty boy! Wanna have some fun?
+kazuma: Why are there only lady orcs here? And why are they all coming after me?!
+megumin: Male orcs went extinct a long time ago!
+megumin: So female orcs capture males of other species and do horrid things to them! They're feared by men everywhere!
+Orc C: Come to our village for a couple days. We'll give you a taste of heaven!
+kazuma: No thanks! I want to go home! I want to go back now! 
+kazuma: Wha?!
+Orc A: Hehehe, got him... I'm Swattinase! Let's get to know each other a little better!
+kazuma: Sorry, I'm a bit shy! Go and find somebody else! Somebody, help meeeeee!
+ynyn: Bottomless Swamp!
+ynyn: Hey, orcs! Get out of here unless you want to be dragged into my swamp!
+ナレーション: After hearing Yunyun, the orcs scattered in many different directions...
+kazuma: Y-Yunyun! Wah, waaaaaah! That was so scary.\n
+kazuma: Thank you! Thank you, Yunyun! 
+kazuma: *Sob*
+ynyn: Aaah! Don't wipe your nose on my robe!
+aqua: Oh, that sure was scary. But you're okay now, Little Kazuma.
+megumin: *Sigh* Will you stop your crying already?
+darkness: Q-quiet... I hear someone coming!
+Goblin A: Hehehe... I thought I heard something. It's two Crimson Demon brats and some human adventurers.
+Goblin B: Can't miss 'em. Let's bring back their heads as trophies!
+megumin: Pitiful. The likes of you could never defeat me! Now, behold my power!
+kazuma: Wait, Megumin! We don't know how many there are! Don't waste your magic!
+megumin: Explosion!!
+Goblins: Gaaaaaaaaaaaah!
+megumin: Well, Kazuma? How many points was that one worth?
+kazuma: Negative 90! You used all of your magic as soon as a few enemies appeared! Now what?
+ナレーション: The journey to the Crimson Demon Village proved to be a hard one indeed...

@@ -1,0 +1,110 @@
+An Explosion for This Chuunibyo! - P2
+ナレーション: Painfully aware of their lack of ability, Kazuma and Aqua put out a call for other adventurers to join them...
+kazuma_jersey: This suuucks. We've been here half a day already and no one's shown up.
+kazuma_jersey: Maybe insisting on advanced job classes only was asking a bit too much...
+aqua: Rrgh... I just want to beat the Devil King and go home!
+kazuma_jersey: But no one's gonna show up at this rate. How are we supposed to defeat the Devil—
+？？？: This is no mere chance encounter. It is our immutable destiny. I have been waiting for ones such as you.
+megumin: I am Megumin! Master arch wizard and wielder of the most potent attack spell in existence: EXPLOOOOSION!
+kazuma_jersey: Are you making fun of us?
+megumin: N-no, of course not!
+aqua: Red eyes, huh? Are you from the Crimson Demon Clan?
+megumin: Indubitably! I am Megumin, foremost spellcaster of the Crimson Demons! My spells can...topple mountains...
+megumin: crush rocks...
+kazuma_jersey: H-hey! What's wrong?!
+megumin: I haven't eaten anything in three days... Do you have any food you can spare?
+kazuma_jersey: What's with this girl...? 
+kazuma_jersey: And what IS the Crimson Demon Clan, anyway?
+aqua: Their high intellect and innate magical ability make them potent spellcasters, though they tend to have strange names.
+kazuma_jersey: Oh... Sorry, I thought you were teasing us. You were talking all that nonsense and gave some weird name.
+megumin: Grr... My name is NOT weird! In fact, from MY perspective, it's everyone here who has a weird name!
+kazuma_jersey: Okay then, what are your parents' names?
+megumin: My mother's name is Yuiyui, and my father is Hyoizaburo!
+kazuma_jersey: So her clan is full of powerful mages?
+aqua: Yeah, and if she can actually use explosion magic, that'd be really useful for us. It's the most powerful attack magic, right?
+kazuma_jersey: Let's forget names for a minute and see what you're made of.
+megumin: Hey, if you have something dumb to say about my parents' names, then just say it already!
+questStart: Kill Quest:
+Defeat five giant toads
+
+
+
+
+within three days.
+Defeat five giant toads
+
+
+
+
+within three days.
+aqua: These toads are gonna eat some payback for the other day!
+megumin: Explosion magic is super powerful, so it takes time to cast. Hold the toads off until I can unleash my spell.
+kazuma_jersey: Okay, target that toad way back there!
+megumin: Understood.
+kazuma_jersey: We'll handle the ones up close. Let's go, Aqua.\n
+kazuma_jersey: You're a former goddess... You know that, right?
+aqua: Former? I'm still a goddess and always will be!
+megumin: Goddess?
+kazuma_jersey: The poor girl calls herself that sometimes. Just ignore her.
+megumin: That's so sad.
+aqua: Wh-What are you talking about?! 
+aqua: Ha! Watch this, Kazuma! I'm gonna show you what a goddess is really capable of!
+kazuma_jersey: Aqua, wait! You can't just charge in there like that!
+aqua: Tremble as you fall into eternal sleep! God Requiem!
+aqua: God Requiem is a dirge imbued with the love and sorrow of a goddess! To hear it is to encounter death itself!
+aqua: Ungh!
+ナレーション: As Aqua raised her fist high into the afternoon sky, the giant toad swallowed her whole...
+Giant Toad: *Ribbit* *Riiibbit*
+kazuma_jersey: She is a true goddess, sacrificing herself to buy us time... 
+kazuma_jersey: Huh?
+megumin: Darkness blacker than black and darker than dark, combine with my deep crimson. The time of awakening cometh.
+megumin: Justice, fallen upon an infallible boundary, appear now as intangible distortion! Dance, dance, dance!
+megumin: Indeed, 'tis a destructive force without equal! Return all creation to cinder, and come forth from the abyss!
+megumin: This is the most powerful means of attack that is known to man. The ultimate offensive spell!
+megumin: Explosion!!!
+ナレーション: As a column of flame erupted from the plains, a great roar shook the earth and the wind blasted all in its path.
+kazuma_jersey: Holy moly... Now, that's what real magic is all about! It one-shotted that giant toad!
+Giant Toad B: *Ribbit* *Riiibbit*
+Giant Toad C: *Ribbit* *Riiibbit*
+kazuma_jersey: Argh, more toads have appeared out of nowhere! That explosion must've woken 'em up!
+megumin: Heh... My explosion magic's incredible power comes with a severe cost in magic points. I can't even stand up.
+kazuma_jersey: What're you doing on the ground?! What happened?!
+megumin: Abridged version: I overdid it and now I need to chill.
+megumin: I didn't think more toads would show up, though... Uh-oh. I'm about to become dinner.
+Giant Toad: *Ribbit* *Riiibbit*
+megumin: Sorry, but do you mind, uh, giving me a hand? 
+megumin: Ah! I...
+kazuma_jersey: Argh! Now you're getting eaten, too!
+ナレーション: Kazuma managed to save Megumin and Aqua, but...
+ナレーション: After bringing home two girls covered in frog slime, Kazuma developed a reputation as a pervert...
+questComplete: Today's Results:
+<size=90>
+
+Three giant toads
+
+
+
+
+defeated.</size>
+
+
+
+
+
+
+Total: Five defeated.
+<size=90>
+
+Three giant toads
+
+
+
+
+defeated.</size>
+
+
+
+
+
+
+Total: Five defeated.

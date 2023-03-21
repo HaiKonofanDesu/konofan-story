@@ -1,0 +1,135 @@
+A Final Flame for This Ridiculous Fortress! - P1
+Announcement: Destroyer alert! Destroyer alert! The Mobile Fortress Destroyer is approaching town!
+Announcement: All residents, prepare to evacuate immediately. Adventurers, ready your equipment and assemble at the guild!
+ナレーション: Upon hearing the announcement, the town's adventurers gathered at the Adventurer's Guild...
+kazuma: Hey, what is this Destroyer anyway?
+darkness: It's some ancient war machine that's run amok. They say it leaves nothing in its wake of destruction.
+luna: The Mobile Fortress Destroyer is moving directly this way from the northwest. It's due to arrive in one hour!
+megumin: The Destroyer was made in an ancient magical kingdom, right? Did its creators make any countermeasures for it?
+dust: Apparently, they were the first ones to be annihilated by the Destroyer.
+kazuma: This is one of those unbeatable games... An enemy that powerful has no business attacking a town of newbies!
+chris: Its shields stop our attacks...but somehow allow it to still attack freely. 
+chris: So, any bright ideas?
+kazuma: Hmm... Hey, Aqua, you can get rid of its shields, right?
+aqua: I can give it a shot, but no guarantees.
+luna: Give it all you've got! If we can get through its shields, then we just need to find a magic that can damage it!
+darkness: The most powerful weapon we've got is explosion magic. What do you say, Megumin?
+megumin: Um... I'm not sure that even my explosion magic would be able to take it down in one shot.
+wiz: Sorry I'm late. I'm Wiz, owner of the magic item shop. I'm here to help!
+Adventurer A: It's the shopkeeper! The poor shopkeeper!
+Adventurer B: Now we can win this thing!
+kazuma: Why's she so famous? And isn't it kinda rude of them\n
+kazuma: to call her a poor shopkeeper right where she can hear?
+dust: You haven't heard the story? She was once a skilled and powerful arch wizard.
+kazuma: But underneath that facade, she's an undead lich.
+luna: All right, everyone! Are you ready for the emergency quest?
+Adventurers: Hooray!
+questStart: Emergency Quest:
+
+
+<color=#ff1493><size=70>Protect the town from
+
+
+
+
+the Mobile Fortress
+
+
+Destroyer!</size></color>
+
+
+
+
+<size=50>No level restrictions.
+
+
+
+
+Open to all players.</size>
+
+
+<color=#ff1493><size=70>Protect the town from
+
+
+
+
+the Mobile Fortress
+
+
+Destroyer!</size></color>
+
+
+
+
+<size=50>No level restrictions.
+
+
+
+
+Open to all players.</size>
+darkness: It is my sworn duty to protect the people of this land, whether or not they realize it, or even appreciate it.
+kazuma: You sure do care a lot about this town. Any particular reason? Or is it just a Crusader thing?
+darkness: Well... My full name is Lalatina Ford Dustiness. I'm a daughter of House Dustiness, the ruling family in this region.
+kazuma: Wait, then she's a noblewoman?!\n
+kazuma: And her real name is Lalatina?
+darkness: It is my honor and my obligation to defend the people who dwell in our domain. I can't turn tail and run!
+kazuma: Heh. You sure are stubborn. But I suppose in this case, 
+kazuma: your stubbornness doesn't bother me.
+darkness: Kazuma...
+kazuma: Lalatina... 
+kazuma: Pfft.
+darkness: Do not address me by that name!
+luna: The Mobile Fortress Destroyer is almost in sight! All adventurers, ready yourselves for battle!
+kazuma: Look at the size of that thing! Can we even put a dent in it?
+aqua: We just need to get through that shield. Leave it to me! Sacred Break Spell!
+aqua: Rrrrrgh... Gaaah!
+ナレーション: As Aqua roared, the light seemed to grow, and at its touch, the Destroyer's shield shattered like glass.
+kazuma: Sweet! The Destroyer's shield is down! Now's our chance!
+wiz: All right, Megumin. We need to fire at the same time.
+megumin: Uh... Ah, I um... Err...
+kazuma: C'mon, Megumin! Since when have you EVER held back on casting explosion magic?! It's what gives your life meaning!
+kazuma: You'll look so lame if Wiz beats you! Are you such a newb that you can't take that thing down with your explosion magic?!
+megumin: Now you've done it. You went and said the one thing even worse than making fun of my name!
+megumin: You want a show? I'll give you a show. Witness true explosion magic!
+Megumin ＆ Wiz: Darker than darkness, blacker than the moonless night, I beseech thee, entwine thyself with my deep crimson...
+Megumin ＆ Wiz: The time of awakening has come. Justice, fallen upon an infallible boundary, appear now as an intangible distortion!
+Megumin ＆ Wiz: Explosiooooon!!!
+ナレーション: After the roar faded and the smoke cleared, the fallen Destroyer could be seen, its legs torn apart...
+megumin: Grrr... That's a lich for you. She's way beyond my level... 
+megumin: Ugh, that's so annoying!
+kazuma: There, there. You did good, Megumin!
+Adventurer D: Thank goodness... When this is over, I'm getting married.
+kazuma: Hey! Don't jinx us by saying stuff like that!\nSomething terrible will—
+Announcement: Incapacitating damage detected. Self-destruct systems activated. All crew, evacuate immediately.
+kazuma: What did I tell yooouuu?!
+questStartkinkyu: Emergency Quest:
+Stop the Mobile
+
+
+Fortress Destroyer
+
+
+
+
+from self-destructing!
+Stop the Mobile
+
+
+Fortress Destroyer
+
+
+
+
+from self-destructing!
+Adventurer A: No! The whole town will be destroyed!
+Adventurer B: We're done for! Run for your lives!
+kazuma: Darkness, we should get out of—
+darkness: I refuse to run until the bitter end! Though the commonfolk flee, a true knight must remain steadfast!
+kazuma: Darkness...
+darkness: Besides, thinking about putting myself in front of a bomb that can take out a whole town makes me...tingly.
+darkness: I am indeed sturdy, but I'm also far from invincible.\n
+darkness: Argh... I can't take it anymore! I must do something, Kazuma!
+wiz: If we find the control panel, we just might be able to stop the self-destruct sequence.
+kazuma: Like Darkness even bothers to worry about that...\n
+kazuma: That's IT! We're breaching the Destroyer, you lame excuse for a goddess!
+aqua: What?! But I just wanna go home...

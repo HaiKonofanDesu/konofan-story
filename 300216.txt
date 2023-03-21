@@ -1,0 +1,78 @@
+Sightseeing in This Pitiful City! - P2
+kazuma: Drain Touch!
+darkness: Ngh!
+ナレーション: Kazuma sucked energy from Darkness and poured it into Wiz...
+wiz: Ngh... Ngh... 
+wiz: Huh? ...Where am I?
+kazuma: We're at the inn in Arcanretia. You're looking better.
+wiz: Um... Where's Lady Aqua?
+darkness: She went to the Order's headquarters. Probably to bask in their adoration while she's in town.
+kazuma: I'm worried. Like, super worried.
+darkness: I'm sure she'll be fine. Besides, Megumin is with her.
+wiz: Thank you for looking after me. I'm feeling much better now, so why don't you two go do some sightseeing?
+darkness: What a splendid idea. There are many sights I'd like to take in while we're here.
+darkness: Look, Kazuma! A fountain! It's so beautiful... That statue... It's of the goddess, is it not? It's breathtaking!
+kazuma: Since this is the Axis Order's HQ... That statue's gotta be of Aqua, right? 
+kazuma: It looks nothing like her.
+Woman: Ahh! My apples...
+kazuma: Are you okay? Let me help you with those.
+Woman: Why, thank you. You're too kind.
+Woman: That was so nice of you. Um... Is there any way I can...repay you?
+kazuma: Hmm... Something doesn't seem right here...
+Woman: The Order has this nice little cafe down the road. How about we go there and have a chat?
+kazuma: N-No, thanks.
+Woman: Don't walk away! I'm a gifted fortuneteller!
+kazuma: I-I'm okay! Seriously, I'm not interested!\n
+kazuma: Let... Let go of me!
+Woman: Your fortune is clear! A dark cloud will soon be over you! You can avoid it if you join the Order of Axis!
+Woman: Join us! Join us and be saved!
+kazuma: There's a dark cloud clinging onto me right now! L-Let go! 
+kazuma: Darkness! Gimme a hand here!
+darkness: Excuse me. I am a member of the Eris faith. You mean to convert that man, but he has refused, so—
+Woman: *Spit*
+darkness: *Gasp*
+kazuma: Really? That was enough to get you going?
+Man: Congratulations! You're the millionth person to walk down this avenue!
+Man: We would like to present you with a special prize, sponsored by the Order of Axis!
+Man: All you have to do to claim your reward is sign this paper! Well? What do you say?
+kazuma: ...
+Young Woman: Hm? Hey! It's been forever! Remember me? How've you been?
+Young Woman: We were classmates! Don't tell me you forgot! Then again, I changed quite a bit after joining the Order of Axis...
+Young Woman: Ohhh, I get it—you're part of the Eris faith... Pft!
+darkness: ...
+Older Woman: What do we have here? Newlyweds? You two have much learn. Here, have some soap!
+Older Woman: Consider it a gift. I don't need a single Eris. This detergent's something else, I tell you!
+Older Woman: It was blessed by Lady Aqua, so it will make your skin silky smooth, with no bodily side effects, I swear!
+Older Woman: You can even drink it!
+kazuma: What is with this town?! Is everyone in the Order of Axis insane?
+kazuma: I can't take another solicitor. Let's just head back to the inn.
+Girl: Lalalalalala... ♪
+Girl: Uh oh.
+kazuma: Are you okay?!
+Girl: Oww... It hurts!
+darkness: Stop crying just because you fell down. Now show me where it hurts.
+kazuma: Looks like just a scrape.
+Girl: Thank you, sir, ma'am!
+kazuma: Ah... Even in a town full of lunatics, at least there's one little girl with a pure heart.
+kazuma: Okay, can you stand?
+Girl: Yeah, I'm all better now. I like you—you're nice. 
+Girl: What's your name?
+kazuma: My name's Kazuma. Kazuma Satou.\n
+kazuma: And this scary lady is Darkness.
+darkness: D-Don't introduce me like that!\n
+darkness: Do I really look that scary...?
+Girl: Ahahaha!
+Girl: Kazuma Satou... How's that spelled? Can you write it on this piece of paper for me?
+kazuma: Sure, it looks like—
+kazuma: Huh?!
+darkness: What's wrong, Kazu— 
+darkness: Huh?!
+kazuma: Th-This is an...Order of Axis...registration form.\n
+kazuma: So even this little girl is...
+axis_girl: What's the matter? Quickly, tell me—
+kazuma: Grrraaagh!
+kazuma: Curse this damn place!!
+axis_girl: Sir, pleeeeease!
+kazuma: Using an innocent little girl like that for their scam...\n
+kazuma: Aqua's gotta do something about her followers!
+ナレーション: Quivering with anger, Kazuma went with Darkness to the Axis Order headquarters...

@@ -1,0 +1,52 @@
+Heroic Party Roleplay!
+ナレーション: Opening night was fast approaching, so Kazuma and company were hard at work rehearsing...
+kazuma_actor: Beware, brave companions! 
+kazuma_actor: We have found the ancient dragon!
+arue_actor: At last, the final gatekeeper of the Devil King's palace!
+Dragon Sculpture: Grrraaaaaahhh!!!
+arue_actor: The sheer force of its roar is staggering. He's more powerful than I'd imagined. 
+arue_actor: Still, we must defeat him if we are to move onward.
+aqua_actor: Sir Hero! Will you truly fight this beastie?!\n
+aqua_actor: Or would you rather flee to safety?
+kazuma_actor: I will not flee! I will stand and fight.\n
+kazuma_actor: It doesn't matter how little hope I have of prevailing!
+kazuma_actor: A hero's duty is to defend the helpless...\n
+kazuma_actor: ...to sacrifice everything for their people!
+arue_actor: It's just as I suspected. You are a true hero! 
+arue_actor: I will use every bit of magic I can muster to defend your cause.
+aqua_actor: A mere jester I may be, but I will follow you unreservedly!
+kazuma_actor: My dearest friends, thank you. 
+kazuma_actor: Now... Let us finish this!
+aqua_actor: Oh! That shining, glorious sword!
+arue_actor: The rumors are true. He wields the legendary Chunchunmaru. 
+arue_actor: They say it was forged by the gods themselves!
+kazuma_actor: Mystic blade, bestowed upon me by those with otherworldly talents... 
+kazuma_actor: Unleash your true power!
+aqua_actor: Ah! Such a radiant, powerful glow! Such majesty!
+arue_actor: Hero, you must stop! Your body cannot take the strain!
+kazuma_actor: Forgive me, Arue, but I cannot.\n
+kazuma_actor: And it is for one, simple reason.
+kazuma_actor: The fate of the entire world rests on my shoulders!
+Aqua ＆ Arue: Oh, my brave hero!
+kazuma_actor: Now, ancient dragon! You shall taste the steel of a true hero's blade!\n
+kazuma_actor: Super Kazuma Galaxy Break!
+arue_actor: Aaaand CUT! The play is really coming together!
+kazuma_actor: That was... 
+kazuma_actor: Perfect!
+kazuma_actor: This is how it should have been after I reincarnated!\n
+kazuma_actor: It's exactly what I imagined my new life here would be!
+aqua_actor: Hah! Dream on! 
+aqua_actor: Now let's talk dialogue. Can we change some of my lines? I feel like such a throwaway character.
+arue_actor: Aqua, this may be a children's story with simple characters, but that doesn't mean it can't be meaningful.
+arue_actor: Yes, the jester plays a minor role in the story.\n
+arue_actor: But that makes your decision to fight all the more poignant.
+aqua_actor: Still... Do I have to talk so weird? It's so cheesy.
+arue_actor: Really? I think it gives you a little charm.
+kazuma_actor: Maybe it's different for members of the Crimson Demon Clan. 
+kazuma_actor: But personally, I don't care one way or the other.
+kazuma_actor: Why don't we run through that last scene one more time and see how we feel then?
+aqua_actor: What? Again?!
+kazuma_actor: Why not? 
+kazuma_actor: I could do this all day!
+arue_actor: Ugh! It's just like you to prefer pretending to be a hero instead of becoming a real one.
+ナレーション: The rehearsals went well, but Kazuma's performance in his favorite scene on opening night was particularly impressive...
